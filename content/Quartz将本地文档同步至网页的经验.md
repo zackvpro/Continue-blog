@@ -1,3 +1,6 @@
+--- 
+title: 经验：Quartz将本地文档同步至网页
+---
 首先，按照Quartz的步骤进行本地部署，包括环境、配置，以及将本地文档全数复制至Quartz的content文件夹中，使用以下代码，实现同步。
 ```
 npx quartz sync
