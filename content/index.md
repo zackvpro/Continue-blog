@@ -1,5 +1,5 @@
 --- 
-title:肯听New: Continue
+title: 肯听New：Continue
 ---
 
 > [!NOTE] Powered by Gemini
