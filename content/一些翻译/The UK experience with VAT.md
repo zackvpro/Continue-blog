@@ -3,8 +3,7 @@ title: "英国增值税的历史经验 (The UK exprience with VAT) "
 tags:
   - 翻译
   - 政治制度
-  - 政治笑话
-  - 反抗
+  - 税制改革
 ---
 >[!NOTE] Translated with Gemini 3.1 pro
 >**作者：Dr Neil Warren Senior Lecturer 来源：Revenue Law Journal, vol. 3, no. 2, 1993, article 1.****
