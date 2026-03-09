@@ -535,3 +535,124 @@ Bagchi 等人（1994）观察到：
 8 首先，在引入邦级增值税之前，各邦之间不健康的销售税“税率战”必须结束，并且需要自2000年1月1日起对不同类别的商品实施统一的销售税底线税率，以此来协调销售税税率。其次，在实现第一个目标的基础上，将采取相关步骤，由各邦在经过充分准备后引入邦级增值税。为了实施这些决定，成立了一个邦财政部长常务委员会，该委员会随后被改组为邦财政部长赋权委员会。
 
 10 修正案通知，联邦院，《2014年宪法（第一百二十二次修正案）法案》，2016年8月1日，（最后访问日期为2019年1月30日）。
+
+**引用**
+Aggarwal, Pawan K. (1995). Incidence of Major Indirect Taxes in India. New Delhi: NIPFP. Bagchi, Amaresh (2006). Towards GST: Choices and Trade-offs'. Economic and Political Weekly 41(14): 1314-17.
+Bagchi, Amaresh, Mahesh C. Purohit, S. Ven katarama Iyer, O. P. Gahrotra, Pawar Aggarwal, and V. L. Narayana (1994). Reform of Domestic Trade Taxes in India: Issues and Options. New Delhi: National Institute of Public Finance and Policy (NIPFP).
+Das-Gupta, Arindam (2005). Will State VAT Deliver?' Economic and Political Weekly 4(36): 3917-19.
+(2012). An Assessment of the Revenue Impact of State-Level VAT in India'. Economic and Political Weekly 47(10): 55-64
+Government of India (1955). Report of the India Taxation Enquiry Commission, 1953-54, Vols I-III. New Delhi: Government of India, February 1955.
+(1977). Report of the Indirect Taxation Enquiry Committee, Part I. New Delhi: Ministry of Finance, Government of India, October 1977.
+(1978). Report of the Indirect Taxation Enquiry Committee, Part II. New Delhi: Ministry of Finance, Government of India, January 1978.
+(1991). Interim Report of the Tax Reforms Committee. New Delhi: Ministry of Finance, Government of India, December 1991.
+(1992). Tax Reforms Committee: Final Report, Part I. New Delhi: Ministry of Finance, Government of India, August 1992.
+(1993). Tax Reforms Committee: Final Report, Part II. New Delhi: Ministry of Finance, Government of India, January 1993.
+(2001). Report of the Expert Group on Taxation of Services. New Delhi: Ministry of Finance, Government of India.
+(2002). Report of the Task Force on Indirect Taxes. New Delhi: Ministry of Finance, Government of India, December 2002.
+(2006). Budget 2006-07 Speech', 28 February 2006, https://www.indiabudget.gov.in/ ub2006-07/bs/speecha.htm (last accessed on 30 January 2019).
+(2015a). Report of the Select Committee on the Constitution (One Hundred & Twenty-Second Amendment) Bill, 2014. Presented to the Rajya Sabha on 22 July 2015, Rajya Sabha. Parliament of India, Government of India, New Delhi.
+(2015b). Report on the Revenue Neutral Rate and Structure of Rates for the Goods and
+Services Tax (GST). New Delhi: Ministry of Finance, Government of India, December 2015
+(2016). The Constitution (One Hundred and First Amendment) Act, 2016
+8 September 2016, http://gstcouncil.gov.in/sites/default/files/consti-amend-act.pdf(last accessed on 30 January 2019).
+Nepram, Damodar (2011). State-Level Value Added Tax and Its Revenue Implications in India: A Panel Data Analysis'. The Journal of Applied Economic Research 5(2): 245-65
+Purohit, Mahesh (2015). Is There a Case for States Carrying On with Entry Tax?' Financial Express, 29 January 2015, https://www.financialexpress.com/opinion/is-there-a-case-for-states-carrying-on-with-entry-tax/36247/ (last accessed on 30 January 2019).
+Rao, M. Govinda (2001). Taxing Services: Issues and Strategy'. Economic and Political Weekly 36(42): 3999-4006.
+(2004). Taxing Services: Strategy and Challenges'. In Fiscal Policies and Sustainable Growth in India, ed. Edgardo M. Favaro and Ashok K. Lahiri, 60--79. New Delhi: Oxford University Press.
+(2011). Goods and Services Tax: A Gorilla, Chimpanzee or a Genus Like "Primates"?
+Economics and Political Weekly 46(07): 43-7.
+(2003). Reform in Central Sales Tax in the Context of VAT'. Economic and Political Weekly 38(07): 627-36.
+(2010). The 13th Finance Commission's Report: Conundrum in Conditionalities'. Economic and Political Weekly 45(48): 46-55
+Rao, M. Govinda and Francois Vaillancourt (1994). Interstate Tax Disharmony in India: A Comparative Perspective'. Publius 24(4): 99-114.
+Rao, R. Kavita (2010). Goods and Services Tax: The 13th Finance Commission and the Way Forward'. Economic and Political Weekly 45(48): 71-7.
+(2016). New Assumptions, New Estimates: Scrutinising a New Report on Revenue Neutral Rate'. Economic and Political Weekly 51(4): 63-6.
+Singh, D. R. (1964). Substitution of Excise Duty for Sales Tax: Its Impact on State Revenues'. Economic and Political Weekly 11 (July): 1127-36.
+Singh, B.N.P. (1991). Programmes and Policies of Planning in India. New Delhi: Deep & Deep Publications.
+The Empowered Committee of State Finance Ministers (2009). First Discussion Paper on Goods and Services Tax in India', New Delhi, http://gstcouncil.gov.in/sites/default/files/ First%20Discussion%20Paper%20on%20GST.pdf (last accessed on 30 January 2019) Thirteenth Finance Commission (2009a). Report of the Task Force on Goods & Services Tax. New Delhi: Government of India, December 2009.
+(2009b). Report of the Thirteenth Finance Commission. New Delhi: Government of
+India, December 2009.
+
+
+## 2. 迈向GST：选择与改善（From Amaresh Bagchi）
+
+### 为何实行GST
+
+联邦财政部长 P.C. Chidambaram 在今年[2006-07年度]的预算演讲中宣布，他打算从 2010 年起引入一项全国性的商品和服务税（GST），这一声明受到了许多人，尤其是企业界的热烈欢迎。这是可以理解的。因为即使经过了二十多年的改革，改革国内贸易税并向增值税（VAT）体系过渡（这被认为是经济高效平稳运行所必需的）的任务仍未完成；一个成熟的增值税体系尚未建立。无论是目前由联邦政府征收、据称基于增值税原则建立的消费税（现名为 CENVAT），还是自 2005 年 4 月起在大多数邦生效以取代其销售税的增值税，都不具备一个良好增值税应有的所有特征。消费税是对制造业征收的税，尽管人们做出了巨大的努力试图规避，但它仍然受制于制造商层面税收的所有局限性（如定义问题、正确的价值确定等）。尽管税率已被压缩为 16% 的一般税率，但选择性的免税/优惠政策仍在继续，实际上导致了多重税率并存。中央也对服务征税，但是有选择性的，并没有与商品以整合的方式进行。
+
+> *笔者注*：本章最初发表于《经济与政治周刊》（Economic and Political Weekly）第 41 卷第 14 期（2006 年 4 月 8 日）：1314-1317 页。经许可转载。
+
+尽管试图通过允许用购买作为投入品的服务所缴纳的税款，抵免制成品应缴的 CENVAT 来缓解税收级联效应，但这两种税依然是分离的，并根据不同的法规进行管理。用服务税抵免 CENVAT 的做法充斥着极其复杂的规则。在各邦方面，在发展协调一致的增值税体系方面已经取得了相当大的进展。即便如此，缺陷和令人烦恼的问题依然存在。尽管为了协调而规定了统一的标准底线税率，邦级增值税的结构仍然呈现出多样性并存在缺陷，许多邦单方面偏离了商定的税率方案。它们的税率结构完全无视增值税的基本原则，即对投入品和最终产品按相同税率征税。工业投入品适用的税率低于一般适用税率，且大量商品的适用税率远低于一般税率。此外，邦级增值税的税基存在一个严重的缺陷；由于宪法的限制，它不包括服务。还有一些杂税，例如财产转移印花税、商品进入“局部地区”的入城税，以及对少数服务（如娱乐）征收的税，这些本应并入增值税中。此外还有对跨邦销售征收的税——声名狼藉的中央销售税（CST）。尽管这些不合时宜的制度中有几项正在逐步被淘汰，但人们普遍认为，只有基于增值税原则对所有或几乎所有商品和服务征收统一税，才能消除税收体系的弱点，并使印度的工业和经济在快速全球化的世界中蓬勃发展。毫不意外地，凯尔卡尔工作组（KTF）在落实《财政责任与预算管理（FRBM）法案》时提出的对商品和服务征收统一增值税的构想，获得了第十二届财政委员会的广泛支持与认可。随着商品与服务之间的界限日益模糊，对服务单独征税已变得站不住脚。财政部长的话大体无误，他指出：“我觉得目前存在着一种广泛的共识，即国家应该走向一个国家级的商品和服务税（GST）。”
+
+但是，目前正在酝酿的是何种形式作为 GST 的国家级增值税？它会仅仅取代中央征收的 CENVAT 和服务税，而对邦级增值税保持原状吗？还是说，它也会取代各邦目前正在征收的增值税？这些问题的答案不仅对本国贸易税收的形态及其对家庭和企业的影响具有至关重要的作用，而且对宪法所设想的政体联邦结构也至关重要。这要求我们进行比以往更为审慎的考量，以便在清晰认识到各项权衡取舍的情况下做出选择。本章旨在简要讨论各种替代方案的优缺点及其所涉及的权衡取舍，并为印度探索一种切实可行的替代方案。
+
+## 替代方案——单一的国家级增值税
+
+尽管很难确切了解财政部长在谈及“国家级 GST”时的真实想法，但企业界乃至许多经济记者的推测（以及愿望）似乎是，目前正在酝酿的是一种完全由中央层面征收和管理的、针对商品和服务的单一统一税种。对他们而言，由 29 个邦各自为政、拥有各自法律和程序在次国家级层面征收增值税的情况，简直不再是可接受的选项。有观点认为，除非贸易税收体系在国家层面上也实现统一，否则印度经济内部的统一单一市场将无法平稳运行。那么问题就归结为：拟议中的全国性 GST 是否应该成为国内商品和服务贸易的唯一税种，并辅以与各邦进行收入分享的安排？财政部长的预算声明设定了引入“一项应由中央和各邦共享的国家级 GST”的目标日期，这提高了人们对这正是改革前进方向的预期。除了在国家层面实行单一增值税所带来的显而易见的经济效益外，在很长一段时间里，甚至连专家都认为，在联邦制国家，增值税最好由国家层面进行管理。在一个大型联邦制国家中，运行基于目的地的增值税面临着极其严峻的困难。在缺乏边境控制的情况下（如联邦制国家的情况），运行这样一个系统所必需的跨邦销售零税率政策，为欺诈打开了方便之门。几个联邦制国家（德国、奥地利、瑞士、比利时以及自 2000 年起的澳大利亚）都在全国范围内征收增值税，并制定了收入分享安排。
+
+然而，稍微思考一下就会发现，无论这种做法看起来多么简洁和具吸引力，仅在中央层面征收增值税对印度来说既不切实际也不可取。同样这也是没有必要的。首先，必须认识到，在印度实行排他性的国家增值税的想法注定会失败，因为这将要求各邦的销售税行政管理机构被解散或由中央接管。人们极度怀疑能否说服各邦接受这样的提议，即使他们同意扩大联邦的税收权力，以使中央能够在 KTF 提出的“大妥协”下对所有阶段的销售征税。人们同样怀疑，即使拥有充足的资源，中央税务机构是否可能管理一种“像销售税一样具有深厚地方根基”的税种。正如 1953-54 年的税收调查委员会在拒绝工商界提出的销售税集权化要求时所指出的那样。据报道，中央消费税（CE）部门目前处理的纳税人数量不超过 10 万，服务税纳税人数量约为 40 万。另一方面，根据现有数据，邦级增值税/销售税的注册经销商数量将不少于 350 万。很难想象 CE 部门能够处理散布在全国各地的如此庞大数量的纳税人。更重要的是，剥夺各邦的销售税征税权（这被认为是次国家级政府主要的收入来源），不仅有损其财政自主权，而且有损其问责制，因为这将使各邦仅仅成为对所花资金几乎不承担责任的支出机构。
+
+诚如 Richard Bird 所言，不容否认的是，在澳大利亚仅在国家层面征收 GST 的做法，无论从经济角度来看多么有效率，都“否定了联邦治理的基本逻辑，标志着该国邦级财政自主权的最后残余几乎被消除”。尽管根据均等化安排，这些收入理应回流至各邦，但它已经极大地加剧了澳大利亚联邦的纵向财政失衡（Collins 2000）。从中央流出的收入不能被视为受援政府在政治上有责任筹集的资金。政治家和官僚可能会觉得，推卸为他们想要花费的资金进行筹资的责任很方便，但这会走向财政上不负责任的道路。最后，为了有效实施基于目的地的增值税，集权化并非必不可少。尽管长期以来，由于跨国（邦）贸易零税率的问题，人们一直认为增值税最好在国家层面进行管理，但近期文献中的讨论表明，专家意见已偏离了这一观点，且目前已有几种可用模式，使在次国家级层面高效运行增值税成为可能。综合所有这些原因，应当排除在国家层面实行单一 GST 的选项，转而寻找替代方案。
+
+### 替代方案——双重增值税
+
+凯尔卡尔工作组（KTF）在提出统一 GST 构想的同时，也并未设想该税种仅作为中央征收的税项。在他们的方案中，将包含一个邦级组成部分，这大概意味着它将具有所谓“双重增值税（dual VAT）”的特征。人们普遍认为，设计良好且管理完善的双重增值税有助于加强政府间的财政关系（世界银行 2004）。然而，如果 GST 要在中央和邦两个层面上征收，存在几种替代方案。基本上，这些方案包括：(i) 在两个层面实行完全独立的增值税；(ii) 一种税收制度，在这种制度下，各级政府在类似税基上独立设定自己的税率，但在行政管理上进行密切合作；以及 (iii) 一种单一的“联合”增值税，其税率中包含邦级组成部分，且部分税收收入根据商定的安排或公式流向各邦（Bird 和 Gendron 2001）。
+
+作为将增值税作为主要税收工具的先驱，巴西的增值税体系属于第 (i) 种类型。增值税在联邦、邦乃至地方层面均有征收。尽管中央对跨邦贸易的税收有一定控制，但在巴西的体系下，各邦在运行其增值税方面拥有相当大的自主权。然而，很少有人将巴西的体系视为效仿的榜样，因为它遇到了许多问题。似乎只有第 (ii) 类和第 (iii) 类（注：原文此处为 “(ii) and (ii)”，结合上下文应为 (ii) 和 (iii) 的笔误）值得考虑。
+
+在某些方面，KTF 模式属于第 (ii) 类，因为它设想 GST 按由两个部分组成的税率征收：一个是中央部分（CGST），另一个是各邦部分（SGST）。在当前语境下，KTF 报告中设想的双重增值税的相关关键特征是：除了“零税率”外，将设定三种税率，即 20% 的标准税率（中央 12%，各邦 8%），6% 的较低税率以及 20% 的最高税率。免税项目将很少，主要限于食品、医疗、教育、住宅以及某些金融服务。中央消费税可以对石油、天然气和烟草等产品征收。由于引入此类税收需要中央允许各邦对服务征税，并要求各邦接受中央税收权力的扩大以对所有阶段的销售征税，因此工作组提出了前文提到的两个层级之间的“大妥协（grand bargain）”，据此：
+
+- 两个层级将对一个在很大程度上共同的税基拥有并行但独立的管辖权，并且两个层级的税收将延伸至最终消费者，涵盖商品和服务。
+    
+- 现有的地方关卡税/入城税、中央销售税、邦销售税、印花税以及其他具有级联效应的税费将被取消。
+    
+- 两个层级都将拥有制定税率的权力，但在所有邦将实行单一税率，且税率的设定将在两个层级之间进行协调。
+
+因此，很明显 KTF 希望在两个层面上管理这种统一税，而不是仅在国家层面上。KTF 报告中关于建立票据交换所（clearing house）机制的建议也证明了这一点，该机制旨在解决因目的地邦在跨邦销售中允许抵扣来源邦已收税款而产生的各邦应收账款问题。（这种机制能否在印度这样的国家中发挥作用——它在欧盟 [EU] 中被认为不可行——则是另一回事。）
+
+然而，KTF 在规定所有邦实行统一税率，以及制定将大部分 GST 收入归属中央的税率方案时，忽视了联邦制的角度。据推测，SGST 的设定将建立在协商或“共识”的基础上，就像邦级增值税所发生的那样，但任何邦即使有意愿也无法超越该税率。尽管有充分的理由在各邦之间协调税基和程序，但专家们的意见几乎是一致的，即课税权的本质在于制定税率的权力，因此，次国家级政府在税率问题上必须拥有自主权，仅受制于如同欧盟那样的底线税率。除非允许这样做，否则 KTF 所设想的“大妥协”将在运作中对各邦不利。在 KTF 的分配方案下，标志着中央和各邦财政特征的纵向失衡将急剧加剧（Shah 2004）。粗略计算表明，各邦筹集的税收收入在政府（中央和各邦总和）总税收收入中所占的比例（目前约为 33%），将降至仅仅 15% 左右。这将严重削弱各邦的财政自主权，并增加它们对中央的依赖。因此，在为印度寻找合适的双重增值税模式时，只能探索替代方案 (ii) 的可行性。在存在并行的中央 GST 的情况下，可能没有必要采用 Varsano 和 McLure (2000a) 提出的作为另一种双重增值税模式的补偿性增值税或 CVAT。因此，留下的只有替代方案 (ii)。但是，在像印度这样具有高度多样性的联邦政体中，运行模式 (ii) 所设想的那种双重增值税究竟有多大可行性？
+
+### 加拿大的双重增值税
+
+经验表明，在两个层级之间进行一定程度的协调（并非完全统一）和协作的情况下，在一个联邦中运行双重增值税是完全可能的。自 1991 年以来，加拿大便以 GST 的形式征收联邦级增值税，同时各省拥有自己的销售税或增值税。事实上，加拿大运行着不止一种双重增值税/销售税模式。魁北克省拥有自己的增值税，即魁北克销售税（QST），按包含 GST（7%）在内的价格的 7.5% 的税率征收。安大略省则实行 8% 的零售销售税，不包括 GST。最初区分 QST 和 GST 的税基差异现已基本消除。因此，联邦和省的增值税确立了统一的增值税税基，尽管允许在最终消费者层面实行差别待遇。起初，进项税额抵免存在一些差异。这些差异现已被消除，但在 QST 下，对大型企业的进项税额抵免实际上仍然存在一些限制。虽然税基上的此类差异并不可取，但 GST-QST 模式表明，在双重增值税体系下，这些差异可以在一定限度内得到包容。这两种税的税率由各自的政府独立设定。税基也是独立确定的；然而，它们本质上是相同的。从一开始，这两种税就由魁北克省税务局根据渥太华设定的规则进行征收。与欧盟一样，跨省销售的税收在“延期纳税基础（deferred payment basis）”上处理，也就是说，魁北克省的一家注册供应商向例如安大略省的一家注册同行进行的销售，在 QST 方面享受零税率，但在 GST 方面则不然。这在某种程度上起到了维持增值税链条的作用，并有助于执法。凌驾其上的联邦 GST 充当了执行机制。审计在两个当局协商后进行。据报道，尽管两国政府之间存在政治分歧，但该系统在技术层面上运行良好。在审查了 QST-GST 系统后，Bird 和 Gendron (2001) 总结道：“总体而言，尽管现行的 QST 和 GST 构成了一个可运行的‘双重’或‘并行’增值税系统——但在本质上，它并未出现此类系统通常伴随的任何问题”。
+
+巴西增值税的改革方案也试图以双重增值税取代联邦和邦级增值税。同样在巴西运行的地方级增值税，将被市级的零售销售税所取代。全国将实行统一的法律规范；然而，各邦将有权就地方的“特殊性”进行立法。联邦和邦的税率都将由联邦法律设定，但各邦将有权在给定的范围内（15% 至 20%）调整税率。这些税收将根据目的地原则运作（Varsano 2004）。为各邦制定一部议会增值税法的想法在印度可能无法被接受。然而，税基和程序的协调能够且应当通过像赋权委员会这样的咨询机构来建立。但是，在这样一个机构达成的决定必须具有可强制执行的制裁效力，这种效力的行使不是通过求助于中央政府，而是像欧盟通过欧洲法院那样，建立一个独立的司法机构。
+
+自 1997 年起在加拿大运行的另一种“双重”增值税模式是协调销售税或 HST。在该系统下，该税在三个海洋省份实施，以 15% 的联邦-省级税率，在一个协调统一的税基上征收，以取代早先的联邦和省级销售税。其中 7% 是联邦 GST，8% 代表省级销售税。该税由联邦管理。尽管 HST 限制了各个省的自主权，但任何关于税基或税率的改变都需要各省的一致同意。
+
+### 印度的选择
+
+毫无疑问，HST 有助于降低合规和行政管理的成本。然而，要求各省实行统一税率的经济学依据是值得怀疑的。因为，正如 McLure 所言，“……为了简化合规和行政管理可能需要进行的税收协调，不应延伸到税率的选择上”（McLure 2000b）。目前正在运行的 QST-GST 安排似乎更胜一筹，几乎提供了一个“理想的解决方案”。税基应予以协调统一，但各邦之间无需实现税率的完全一致。只需每个管辖区内仅存在一种税率即可。还应建立一种机制（欧盟中缺失），以便在需要时更改消费者代码。值得注意的是，加拿大联邦当局在 1991 年提出的引入全国性增值税以取代两个层级上盛行的销售税的国家销售税提案，因各省的反对而流产。欧盟委员会于 1996 年提出的为欧盟建立共同增值税体系的提案也没有实现，因为它被视为限制了成员国的财政主权。尽管没有人能够否认协调的必要性，但正如 Cnossen (1990) 所指出的，一定程度的税收多样性也是有道理的。电子商务和数字产品的出现对各邦甚至国家的税收主权构成了威胁。挑战在于，如何调和协调的必要性与维护具有多重优势的联邦制真谛之间的冲突。
+
+当其联邦级 GST 真正出台时，印度应具备复制 QST-GST 模式的条件。然而，需要考虑的是，这两种税是应该如 KTF 报告所暗示的那样，由两个层级的税务当局在并行管辖权下独立管理，还是可以像魁北克省那样由邦政府管理这两种税。由两个独立的当局平行运行来执行该税可能会令人烦恼和棘手。但由邦政府同时管理 CGST 和 SGST 的魁北克模式在印度似乎并不可行。在那种情况下，似乎别无选择，只能将 CGST 和 SGST 交由两级政府管理，将基层的行政管理任务留给各邦。在统一的税基和程序下，这可能并非一项不可能完成的任务。
+
+在印度通过两个层级管理双重增值税的一种方法可能是，要求供应商在发票上同时收取这两种税，并将变现的税款分别汇给各自的政府，就像加拿大拥有自己销售税的省份对联邦 GST 和省级销售税所做的那样。当然，必须在税基和程序上达成全国性协议——就像欧盟委员会的第六号指令那样——并进行协调审计。中央当局可能没有必要在所有阶段或针对所有经销商直接参与该税的管理。每个有责任注册 CGST 和 SGST 的经销商，可能会被要求向邦税务机关提交一份包含额外 CGST 页面的共同申报表。随着目前正在建设的税收信息交换（TIE）网络，中央税务机构可能会在觉得有必要时随时访问任何申报表。如果 SGST 是在包含 CGST 在内的价格上征收的，各邦就会有动机确保 CGST 得到如实缴纳。如果一些邦愿意的话，应该赋予它们如加拿大海洋省份那样的选择权，协调其增值税并交由中央管理。
+
+### 结论性意见
+
+总而言之，虽然仅拥有单一的全国性增值税在经济和行政上都有显著优势，但它也涉及经济和政治两方面的成本。剥夺各邦最重要的课税权违背了分权的原则，而只有当负责支出的当局承担起筹集其支出资金的责任时，分权才能发挥最佳作用。这会对公共部门的高效组织产生不利影响。此外，削弱次国家级政府还会带来政治成本。正如 Buchanan 所争辩的那样，不应仅仅从狭义的经济意义上看待效率。不应忽视“政治效率（political efficiency）”的必要性（Buchanan 1999）。以政治效率换取经济收益将是目光短浅的。
+
+销售课税的集权化也并非必不可少。加拿大在增值税方面的经验以及美国在所得税方面的经验表明，中央和邦的税收可以并存。鉴于中央税务部门资源的局限性以及各邦在实施销售税方面的经验（尽管存在缺陷），应当尽一切努力充分利用两者的优势。作为加拿大 QST-GST 模式的变体，双重增值税似乎是最有前景的替代方案，它在税率以及有限范围内的税基上为各邦留出了回旋余地。基层管理最好留给各邦。审计必须是双方的共同努力，但各自当局应有权在自己选定的案件中启动审计。然而，中央与各邦税务机关之间的信任和协调对于双重增值税的顺利实施将是必不可少的。考虑到赋权委员会的运作经验，这应该并非一项不可能完成的任务。但是，应当建立一个独立的准司法机构，以执行中央和各邦之间以及各邦相互之间的协议。考虑到这一点，宪法第 307 条为设立这样一个机构提供了依据。
+
+*笔者注*：已故的Amaresh Bagchi 是印度最伟大的经济政策改革者之一，被尊称为印度财政联邦制之父。Bagchi 博士在税制改革方面进行了广泛的研究，确立了增值税的概念。他曾担任新德里国家财政与政策研究所（NIPFP）的主任。
+
+### 注释
+
+1 关于这些特征的简洁描述，请参见 Cnossen (1998)。 
+2 《税收调查委员会报告（1953-54）》，第三卷。 
+3 在最近的一次交流中。 
+4 有关这些模式的研讨会，请参见《国际税收与公共财政》（International Tax and Public Finance）2000年12月刊登的文章。 
+5 Bird 和 Gendron (2001) 增加了第四种类型，即在征收邦级增值税的同时征收补偿性中央增值税（CVAT），以帮助追踪跨邦销售。有关 CVAT 的详细阐述，请参见 McLure (2000b)。 
+6 本节大量借鉴了 Bird 和 Gendron (2001) 的研究。 
+7 这类似于 Poddar (1990) 提出的双重增值税方案。
+
+**引用**
+Bird, Richard and Pierre-Pascal Gendron (2001). VATs in Federal Countries: International Experience and Emerging Possibilities', Bulletin, International Bureau of Fiscal Documentation, July.
+Buchanan, James (1999). Public Finance and Public Choice, MIT Press.
+Cnossen, Sijbren (1990). The Case for Tax Diversity in the European Community', European Economic Review, 34(2-3): 471-479.
+(1998). Global Trends and Issues in Value Added Taxation', International Tax ana Public Finance, 5(3): 399-428.
+Collins, D. J. (2000). The Impact of the GST Package on Commonwealth--State Financial Relations' (Australian Tax Foundation, Research Study No 34).
+McLure, Charles (Jr) (2000a). Implementing Subnational Value Added Taxes on Internal Trade: The Compensating VAT', International Tax and Public Finance. 7(6): 723-740
+(2000b). Tax Assignment and Sub-national Fiscal Autonomy'. International Bureau of Fiscal Documentation, December.
+Poddar, Satya N. (1990). Options for a VAT at the State Level'. In Value Added Taxation in Developing Countries, ed. Shoup Gillis and Sicat. World Bank.
+Shah, Anwar (2004). Comments on KTF Proposals'. In World Bank (2004)
+Varsano, Ricardo (2004). Brazil's Experience with an Interstate VAT'. In World Bank (2004) World Bank (2004). Report to the Kelkar Task Force on a Proposed Dual VAT for India', October
