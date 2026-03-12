@@ -7,6 +7,7 @@ tags:
 ---
 >[!NOTE] Translated with Gemini 3.1 pro
 >**作者：Dr Neil Warren Senior Lecturer 来源：Revenue Law Journal, vol. 3, no. 2, 1993, article 1.****
+
 ---
 
 # 英国增值税（VAT）经验总结
