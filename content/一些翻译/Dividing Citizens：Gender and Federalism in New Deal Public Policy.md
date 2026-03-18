@@ -298,4 +298,234 @@ Welfare, and the State, 1890--193o (Urbana: University of Illinois Press, 1994).
 77 Harold M. Hyman, American Singularity: The 1787 Northwest Ordinance, the 1862 Homestead and Morrill Acts, and the 1944 GI Bill (Athens: University of Georgia Press, 1986), pp. 62-76; Skocpol, Protecting Soldiers and Mothers, pp. 102-7.
 78 Bureau of the Census, U.S. Census, 1940: The Labor Force (Washington, D.C.: GPO 194o), p. 18. Similarly, New Deal policies did not include explicit racial exclusions, although in omitting agricultural and domestic workers, they excluded the majority of African Ameri-cans from coverage. As blacks moved into covered occupations, they too received the benefits of the New Deal. See Lieberman, "Race and the American Welfare State."
 
+# 第二章 从二元联邦制到新政
+
+>这些不幸的时代呼唤制定计划……再次将信念寄托于经济金字塔底层被遗忘的人们。 ——富兰克林·D·罗斯福总统，广播讲话。纽约州奥尔巴尼，1932年4月7日
+
+新政（New Deal）是在美国历史上最动荡的经济环境和激烈的社会冲突中实施的。 1929年10月29日股市崩盘后，经济开始了长达四年的漫长衰退。 制造业产出下降了一半，失业率从劳动力的3%飙升至25%，九千多家银行倒闭，个人收入下降了一半以上。 失业导致了营养不良、疾病和棚户区的蔓延，并且按照当时社会学家的观点，由于男性的权威和地位源于他们作为“养家糊口者”（breadwinners）的角色，失业也威胁到了家庭生活。 暴民洗劫商店寻找食物；由共产党领导的工会统一联盟（Trade Union Unity League）组织的失业者在全国各地的城市举行示威游行； 各个群体参与了旨在阻止驱逐的“抗租暴动”（rent riots）。 各州和地方传统的济贫机制在危机的重压下濒临崩溃。
+
+在国家经历1932至1933年“绝望的冬天”饱受折磨之际，富兰克林·D·罗斯福总统就职。1930年代严重的经济危机和社会动荡为罗斯福提供了一个背景，使他得以建立一个看似不可能却异常强大的政治联盟，借此对美国政治经济学和美国公民身份的内涵进行史无前例的改造。 然而，原有的政策和决策传统在塑造新政方向、为决策者提供特定契机的同时限制其他选择方面，发挥了重要作用。 了解决策先例的形态以及原有社会经济条件的特征，对于理解新政在多大程度上是新颖和创新的，以及它在何种途径上受限于渐进主义的任务，都是至关重要的。 本章的背景论述为全书的政策分析铺平了道路，首先探讨了19世纪末20世纪初美国福利国家发展的历史先例，当时公民身份是由二元联邦制（dual federalism）的制度所塑造的；其次考察了新政初期构成为一场宪政革命提供框架的社会、经济与政治环境，这场革命将允许国家公民身份（national citizenship）的诞生。 随后对早期新政政策以及1935年《全国劳工关系法》（National Labor Relations Act）的讨论，为后续的政策案例研究奠定了基础。
+
+## 二元联邦制下的决策与公民身份
+
+大多数西方国家在世纪之交就颁布了国家级的社会与劳工政策，远早于新政。 强制性、缴费型的老年保险于1889年率先在德国通过，随后是1909年的奥地利和1910年的法国； 其他欧洲国家也同时制定了适用于特定行业工人的更为有限的计划。 英国于1911年建立了国家失业保险，随后在1920年代又有七个国家相继效仿。 最低工资运动于1890年代在澳大利亚和新西兰兴起，到20世纪初，这些国家以及大多数西欧国家均已颁布了最低工资立法。
+
+在同一时期，美国却走上了一条独立的道路。 长期以来，由地方管理的济贫、孤儿院和县级济贫院，以及来自私人慈善机构的援助，构成了对需求者援助的主要来源，造成了一套极不均衡且在很大程度上极不充分的制度安排。 正如西达·斯考切波（Theda Skocpol）所指出的，美国已经开始以一种与欧洲发展截然不同的方式，发展更具广泛基础的社会供给形式。 内战后，美国为退伍军人及其家属设立了养老金，到20世纪初，这些福利的分配已经相当广泛和慷慨。
+
+然而，尽管国家政府的范围在20世纪初略有扩大，二元联邦制的安排仍然完好无损，大多数直接影响公民生活的政策仍然在州一级制定和实施。 美国政府的制度和政治特征对发展基础广泛的监管性劳工政策和再分配性社会政策构成了障碍。 只有针对女性作为潜在或现实母亲角色的特殊主义、先赋性（ascriptive）政策才得以成功颁布。
+
+### 基于就业的社会改革的失败
+
+尽管美国与其他西方国家一样，在19世纪末经历了密集的工业化和城市化，但基于个人在工作场所的参与而为其提供公共政策的努力，并没有像欧洲国家那样取得进展。 美国早期确立的男性普选权阻碍了政治意识与阶级意识的认同，这与英国逐步基于社会阶级扩大选举权的情况截然不同。 在19世纪末，确实出现了一些致力于通过公共政策进行改革的劳工组织，但在很大程度上，劳工运动遭到了美国政体特征（尤其是司法机构的权力）的阻挠。 工人从属于雇主，卡伦·奥伦（Karen Orren）将此称为“一种迟到的封建主义，中世纪人身关系等级制度的残余”：在普通法下，雇员的境况仍根据古老的“主仆”（master-servant）关系准则来界定。 因此，法院认为工作条件在很大程度上超出了立法机构的管辖范围。 公职人员批准、法院也准许使用暴力来镇压劳工维权活动；起初是在1870年代使用警察、州民兵和国民警卫队镇压罢工，后来从1894年普尔曼大罢工（Pullman Strike）开始，发布由武力支持的禁令。 此外，通过司法审查，法院对“契约自由”（freedom of contract）进行了宽泛的解释，并对商业条款进行了限制性解释，从而禁止了国家或州政府几乎所有旨在监管工作场所的尝试。
+
+一些州立法机构已开始限制特定职业的工作时间。 然而，在1905年的洛克纳诉纽约州案（Lochner v. New York）判决中，最高法院限制了各个州为未被视为危险的工作制定劳工法规，并以干涉契约自由为由，废除了针对工人的最高工时法。 保护工人加入工会权利的1898年《埃德曼法案》（Erdman Act），同样被1908年的阿戴诉美国案（Adair v. U.S.）判决判定无效。 在1900年之前，最高法院将国会的权力解释为仅延伸至极其受限的“州际商业”（interstate commerce）领域，这意味着立法只能涉及货物跨越州界的字面意义上的流动。 在20世纪初，当国会开始审慎地利用商业权和征税权来增进普遍福利时，法院在涉及彩票、人造黄油以及“州际商业”中的妓女等多种州行动对象的案件中给予了默许。 然而，一旦涉及劳动条件，法院通常坚守底线，甚至以国会试图干预生产过程（这恰恰属于各州的管辖领域）为由，裁定童工禁令违宪。
+
+鉴于这些因素，美国并未产生强大的劳工运动。 以改革为导向的劳工组织逐渐消散，留下美国劳工联合会（AFL）成为进入20世纪的唯一幸存者。 成立于1886年的AFL旨在联合长期存在的行业工会，并保护熟练工人的工作。 随着时间的推移，在塞缪尔·冈珀斯（Samuel Gompers）的领导下，该组织将其使命定义为“纯粹而简单的工会主义”（pure and simple unionism），明确专注于与雇主谈判，而不是通过公共政策进行改革。 AFL的国家级领导人不仅认为政治努力在很大程度上是徒劳的，而且还担心参与政治协议可能会导致劳工组织失去自主权。
+
+除其非政治立场外，AFL所代表的劳动力范围之狭窄，使其在社会改革中发挥主导作用的可能性变得更加微乎其微。 AFL的存在是为了保护熟练工人，这些人往往是白人、本土出生的男性。 许多AFL的地方工会在形式上拒绝接纳女性为会员，或者收取几乎没有女性负担得起的入会费和会费。 工会的各种做法（例如会议时间和地点）也使女性难以加入。
+
+在劳工组织之外，一群男性社会科学家于1905年成立了美国劳工立法协会（AALL）。 他们试图推动面向工薪阶层的社会保险类项目，以便在他们生病、失业或年老时提供保障。 然而在大多数情况下，AALL并未实现其目标。 公职人员不愿建立可能会助长腐败程度的新支出项目，他们将这种腐败与通过庇护制系统发放的内战养老金联系在一起。 此外，政府似乎也不具备管理新的缴费型项目的行政能力。
+
+总而言之，20世纪初的美国尚未准备好发展基于个人参与劳动力市场而为其提供援助的政策。 然而，广泛的妇女组织和许多女性改革派个体在20世纪初的改革中取得了相当大的成功，建立了斯考切波所称的“母性主义福利国家”（maternalist welfare state）的雏形。
+
+### 母性主义政治
+
+尽管19世纪的政党和选举活动一直由男性主导，但中上层阶级的女性越来越积极地参与社会改革。 早期确立的所有自由男性的普选权使女性在政治上成为一个独立的阶层，这促使她们在很大程度上以性别视角来认同自己，并沿着性别界限进行组织——首先是通过19世纪中叶的妇女参政运动。 中产阶级妇女团体开始利用“分离的领域”（separate spheres）意识形态（即认为女性的归宿在家庭的观念），来从事所谓的“社会家政”（social housekeeping）：即努力提升公共和公民生活。 到了20世纪，她们的组织开始为女性争取劳动和社会供给。
+
+当时大多数女性改革的努力都是受当代学者称之为“母性主义”（maternalism）的意识形态所驱动的，其特征可概括为三个原则：（1）女性的首要角色涉及家庭责任，尤其是将孩子抚养成为未来的公民；（2）所有女性因为拥有共同的母亲身份能力而共享一种纽带； 因此（3）她们自己拥有特定的道德权威，借此可以呼吁进行有助于其他母亲和儿童的改革。
+
+母性主义者的政治策略也受到了该时代另一种盛行信念的塑造和制约：即“家庭工资”（family wage）的观念，认为男性的收入应当使他们能够充当家庭的唯一养家糊口者，允许妇女和儿童脱离有酬劳动力市场，并使女性能够将时间花在从事无酬的家务劳动上。 这一理想忽视了女性工人的实际境况，她们赚取工资并非仅仅为了“零花钱”（pin money），而是为了至少养活自己，并且常常还要赡养家庭成员。 在1900年，当20%的女性参与劳动力队伍时，城市地区超过三分之一的职业女性独立生活、自给自足，而在家居住的女性中有四分之三负责赡养其他家庭成员。 然而，尽管家庭工资理想有助于为女性的较低工资提供正当性辩护，但大多数母性主义者接受了该理想具有广泛政治吸引力这一事实，并试图在不挑战其局限性的情况下改善女性的境况。
+
+### 保护性劳动法策略
+
+争取女性保护性劳动法的努力，到19世纪末已在各个州展开。 1908年，最高法院审理了穆勒诉俄勒冈州案（Muller v. Oregon），该案挑战了俄勒冈州一项将洗衣店及其他特定职业中女性的工作日限制为10小时的法律的合宪性。 路易斯·布兰代斯（Louis Brandeis）提交了一份由全国消费者联盟（NCL）准备的简要文件，该文件利用了关于长时间工作对女性健康构成风险的广泛研究，并运用“女性的归宿”在于家庭领域的观念，以此为基于性别的差异化对待进行正当性辩护。 最高法院惊人地背离了洛克纳案（Lochner）的判例，维持了俄勒冈州的法律，其推理是：在女性的案例中，国家的利益优先于契约自由，因为“既然健康的母亲对于孕育强健的后代是必不可少的，那么女性的身体福祉就成为公众利益和关怀的对象，以维护种族的体力和活力。” 从本质上讲，改革者通过推进针对女工的州级保护性劳动立法，成功地在“契约自由”原则中撕开了一个试探性的漏洞。
+
+妇女改革团体抓住了穆勒案判决提供的机会，开始逐州开展运动，通过颁布保护性劳动立法来改善女工的处境。 NCL在这一运动中领导了一个由妇女组织构成的联盟，如妇女工会联盟（WTUL）、妇女俱乐部总会以及基督教女青年会（YWCA）。 她们寻求对工时和工资的监管，以及颁布就座法、休息期、禁止夜间工作以及禁止在某些职业中雇佣女性的法律。
+
+尽管为了代表女工争取立法改革而运作的组织严密且基础广泛的倡导团体，依然是社会运动的一个令人印象深刻的范例，但实际上，通过保护性劳动立法来改善女性工作条件的途径却被证明是漫长乏味且障碍重重的。 工时限制在法庭的挑战中幸存了下来，但在1912年至20年代初期间于16个州和哥伦比亚特区颁布的最低工资法，其根基却要薄弱得多。 它们都在1923年的阿德金斯诉儿童医院案（Adkins v. Children's Hospital）判决中被摧毁，在该判决中，最高法院宣布不愿在最低工资法案中放弃“契约自由”。
+
+到1923年，大多数女性改革者已经确信，女性保护性劳动法对于使女性在工作场所获得与男性同等的社会和经济平等是必要的，但讽刺的是，在对自由主义原则的运用中，最高法院却利用女性最近获得的选举权来反对她们。 撰写了阿德金斯诉儿童医院案多数意见的乔治·萨瑟兰（George Sutherland）大法官，通过指出自穆勒案判决以来发生的“革命性”变化，对劳动立法的“保护性态度”提出了异议：
+
+> 在女性的契约、政治和公民地位方面，以第十九修正案（19th Amendment）达到顶峰，…… （两性之间的）差异（除了生理差异之外）现在几乎（即便不是完全）已经到了消失的地步。 （因此）……我们不能接受这样的理论，即成年、具有独立法律行为能力（sui juris）的女性，需要或者可能受到其契约自由的限制，而在类似情况下，如果合法地施加于男性身上则是不允许的。 这样做将忽略…… 当今趋势……所带来的一切意涵，根据这些趋势，女性已被赋予从旧观念中解放出来的权利，即她在契约和公民关系中必须获得特殊保护或受到特殊约束。
+
+由于法院维持了其他类型的保护性劳动法，阿德金斯案使女性工人陷入了一种悖论的境地：一方面，在被限制在某些工作和工作时间内受雇的程度上，她们受到了各州的“保护”并被剥夺了契约自由；但另一方面，她们又同时被拒绝给予最低工资，前提是她们被认为与男性一样有能力谈判雇佣合同。 这种消极和积极自由结合的效果是，女性通常别无选择，只能比男性工作时间更短且薪酬更低。 一些已婚女性受益于强制性的工时缩减，这有助于她们应对赚取工资和承担家务的双重负担；但其他女性则怨恨这些政策，因为这阻碍了她们竞争薪酬更高的工作以及获得充足且合适的工作时间。 事实上，一些工会支持保护性劳动法，这正是作为一种将女性从工业领域最好的职位中排挤出去的明确策略。 此外，劳动立法策略还打消了工会组织女性工人的念头，因为它强化了女性作为需要被保护的工人（而不是作为有能力自我谈判的能动者）的孤立地位。 新成立的劳工部妇女局（Women's Bureau）存档了数以百计由女性提交的未获成功的申请，这些申请旨在寻求被认为危险的工作或是寻求加入工会。 总体而言，保护性劳动法强化了工作场所男女之间的隔离，将性别导致的职业隔离制度化了。
+
+此外，这一策略使得为改善女性处境而斗争的各种妇女团体产生了分裂。 全国妇女党（National Women's Party）旗下的一个小核心群体呼应了萨瑟兰大法官的观点，反对保护性劳动立法。 她们试图摆脱强化女性劣势和对男性依赖的区分，主张应当根据职业而非性别来对工人适用雇员福利。 在1923年（即阿德金斯案判决的同一年），她们呼吁通过一项平等权利修正案（ERA）。 与之相对立的是一个庞大的妇女团体联盟，她们与妇女局结盟，其工作关注的是女性工人的经济状况。 尽管在阿德金斯案判决后的几年里，争取最低工资法的运动有所消退，但支持者们继续游说该裁决保留完整的其他形式的保护性劳动立法，例如禁止夜间工作、八小时工作日和六天工作周、限制提举重物以及为女性提供专门的休息室设施。 她们反对ERA，担心该修正案的通过将意味着推翻保护女性的劳动法。 相反，她们坚持认为，改善工作条件将使女性获得社会平等，她们相信，这一目标远比法律上的平等更为必要。
+
+尽管母性主义者成功地确立了为工人进行改革的政治空间，但在二元联邦制的背景下，这种空间极其狭窄，并受到州界和司法部门对“契约自由”划定的界限所限制。 因此，改革不得不逐州进行，这意味着工人的状况取决于其所在州政治的几个特征：代表他们倡导的组织的力量、这些组织在政治领域中拥有的介入渠道，以及州立机构的法律和行政能力。 此外，这些法律坚持基于性别为女性设定的先赋角色的观念，从而强化了性别差异。 然而，保护性劳动法一旦确立，将在几十年里保持根深蒂固，并远远延续到了新政之后。
+
+### 母亲养老金
+
+从20世纪10年代初开始，白人中产阶级妇女的公民组织逐州努力，以实现母亲养老金法（mothers' pensions laws）的颁布 。 在缺乏男性养家糊口者的情况下，此类政策授权向单身母亲提供补助金 。 这些资金理应使女性能够留在家中照顾孩子，而不必参与有酬劳动力队伍 。 对于那些被视为“值得救助的”穷人（"worthy" poor）而言，被纳入该项目也被假定为提供了一种比公共救济更为体面的援助形式 。 妇女俱乐部总会（General Federation of Women's Clubs）和全国母亲大会（National Congress of Mothers）通过基层的公众教育和游说活动，推动了这些法律的通过，仅在1911年至1913年期间，就成功地在二十个州制定了母亲养老金法 。 到了1920年，当只有两个州制定了老年养老金法、且失业保险法仍不存在时，已有三十九个州颁布了母亲养老金法 。
+
+在依然阻碍大多数社会项目发展的制度和政治环境下，母亲养老金的广泛颁布是一项了不起的成就 。 然而，项目的实施却远没有那么令人瞩目，因为它受到了州级治理和联邦制的动态与母性主义意识形态相结合的塑造 。 与男性改革团体所倡导的那些失败的社会保险计划不同，这些项目将通过社会工作者所使用的新兴个案工作（casework）模式来交付，这包括对受益人进行家访，以进行个人评估和监督 。 作为确立母亲养老金合法性的一种手段，改革者们制定了高度限制性的法律，要求接受福利的母亲效仿盎格鲁-撒克逊中产阶级女性的行为规范 。 这些规定得到了各州治安权的批准，并由地方官员拥有广泛的自由裁量权予以执行，赋予了母亲养老金具有侵入性的特征，并使得地方和区域偏见得以反映在项目的覆盖范围中 。
+
+尽管在20世纪30年代，寡妇维持着大多数由女性户主组成的家庭，但约有三分之一作为单亲父母的女性，要么从未结过婚，要么已经离婚或与丈夫分居 。 然而，尽管所有的母亲养老金法都覆盖了父亲已故的儿童，且大多数覆盖了父亲在教养机构或丧失劳动能力的儿童；但只有36个州覆盖了被父亲遗弃的家庭，21项法律在离婚的情况下提供覆盖，而只有11项法律覆盖了非婚生儿童 。 各州还制定了各种“适宜家庭”（suitable home）法，规定了母亲必须遵守的特定行为，以保持其受助资格 。 一些州和地方要求女性展现出被白人盎格鲁-撒克逊标准视为可接受的家务管理和儿童抚养方法 ； 大多数州禁止男性寄宿者的存在；少数州则要求儿童必须定期上学和去教堂 。 正如州和地方层面实施的社会项目的特征那样，母亲养老金的发展方式，用温妮弗雷德·贝尔（Winifred Bell）的话来说，“内在地根植于狭隘的地方性和区域性价值观” 。
+
+此外，由于州际经济竞争的压力以及州一级缺乏筹集资金的能力，母亲养老金远远没有达到为之努力立法的母性主义改革团体的目标 。 尽管到1934年已有四十五个州颁布了此类法律，但这些法规通常只起到了允许而非强制地方政府实施的作用，在被授权管理这些法规的地方中，实际上只有不到一半予以了执行 。 即使在项目生效的地方，长期的资金短缺意味着只有一小部分符合条件的家庭获得了援助，并且福利金很少足以使女性能够避免外出从事有酬工作 。 在大萧条期间，没有养家糊口者的家庭的需求远远超过了可用的援助，据估计有358,000个此类家庭转而依赖紧急救济 。
+
+综上所述，尽管在二元联邦制的背景下，母亲养老金的广泛颁布令人惊讶，且只能用世纪之交母性主义组织的独特地位来解释；但其执行情况之黯淡，却与那个时代州级治理的特征和动态相吻合 。 然而，尽管其早期记录不佳，母亲养老金仍将提供一个新政决策者赖以建立基础的先例，并使其遗产贯穿整个二十世纪 。
+
+### 对公民身份的意涵
+
+十九世纪末二十世纪初新兴的福利国家未能广泛、公平地将公民融入政体 。 那个时代典型的三个政策特征削弱了它们在这方面的潜力 。 首先，大多数政策是逐州制定的，导致了各州之间及各州内部存在相当大的差异 。 因此，公民身份的特征取决于一个人居住在联邦制政治地理中的哪个位置 。 其次，州立法机构在行使治安权时不受第十四修正案平等保护条款的约束，因此它们能够制定出维护和制度化社会等级的政策，从而对公民群体进行区分和分层 。 第三，大多数政策都是以西奥多·洛维（Theodore Lowi）所谓的“分配性”（distributive）或“庇护性”（patronage）政策的形式设计的，这些政策必然具有特殊主义色彩——旨在奖励特定群体的特定行为 。 它们赋予了政客高度的自由裁量权，这些政客在实践中可以为了政治目的而控制福利的发放时机和目标人群 。 只有控制私营部门行为者行为的监管性政策，以及操纵行为环境的再分配性政策，才有可能影响广泛阶层的公民，从而对公民的融合产生根本性的意涵 。
+
+由国家颁布和资助的内战养老金，由于其分配性政策的特征，未能拓宽公民身份 。正如斯考切波所指出的，这些养老金明确是为那些通过在联邦军队服役而证明了其公民美德的人及其家庭设立的，并且随着它们通过庇护系统进行分配，其分配变得更具特殊主义色彩 。 保护性劳动法和母亲养老金分别被表述为监管性政策和再分配性政策，因此具有融入更广泛人群的潜力 。 然而，这些政策的触及范围受到其州级实施层面以及其资格标准的先赋性特征的双重限制 。 母性主义改革承认了女性无酬劳动的社会价值，但同时强化了女性作为公民的劣势地位，以及她们作为母亲的首要公民职能 。 通过向部分公民提供社会供给和工作场所保护，这个初生的福利国家确实代表了对过去依赖私人慈善、地方救济和市场的偏离；但有限的覆盖范围和联邦制的治理环境，阻碍了发展一种确保公民更充分地融入政体之手段的进程 。
+
+## 决策中新政的开端
+
+20世纪20年代末带来了两项将为政治制度、决策和公民身份的转型奠定背景的发展：大萧条和政治重组 。 但是，尽管女性在劳动力队伍和政党政治中的地位日益凸显，新政决策者却要在这样一个在性别维度上仍然被隔离的政治经济环境中采取行动 。
+
+### 大萧条时期的性别与经济
+
+自十九世纪中叶以来，由作为养家糊口者的父亲和作为家庭主妇的母亲组成的双亲家庭模式，一直在逐步取代双亲农场家庭模式 。 到1920年，“养家糊口者-家庭主妇”模式已占到美国所有家庭的一半以上，并且在随后的四十年里一直占据主导地位 。 但即使在“养家糊口者-家庭主妇”家庭最为典型的这半个世纪里，它占所有家庭的比例也从未超过56% ； 因为与此同时，另一种家庭模式正在浮现 。 自世纪之交以来，女性在有酬劳动力大军中的人数一直在缓慢而稳步地增加，从1900年占女性人口的20.6%增至1920年的23.7%，再到1930年的24.8% 。 在1920年代，工薪阶层中已婚女性的数量增长最为迅猛，十年间增长了40%，确立了假以时日将使双职工家庭成为普遍模式的趋势 。
+
+尽管经济的转变导致了白领工作岗位的增加，使得进入劳动力市场的女性在新的就业领域找到了工作，但基于性别的职业隔离依然存在 。 随着各行业和办公室工作变得更加细分并按等级排列，女性被提供的是处于工资和地位等级底层的工作，这些工作提供的晋升机会极其有限 。 在1930年，每十名女性工人中，有三名从事文书或销售工作，两名是工厂操作工（特别是在低工资的服装和纺织行业），两名受雇为家庭佣人，一名是专业人员（通常是护士或教师），还有一名从事个人服务工作（例如厨师、女服务员或美容师） 。 男女之间的收入差距在20世纪20年代实际上扩大了，女性的收入仅为男性工资的57% 。 在受保护性劳动法覆盖的工作范围之外，女性经常要工作很长时间：妇女局的一项研究发现，1930年受雇的女性中有一半每周工作超过50个小时 。 因此，在大萧条开始时，大多数女性仍在一个被极其僵化界定的劳动力部门中工作，从事着那些因低薪、晋升机会少、工时长且工作条件艰苦而臭名昭著的工作 。
+
+尽管随着大萧条的加深，失业率稳步攀升，但在20世纪30年代，女性在劳动力大军中的数量继续增加 。 有趣的是，职业隔离的结构保护了许多女性的工作免受裁员之苦，因为雇佣女性的行业往往比雇佣男性的行业收缩得少 。 因此，已婚的、中产阶级的中年女性参加工作，在很大程度上是为了弥补丈夫失业或工资下降造成的损失 。 在这十年间，参加工作的女性比例从24.8%增至25.8%，而女性在劳动力总数中所占的比例则从21.9%增至24.6% 。
+
+然而，随着失业率的飙升和就业竞争的加剧，在男女共同就业的职业中工作的女性成为了公众敌意以及在许多情况下的歧视性政策的对象 。 美国劳工联合会（AFL）发表公开声明，主张在雇佣程序中给予男性优先待遇 。 在1936年盖洛普的一项民意调查中，82%的美国人赞同如果丈夫有工作则妻子不应外出工作的观点；国家、州和地方的公共政策，以及私营部门的商业实践，都反映了这种公众的敌对情绪 。 公立学校系统迅速采取了戏剧性的措施：全国教育协会在1930至1931年进行的一项调查发现，77%的公立学校拒绝雇佣已婚女性，63%的公立学校解雇了已婚的女教师 。 尽管遭到全国妇女党的抗议，国会仍在《1932年经济法》第213条中纳入了一项“已婚人员条款”，要求如果女性的丈夫也拥有政府工作，则必须将其解雇 。 在一年之内，受雇于邮政、财政部、陆军部、海军部及退伍军人管理局等部门的1500多名女性被解雇 。 随后，几个州的立法机构效仿国家政府的榜样，颁布了类似的法案 。 许多企业，特别是那些雇佣文员和服务业工人的企业，也解雇了女性员工 。 全国工业会议委员会在1939年发现，84%的保险公司、65%的银行和63%的公用事业公司限制雇佣已婚女性 。 尽管在1937年，妇女团体最终成功促成了第213条的废除，但它却提供了一个被广泛效仿的先例 。
+
+甚至在大萧条之前，大多数非白人美国人就生活在维持生计的水平或以下，并在劳动力队伍中从事薪酬最低且受剥削最严重的职位 。 恶化的经济为非白人女性带来了极其严酷的环境 。 1930年，40%的非裔美国女性参与了有酬劳动力队伍，而白人女性仅为20% 。 十分之九的非裔美国劳动妇女受雇于家庭服务或农业领域 。 随着经济状况恶化，更多白人女性在家庭服务领域寻找工作，甚至寻求黑人女性在商店和工厂中保住的极少数卑微工作 。 结果，黑人女性的失业问题尤为严重：在家庭和个人服务领域，有56%失去了工作 。 例如，在肯塔基州的路易斯维尔，1933年有一半以上的黑人女性失业，而白人女性失业的比例还不到四分之一 。 更普遍地来看，保住工作的非白人女性所获得的工资远低于白人女性，这通常发生在从事相同工作的情况下，有时则是通过工作隔离造成的 。
+
+总之，高失业率以及低生产和消费水平，仅仅代表了20世纪30年代决策者所面临的美国经济中最新且最引人注目的特征 。 早在大萧条开始之前，已婚女性加入劳动力大军的趋势就已经在进行中，而基于性别、种族和族群的职业隔离模式也已根深蒂固 。 然而，这些特征的政治意义将取决于新政的政治动态 。
+
+### 早期新政政策与政治
+
+1933年3月4日，在就职演说中，富兰克林·D·罗斯福带着坚定的决心向一个在经济危机深渊中挣扎的国家发表了讲话 。 这位新总统摆出一副准备在国内战线上发动战争的总司令姿态，宣布他将要求国会授予“针对紧急状况发动战争的广泛行政权力” 。 他具体宣布道：“我们最首要的伟大任务是让人们去工作。”
+
+大萧条已经压垮了地方政府应对救济需求的能力 。 州政府的财政状况紧张到了崩溃的边缘，并且大多数州缺乏筹集额外收入以及实施广泛救济计划的能力 。 因此，罗斯福立即寻求紧急措施，以提供联邦资金用于救济并刺激复苏 。 在其政府著名的“头一百天”里，建立了一批“字母表机构”来管理众多临时项目，例如平民保育团（CCC）、公共事业振兴署（工程振兴署）（WPA）、公共工程署（PWA）、民用工程署（CWA）以及联邦紧急救援署（FERA） 。 作为旨在救济和复苏的联邦资助项目，“第一次新政”的这些项目是史无前例的，而且它们的通过仅仅得益于罗斯福的领导力与国会中新的民主党联盟之崛起的结合 。 在1928年至1936年期间，一场大规模的政党重组改变了美国政治，瓦解了自1896年以来一直存在的地区性政治 。 当北方城市中的工人阶级、少数族裔选民将他们的选票与传统上一党独大的南方的选票叠加在一起时，民主党近十年来首次作为多数党开始崛起 。 民主党候选人在各级选举中获胜，并在国会中取得了实质性的进展 。 在罗斯福的巧妙团结下，一个由有组织劳工的拥护者和农业利益代表组成的不太可能结成的联盟在国会中浮现，并开始主导决策过程 。 尽管北方和南方民主党人在公民权利议题上存在分歧，但在整个20世纪30年代，他们在涉及福利国家发展以及财政、监管和劳工事务的议题上共同投票支持扩大国家政府的角色 。
+
+女性是如何融入新政联盟的？ 学者们通常将1920年实现妇女选举权视为未产生实际影响的事件，并假定女性在随后的几十年里远离投票站且对政治几乎没有影响力 。 然而，克里斯蒂·安德森（Kristi Andersen）已经表明，在1920年代，女性确实积极参与了正式的政治活动，不仅增加了她们在选民中的存在感，而且还作为党内官员、候选人和公职人员增加了存在感，尽管通常扮演着受限的角色 。 到1928年大选时，女性选民已经成为选民群体中的重要组成部分，可能占到了所有选民的49% 。 1932年，由莫莉·杜森（Molly Dewson）领导的民主党全国委员会妇女部付出了巨大努力，敦促女性参与选举并投票给罗斯福 。 一旦当选，罗斯福在其政府内任命了史无前例数量的女性担任官方职位，其中最著名的当属出任劳工部长的弗朗西丝·珀金斯，她是历史上第一位在内阁中任职的女性 。 诸如全国女性选民联盟和基督教女青年会等妇女组织的代表，经常被常规性地任命进入负责决策事务的顾问委员会任职 。 劳工部下属的妇女局和儿童局，均是在进步时代为响应母性主义政治而设立的，并且继续由女性担任职员 。
+
+然而，尽管到了20世纪30年代女性在政治中的存在感有所增加，但早期新政的决策者似乎并未将女性的需求置于优先地位 。 由于依然坚持“家庭工资”理想，官员们往往假定，针对作为养家糊口者的男性的政策也将间接惠及妇女和儿童 。 诸如CCC、WPA和CWA等救济项目，主要是为了给失业男性提供就业机会而制定的 。 为女性设立了各种特殊的配套项目，但所提供的工作数量仅占提供给男性的工作数量的一小部分 。 此外，针对女性的少数职业培训项目，倾向于强化她们在家庭领域中的传统角色，而不是让她们获得在劳动力市场竞争所需的技能 。 无论如何，尽管第一次新政的项目前所未有地扩大了国家政策的财政支出和管辖主题，但它们却延续了国家政府长期以来一直利用作为与国会决定的特定群体或个人分享资源之手段的庇护政策（patronage policies）的传统 。 只有“第二次新政”的监管性和再分配性政策，才会真正且永久地改变国家在公民身份方面的治理特征，而这始于1935年的《全国劳工关系法》 。
+
+### 性别与全国劳工关系法
+
+新政的首批重大劳工政策被包含在《全国工业复兴法》（NRA）中，这是一项在“头一百天”制定的综合性立法，主要旨在使各行业能够规避反垄断法，并发展出能够制定市场决策的大型行业协会 。 除了制定最低工资和最高工时规定（在第七章讨论）之外，该法还在第7(a)节中承认了工人加入工会并参与集体谈判的权利 。 然而仅仅两年后，在“谢克特家禽公司诉美国案”中，最高法院宣布NRA违宪 。 但在此之前，参议员罗伯特·瓦格纳和全国劳工关系委员会（NLRB）的工作律师们已经合作制定了一项新的、范围更窄的法案，该法案将专门处理组织工会和集体谈判的程序问题 。 尽管罗斯福此前一直与瓦格纳的努力保持距离，但谢克特案的裁决使他的政府失去了劳工政策，因此他欣然同意给予该法案支持 。 1935年7月5日，罗斯福签署了1935年的《全国劳工关系法》（NLRA），即《瓦格纳法》（Wagner Act），使其成为法律 。
+
+通过NLRA，美国由此成为唯一一个通过法律规定来监管劳资关系的西方国家 。 NLRA的核心条款第7节构成了雇员的全国工业权利法案，保障了工人组建和参与劳工组织以及为集体谈判目的选举自己代表的权利 。 为了保障雇员的权利，该法规还定义了雇主的不公平劳工行为，确立了雇员代表选举的规则，并设立了一个新的、独立的由总统任命三名成员组成的NLRB来管理该政策 。 NLRB将负责发展一套有关劳资关系的先例体系，以取代最终被视为已灭绝的普通法原则 。
+
+最高法院在1937年发生的一场惊天动地的路线大转变维持了NLRA 。 通过一项关键判决——全国劳工关系委员会诉琼斯-劳克林钢铁公司案（National Labor Relations Board v. Jones and Laughlin Steel Corp.），“主仆”的普通法原则终于被取代，从而将工作场所置于立法活动的触角之内 。 在更广泛的意义上，该判决是新政“宪政革命”的缩影：法院以往对州际商业范围的解释极其狭窄，认为商业条款的作用主要是对国会的约束；但通过这一NLRB裁决，生产过程的几乎所有阶段都被理解为相互依存的，并因此属于国会予以监管的权力范围之内 。 实际上，法院允许二元联邦制的一个核心支柱被粉碎，并批准了国家政府在公共政策领域发挥极大扩张的作用 。
+
+NLRA在性别方面将如何运作？ 这部新法律似乎有惠及男女工人的潜力 。 其语言是性别中立的，与后来出台的《社会保障法》和《公平劳动标准法》不同，它适用于组织而非适用于以职业或婚姻状况等条件定义的个体公民 。 该法律批准了工会化、罢工活动和集体谈判努力的急剧增加；起初，女性似乎会在组建工会和工作场所维权活动中获得比以前更好的代表性 。 NLRA立即为新成立的产业工会联合会（CIO）注入了动力；该委员会是由支持产业工会主义的人士所创立的，他们打破了美国劳工联合会（AFL）的阵营及其按照行业划分进行组织的传统 。 CIO的领导人开始组织大规模生产行业中的非熟练工人，而不论其性别、种族或技能水平 。 这一策略仅在1937年就使工会会员人数增加了一倍（100%），并使得CIO对女性的包容度远高于AFL 。 相比于AFL一半以上的组织，CIO中只有三分之一的成员组织代表男性主导的职业和行业 。 此外，CIO的会员中约有五分之一来自雇佣高比例女性的行业，例如服装和纺织行业 。 作为了解女性工人需求的表示，CIO主席约翰·L·刘易斯主张对“基本上相同的工作”实行同工同酬 。 妇女工会联盟（WTUL）和妇女局都肯定了这种新方法给女性工人带来的优势 。
+
+在NLRA制定之后，罢工活动激增，女性在动员中呈现出新的突出地位 。 1936年，在弗吉尼亚州里士满，烟草行业的四百名黑人女剔梗工举行了罢工，抗议每周三美元的工资和恶劣的工作条件，这是该工会在AFL领导下三十年来的首次罢工 。 在赢得诉求后，成员们投票决定将其隶属关系改为CIO 。 在新泽西州卡姆登（Camden）举行的美国电气、无线电和机械工人联合会（UE）罢工的九千名罢工者中，女性占了60% 。 1937年，在美国汽车工人联合会（UAW）在密歇根州弗林特（Flint）通过静坐罢工取得胜利的两周后，底特律的约三千名女性举行了静坐，以在从馅饼制作到雪茄制作等各行各业中赢得对工会的承认 。 在底特律、芝加哥和纽约的百货公司以及五角一角商店的零售店员也使用了同样的策略 。
+
+然而，一旦最初的高潮消退，该法律给女性工人带来的利益充其量也显得微乎其微 。 在少数几个行业领域之外，劳工组织在几十年里依然主要被视为属于男性的事业 。 尽管有组织女性的数量比NLRA出台前增加了两倍多，但女性仍不到所有工会成员的十分之一：她们的人数仅从1930年的约260,000人增长到1940年的800,000人，在所有工会成员中所占的比例从7.7%增长到9.4% 。 这种趋势一直持续存在，尽管通过工会化，女性往往能经历比男性更大幅度的工资增长，并且她们更乐意表达自己对加入工会的兴趣 。 在随后的几十年里，男性加入工会的可能性仍然是女性的两倍 。 例如，在1956年，只有15.7%的女性工人是工会成员，而男性劳动力的这一比例为32.3% 。
+
+CIO确实继续比AFL对女性更为开放；但是，随着其领导人将组织工作的重点缩小到主要雇佣男性的基础工业或制造业部门，并将其目标限制在合同谈判上，最初广泛包容性的承诺逐渐消退了 。 CIO组织女性工人的努力，主要集中在那些既雇佣大量男性，又具有被认为对产业工会运动具有战略意义的女性就业部门的行业，主要是通过国际女装工人联合会（ILGWU）、美国服装工人联合会（ACWA）和UE等组织进行 。 然而，职业隔离的延续意味着这种情况实属罕见 。 在某些情况下，在女性主导的制造业部门或在诸如办公室工作、零售和服务职业等其他就业部门中，女性也会自行组织起来；但正如莎伦·斯特罗姆（Sharon Strom）所指出的，CIO对这种努力的态度往往“充其量是漠不关心，最坏则是充满敌意” 。
+
+CIO工会中不仅女性成员人数少，她们在领导层中的存在感甚至更微弱 。 极少有女性工会成员能在地方层级跻身领导层，在区域和国际层级担任职务的女性更是寥寥无几 。 在对女性雇员比例高的行业内的工会领导层进行调查时，妇女局发现在演员公平协会（Actors Equity Association）的45名理事会成员中只有9名女性，在ACWA的董事会中只有1名女性成员；在美国州、县和市政雇员联合会的8名副主席中仅有1名女性；在美国教师联合会的15名副主席中有5名女性；在ILGWU的董事会中仅有1名女性成员 。 在1938年CIO的年度大会上，519名代表中只有4名女性 。 甚至那些女性成员比例极高的工会派出的也是男性代表 。 大会上唯一明确提及女性的决议并未将女性视为工人，而是承认了成员的女性亲属在支持工会运动方面的意义 。 在一份宗旨宣言中，CIO（现为产业工会联合会）确实声明了它的意图：“实现对美国男女工人的有效组织，无论其种族、信条、肤色或国籍，并将他们团结在劳工组织中以进行互助和保护。” 然而在1946年，在该年度大会的六百名代表中，只有二十名女性 。
+
+由于担任领导职务的女性如此之少，女性的特殊关切在集体谈判的努力中通常被忽视，而且合同往往包含歧视性的特征 。 直接基于性别的工资差异出现在了许多合同中 。 工会为建立基于资历和工作分类的就业保障所作的努力，往往会使男性类型和女性类型工作之间的界限变得更加僵化，并削弱女性晋升的机会 。 在同时大量雇佣男性和女性的行业中的工会，最有可能支持CIO发出的不论性别实行同工同酬的呼吁，旨在防止雇主通过用女性替代男性以前担任的职位来作为削减工资的手段 。 作为一个相关的例证，UE的章程声明该组织旨在团结“本行业内的所有工人……无论其手艺、年龄、性别、国籍、种族、信条或政治信仰如何” 。 然而，在大多数职业中，女性在新工会中的代表性不足，以及在她们确实所属工会中的边缘地位，意味着通过集体谈判来解决劳资冲突的方法对改善她们作为工人的生活处境作用甚微 。 因此，实际上，NLRA赋予了由国家保障的社会或工业公民新权利主要是针对男性的，尤其是那些受雇于非农业的基础工业中的男性 。
+
+撇开NLRA即便是对已加入工会的男性的缺点不谈，该法律至少确实赋予了对他们劳工组织活动的政府批准 。 从此以后，男性可以通过集体谈判来寻求在工资、工时、福利和工作条件方面的改善 ； 结果，他们的维权活动也沿着一种特定的轨迹发展 。 而大多数女性的生活境遇仍然被排除在《瓦格纳法》的触及范围之外，除非在某种程度上，她们能够通过丈夫在集体谈判中赢得的工资和工作条件的改善而间接获益 。
+
+尽管表面上看起来性别中立，但NLRA本身是否对女性工人存在偏见？如果是，又是如何体现的？ 一些学者将女性的低工会化水平解释为工作细分或职业隔离本身的结果，而非公共政策的意外后果 。 另一些人则认为，NLRA的特定设计培育了一种等级森严且狭隘的工会主义，进而在反过来加剧了劳工组织本就由男性主导的特征 。 还有其他的分析人士认为，在商界、南方人以及AFL对NLRA失望情绪的驱动下，1930年代末和40年代的政治动态迫使罗斯福在任命NLRB成员时采取了更为保守的立场，而这些官僚进而以一种将女性工人边缘化的方式塑造了法律的实施 。 例如，NLRB在1930年代末和40年代下达了数项裁决，禁止文员和制造业雇员同属一个谈判单位，这破坏了工人之间跨越性别的团结 。 无论如何，解释为什么NLRA在其颁布后的几十年里对女性工人产生的影响如此微不足道，已经超出了本分析的范围 ； 相反，它对女性的相对无关紧要突显了随后出台的新政政策在性别维度上塑造公民身份的重要性 。 由于NLRA对女性的直接相关性如此之小，她们将不得不继续指望政府来建立有关经济安全和劳动标准的项目 。 《社会保障法》和《公平劳动标准法》，为女性同样也有可能被赋予由国家政府授予的社会公民权利留存了可能性 。
+
+**引用**
+1 American Social History Project, Who Built America? (New York: Pantheon, 1992). 2:318-22
+2 On the threat of unemployment to gender roles in the family, see Mirra Komarovsky The Unemployed Man and His Family (New York: Dryden, 194o), pp. 1 -48; and E. Wight Bakke, Citizens without Work (1940; reprint, Hamden, Conn.: Shoe String, Archon, 1969), pp.109-242
+3 Frances Fox Piven and Richard A. Cloward, Poor People's Movements: Why They Succeed, How They Fail (Random House, New York: Vintage, 1979), pp. 49-55; Michael Goldfield, "The Influence of Worker Insurgency and Radical Organization on New Deal Labor Legislation," American Political Science Review 83 (1989): 1257-82
+4 James T. Patterson, The New Deal and the States: Federalism in Transition (Princeton: Princeton University Press, 1969), chap. 2; Piven and Cloward, Poor People's Movements, pp. 60-62.
+28
+5 Roy Lubove, The Struggle for Social Security, 1900-1935 (Cambridge: Harvard University Press, 1968), pp. 27-29; Social Security Board (hereafter SSB), Social Security in America: The Factual Background of the Social Security Act as Summarized from Staff Reports to the Committee on Economic Security (Washington, D.C.: GPO, 1937), p. 17; John W. Chambers, "The Big Switch: Justice Roberts and the Minimum-Wage Cases," Labor History 10 (winter 1969): 46-47; Theda Skocpol, Protecting Soldiers and Mothers: The Political Origins of Social Policy in the United States (Cambridge: Harvard University Press, 1992, p. 9
+6 Michael B. Katz, In the Shadow of the Poorhouse: A Social History of Welfare in America (New York: Basic Books, 1986).
+7 Skocpol, Protecting Soldiers and Mothers.
+8 On national state-building during the period, see above, chap. I, nn. 2 and 4
+9 These policy categories appear in Theodore J. Lowi, " American Business, Public Policy, Case Studies, and Political Theory," World Politics 6 (1964): 677-715.
+1o Martin Shefter, "Trade Unions and Political Machines: The Organization and Disorganization of the American Working Class in the Late Nineteenth Century," in Working Class Formation: Nineteenth Century Patterns in Europe and the United States, ed. Ira Katznelson and Aristide R. Zolberg (Princeton: Princeton University Press, 1986), pp. 197-278
+11 Leon Fink, Workingmen's Democracy: The Knights of Labor and American Politics (Urbana: University of Illinois Press, 1983); David Brody, In Labor's Cause: Main Themes on the History of the American Worker (New York: Oxford University Press, 1993), pp. 50-51.
+12 Karen Orren, Belated Feudalism: Labor, the Law, and Liberal Development in the United States (New York: Cambridge University Press, 1991), p. 2
+13 Jeremy Brecher, Strike! (Boston: South End Press, 1972); Paul Avrich, The Haymarket Tragedy (Princeton: Princeton University Press, 1984); Paul Krause, The Battle for Home stead, 188o-1892 (Pittsburgh: University of Pittsburgh Press, 1992; Melvyn Dubofsky, We Shall Be All: A History of the Industrial Workers of the World, d ed. (Urbana: University of Illinois Press, 1988), pp. 286, 273 -78, 325 -26.
+14 198 U.S. 45 (1905). 
+15 208 U.S. 161 (1908).
+16 Hammer v. Dagenhart, 247 U.S. 251 (1918).
+17 Brody, In Labor's Cause, p. 54; more generally, see David Montgomery, The Fall of the House of Labor: The Workplace, the State, and American Labor Activism, 1865-1925 (Cam-bridge: Cambridge University Press, 1987), chaps. 8 - 9.
+18 Ruth Milkman, "Organizing the Sexual Division of Labor: Historical Perspectives on 'Women's Work' and the American Labor Movement," Socialist Review Io (January February 198o): 114-17. On various occasions throughout the Progressive Era, the AFL tried to defend itself against charges that it discriminated against women; see the Philip Taft Papers, Labor-Management Documentation Center, Cornell University (hereafter, LMDC) collection 554I, box 14, file 2.
+19 Skocpol," Protecting Soldiers and Mothers, pp. 176-204, 261-8 5; Linda Gordon, Pitied but Not Entitled: Single Mothers and the History of Welfare, 1890-1935 (New York: Free Press, 1994), 145-82.
+20 Skocpol, Protecting Soldiers and Mothers, p. 5 26.
+21 Paula Baker, The Moral Frameworks of Public Life: Gender, Politics, and the State in Rural New York, 1870-1930 (New York: Oxford University Press, 1991); Kathryn Kish Sklar, The Historical Foundations of Women's Power in the Creation of the American Wel-fare State, 1830-1930," in Mothers of a New World: Maternalist Politics and the Origins of Welfare States, ed. Seth Koven and Sonya Michel (New York: Routledge, 1993), pp. 43 -93; Nancy F. Cott, "Across the Great Divide: Women and Politics before and after 1920," in Women, Politics, and Change, ed. Louise A. Tilly and Patricia Gurin (New York: Russell Sage, 1990),pp.153-76
+22 Mofly Ladd-Taylor, Mother-Work: Women, Child Welfare, and the State, 1890-1930(Urbana: University of Illinois Press, 1994), p. 3; Gordon, Pitied but Not Entitled, p. 55.
+23 Alice Kessler-Harris, A Woman's Wage (Lexington: University Press of Kentucky, 1990), p. 7.
+24 Bureau of the Census, The Statistical History of the United States, from Colonial Times to the Present (New York: Basic Books, 1976), p. 133; Kessler-Harris, Woman's Wage, Pp. 10-11.
+25 Gordon, Pitied but Not Entitled, p. 59.
+26 Skocpol, Protecting Soldiers and Mothers, pp. 375-76; Eileen Boris, Home to Work: Motherhood and the Politics of Industrial Homework in the United States (New York: Cam-bridge University Press, 1994), p. 119.
+27 Justice David A. Brewer, Opinion, Muller v. Oregon, 208 U.S. 412 (1908); see also Judith Baer, The Chains of Protection (Westport, Conn.: Greenwood, 1978), pp. 51 -67.
+28 Skocpol, Protecting Soldiers and Mothers, pp. 373 -423; Susan Lehrer, Origins of Protective Labor Legislation for Women, 1905-1925 (Albany: State University of New York Press, 1987); Boris, Home to Work, pp. 81-122; and Vivien Hart, Bound by Our Constitution: Women, Workers, and the Minimum Wage (Princeton: Princeton University Press, 1994). 
+29 Irving Bernstein, Turbulent Years: A History of the American Worker, 1933-1941(Boston: Houghton Mifflin, 1970), p. 122; Hart, Bound by Our Constitution, pp. 66-86; Skocpol, Protecting Soldiers and Mothers, pp. 401-21
+30 261 U.S. 525 (1923). The hospital involved in the dispute employed women at a rate lower than the minimum wage mandated by the District; when authorities attempted to force compliance, Children's Hospital appealed to the courts on the grounds of unconstitutionality, and the Court agreed with the claim in a 5-4 vote.
+31 Sybil Lipshultz, "Social Feminism and Legal Discourse, 1908-1923," in At the Boundaries of the Law: Feminism and Legal Theory, ed. Martha Albertson Fineman and Nancy Sweet Thomadsen (New York: Routledge, Chapman and Hall, 1991), pp. 209-25; Hart, Bound by Our Constitution, pp. I08 -29.
+32 Justice George Sutherland, Majority opinion, Adkins v. Children's Hospital.
+33 Judith Sealander, As Minority Becomes Majority: Federal Reaction to the Phenomenon of Women in the Work Force, 1920-1963 (Westport, Conn.: Greenwood, 1983), pp. 75-78; Alice Kessler-Harris, Out to Work: A History of Wage-Earning Women in the United States(New York: Oxford University Press, 1982), pp. 194, 205-14; Baer, Chains of Protection.
+34 Sealander, As Minority Becomes Majority, pp. I-7, 31-33; see also Wendy Sarvasy,"Beyond the Difference versus Equality Policy Debate: Post suffrage Feminism, Citizenship, and the Quest for a Feminist Welfare State," Signs 17 (1992): 329-62.
+35 Grace Abbott, "Recent Trends in Mothers' Aid," Social Service Review 8 (June 1934): 192-93. A growing literature examines the development of mothers' pensions, including Robyn Muncy, Creating a Female Dominion in American Reform, 189o-1935 (New York: Oxford University Press, I199r); Skocpol, Protecting Soldiers and Mothers; Ladd-Taylor, Mother-Work, chap. 5; Gordon, Pitied but Not Entitled, chap. 3; Gwendolyn Mink, The Wages of Motherhood: Inequality in the Welfare State, 1917-1942 (Ithaca: Cornell Univerity Press, 1995), chap. 2; Barbara J. Nelson, "The Origins of the Two-Channel Welfare State: Workmen's Compensation and Mothers' Aid," in Women, the State, and Welfare, ed. Linda Gordon (Madison: University of Wisconsin Press, 1990), pp.123-51; and Christopher Howard, "Sowing the Seeds of Welfare': The Transformation of Mothers' Pensions, 19oo-1940," Journal of Policy History 4 (1992): 188 -227.
+36 Skocpol, Protecting Soldiers and Mothers, p. 424. 
+37 SSB, Social Security in America, p. 160.
+38 Gordon, Pitied but Not Entitled, pp. 102- 5
+39 Gordon, Pitied but Not Entitled, pp. 27-36; Winifred Bell, Aid to Dependent Children,(New York: Cambridge University Press, 1965), chap. 1.
+40 See 1930 Census data, in SSB, Social Security in America, p. 240. 41Ibid.pp.234-36
+42 Mink, Wages of Motherhood, pp. 31-41; Gordon, Pitied but Not Entitled, pp. 45-46. 
+43 Bell, Aid to Dependent Children, p. 19.
+44 SSB, Social Security in America, p. 233.
+45 Joanne L. Goodwin, " An American Experiment in Paid Motherhood: The Implementation of Mothers' Pensions in Early Twentieth Century Chicago," Gender and History 4 (autumn 1992): 330-34; Gordon, Pitied but Not Entitled, pp. 49-50; Paul H. Douglas, Social Security in the United States (New York: Whittlesey House, 1936), pp. 187-92. 
+46 SSB, Social Security in America, p. 241.
+47 Lowi, " American Business, Public Policy," pp. 677-715.
+48 Skocpol, Protecting Soldiers and Mothers, pp. 82-87, 120-24, 143-48.
+49 Donald J. Hernandez, America's Children: Resources from Family, Government, and the Economy (New York: Russell Sage, 1993), pp. 102
+50 Bureau of the Census, Statistical History of the United States, p. 133.
+51 Lois Scharf, To Work and to Wed: Female Employment, Feminism, and the Great De.
+pression (Westport, Conn.: Greenwood, 198o), pp. 41 -42. 52 Kessler-Harris, Out to Work, p. 224.
+53 Susan Ware, Holding Their Own: American Women in the 193os (Boston: Twayne, 1982), pp. 25-26, 30-31; see also Robert S. Lynd and Helen Merrell Lynd, Middletown in Transition: A Study in Cultural Conflicts (New York: Harcourt, Brace, 1937), pp. 54-63.
+54 5Kessler-Harris, Out to Work, p. 227. 
+55 Ware, Holding Their Own, p. 27.
+56 Ruth Milkman, "Women's Work and Economic Crises: Some Lessons of the Great De. pression," Review of Radical Political Economy 8 (spring 1976): 75-77; Kessler-Harris, Out to Work, pp. 25I-72.
+57 Bureau of the Census, Statistical History of the U.S., Pp. 132--33.
+58 Philip S. Foner, Women and the American Labor Movement: From World War I to the Present (New York: Free Press, 198o), p. 257; see also Scharf, To Work and to Wed, pp. 43 -44, on precedents to such activities during the 192os.
+59'Ware, Holding Their Own, pp. 27-28, 46-53; Foner, Women and the American Labor Movement, p. 258; Claudia Goldin, Understanding the Gender Gap: An Economic History of American Women (New York: Oxford University Press, 199o), pp. 159-79
+60 Jacqueline Jones, Labor of Love, Labor of Sorrow: Black Women, Work, and the Family from Slavery to the Present (New York: Basic Books, 1985), pp. 46-47; Julia Kirk Blackswelder, Women of the Depression: Caste and Culture in San Antonio, 1929-1939 (College
+Station: Texas A & M University Press, 1984). 61 Ware, Holding their Own, pp. 30--31.
+62 Department of Labor, Women's Bureau, The Negro Woman Worker, by Jean Collier Brown, Bulletin 165 (Washington, D.C.: GPO, 1938), pp. 2-3.
+63 Foner, Women and the American Labor Movement, pp. 261 -62. 64 Blackwelder, Women of the Depression.
+ 65 Franklin D. Roosevelt, The Public Papers and Addresses of Franklin D. Roosevelt, comp. Samuel I. Rosenman (New York: Random House, 1938), 2:15, 13.
+66 Reminiscences of Bernice Bernstein, OHC, p.8; Reminiscences of Frank Bane, OHC, pp. 7-8; Patterson, New Deal and the States, chap. 2.
+67 James L. Sundquist, Dynamics of the Party System (Washington, D.C.: Brookings, 198 3) Pp. 198-239; Walter Dean Burnham, The Current Crisis in American Politics (New York: Oxford University Press, 1982), pp. 110-13; Kristi Andersen, The Creation of a Democratic Majority, 1928-1936 (Chicago: University of Chicago Press, 1979)
+68 Ira Katznelson, Kim Geiger, and Daniel Kryder, "Limiting Liberalism: The Southern Veto in Congress, 1933 -1950," Political Science Quarterly 108 (1993): 283 -306.
+69 Kristi Andersen, After Suffrage: Women in Partisan and Electoral Politics before the New Deal (Chicago: University of Chicago Press, 1996).
+70 Kristi Andersen, "Women and Citizenship in the 192os," in Women, Politics, and Change, ed. Tilly and Gurin, pp. 177-98.
+71 Susan Ware, Partner and I (New Haven: Yale University Press, 1987), pp. 168-73. In sufficient data exist to determine precisely the extent to which members of either sex con-tributed to the Democratic victories in the 193os, but according to Gerald Gamm's study of Boston, men's votes made for Democratic victories in 1932, and women's votes bolstered 1936 and I938 outcomes. Gerald Gamm, The Making of New Deal Democrats: Voting Behavior and Realignment in Boston, 1920-1940 (Chicago: University of Chicago Press, 1989), chap. 7. 
+72 On the women's network in national politics during the New Deal, see Susan Ware, Be. yond Suffrage: Women in the New Deal (Cambridge: Harvard University Press, 1981).
+73 On the role of the Women's Bureau in New Deal policymaking, see Sealander, As Minority Becomes Majority, pp. 57--84; on the Children's Bureau, see Muncy, Creating a Female Dominion.
+74 Scharf, To Work and to Wed, pp. 122-25; Ware, Holding Their Own, pp. 39-40; Jones, Labor of Love, p. 217; Winifred Wandersee, " A New Deal for Women: Government Pro-grams, 1933-1940," in The Roosevelt New Deal: A Program Assessment Fifty Years After, ed. Wilbur J. Cohen (Austin: University of Texas, Lyndon B. Johson School of Public Affairs, I986); Sealander, As Minority Becomes Majority, pp. 63, 69-74; Department of Labor, Women's Bureau, Women Workers in the Third Year of the Depression, Bulletin 1o3 (Washington, D.C.: GPO, 1933).
+75 William E. Leuchtenburg, Franklin D. Roosevelt and the New Deal (New York: Harper and Row, 1963), pp. 41-42; Theodore J. Lowi, The Personal President (Ithaca: Cornell University Press, 1985), pp. 25, 44-45.
+76 295 U.S. 495 (1935).
+77 The literature on the creation of the National Labor Relations Act is large and contentious. Standard histories of the era emphasize the role of Congress in developing the law. as seen in Leuchtenburg, Roosevelt and the New Deal; James MacGregor Burns, Roosevelt: The Lion and the Fox (New York: Harcourt, Brace and World, 1956), pp. 216-17; and Murray Edelman, "New Deal Sensitivity to Labor Interests," in Labor and the New Deal, ed. Milton Derber and Edwin Young (Madison: University of Wisconsin Press, 1961), pp. 186 87. Thomas Ferguson offers a corporate liberal analysis in Thomas Ferguson, "From Normalcy to New Deal: Industrial Structure, Party Competition, and American Public Policy in the Great Depression," International Organization 38 (winter 1984). A critical legal theory analysis appears in Christopher L. Tomlins, Labor Relations, Law, and the Organized Labor Movement in America, 1880-1960 (New York: Cambridge University Press, 1985). Other analyses emphasize the role of government bureaucrats: see Kenneth Finegold and Theda Skocpol, "State, Party and Industry," in State making and Social Movements: Essays in History and Theory, ed. Susan Bright and Charles Harding (Ann Arbor: University of Michigan Press, 1984), pp. 159-92; and Howell Harris, "The Snares of Liberalism? Politicians, Bureaucrats, and the Shaping of Federal Labor Relations Policy in the United States, ca. 1915  1947," in Shop Floor Bargaining and the State, ed. Steven Tolliday and Jonathan Zeitlin (New York: Cambridge University Press, 1985), pp. 148-91. Finally, some emphasize the role of working class insurgency: Piven and Cloward, Poor People's Movements, pp. 96-18o; and Goldfield, "Influence of Worker Insurgency."
+78 Melvyn Dubofsky, The State and Labor in Modern America (Chapel Hill: University of North Carolina Press, 1994), p. 144.
+79 Frank W. McCulloch and Tim Bornstein, The National Labor Relations Board (New
+York: Praeger, 1974), pp. 18 -25; Dubofsky, State and Labor, pp. 129-30. 
+80 Orren, Belated Feudalism, p. 29; 301 U.S. 1 (1937).
+81 301 U.S. r (1937); Dubofsky, State and Labor, pp. 144-45.
+82 Foner, Women and the American Labor Movement, pp. 301-2.
+83 Dubofsky, State and Labor, pp. 137; Robert H. Zieger, American Workers, American Unions, 1920-1935 (Baltimore: Johns Hopkins University Press, 1986), pp. 46-55
+84 Department of Labor, Women's Bureau, The Woman Wage Earner: Her Situation Today,
+by Elisabeth D. Benham, Bulletin 172 (Washington, D.C.: GPO, 1939), pp. 42-43. 85 Foner, Women in the American Labor Movement, pp. 30I --
+86 Dolores Janiewski, "Seeking a New Day and a New Way: Black Women and Unions in the Southern Tobacco Industry," in "To Toil the Livelong Day": America's Women at Work, 178o-198o, ed. Carol Groneman and Mary Beth Norton (Ithaca: Cornell University Press, I987), pp. 161-78.
+87 Sharon Hartman Strom, "Challenging Woman's Place': Feminism, the Left, and Indus-trial Unionism in the 1930s," Feminist Studies 9 (summer 1983): 365; Foner, Women in the American Labor Movement, pp. 311-16, 321-22.
+88 Gladys Dickason, "Women in Labor Unions," Annals of the American Academy of Political and Social Science 251 (May 1947): 71; see also Department of Labor, Woman Wage Earner, p. 42
+89 Ruth Milkman, "The New Deal, the CIO, and Women in Industry," in Roosevelt New Deal; ed. Cohen, p.'169; Richard B. Freeman and James L. Medoff, What Do Unions Do?(New York: Basic Books, 1984), pp. 28-29.
+90 Francine D. Blau and Marianne A. Ferber, The Economics of Women, Men, and Work(Englewood Cliffs, N.J.: Prentice-Hall, 1986), p. 273
+91 Milkman, "Organizing the Sexual Division of Labor," p. 127; Sharon Hartman Strom.  We're No Kitty Foyles: Organizing Office Workers for the Congress of Industrial Organizations, 1937-1950," in Women, Work, and Protest, ed. Ruth Milkman (Boston: Routledge and Kegan Paul, 198 5), p. 213.
+92 Strom, "Challenging Woman's Place," quotation on p. 373, see also pp. 369-73; Nancy F. Gabin, Feminism in the Labor Movement: Women and the United Auto Workers, 1935-1975 (Ithaca: Cornell University Press, 1990), pp. 17, 20, 38.
+93 Department of Labor, Woman Wage Earner, pp. 44-47; on the career of the ACWA board member, see Nina Lynn Asher, "Dorothy Jacobs Belianca: Feminist Trade Unionist,
+1894-1946" (Ph.D. diss., State University of New York at Binghamton, 1982).  
+94 Foner, Women in the American Labor Movement, pp. 326-27.
+95 Proceedings of the First Constitutional Convention of the Congress of Industrial Organizations, Pittsburgh, November 14-18, 1938 (n.p.: Congress of Industrial Organizations, 1938), pp.123-
+96 Strom, "Challenging Woman's Place,'" p. 370; Foner, Women in the American Labor Movement, pp. 331 - 3 2
+97Gabin, Feminism in the Labor Movement, pp. 31-34; Wandersee, "New Deal for Women," pp. 188-89; Foner, Women in the American Labor Movement, p. 332; Milkman. “Organizing the Sexual Division of Labor," p. 126; Patricia Cooper, "The Faces of Gender: Sex Segregation and Work Relations at Philco, 1928 -1938," in Work Engendered: Toward a New History of American Labor, ed. Ava Baron (Ithaca: Cornell University Press, 1991) p. 330.
+98 Foner, Women in the American Labor Movement, quotation on p. 314; Ruth Milkman, Gender at Work (Urbana: University of Illinois Press, I987), pp. 42-48.
+99 Milkman, Gender at Work, p. 7; Freeman and Medoff, What Do Unions Do? p. 28. 10o David Montgomery, Workers' Control in America: Studies in the History of Work, Technology, and Labor Struggles (New York: Cambridge University Press, 1979), pp. 165 66; Piven and Cloward, Poor People's Movements, pp. 155-61; Elizabeth Faue, "Paths of Unionization: Community, Bureaucracy, and Gender in the Minneapolis Labor Movement of the 193os," in Work Engendered, ed. Baron, pp. 296--319.
+1oi Christopher L. Tomlins, "The New Deal, Collective Bargaining, and the Triumph of Industrial Pluralism," in The New Deal: Conflicting Interpretations and Shifting Perspectives, ed. Melvyn Dubofsky (New York: Garland, 1992), pp. 318-19; James A. Gross, The Reshaping of the National Labor Relations Board: National Labor Policy in Transition. 1937-1947 (Albany, N.Y.: State University of New York Press, 1981), p. 43; McCulloch and
+Bornstein, National Labor Relations Board, pp. 29--30. 102 Strom, " We're No Kitty Foyles,'" p. 214.
+
 
