@@ -529,3 +529,324 @@ by Elisabeth D. Benham, Bulletin 172 (Washington, D.C.: GPO, 1939), pp. 42-43. 8
 Bornstein, National Labor Relations Board, pp. 29--30. 102 Strom, " We're No Kitty Foyles,'" p. 214.
 
 
+# 第三章 老年保险与老年援助的形成
+
+>“在我们的诸多目标中，我将本国男女老少的安全置于首位……基于未知危险的恐惧与担忧，是导致社会动荡与经济萎靡的推手。” “正如我国宪法所言，我们联邦政府建立的目的之一是‘增进全民福祉’，那么为这种福祉所赖以存在的安全提供保障，便是我们义不容辞的责任。” 
+>——富兰克林·D·罗斯福总统，“致国会的咨文，1934年6月8日”
+
+伴随着这些话语，罗斯福公开了他旨在为美国民众提供持久经济安全保障立法的初步计划。由于对1936年的连任前景感到焦虑，罗斯福希望迅速推进社会供给法案的制定与通过。到1934年6月底，他任命了一个名为经济安全委员会（CES）的内阁委员会，负责研究经济安全问题，提出建议，并起草能够在六个月内提交给国会的立法提案。罗斯福于1935年8月签署成为法律的《社会保障法》（Social Security Act），以美国的标准来看在范围上是史无前例的，并且至今仍是美国政治史上最全面的社会政策创举。通过将若干项目合并为一部法律，该法案有效地建立了一个完整的社会福利体系，旨在最终触及大多数公民的生活。该法规的主要组成部分包括缴费型的老年保险（Old Age Insurance，后来被称为“社会保障”）、针对老年人的非缴费型老年援助（Old Age Assistance）、失业保险（Unemployment Insurance）以及未成年儿童援助（Aid to Dependent Children）。
+
+与欧洲的社会保险计划和美国进步时代（Progressive Era）的母亲养老金不同，新政（New Deal）时期的国家建设者们创造了表面上性别中立的社会项目。然而，对这些政策的审查表明，《社会保障法》以一种受性别深度分层的方式确立了美国的社会公民身份。这种分化的出现，首先是因为政策制定者建立在进步时代改革传统（即社会保险与社会工作）的性别化遗产之上。在为“身体健全的受雇者”和那些被认为“无法照顾自己的人”分别设立不同的项目时，他们实际上按性别对潜在的受益人进行了分类。其次，政策制定者通过国家与州（national-state）行政权力的分割加剧了项目之间的区别，从而导致在实施过程中产生了不同形式的公民身份。然而，无论是《社会保障法》的框架还是其特定项目的设计都不是预先注定的，甚至在该法律出台之后，其对公民身份的意涵仍不明朗。为了理解该法律如何在性别层面塑造公民身份，有必要审视其主要项目的形成和实施过程中的政治博弈。本章首先探讨罗斯福政府在早期阶段如何开始塑造所谓的“经济安全法案”（Economic Security Bill）的框架，进而分析经济安全委员会（CES）和国会中针对老年人制定政策的政治过程。
+
+## 罗斯福政府的社会保障路径
+
+在20世纪30年代，众多声音提出了关于社会保险计划的设想。一个被称为“汤森派”（Townsendites）的广泛草根民粹主义运动提倡，向所有60岁及以上的个人每月发放由税收支付的200美元，条件是这笔钱必须在当月消费完毕，以此作为刺激经济的手段。伦丁法案（Lundeen Bill，或称“工人法案”）的左翼支持者认为，普遍的失业补偿计划应由一般税收来提供资金，而不是由雇员缴费，他们担心后者会提高物价、降低工资并损害消费者利益。著名的社会政策学者亚伯拉罕·爱泼斯坦（Abraham Epstein）和艾萨克·鲁比诺（Isaac Rubinow）提倡由国家管理的失业保险，其资金一部分来自政府拨款，一部分来自雇主准备金。联邦紧急救援署（FERA）负责人哈里·霍普金斯（Harry Hopkins）；各行政机构的工作人员；以及美国社会工作者协会（American Association of Social Workers）则建议将所有类型的救济和社会保险合并起来，这样任何失业、年老或生病的公民，无论其需求如何，都有资格从国家政府获得由一般税收支付的款项。
+
+尽管这些提议来源迥异，但它们对永久性社会政策的核心特征有着一些共同的期望。其支持者渴望的计划在覆盖面上应具有相当的普遍性，在很大程度上由国家政府管理，并通过一般性税收提供资金。在所有这些方面，他们的提议与罗斯福政府最初的计划大相径庭。
+
+#### 融合社会保险与社会工作
+
+罗斯福本人期望建立一个全面且普遍的社会保险体系。在向内阁成员私下吐露心声时，他主张为所有公民提供“从摇篮到坟墓”（cradle to the grave，他自己的用词，尽管后来被用来描述英国的贝弗里奇计划）的保障：“我认为没有理由不让每个孩子从出生起就成为社会保障体系的一员。当他长大后，他应该知道他将直接从他终身参与的保险体系中获得老年福利。如果他失业了，他能得到一项福利。如果他生病或残疾，他也能得到一项福利……没有理由只有产业工人才能获得这项福利。所有人都应该参与其中。”在后来的岁月里，罗斯福向珀金斯（Perkins）部长表达了他的感受，即“他自己广阔的视野……在我们的计划中被削减成了保守的模式。”然而，罗斯福对为所有人提供无缝政策的希望，既与他自己具体的政策偏好不符，也与他政府中官员们的早期决定相左，后者决定同时采用与工作相关的措施和公共援助措施，并将不同的群体分别纳入。
+
+总统设想将与工作相关的社会保险作为一种远优于长期一般救济的替代方案，他担心长期救济会对受助者产生不良影响，给政府财政带来过重负担，并容易受到政治动荡的波及。不过，他也承认有必要提供某些形式的公共援助，前提是这些项目被狭义地设计为适用于特定群体的“值得帮助的”（deserving）受助者。罗斯福的顾问们遵循了总统的总体倾向，但没有采用霍普金斯或伦丁那种将针对所有贫困人口的福利合并到一个项目中的模式，他们迅速决定采用“零散式路径”（piecemeal approach），将按照不同原则组织并针对不同群体的各种项目整合到一个全面的立法方案中。罗斯福政府官员勾勒的最早提案中，包括一些借鉴社会保险传统的项目，这些项目以工薪阶层为目标，而另一些项目则反映了社会工作和公共援助的母性主义（maternalist）传统，旨在解决那些缺乏长期劳动力市场经验的人群的关切。
+
+在早些年代，社会保险倡导者的工作与社会工作支持者截然分开，有时甚至彼此抱有敌意。事实上，当一位罗斯福政府官员向长期涉足母性主义改革的芝加哥大学社会工作教授伊迪丝·阿博特（Edith Abbott）咨询时，她明确表示她“对社会保险几乎没有信心，认为它非常昂贵，并且无法照顾到很大一部分最需要依赖（社会援助）的人。”尽管如此，这两种路径在罗斯福政府中实现了汇合，由推崇这两种路径的官员们整合在一起。
+
+为立法奠定基础的最重要参与者之一是弗朗西丝·珀金斯（Frances Perkins），她具有这两种改革传统的背景，并与这两个领域的专家都有私人关系。在整个1910年代，珀金斯曾在纽约作为一名母性主义传统的社会改革者开展工作。后来她成为该州的工业专员，在当时的罗斯福州长手下任职期间，她推动了关于建立全州失业保险计划可行性的研究。当罗斯福请她担任劳工部长时，她告诉他，她希望能同时建立老年保险和失业保险。当他任命她为经济安全委员会（CES）的负责人时，她找到了施展抱负的机会，并提倡一项结合了社会保险和公共援助的计划。正如她后来解释的那样：“对我们来说很明显，任何社会保险制度都不能缓解积重难返的贫困……我想，任何通情达理的人都从未建议过应该为了失业和老年保险而放弃救济，而是认为可以将两者融合起来。”
+
+除了珀金斯之外，罗斯福身边还有其他支持社会保险的人士，他们与母性主义改革传统也保持着联系。罗斯福的顾问们偏爱与“威斯康星学派”（Wisconsin school）相关的社会保险形式，而不是爱泼斯坦和鲁比诺所倡导的“俄亥俄”模式变体。威斯康星方法起源于威斯康星大学经济学家约翰·康芒斯（John Commons），他是一位社会保险专家，他拥有一大批虔诚的追随者——他的研究生们成为了活跃的改革者，并在前几十年帮助威斯康星州成为进步主义的先锋。根据进步主义的理想，政府的结构应该旨在遏制特殊利益集团的权力，并促进个体公民的经济和社会福祉。作为实现这些目标的手段，康芒斯的学生们设计了全美第一部失业保险法，并于1932年在威斯康星州颁布。
+
+罗斯福还征求了最高法院大法官路易斯·布兰代斯（Louis Brandeis）的建议，布兰代斯的女儿伊丽莎白不仅深谙社会工作传统，同时也是社会保险专家，此外她还是威斯康星州失业保险法起草人保罗·劳森布什（Paul Raushenbush）的妻子。哈佛法学院教授费利克斯·法兰克福特（Felix Frankfurter）本人是布兰代斯的门生，也是罗斯福的私人朋友和备受倚重的顾问，他也偏好威斯康星流派的社会保险。此外，他与母性主义传统亦有渊源，因为他曾被全国消费者联盟（NCL）招募，为1908年穆勒诉俄勒冈州案（Muller v. Oregon）中有关女性劳动保护法的案件制定法律策略。
+
+珀金斯要求她的劳工部第二助理部长亚瑟·J·阿尔特迈耶（Arthur J. Altmeyer）为经济安全委员会（CES）将要研究的课题以及负责协助该委员会的技术委员会的成员构成制定计划。阿尔特迈耶坚定地秉持威斯康星学派的社会保险路径：在来到华盛顿之前，他曾是康芒斯在威斯康星大学的学生，并担任过威斯康星州工业委员会的执行秘书。他也是劳工部儿童局局长凯瑟琳·伦鲁特（Katharine Lenroot）的朋友，伦鲁特本人也是康芒斯曾经的学生，且是一位威斯康星州立法者的女儿。他当时已经向伦鲁特承诺，扩大母亲养老金和其他儿童项目的资金将被纳入经济安全法案中。
+珀金斯与阿尔特迈耶对威斯康星社会保险路径以及公共援助的社会工作传统的尊重与联系，阐明了为何经济安全委员会（CES）会以一种有别于20世纪30年代被广泛讨论的许多其他流行路径的方式来制定社会政策 。他们在早期便做出选择，去推动多种旨在针对不同处境人群的项目，并且他们既挑选了一个由这些项目领域的专家组成的技术委员会来制定具体提案，又配备了庞大的工作团队以开展研究 。对于经济安全委员会（CES）执行主任一职，他们任命了威斯康星大学经济系主任埃德温·E·威特（Edwin E. Witte），他是康芒斯的另一位门生，曾协助设计了威斯康星州的失业补偿计划 。阿尔特迈耶本人则成为了技术委员会的主席 。
+
+因此，到1934年6月，罗斯福政府就已经开始走上一条发展两种截然不同的项目的道路：一种主要针对工薪阶层，另一种则针对未能被第一种路径覆盖的“值得帮助的”（deserving）人群 。在20世纪30年代中期的任何特定时期，只有四分之一的女性人口参与劳动力市场，而男性人口的参与率则超过四分之三，这就注定了这些项目从一开始便会获得一个相当具有性别特征的受益群体基础 。尽管如此，项目覆盖范围和申请资格的具体条件仍有待确立，每种类型的性质与地位也尚未确定 。然而，社会保险倡议对美国来说是新事物，其未来充满了极大的不确定性 ；相比之下，针对“值得帮助的穷人”（deserving poor）的分类援助型项目（categorical assistance-type programs）被视为替代一般救济和济贫院的一种熟悉且声誉良好的选择，即便到了20世纪30年代，这些项目在许多社会工作界人士看来已显得有些保守 。
+
+尽管政府内部对拟纳入立法基本框架的项目总体类型几乎没有异议，但在特定项目管理的管辖权问题上却未能达成共识 。新政（New Deal）社会政策将在多大程度上、以何种方式突破有关联邦主义（federalism）的普遍预设 ？国家政府将在多大程度上承担起作为美国社会再分配中心的新角色 ？对此类问题的解答，对于理解新政中所缔造的新国家（new state）将如何吸纳公民而言至关重要 。
+
+### 联邦主义
+
+罗斯福在政策制定方面是一位实用主义者，乐于通过实验来寻找行之有效的方法 。在呼吁制定经济安全计划时，他提议“州与联邦政府之间进行最大限度的合作” 。尽管罗斯福的话语承诺国家政府将在社会政策中扮演某种永久性的角色，但实施新政策的政府间安排和权力平衡却绝证明晰 。政府内部的决策阵营争相影响《经济安全法案》（Economic Security Bill）的发展方向，部分人还试图利用有影响力的外部人士向总统施压 。总统顾问汤姆·科科伦（Tom Corcoran）与本·科恩（Ben Cohen）精心策划了一场最高法院大法官布兰代斯与罗斯福之间的会面 。在进步时代，布兰代斯曾强调各州作为政策创新与实验的“民主实验室”（laboratories of democracy）的能力 。他的观点依然反映了对分权（decentralization）的信念，这是进步时代流行思想流派的标志，有别于赫伯特·克罗利（Herbert Croly）等思想家所倡导的更具汉密尔顿主义色彩（Hamiltonian twist）的观点 。在罗斯福与布兰代斯会面后，科科伦与科恩在写给他们的导师、前教授费利克斯·法兰克福特的信中报告称，布兰代斯“不喜欢船长（Skipper，指罗斯福）心中的计划，因为该计划将行政管理权完全留给了联邦政府，而非各州。船长给人的印象是，该计划目前还没有任何板上钉钉（cut and dried）的东西，一切仍在酝酿之中” 。
+
+罗斯福可能在管辖权问题上犹豫不决，但经济安全委员会（CES）核心圈子的官员们已经确信，各州应主要负责管理这些新项目 。珀金斯、阿尔特迈耶和威特都具有进步时代州级社会改革的背景，他们深信各州应作为社会与劳工立法实验的实验室这一理念 。正如珀金斯后来解释的那样 ：
+
+> “在那个时候，州权（states' rights）问题在北方和在南方一样重要 。我至今仍认为，我们绝不应该剥夺各州在社会领域进行大量此类运作的责任 。只有在联邦行动是实现各州之间合作的唯一途径时，才应当采取联邦层面的行动……我们仍然坚持这样一种观念，即各州必须参与，各州必须发展自己的项目，而联邦政府可以说只是在掌管共同资金（holding the kitty），以便均摊成本” 。
+
+这些官员的路径反映了新政之前时期在州一级为改革而斗争的现实 。他们敏锐地感觉到有必要保护州一级的倡议免受最高法院的干预，并且他们希望在像他们这样的改革者于进步时代业已建立的政策基础上继续建设 。尽管到1934年只有威斯康星州实施了失业保险法，但大约有一半的州已经颁布了老年养老金，并且有四十五个州在立法层面规定了母亲养老金 。为了扩大和改进此类项目，这些经济安全委员会（CES）的领导人始终坚持经济安全立法应强调联邦-州联合项目，而非严格意义上的国家级项目 。
+
+在被任命为经济安全委员会（CES）主任后不久，威特便与几位学者、劳工领袖和民选官员通信并进行拜访，以征求他们对制定社会政策的意见 。他报告称，“布兰代斯大法官强烈主张所有类型的社会保险都应由各州管理”，且“法兰克福特教授赞同布兰代斯大法官的观点，即拟议的立法应考虑由州进行管理，联邦政府仅规定广泛的总体标准。他将以一种允许各州进行大量实验的方式来起草联邦立法” 。在威特采访的人中，只有纽约市市长拉瓜迪亚（LaGuardia）极力主张实行国家级管理与标准 。威特报告称，“他对州级管理毫不信任……他认为各州是正在走向消亡的政府单位，不愿以它们为核心建立社会保险制度” 。拉瓜迪亚补充说，如果采用州级管理，国家政府将需要对各州施加“严格的标准，以特别确保资金能花费在最需要的工业区” 。作为重新分配席位时代（prereapportionment era）之前的一位大城市市长，拉瓜迪亚的观点不足为奇，在那个时期，州立法机构对城市需求的漠不关心是出了名的 。但是威特咨询的其他人士强化了经济安全委员会（CES）领导人的偏好，即在一个相当传统的联邦主义模型基础上构建社会政策模型 。
+
+除了经济安全委员会（CES）官员及其顾问的倾向以及政策先例的影响之外，罗斯福政府偏向于给各州留有相当大自治权的政策设计，还有其政治上的原因 。毕竟，国会仍然由南方民主党人主导，他们对国家政府过度干预他们认为应保留给州和地方政府的事务格外警惕 。罗斯福愿意向这些要求让步，以获得对其提案必要的支持 。其他重要的选民群体也对联邦政府在社会政策中拥有广泛权力产生了不信任，尤其是在新政初期联邦紧急救援署（FERA）的行政管理之后 。在罗斯福上任的头几个月里，当地方救济和私人慈善机构被证明力有不逮时，他推进了由联邦资助的救济项目 ；首个且最全面的此类项目便是联邦紧急救援署（FERA） 。联邦紧急救援署的资金最初受到了地方行政官员和政客的欢迎，但不久之后，该项目就开始引发对联邦政府的敌意，因为该法案规定地方不得干预其运作 。联邦紧急救援署使地方官员对那些允许他们所视为的“过度联邦控制”的社会项目持怀疑态度 。
+
+罗斯福政府中的一些人也感到受到了最高法院审查阴影的牵制，特别是因为在社会福利政策领域，几乎没有联邦政府活动的先例 。他们推断，那些模仿《莫里尔法案》（Morrill Act）或《联邦公路法》（Federal Highway Act）等其他既有补助金（grants-in-aid）项目中暗含的联邦-州合作模式的政策设计，比严格意义上的国家级项目更有机会通过合宪性测试 。最后，政府倾向于将重大权力留给各州，这也是一种在其他一切手段都失败时的防御性政治策略 。起草政府法案的律师托马斯·埃利奥特（Thomas Eliot）回忆了罗斯福是如何坦率地阐明这一理由的：“你知道，休伊·朗（Huey Long）可能会成为下一任美国总统；如果发生这种事，要是我们能尽可能多地将权力留在州政府那里，我们都会谢天谢地的” 。罗斯福的话语既表达了对诸如朗的“分享财富”（share-the-wealth）议程这样更为激进、更具再分配性质的替代方案的恐惧，也表达了对各州作为民主实验室的能力能够得到增强的希望，就像他所在的纽约州在进步时代所表现的那样 。
+
+尽管经济安全委员会（CES）领导人强烈支持一项赋予各州充分权力、且兼括社会保险和公共援助项目的经济安全计划，但在具体的项目设计和行政管理安排上，前方依然面临着巨大的斗争 。为老年人制定项目的政治过程带来了一项远远超出珀金斯、阿尔特迈耶和威特所能想象之范围的政策创新，而其对公民身份和性别的意涵也是深远的 。
+
+## 经济安全委员会（CES）中老年政策的形成
+
+罗斯福政府之所以迅速采取行动以推进其自身版本的老年社会保险，部分原因是它急于先发制人，以阻止那些激进得多的提议 。20世纪30年代出现了一场广泛的、多面向的草根社会运动，大声呼吁建立具有高度再分配性质的、由政府主导的养老金制度，从而使美国老年人的生活更加安稳 。休伊·朗的“分享我们的财富”（share-our-wealth）计划、加利福尼亚州的“火腿与鸡蛋”（Ham and Eggs）议程以及其他几项提案动员了公民，但没有哪一项能像汤森计划（Townsend plan）那样在地理上覆盖如此之广，或对国家机构产生如此之大的影响 。该计划以其发起人、加利福尼亚州长滩市的一位老年医生弗朗西斯·汤森（Francis Townsend）的名字命名，其支持者向国会议员们发出了响亮且清晰的呼声 。他们坚称，为这笔丰厚养老金提供资金所需的新税收将得到很好的补偿，因为老年人的强制性消费将刺激经济 。相比之下，经济安全委员会（CES）着手为老年人制定了一项双层计划（two-tiered plan），通过推销用于老年援助的联邦补助金来争取公众支持，同时对一项缴费型社会保险项目采取温和推行（soft-peddling）的策略 。
+
+尽管塑造了经济安全委员会（CES）两项项目的决策传统具有性别化的根源，但在1934年至1935年间有关老年保险（OAI）和老年援助（OAA）形成过程中的争论，更多地与美国联邦主义的形态有关，而较少牵涉关于性别角色的观念 。与进步时代的社会决策进一步形成鲜明对比的是，在辩论的每一方阵营中都能发现重要的男性和女性改革者的身影 。学者们将20世纪初的社会保险改革计划贴上了“男性愿景”（male vision）的标签 ，但事实上，后来成为美国福利国家（welfare state）核心的新政项目背后的“驱动力” ，却是一位女性——芭芭拉·纳赫特里布·阿姆斯特朗（Barbara Nachtrieb Armstrong） 。
+阿姆斯特朗是加州大学的法学副教授，与威斯康星学派没有任何私人联系，她被聘为经济安全委员会（CES）老年保障工作组的规划主任。 协助她的有普林斯顿大学的经济学家J·道格拉斯·布朗（J. Douglas Brown）； 铁路退休委员会（Railroad Retirement Board）主席默里·拉蒂默（Murray Latimer）；以及精算师奥托·里希特（Otto Richter）。 拉蒂默担任了该小组委员会的主席，代表该小组在向经济安全委员会（CES）提供建议的技术委员会中发挥作用。
+
+阿姆斯特朗于1934年带着对美国经济安全问题的精细分析和一项在脑海中已然成熟的社会保险计划来到了华盛顿。 就在两年前，她发表了关于该主题的专著《确保必需品：最低工资加社会保险，一项维持生活工资的计划》（_Insuring the Essentials: Minimum Wage plus Social Insurance, a Living Wage Program_）。 秉持社会供给（social provision）的社会保险路径，她将目光投向了预防贫困，而这一目标是济贫法、私人慈善机构或那些铭刻着社会工作规范的公共援助项目所未能实现的。 她认为，各州正在发展的老年养老金项目包含着类似于“贫民救济”（poor relief）的资格规定：它们“剥夺了（申请人）作为个体的尊严地位”。
+
+在阿姆斯特朗的领导下，老年保障委员会计划将缴费型社会保险作为长期援助老年人的主要项目，这秉承了罗斯福总统的愿望，即建立一个将福利视为一种权利、不受政治风向变化影响的计划。然而，这四人组也认为，在社会保险项目的资金到位之前，扩大针对老年人的公共援助项目对于应对现有的需求至关重要。阿姆斯特朗本人对那些可能无法被覆盖 在社会保险计划内、从而必须依靠非缴费型养老金的女性的处境尤为关注。 例如，她强调有必要向那些在丈夫获得养老金资格前就已去世的工人遗孀，向那些丈夫从事高薪但无保险的工作、导致晚年缺乏足够保障的遗孀，以及向那些缺乏足够工作记录而无法获得援助资格的男女提供援助。阿姆斯特朗的雄心之一就是设计出一套尽可能包含更多女性的老年保险（Old Age Insurance）。
+
+### 老年保险
+
+与支持社会保险的男性倡导者一样，阿姆斯特朗假定，一项核心的社会供给项目应当围绕劳动力市场参与来组织，这就必然主要针对家庭单位中的男性养家糊口者（male breadwinners）。然而，与她的男性同僚不同，阿姆斯特朗坚持认为，男性雇佣工人的遗孀应该有权凭借自身权利获得福利。 她为经济安全委员会（CES）撰写的书面报告证明了她从一开始就试图建立遗属保险（survivors' insurance）的努力。然而，这些努力遭到了执行主任的反对。 阿姆斯特朗说：“每次我在报告中提出我们也应该有遗属保险时，威特先生都会把它删掉。”
+
+经济安全委员会（CES）认为此类福利是可取的，但并非当务之急，因此并未将这些计划纳入1935年1月提交给国会的法案中。然而，珀金斯主席确实在一个重要方面扩大了拟议中的老年保险（OAI）的覆盖范围，而阿姆斯特朗的委员会曾认为这在财政和行政管理方面可能过于具有挑战性。 珀金斯坚持要求将家庭佣工和农业工人纳入缴费型项目的受益人之中。此类规定将影响从事出了名的低薪且艰苦工作的工人，并将覆盖90%以上的非裔美国女性和大多数非裔美国男性，以及高比例的其他非白人男女。
+
+在创建老年保险（OAI）的过程中，最重大且最具争议的较量围绕着该项目由国家还是州一级进行行政管辖的问题展开。尽管经济安全委员会（CES）的领导人在1934年初夏就已经明确表示他们偏好主要由州一级的项目，但由阿姆斯特朗领导的老年保障委员会在夏末召开会议，并一致表示支持完全的全国性制度。委员们争辩说，人口的流动性会给联邦-州联合项目带来行政困难； 因为人们可能在几个州工作，然后又在另一个州退休。 全国性系统将确保更快、更充分地覆盖更多人口，并且合规性也会更好，因为正如阿姆斯特朗的小组委员会所推论的那样，“在社会控制方面，人们对联邦要求绝对比对地方要求更加尊重。” 该小组委员会承认，出于政治原因，州一级系统可能更可取，但他们反驳说，如果联邦政府减轻了各州供养其大部分老年人口的责任，那些支持“州权”的人理应感到高兴。
+
+当阿姆斯特朗宣布她的小组委员会计划在全国范围内推进老年保险（OAI）以作为其老年计划的核心时，引发了争议。刚从哈佛法学院毕业的经济安全委员会（CES）总法律顾问托马斯·埃利奥特（Thomas Eliot）反驳说，这样的计划将是违宪的。 阿姆斯特朗不得不提醒埃利奥特她本人也是一位法学教授，并向他保证，她已经就此问题咨询了被公认为合宪性事务权威的学者。
+
+随后，阿姆斯特朗的小组开始着手收集这些专家对其立场的支持验证。加州大学宪法学教授达德利·O·麦戈夫尼（Dudley O. McGovney）回应称，他认为宪法并未对向雇主和雇员征税以及从国家储备基金中拨付福利构成任何障碍，并且他已经详细审查了这两项活动的司法先例。阿姆斯特朗随后前往马萨诸塞州剑桥市，会见了哈佛大学法学教授托马斯·里德·鲍威尔（Thomas Reed Powell），他在这些问题上的意见被具有决定性意义。 埃利奥特曾确信鲍威尔会认为全国性的老年保险（OAI）方案是违宪的； 但实际上，鲍威尔坚持相反的观点，并起草了一封信来澄清他对该事项的理解。在咨询了普林斯顿大学的埃德温·S·科尔温（Edwin S. Corwin）教授和杜克大学的道格拉斯·马格斯（Douglas Maggs）教授之后，致力于制定老年安全计划的小组重申了他们支持完全的国家层面计划而非州-联邦联合计划的立场，表示他们“确信只有前者才能被依靠以提供充分的老年保障。”
+
+与此同时，经济安全委员会（CES）的领导人仍然反对全国性的老年保险（OAI）计划。弗朗西丝·珀金斯对这一提议继续感到不安，她责令埃利奥特设法提出可行的、由州政府管理的老年保险计划，但这一努力最终证明是徒劳的。在11月中旬阿姆斯特朗的委员会提交了确凿的证据，证明全国性计划将是最可行的，并且重要的法律学者认为它是合宪的之后，经济安全委员会（CES）的领导人突然暗示，老年保险计划可能会被完全放弃。 在总统11月14日于一次经济安全会议上的讲话中，他宣读了由威特起草的措辞：“我不知道现在是否是就老年安全进行任何联邦立法的时机。” 被激怒的阿姆斯特朗小组通过联系新闻界的朋友进行了反击。 斯克里普斯-霍华德（Scripps-Howard）报系的一篇社论以及《纽约时报》的一篇头条文章批评了罗斯福放弃老年保险计划的举动。 罗斯福显然对负面报道感到沮丧，此后便对老年保险（OAI）项目表达了更真诚的兴趣。 威特被阿姆斯特朗小组激怒了，他怀疑是他们煽动了这种反应，并且他继续对全国性计划抱有疑虑。 同样，法兰克福特坚持建议经济安全委员会（CES）“运用我们最好的政治才能，让各州和各地区发挥他们有能力发挥的作用。” 然而与此同时，对全国性计划的支持却从一个意想不到的地方涌现出来。
+
+12月，经济安全委员会（CES）咨询委员会（Advisory Council）的老年保障小组委员会（由商界、工会和全国性组织的杰出领导人组成）对全国性统筹的老年保险（OAI）安排表示支持。标准石油公司（Standard Oil Company）总裁沃尔特·蒂格尔（Walter Teagle）为该计划辩护，反对莫莉·杜森（Molly Dewson）的异议，杜森代表全国消费者联盟（NCL），其联系深深植根于母性主义改革传统。 阿姆斯特朗认为，杜森的反对是出于她对珀金斯部长的忠诚与友谊。 杜森的立场被击败，并且蒂格尔在全体咨询委员会中得到了其他实业家的响应，共同支持该计划。 此后，阿姆斯特朗和布朗认为，他们在老年保险对他们来说最重要的特征上取得了胜利：即全国性的行政管理和标准。
+
+除了覆盖范围和行政管辖权的问题外，老年保险（OAI）的设计还涉及融资以及税收和福利结构的问题。尽管经济安全委员会（CES）的领导人认为需要从一般税收中拨出部分资金来支持该项目，但罗斯福坚决主张传统的保险原则。 他坚持认为该项目必须完全由工资税（payroll taxes）提供资金，这样它的性质就会明显区别于救济，从而能够获得长期的政治支持。 财政部长亨利·A·摩根索（Henry A. Morgenthau）同样要求以财政保守主义来指导设计。 最终出台的计划要求雇主和雇员根据统一的工资税率和应税工资上限（taxable wages）的累退（regressive）组合方式向退休基金缴费。
+
+福利的发放则将根据一种分级（graduated）的、但带有适度累进（progressive）色彩的方案进行管理。 与汤森计划（Townsend plan）呼吁通过政府收入为所有老年人提供固定统一福利的做法不同，老年保险（OAI）将发放与其受助者之前在劳动力大军中的过往收入挂钩的福利。 在描述该计划时，经济安全委员会（CES）官员特别强调了福利结构的再分配特征：“保险福利相对于缴费应该被分级，以使 (a) 平均收入较低的人群和 (b) 在生命较晚阶段进入该系统的人群应获得比例更高的福利。作为旨在预防依赖性（dependency）的社会机制，老年保险制度应该在某种程度上根据各类受益人的相对需求进行调整。” 但是，尽管低收入人群相对于他们的工资和纳税额将比高收入人群获得更多的收益，老年保险（OAI）结构的再分配维度却将被累退的税收结构和与工资挂钩的福利阶梯所抵消。此外，要获得福利资格，工人必须在受保的职业（covered employment）中拥有长期的、相对全职的工作记录。 由于只有四分之一的女性人口被雇佣，而且女性出于抚养孩子的责任，往往比男性更频繁地进出劳动力市场，因此福利注定主要流向男性。 因此，融资和福利的安排放大了原本已经按照性别分层的劳动力群体，同时只部分改善了工资等级底层一些人的状况。
+
+总而言之，关于老年保险（OAI）的提案在某些方面是保守的，并且倾向于境况较好的男性工人，但在其他方面则是大胆的、影响深远的，并且具有创新性，至少以美国的标准来看是如此。 该计划在忽略遗孀和儿童的遗属福利方面也是个例外。在此之前，已经有十四个其他国家颁布了包含遗属保险的老年保险计划，但经济安全委员会（CES）报告称，尽管这样的制度是可取的，但仍需要进一步调查以证明任何此类提案的合理性。在融资方面，该计划是累退的，不仅因为正如马克·莱夫（Mark Leff）所展示的那样，它给“经济金字塔底层的被遗忘者”带来了沉重的负担，而且还因为它将从获得最低工资的不成比例的女性工人那里榨取最大的牺牲。然而，对于J·道格拉斯·布朗和芭芭拉·阿姆斯特朗而言，这项提案是激进的 因为它在全国范围内确立了获得老年福利是一项权利。 他们为这一来之不易的成就感到自豪，并深信在后来的岁月中将会出现扩大的覆盖面和更加慷慨的福利结构。
+
+### 老年援助
+
+鉴于老年群体中存在广泛而迫切的需求，且出于回应要求扩大老年养老金的流行运动的政治需要，阿姆斯特朗的委员会和经济安全委员会（CES）领导人都同意有必要将非缴费型的老年援助（OAA）纳入提交给国会的法案中。 正如1935年至1938年担任社会保障委员会（Social Security Board, SSB）执行主任、且在法律通过时担任美国公共福利协会（American Public Welfare Association）主任的弗兰克·巴恩（Frank Bane）所回忆的那样：“在那个时候，老年援助对大多数此类项目来说就像是马鞍下的芒刺……这是因为两位先生……也就是汤森和休伊·朗，以及他们所代表的运动。” 由于国会被要求为老年人提供养老金的呼声所包围，经济安全委员会（CES）成员预测该项目肯定会受到欢迎。事实上，真正起草最终法案的埃利奥特试图通过将老年援助放在“第一编”（Title I）的显要位置，以使国会对整个经济安全方案抱有热情。
+
+在创建老年援助（OAA）——由于女性很大程度上被排斥在老年保险（OAI）之外，该项目对女性来说将最具重要意义——的过程中，经济安全委员会（CES）采取了一项计划，该计划反映了将相当大的行政权力留给各州的偏好，并建立在当时已在二十八个州中存在的项目基础之上。 就像当时已经提交国会的迪尔-康纳利法案（Dill-Connery Bill）一样，该项目将被设计为向各州提供的联邦补助金（federal grant-in-aid）。 其中心目标将是协助尚未实施养老金计划的各州为贫困的老年人颁布养老金项目，并提高已有项目中的福利水平。 罗斯福政府还希望通过推动各州承担起照顾贫困人口的部分责任，将救济的责任重新转移回各州。 老年援助（OAA）将要求国家政府为各州决定符合条件的老年人提供一半的福利资金，匹配额度上限为每人每月15美元。
+
+经济安全委员会（CES）官员确实希望为已经存在的老年援助（OAA）项目制定更加慷慨的标准，并确保此类标准能在全国范围内应用。首先，他们的提案规定，任何州要想获得匹配资金，该项目必须在全州范围内实施，而不是像现有系统中更典型的那样仅在某些地方实施。 其次，尽管委员会计划让各州在资格认定方面保留很大程度的自由裁量权，但它确实坚持要求老年援助（OAA）的州行政管理部门提供“一笔能够提供符合体面与健康的合理维持生存的最低援助拨款。” 该规定将迫使各州提高福利水平：在1934年，各州提供的平均补助金仅为每月15美元。经济安全委员会（CES）版本的法案还要求此类福利必须发给那些收入太低以致无法提供这种“合理生存维持”、且其个人财产价值低于3000美元的人，这比现有法律中通常对财产和收入综合设定的3000美元上限要慷慨得多。
+
+母性主义改革者尽管对老年保险（OAI）缺乏热情，但确实为补助金项目争取了全国统一的标准。 在咨询委员会任职的格雷斯·阿博特（Grace Abbott）在1934年12月联系威特，抱怨将作为老年援助（OAA）条款一部分的居住要求。 经济安全委员会（CES）曾提议，对于那些强行规定在前十年中必须在该州居住五年或五年以上才满足条件的州，拒绝提供匹配补助金。 阿博特担心该提议可能被解释为设定了最低标准而非最高标准，因此她寻求澄清。 此外，她辩称不应该要求在特定州居住，而只要求在全国范围内居住即可。 威特在第一点上向她保证了该法律目的的清晰性，但他要么没有理解她关于国家公民身份而非州公民身份的第二点论断，要么选择了无视。 在威特看来，该计划已构成了对现行州法律的重大改进，当时大多数州都要求有十五年的居住期。
+
+1935年1月17日，也就是在罗斯福建立经济安全委员会（CES）仅仅六个月之后，他向国会提交了其内阁委员会的报告，并敦促迅速就该提议采取行动。该法案由罗伯特·F·瓦格纳（Robert F. Wagner，纽约州民主党人）和帕特·哈里森（Pat Harrison，密西西比州民主党人）在参议院提出，并由众议院筹款委员会（House Ways and Means Committee）主席罗伯特·L·道顿（Robert L. Daughton，北卡罗来纳州民主党人）和戴维·J·刘易斯（David J. Lewis，马里兰州民主党人）在众议院提出。
+
+## **国会中的《经济安全法案》**
+
+在国会中，《经济安全法案》逐渐被称为《社会保障法》，尽管经济安全委员会（CES）计划的基本框架保持原样，但立法的细节却发生了实质性的变化。就在国会开始审议该法案后不久，埃德温·威特（Edwin Witte）在写给咨询委员会主席弗兰克·格雷厄姆（Frank Graham）博士的信中描述了该立法所面临的挑战：
+
+> 针对《经济安全法案》，存在着来自两个群体——保守派与激进派——的大量反对意见。我们的计划显然是一个“中间路线”提案，它一方面招致了反动商业利益集团和极端保守派的炮轰，另一方面也受到了汤森派和《伦丁法案》倡导者的抨击。有一个群体认为我们没有设定充分的标准，而一个大得多的群体则因为我们没有给予各州足够的自由而谴责我们。后一种情绪在来自南部各州的参议员中表现得尤为明显。
+
+与经济安全委员会（CES）内部的斗争一样，国会中围绕《经济安全法案》的博弈在很大程度上与联邦主义（federalism）的未来安排有关，而表面上似乎与性别政治关系不大。一方面，州权倡导者着手缩减国家政府标准在老年保险（OAI）和老年援助（OAA）中的触及范围。另一方面，更慷慨且更具再分配性质计划的倡导者则试图扩大联邦财政的干预范围。南方代表同时发出了这两种声音：既推动去中心化的国家建设以作为维持地区自治的手段，同时也要求实行累进税制和再分配方案，以促进这个受大萧条破坏最严重地区的复苏。尽管目标各异，但这些冲突的解决将对公民身份（citizenship）和性别产生深远的影响。
+
+国会中的主要斗争发生在几个战线上。降低标准的推动主要发生在负责报告该法案的各委员会的秘密、闭门执行会议（executive sessions）中。审议该法案的两个委员会——众议院筹款委员会（House Ways and Means Committee）和参议院财政委员会（Senate Finance Committee）——均由南方人主导。要求在社会项目上进行更广泛的国家支出的推动主要发生在众议院的会议大厅里，议员们抓住一切机会，将他们的民粹主义言辞载入记录。各委员会从1月到2月举行了关于该法案的听证会。筹款委员会首先对该法案进行了审议修改（mark-up），并于4月5日报告了一项法案。与此同时，财政委员会则一直等到众议院在4月份完成对该法案的行动后，才于5月20日报告了其自身的法案。
+
+### 老年保险
+
+众议院筹款委员会保留了针对老年人的缴费型项目的国家级结构，但大幅削减了该项目的覆盖范围，排除了原本会被纳入的约四分之一的劳动力。因此，国家社会公民权利的范围越来越受到性别和种族的限制。尽管经济安全委员会（CES）希望新立法能够惠及“处于经济阶梯最底层”的雇员，并在其计划中纳入了农业工人、家庭佣工以及“临时（casual）”或短期工人，但筹款委员会的国会议员们似乎在寻找一种方法将这些人员排除在外。芝加哥大学经济学家保罗·道格拉斯（Paul Douglas）指出，并非只有南方人赞成这种排除；“来自该国其他地区的国会议员（这些地区存在不受欢迎的种族或文化少数群体），也希望让他们的州或多或少地享有按照自己意愿对待这些群体的自由。”
+
+在听证会的早期，经济安全委员会主任威特曾建议，或许可以实施不同的征收技术——例如欧洲使用的印花簿法（stamp-book method），或者雇主的年度报告和缴费——以便将这些工人纳入老年保险（OAI）。然而，随后摩根索部长震惊了其他经济安全委员会成员，他宣布他和他的工作人员已决定将此类别的工人从与工作相关项目的覆盖范围中剔除，理由是从雇员如此之少的雇主那里收取款项存在行政管理上的困难。委员会成员听从了财政部长的专家意见，同意将这些类别排除在外。如此一来，绝大多数的非裔美国人，以及不成比例的拉丁裔和亚裔美国男女，都失去了被授予纳入国家老年项目之社会权利的机会。
+
+根据人口普查数据，89.6%的农业工人是男性。据报道，非裔美国女性在田间工作的可能性是其他女性的两倍。然而，这个数字可能低估了她们在农业工作中的实际参与度，因为人口普查指出，分成佃农（sharecroppers）的女性家庭成员虽然通常被期望帮忙收割，但通常是没有报酬的，因此不属于官方统计的范畴。在家庭佣工中，女性占了所有雇员的93.3%。
+
+此类工人极低的工资使得他们根本不可能为养老进行储蓄。从事农业的所有男女的工资都极低，男性年均86美元，女性年均67美元。1934年，基督教女青年会（YWCA）汇编了南部家庭就业的数据，发现非裔美国佣工的平均周薪为6.17美元，而平均每周工作时间长达66小时。在某些地区，工资甚至更低：在实施《全国工业复兴法》期间，全国复苏联合委员会（Joint Committee on National Recovery）发现，密西西比州北部33个县的非裔美国佣工的平均周薪不到2美元。
+
+宗教和非营利组织促成了排除其他几个女性比例极高的工人类别。许多教会（特别是圣公会和长老会），以及诸如全国医院协会（National Hospital Association）和各教育机构等组织均辩称，它们依靠私人捐赠来维持运转，为雇员纳税将给它们带来不适当的负担。筹款委员会被他们的恳求所打动，也将这些职业排除在外。女性雇员占所有教师的75.7%，占所有宗教工作者的74.6%，占所有社会福利工作者的64.3%。尽管此类组织中的部分工人已经被公共养老金或退休基金所覆盖，但许多工资最低的教师受雇于没有老年保险覆盖的州，而且绝大多数的30万名护士以及几乎所有在社会和宗教领域工作的4.5万名女性都没有享受任何此类福利。总而言之，正如爱丽丝·凯斯勒-哈里斯（Alice Kessler-Harris）所指出的：“被排除在外的工人中有60%是女性——而在整个劳动力队伍中，被雇用的女性比例还不到30%。”
+
+在审议过程中，筹款委员会短暂地重燃了早先由阿姆斯特朗表现出、却被经济安全委员会（CES）放弃的对遗属的关注。托马斯·埃利奥特回忆起委员会曾问道：“但是那个接受福利的男人死后，那个可怜的寡妇怎么办？”委员会似乎急于纳入遗属福利，因此“下令休会四天，在此期间（众议院立法顾问米德尔顿·）比曼（Middleton Beaman）和我撰写了一项新条款。”然而，当几天后埃利奥特和比曼向他们展示一份关于遗属福利的复杂示范草案时，委员会很快就失去了兴趣。整个提案立即被搁置。
+
+简而言之，阿姆斯特朗和布朗努力构建的、旨在作为美国老年人国家级标准化公民权利来源的项目，由于经济安全委员会的疏忽以及筹款委员会的行动，最终变成了一个主要针对男性（尤其是白人男性）的项目。参众两院的委员会对该项目的融资安排做出了进一步的修改，但其行政设计和覆盖范围在后续的审议过程中保持不变。与此同时，由于未能获得老年保险（OAI）资格的女性将不得不转向老年援助（OAA），后者得到了大得多的关注。
+
+### 老年援助
+
+随着华盛顿对《经济安全法案》的辩论日益激烈，南方的报纸表达了该地区的担忧，即法律中的联邦标准将挑战迄今为止受州法律保护的地方社会规范。《查尔斯顿新闻与信使报》（Charleston News and Courier）的一篇社论感叹道：“如果我们的地方政策由华盛顿发号施令，我们将很快失去我们所习惯的文明。”更为尖锐的是，《杰克逊每日新闻》（Jackson Daily News）解释道：“普通的密西西比人无法想象自己凑钱来为那些身体健全的黑人支付养老金，让他们闲坐在前廊里无所事事。”事实上，在南方，“我们所习惯的文明”意味着一个由严格的种族等级制度组织起来的社会，这种制度通过吉姆·克劳法（Jim Crow laws）获得法律认可，并通过分成制和佃农制（sharecropping and tenant-farming system）制度化。
+
+南方国会议员对这些焦虑作出了回应，在对法案中老年援助（OAA）部分进行审议修改（mark-up）时，极力强调州权（states' rights）。在已经将如此多的女性和少数族裔男性排除在纯粹的全国性老年项目之外后，他们进而着手在这个针对老年人的补助金（grants-in-aid）项目中废除国家标准。众议员霍华德·W·史密斯（Howard W. Smith，弗吉尼亚州民主党人）建议对老年援助（OAA）进行各种修改以限制联邦政府的权力。首先，他对以下要求提出异议：各州必须发放充足的老年援助福利，以便在加上受助人的收入后，能够提供“符合体面与健康的合理维持生存的条件”。他解释道：“要平息我的反对……法案中需要有一项规定，取消华盛顿某些人决定弗吉尼亚州何时可以参与的权力；换句话说，不能让华盛顿的某个人来决定在弗吉尼亚州的蓝岭山脉地区什么才是合理和体面的生存条件。”其次，史密斯主张各州应当能够自行决定资格标准，特别是在针对非裔美国人的社会供给方面：
+
+史密斯先生：……在我们（弗吉尼亚州超过65岁的）11.6万人中，实际上有25%属于同一个阶层，他们很可能100%符合条件。我所关注的是……在这项法律中加入一项规定，允许州在这个提议上实行自治。詹金斯（JENKINS）先生：……阁下能否说明他所指的阶层是什么？史密斯先生：当然，在南方我们有大量的有色人种，他们主要属于劳动阶层。
+
+正如威特所报告的那样，许多南方议员“担心华盛顿的某个人会发号施令，规定他们应该付给黑人多少养老金。”
+
+后来，在执行会议（executive session）中，筹款委员会采取了重新确立州对该政策的权威的措施。首先，委员会从法案中删除了“合理生存条件”的标准，让各州可以自由地提供他们想要的尽可能少的养老金，并且仍然有资格获得国家政府的匹配资金。同样，国家政府批准州计划的条件被重写并作否定表述，使各州可以自由施加任何未被联邦法规明确禁止的资格标准。例如，该法案被修改为允许各州对援助受助人施加财产限制，而不是仅仅根据收入来确定需求。
+
+最后，关于人员选拔的措辞被弱化，以防止联邦行政人员将功绩制（merit system）强加给州政府机构。自1883年《彭德尔顿法》（Pendleton Act）取得首次胜利以来，改革者们一直在努力，试图用一种基于功绩原则以及公平、公开、竞争性考试的体系，来取代旧有的为政府职位配备人员的分赃制（spoils system）。然而，在该国的大部分地区以及在城市机器政治中，政府机构的职位仍然通过根深蒂固的政治庇护系统（patronage）中的政治任命来填补；筹款委员会采取行动以保留这一传统。 正如保罗·道格拉斯所解释的那样：
+
+“有人争辩说，各州应自由地以几乎任何他们希望的方式来管理这些法律，并且不应被迫遵循中央政府制定的标准，因为中央政府不可能像他们那样了解当地情况。毫无疑问，原因之一在于，联邦政府设定的人员标准将高于绝大多数州能够遵循的标准，只有像纽约州、马萨诸塞州和威斯康星州等少数值得尊敬的州除外。换言之，如果联邦行政机构被赋予了控制地方在选拔人员时应遵循的标准的权力，那么地方政治机器十有八九将不被允许继续主导这些州级服务。”
+
+众议员弗雷德·文森（Fred Vinson，肯塔基州民主党人）用更为坦率的话语表达了这一点（他的话语中充满着对联邦紧急救援署及其执行方式的蔑视）：“没有哪个该死的社会工作者能走进我们的州，告诉我们的人民该雇佣谁。”取而代之的是，委员会在法案中增加了一项条款，剥夺了社会保障委员会（SSB）对与人员“选拔、任期和报酬”相关实践的权力。
+
+在参议院财政委员会中，对第一编（Title I）的攻击变得更加喧嚣。参议员哈里·F·伯德（Harry F. Byrd，弗吉尼亚州民主党人）领导了维护州权的冲锋，坚称最初的法案通过赋予华盛顿的全国行政人员“独裁权力”来威胁各州。该委员会继续删除了法案中所有剩余的关于“体面与健康”条款的提及，扩大了众议院筹款委员会已经做出的修改。再次，正如威特所观察到的那样：“很明显，至少有一些南方参议员担心这项措施可能成为联邦干预南方处理黑人问题的一个切入点。南方议员不想给华盛顿的任何人赋权，使其能够以任何州在执行老年援助时歧视黑人为由而拒绝向该州提供援助。”总而言之，国会各委员会已经修改了该法案，使其赋予各州的自由裁量权甚至远超罗斯福政府中最强烈的联邦主义支持者所期望的程度。各州获得了无论其福利水平多低、无论其对援助申请者施加何种资格限制都能接受匹配补助金的能力。鉴于这两个老年项目的覆盖范围似乎已经表现出相当明显的性别和种族特征，弱化对老年援助的联邦控制将对性别和种族方面产生广泛的影响。
+
+### 未选择的道路
+
+国会各委员会已悄然采取行动，缩减国家政府在《经济安全法案》中的范围和影响，但其他国会议员则大声疾呼要求发挥更广泛的作用，要求以慷慨和具有再分配性质的方式拨付国家资金。争取更广泛老年福利的努力集中在众议院，该机构通常更有可能表达来自基层的诉求。民众运动，特别是汤森运动（Townsend crusade），对约翰·金登（John Kingdon）所谓的美国老年人政策发展的替代“流”（alternative "stream"）产生了相当大的影响。来自西部各州（汤森运动在这些州尤为强大）的几位代表充当了该计划的倡导者。除了汤森派之外，许多来自贫困选区的南方代表也直言不讳地要求国家政府展现更多的慷慨。
+
+汤森运动的支持者用信件和一份签有两千万支持者名字的请愿书淹没了国会，几个州的立法机构也通过决议敦促国会颁布汤森计划。几名国会议员向罗斯福施压，要求取消15美元的联邦补助金最高限额，改为每月提供至少50美元（如果不是100或200美元的话）的补助金。罗斯福政府依然坚决反对这种提议，但这些提议确实在众议院全院会议上得到了充分的听取。
+
+在有关老年人公共援助计划的热烈辩论中，美国联邦主义的未来岌岌可危，而且不清楚将选择哪条道路。在政治光谱的右翼，对此类立法的共和党反对者通常将该法案称为一种“社会主义”尝试，认为其通过赋予联邦政府过多权力来助长“美国的苏维埃化”（sovietization of America）。在中间派，政府法案的支持者坚持认为，联邦政府必须采取某些行动来确保收入安全；他们还嘲笑“激进的”替代方案，即伦丁计划和汤森计划，认为它们极其昂贵且不切实际。几位南方民主党众议院领导人属于这个群体，他们将委员会修改后的政府法案推举为在维持地方自由裁量权的同时提供社会供给的最佳手段。例如，众议员道顿强调，《经济安全法案》将“极大地增强美国工人的安全感”， 同时保留美国制度，即联邦主义： “拟议中的法案在赋予各州充分的自由裁量权和权威方面，比近年来的任何类似的联邦补助金立法走得都要远……如果联邦政府走得更远，接管整个老年养老金问题（正如一些人所倡导的那样），那将违背我们基本的政治制度，并给国家政府带来巨大的财政负担，且缺乏如果要求地方纳税人承担部分成本就会存在的普遍的地方警惕性的保护。”
+
+然而，其他南方人则基于民粹主义立场与西部人联合起来抵制该法案。他们强调其选区迫切需要更加慷慨、更具再分配性质的补助金，并辩称按照联邦主义安排设计的法案将维持并加剧美国公民之间的不平等。这些对政府法案的批评者指责说，匹配补助金公式将根据贫困人口居住地区的相对财富对其区别对待，帮助富裕的州变得更富，同时几乎未能给较贫穷的州提供什么帮助。公民身份的特征将在很大程度上由一个州经济的健康状况决定，这在公民身份的体验上分化了美国人，而不是赋予所有人平等融入政体的权利。众议员威廉·科尔默（William Colmer，密西西比州民主党人）指责道：“我既震惊又惊愕地发现存在一种可能性——不，不仅如此，是一种强烈的可能性——将会画出另一条想象中的线，就像名副其实的梅森-迪克森线（Mason and Dixon's line）一样，将我们这个伟大的国家分为两部分。在其中一部分，需要该法案条款保护的不幸依赖者将获益，而在另一部分，这些福利将不复存在。”
+
+国会议员约翰·罗布申（John Robsion，肯塔基州共和党人）表示赞同，并为国家社会公民权利大声疾呼：“那些最需要援助的人得到的将最少，或者根本得不到。美国应该一视同仁地对待所有年迈和贫困的公民。”国会议员约翰·麦克莱伦（John McClellan，阿肯色州民主党人）也加入进来：“不应考虑州界线……我们应该修改这项法案……以便公平且不歧视任何美国公民（无论其州公民身份如何）地履行这里所承认的对这类公民的国家责任。”尽管他们提出了近五十项修正案，甚至是《经济安全法案》的替代方案，但这些国家社会公民身份（national social citizenship）的提倡者在国会中除却言辞的力量外，几乎没有得到任何支持。他们自己的南方同僚已经对政府的法案给予了支持，而且尽管政府本会倾向于在公共援助中实施比筹款委员会所能容忍的更加统一的国家标准，但罗斯福和经济安全委员会（CES）的领导人们对这种妥协的接受程度，仍远高于那些更具再分配性质的计划。
+
+在立法通过国会的整个过程中，罗斯福政府领导人对该法案获得通过的机会始终感到非常悲观。早在3月份，威特就召唤了女性改革组织网络提供协助，以敦促法案通过。代表美国公共福利协会（American Public Welfare Association）采取行动的格雷斯·阿博特起草了一封致总统和国会的支持法案的信，收集了各个组织中著名人士的签名，并向主要报纸发送了新闻稿以进行宣传。尽管辩论激烈且充满愤怒，但在最终投票中对该立法的实际反对意见相对较少。
+
+表 2. 老年保险 (OAI) 与老年援助 (OAA) 之比较
+
+| **比较维度**                | **老年保险 (OAI)**            | **老年援助 (OAA)**                |
+| ----------------------- | ------------------------- | ----------------------------- |
+| **政府管理层级**              | 国家级 (National)            | 国家与州联合 (Joint national-state) |
+| **缴费制 vs. 非缴费制**        | 缴费型 (Contributory)        | 非缴费型 (Noncontributory)        |
+| **筹资安排**                | 对雇主征税，由国家政府持有             | 拨款资助 (Grant-in-aid)，1:1 比例    |
+| **资格确定**                | 国家标准 (National standards) | 各州 (States)                   |
+| **考评制度 (Merit system)** | 是                         | 否                             |
+
+在众议院，女众议员伊莎贝拉·格林韦（Isabella Greenway，亚利桑那州民主党人）提出了一项修正案，要求国家政府在非匹配的基础上，为各州提供每人每月50美元的老年援助拨付，但在罗斯福拒绝给予支持后，该提案被击败。汤森计划的一个修订版以206票对56票被击败，伦丁法案以204票对52票败北，放宽政府法案规定的其他几项提案也同样遭到否决。最终，在4月19日，众议院以371票对33票的压倒性多数通过了该法案。在参议院，再分配计划获得的支持远少于众议院。由参议员威廉·博拉（William Borah，爱达荷州共和党人）发起的一项修正案（该修正案本来会为老年援助确立30美元的最低福利，并取消各州匹配国家政府资金的要求）以60票对18票被否决。参议院于6月19日以77票对6票通过了政府法案。经过漫长的会议协商，该法案再次在两院获得通过，并由罗斯福总统于1935年8月14日签署成为法律。
+
+总而言之，在国会中主张为美国老年人扩大有保障的国家社会公民权利的论点基本未能奏效。相反，国会采取行动进一步放大了本已割裂的社会政策计划中的分歧。全国性的老年保险（OAI）项目变得比经济安全委员会计划中更加专属性地面向白人男性。而将覆盖被排斥在老年保险（OAI）之外的女性和少数族裔男性的老年援助（OAA）项目，则被修改为特别容易受到各州不同政治经济状况的影响。
+
+## 妇女的视角
+
+在《社会保障法》通过仅仅几个月后，妇女局（Women's Bureau）的玛丽·安德森（Mary Anderson）指出了新法律中对男女的不同待遇：
+
+“表面上看，社会保障计划这一主题似乎不需要按性别来考虑，而是对男女一视同仁。然而，一旦深入探究该法律的措辞用语，很快就会发现许多反映出男女之间在国家目前正在着手实施的社会保障计划的总体前景和影响方面存在显著差异的因素。换言之，与男性相比，从妇女的视角来看，整个事情的呈现方式是截然不同的。”
+
+在许多演讲和电台讲话中，安德森利用了妇女局的分析，并辩称与男性相比，女性从这些社会项目中获得的利益将微乎其微。安德森批评了老年保险（OAI）的税收和福利特征，指出由于受雇女性的工资远低于男性，工资税给女性带来的负担将大于男性，而且女性的平均福利也将远少于男性：“我们不禁为该情况中缺乏真正的公正感到震惊。女人和男人一样，可能一辈子都在办公室、商店和工厂里辛勤工作，在工作上投入的时间、精力，并且往往还有技能方面，都不亚于男人；然而，不仅她们在工作期间必须接受较低的薪酬，在老年时也只能获得较少的福利。我们不禁想问，为什么总是期望女人能够靠比男人更少的钱来维持生存。”
+
+与男性一样，女性工人也承担着支持家庭成员的财务责任，但在工资较低的情况下，此类支出使得为养老储蓄变得极其沉重。但是安德森强调，老年保险（OAI）最大的问题在于，只有极少数女性能够在法律下获得覆盖。由于在20世纪30年代，所有成年女性中有四分之三没有受雇于有薪劳动力市场，并且因为女性为了平衡赚钱和家庭责任往往只是间歇性地参与有薪工作，因此大多数女性将没有资格参加该项目。 通过选择仅对有薪工作提供老年保险（OAI）的决定，经济安全委员会（CES）忽视了抚养孩子和维持家庭领域这些无偿工作的价值： “有些（女性）为了谋生从未工作过，而是始终依赖他人，比如父亲、丈夫、儿子或女儿。这一阶层的女性在数量上远超男性，她们证明了总体而言，女性并没有与男性平等的为自己储蓄并在防备老年贫困方面建立必要资金的机会。诚然，这些女性中的许多人——例如作为养家糊口者的妻子或母亲的人——以提供服务的形式为家庭和社会做出了重要的经济贡献。”
+
+安德森警告称，在缴费型项目中忽略大多数女性必定会产生问题。毕竟，在法律上妻子并未被保证能获得在世丈夫收入的明确份额（除非丈夫被判犯有不抚养罪），并且即使遗孀能分得已故丈夫的部分遗产，许多人仍然不可避免地面临穷困潦倒的境地。由于极少有女性长期参与劳动力大军，她们缺乏“与男性同等的为自身未来进行储蓄的机会”；但吊诡的是，正是这些相同的标准使她们丧失了享受老年保险（OAI）的资格。
+
+大多数被排斥在老年保险之外的女性，只能受制于那些因州和地区而异的福利，以及取决于州或地方政治的标准。 因此，尽管享有缴费型项目的普通女性所获得的福利会很低，但安德森指出，这样的女性其境遇仍然会好于那些不得不依赖老年援助（OAA）的女性： “她知道，规律的按月发放的福利将在她年满65岁时自动开始。她不必像在联邦-州混合体制下申请老年援助的贫困老妇那样去确立自己申领这些福利的正当性主张。前者也不像后者那样，处于必须在特定州居住达到规定年限的劣势中。前者不必面对这样一种耻辱：在可能的情况下，她无论情愿与否的亲属都被法律要求来救援她，其程度就像对待身无分文的老妇人那样……[前一种]女性……不必像处于匮乏之中、在获得援助前必须证明自身贫困的老人那样，面对接受施舍的污名。”
+
+尽管这两种制度都不会极大地改善老年女性的生活，但与阿姆斯特朗和布朗一样，安德森深信，在那些福利作为一种权利而在全国范围内得到保证的项目中，女性的境遇要比在那些福利随州和地方行政规范而变化的项目中好得多。
+
+《社会保障法》是如何变得如此带有性别偏见的？政策制定者并非刻意采取行动，以在政体中提升男性的地位同时保持对女性的控制。事实上，特别关注女性的公职人员，即阿姆斯特朗和珀金斯，一直积极参与制定这两项政策。最终，两种政策制定动力占据了上风，在无意中将女性边缘化。
+
+政策制定者根据社会性别化的等级制度塑造了这两个项目，赋予了“独立”（independent）者和“依附”（dependent）者不同的地位。在创立老年保险（OAI）时，经济安全委员会（CES）和国会各委员会的政策制定者将重点放在有薪劳动力市场的全职参与者身上，即罗斯福打算纳入新政政策的“被遗忘的阶层”（forgotten men）。尽管遗属福利的议题在整个过程的各个阶段被提出，但它一次又一次地被那些专注于自由主义经典主体——即“独立的”公民-工人——的官员们所搁置。与自由主义公民身份的其他特权一样，该项目中的福利对于符合覆盖条件的人而言，将被视为“一种权利”。相比之下，老年援助是为那些“依赖公众供养”的人计划的，“权利”的语言在此显著缺席。
+
+与此同时，创立这两个项目的政策制定者也采取了重塑联邦主义的行动。尽管老年保险（OAI）成功地被发展成为被纳入福利范围者的全国社会公民身份标志，老年援助（OAA）却提供了一种重申甚至加强各州在界定公民身份方面权力的手段。政府决策者（其视角受到进步时代知识分子传统的影响）主动让各州成为该项目中的活跃代理人。随后，急于保留州权及在界定社会秩序中的地方自治权的国会各委员会，进一步让该项目的权力彻底去中心化。
+
+因此，在1935年《社会保障法》的老年项目中，民族国家内的社会公民身份与因赚取工资而定义的独立性联系在一起——除非这些赚取工资者恰好是在被排除职业中辛勤劳作的人。 绝大多数为白人、男性的工薪阶层获得了在国家政府面前的地位，由此产生了在老年获得福利的权利。 其他公民则依然是各州的臣民（subjects），在贫困的晚年依赖公共援助来维持生计。
+
+但是，这两个针对老年人的项目的发展历程并未随着《社会保障法》的通过而终结。 被排除在老年保险（OAI）之外的庞大人口群体，将极大地使罗斯福对于老年保险而非老年援助（OAA）成为主导项目的期望复杂化。 曾经将老年人援助问题推向国家焦点的政治力量并未对政府的方案感到满足，它们继续聚集动力并刺激立法者，特别是在州一级。 这两个项目实施的早年历程，继续讲述了新政国家如何重构公民身份的故事。
+
+引用
+1 The Social Security Act also included several smaller programs, such as Aid to the Blind,  a maternal and child health program fashioned after the Sheppard-Towner Act, support for  state programs for crippled children, and some funds for state-level public health programs.  Comprehensive health insurance was also intended to be part of the bill, until it became clear  that it was not politically feasible, primarily owing to opposition by the American Medical  Association. See Arthur J. Altmeyer, The Formative Years of Social Security (Madison: University of Wisconsin Press, 1966), pp. 27-28, 33· s6- 57; Edwin E. Witte, The Development  of the Social Security Act (Madison: University of Wisconsin Press, I962), pp. I73-89; and  Reminiscences of Arthur f. Altmeyer, pp. 28-31, OHC. 
+2 Abraham Holtzman, The Townsend Movement: A Political Study (1963; reprint, New  York: Octagon Books, 1975). 
+3 Kenneth Casebeer, "The Workers' Unemployment Insurance Bill: American Social Wage,  Labor Organization, and Legal Ideology," in Labor Law in America, ed. Christopher Tom-lins and Andrew King (Baltimore: Johns Hopkins University Press, 1992), pp. 231-59· 
+4Jerry R. Cates, Insuring Inequality: Administrative Leadership in Social Security (Ann  Arbor: University of Michigan Press, 1983), p. 23. 
+5 Frances Perkins, The Roosevelt I Knew (New York: Harper and Row, 1946), pp. 284-8 5· 
+6 Ibid., pp. 282-83.  
+7 Ibid., p. 284. 
+8 Franklin D. Roosevelt, "Message to Congress ... June 8, 1934," in Perkins, Roosevelt I  Knew, p. 284; Irving Bernstein, A Caring Society (Boston: Houghton-Mifflin, 1985), p. so;  Altmeyer, Formative Years, p. II; William E. Leuchtenburg, Franklin D. Roosevelt and the  New Deal (New York: Harper and Row, 1963), p. 133; Mark Leff, "Taxing the 'Forgotten Man': The Politics of Social Security Finance in the New Deal," Journal of American History  70 (September 1983): 359-81. 
+9 This description appeared later in Committee on Economic Security, "The Report on  Economic Security," in The Report of the Committee on Economic Security of r 9 3 5 and  Other Basic Documents relating to the Development of the Social Security Act, 50th anniversary ed., ed. National Conference on Social Welfare (Washington, D.C.: National Conference on Social Welfare, 1985), p. 3· 
+10 "Plan for Study of Economic Security," "Committee on Economic Security" file, Official  File of the President (hereafter, OF) Box ro86, Franklin D. Roosevelt Library, Hyde Park,  N.Y. (hereafter, FDR); Linda Gordon, Pitied but Not Entitled (New York: Free Press, 1994),  chaps. 4 and 6. 
+11 "Views of Miss Edith Abbott of the University of Chicago on a Feasible Program for Eco-nomic Security," August 25, 1934, p. r, Records of the Committee on Economic Security (hereafter, CES), Correspondence regarding Proposals for the Economic Security Program,  1934-35, box 54, Records of the Social Security Administration. Record Group 47, (here-
+after, RG 47), National Archives, Washington, D.C. (hereafter, NA).  12Perkins, Roosevelt I Knew, pp. 93,103-6, 152. 
+13 Ibid., Roosevelt I Knew, p. 28 r. 
+14 Russell B. Nye, Midwestern Progressive Politics (East Lansing: Michigan State Univer-sity Press, I959), pp. I90-209. 
+11 Robert S. Maxwell, LaFollette and the Rise of the Progressives in Wisconsin (Madison:  State Historical Society of Wisconsin, I956), p. vii; see also chap. 9· 
+16 See Bruce Allen Murphy, The Brandeis/Frankfurter Connection (New York: Doubleday,  Anchor, I983), pp. 165-77. 
+17 Gordon, Pitied but Not Entitled, pp. 8 3-84, I 55-56; correspondence between Ed-win E. Witte and Felix Frankfurter, CES, Correspodence Regarding Proposals for the Eco-nomic Security Proposal, I 9 34-3 5, box 56, RG 4 7, NA; Roosevelt and Frankfurter: Their  Correspondence, I928-I945, annotated by Max Freedman (Boston: Little, Brown, I967),  pp. 222-25. 
+18 Altmeyer, Formative Years, p. 7; Reminiscences of Katharine Lenroot, OHC, pp. 3 3-34·  
+19 Altmeyer, Formative Years, pp. 7-8. On the dominance of the Wisconsin school in the  CES, see Reminiscences of Eveline M. Burns, OHC, pp. 23-24, 27-28, 33-35, 57· 
+20 James MacGregor Burns, Roosevelt: The Lion and the Fox (New York: Harcourt, Brace  and World, 1956), p. 244. 
+21 Franklin D. Roosevelt, "Message to Congress Reviewing the Broad Objectives and Accomplishments of the Administration, June 8, 1934,'' in Report of the Committee on Eco-nomic Security, ed. National Conference on Social Welfare, pp. 138. 
+22 Nye, Midwestern Progressive Politics p. 349; Otis L. Graham, Jr., Toward a Planned So-ciety from Roosevelt to Nixon (New York: Oxford University Press, 1976), pp. 310-16. As  Graham has noted, "The radicalism of Brandeis had always been at bottom the fierce local-ism of Jefferson, humanized by deep sympathies with the unfortunate." Otis L. Graham, Jr.,  An Encore for Reform: The Old Progressives and the New Deal (New York: Oxford Univer-sity Press, 1967), p. 124. 
+23 Evidently Roosevelt was pleased with the conversation. He wrote to Frankfurter, "I had  a most satisfactory talk with Justice Brandeis before he left. He has and is a 'great soul.'" Both  letters in Roosevelt and Frankfurter, pp. 222-25. 
+24 James T. Patterson, The New Deal and the States (Princeton: Princeton University Press,  1969), pp. 3-4; The Reminiscences of Thomas H. Eliot, OHC, p. 22; Arthur A. Ekirch, Jr.,  Progressivism in America: A Study of the Era from T. R. to Woodrow Wilson (New York:  Watts, New Viewpoints, 1974), chap. 7· 
+25 Reminiscences of Frances Perkins, OHC, vol. 2, pt. 4, p. 631. 
+26 Committee on Economic Security, "Report on Economic Security," pp. 4- 5; Ann Shola  Orloff, "The Political Origins of America's Belated Welfare State," in The Politics of Social  Policy in the United States, ed. Margaret Weir, Ann Shola Orloff, and Theda Skocpol (Prince-ton: Princeton University Press, 1988), pp. 37-80. 
+27 See Reminiscences of Arthur]. Altmeyer, pp. 105, 187-88. 
+28 "Memorandum on the Views relating to the Work of the Committee on Economic Security Expressed by Various Individuals Consulted," pp. r-2, CES, Staff Reports, 1934-35,  box 21, Witte file, RG 47, NA. For an interesting exchange between Witte and Frankfurter  on this question, see Frankfurter file, CES, Correspondence regarding Proposals for the Eco-nomic Security Program, box 56, RG 47, NA. 
+29 "Memorandum on the Views Relating to the Work of the Committee," p. 5· 
+30 Elizabeth Sanders, "Business, Bureaucracy, and the Bourgeoisie: The New Deal Legacy," in The Political Economy of Public Policy, ed. Alan Stone and Edward]. Harpman (Beverly Hills, Calif.: Sage, 1982), pp. 115-40; Richard Franklin Bensel, Sectionalism and  American Political Development, 1880- 1980 (Madison: University of Wisconsin Press, 1984 ),  pp. 147-74· 
+31 Blanche D. Coli, Safety Net: Welfare and Social Security, I929-I979 (New Brunswick:  Rutgers University Press, 1995), pp. 21-33; Patterson, New Deal and the States, chap. 3;  Gordon, Pitied but Not Entitled, pp. 188-91. 
+32 "Extract from a Memorandum by Jane Perry Clark on Analysis of Types of Federal State  Relationships in Relation to a Program of Economic Security," Jane Perry Clark file, CES,  Staff Reports, 1934-35, box 17, RG 47, NA; Perkins, Roosevelt I Knew, pp. 286-87. See  also V. 0. Key, The Administration of Federal Grants to States (Chicago: Public Administra-tion Service, 1937), pp. I-JI. 
+33 Reminiscences of Thomas H. Eliot, p. II. 
+34 Alan Brinkley, Voices of Protest: Huey Long, Father Coughlin, and the Great Depression (New York: Knopf, 1982); on the Ham and Eggs movement, see Frank A. Pinner, Paul Jacobs,  and Philip Selznick, Old Age and Political Behavior: A Case Study (Berkeley: University of  California Press, 1959), 4-7, 33-34. 
+35 See Perkins, Roosevelt I Knew, p. 294; Reminiscences of Eveline M. Burns, pp. 51-52. 
+36 Gordon, Pitied but Not Entitled, p. 146.  
+37 Reminiscences of Eveline M. Burns, p. 52. 
+38 Armstrong suspected that she had been recommended to Roosevelt by Gerald Swope,  head of General Electric. Swope had read her book on social insurance and sent a complimentary letter about it to her publisher, and it was passed along to her. Reminiscences of Bar-bara Nachtrieb Armstrong, OHC, p. 30. Witte commented that she "was one of the small  number of people who were considered for staff positions prior to my selection as executive  director." Witte, Development of the Social Security Act, p. 30. 
+39 Barbara Nachtrieb Armstrong, Insuring the Essentials: Minimum Wage plus Social Insurance, a Living Wage Program (New York: Macmillan, I932), pp. xvii, 436. 
+40 Barbara Nachtrieb Armstrong, "Memorandum on Section 5: Old Age Retirement,"  pp. 3-41, CES, Staff Reports, I934-35, box 23, RG 47, NA; Bernstein, Caring Society, p. 50.  41 "Summary of Discussion of the Old Age Security Committee," September 26, I934, p. I,  CES, General Records of the General Director and Staff, I934-35, box I, RG 47, NA. 
+42 Barbara Nachtrieb Armstrong, "Old Age Assistance and Old Age Pensions in the Various States," CES, Staff Reports, I934-35, box 23, RG 47, NA.  43 Armstrong, Insuring the Essentials, pp. 145-48. 
+44 Barbara Nachtrieb Armstrong, "Possibilities of a Unified System of Insurance against  Loss of Earnings," pp. I-4, 8, CES, Staff Reports, I934-35, box I?, RG 47, NA, and "Esti-mated Number of Workers Covered by Old Age Annuity System," CES, Staff Correspondence, I934-35, box 12, RG 47, NA; J. Douglas Brown and Barbara Nachtrieb Armstrong, "Plan for Federal Compulsory Contributory Pension Insurance," CES, Staff Reports, 1934-35, box I7, RG 47, NA. See also J. Douglas Brown, An American Philosophy of Social Security (Princeton: Princeton University Press, I972), p. I32.  45 Reminiscences of Barbara Nachtrieb Armstrong, p. 98. 461bid., pp. 129-30. 
+47 Department of Labor, Women's Bureau, The Negro Woman Worker, by Jean Collier  Brown, Bulletin 165 (Washington, D.C.: GPO, I938), pp. 2-3; Phyllis Palmer, "Outside the  Law: Agricultural and Domestic Workers under the Fair Labor Standards Act," Journal of  Policy History 7 (1995): 436, n. I3. In the West, a majority of Chicanos and Mexican Americans worked in agricultural and domestic work, and Asian American women made up a high  proportion of domestics in some coastal cities. 
+48 Reminiscences of Eveline M. Burns, pp. 52-55. 
+49 Quotation in Armstrong, "Memorandum on Section 5," p. I; "Summary of Discussion  of the Old Age Security Committee of the Technical Board," September 26, I934, CES, General Records of the Executive Director and Staff, 1934-35, box 1, RG 47, NA; Reminiscences  of Thomas H. Eliot, p. 30; Altmeyer, Formative Years, p. 25. 
+50 Reminiscences of Barbara Nachtrieb Armstrong, pp. 74-76. 
+51 Memorandum, Dudley 0. McGovney to Barbara Nachtrieb Armstrong, "Answer to  Questions on Constitutional Chances of Three Schemes Outlined in Mr. Thomas H. Eliot's  Memorandum," October 22, 1934, CES, Staff Correspondence, 1934-35; box 12; RG 47,  NA. 
+52 Reminiscences of Barbara Nachtrieb Armstrong, pp. 76, 93, 95· 
+53 "Outline of Old Age Security Program Proposed by Staff," November 9, 1934, CES,  General Records of the Executive Director and Staff, 1934-35, box r, RG 47, NA; Brown,  American Philosophy of Social Security, pp. 9-16. 
+54 George Martin, Madam Secretary: Frances Perkins (Boston: Houghton Mifflin, 1976),  p. 348; Reminiscences of Thomas H. Eliot, p. 29-30. 
+55 Letter and attached speech, Edwin Witte to Frances Perkins, November Io, 1934, p. 3,  CES, Correspondence regarding Proposals for the Economic Security Program, 1934-35,  box 55, RG 47, NA. 
+56 Brown, American Philosophy of Social Security, pp. 16- 17; Reminiscences of Barbara  Nachtrieb Armstrong, pp. 68, 104- 5. 
+57 Letters, Witte to Frankfurter, November I9, I934, and Frankfurter to Witte, November 27, 1934, both in CES, Correspondence regarding Proposals for the Economic Security  Program, 1934-35, box 56, RG 47, NA. 
+58 Reminiscences of Barbara Nachtrieb Armstrong, pp. 82-83, I 56-57, I 68; Brown,  American Philosophy of Social Security, pp. 21-22. 
+59 Leff, "Taxing the 'Forgotten Man,'" pp. 364-81; Witte, Development of the Social Se-curity Act, pp. 149-50. 
+60 Perkins, Roosevelt I Knew, p. 292. 
+61 Social Security Board, Social Security in America: The Factual Background of the Social  Security Act as Summarized from Staff Reports to the Committee on Economic Security (Washington, D.C.: GPO, 1937), p. 203, 197-214; see also CES, "Report of the Committee  on Economic Security,'' pp. 4 3-5 5. 
+62 Years afterward, Frances Perkins explained that a system of wage-related benefits had  seemed preferable to a flat plan because the former would uphold the "work ethic": "The easiest way would be to pay the same amount to everyone. But that is contrary to the typical  American attitude that a man who works hard, becomes highly skilled, and earns high wages 'deserves' more than one who had not become a skilled worker." Perkins, Roosevelt I Knew,  p. 292; see also Reminiscences of Eveline M. Burns, p. 75
+63 SSB, Social Security in America, pp. r 8 3, 204.  
+64 Leff, "Taxing the 'Forgotten Man,'" pp. 378, 38r. 
+65 Brown, American Philosophy of Social Security, pp. 20-2r; Reminiscences of Barbara  Nachtrieb Armstrong, p. r68. 
+66 Reminiscences of Frank Bane, OHC, p. 25. 
+67 Reminiscences of Thomas H. Eliot, p. 3 6. 
+68 CES, "Report of the Committee on Economic Security," pp. 26-28. 
+69 SSB, Social Security in America, quotation on p. 195; see also pp. 191-95; Altmeyer,  Formative Years, p. I28; Coli, Safety Net, p. 42. 
+70 Letter, Grace Abbott to Edwin E. Witte, January 2, 1935, Abbott Papers, box 54, folder  2, Regenstein Library, University of Chicago (hereafter, UC). 
+71 Letter, Edwin Witte to Grace Abbott, January 9, 1935, ibid.; Coli, Safety Net, p. 42. 
+72 Letter, Edwin E. Witte to Frank P. Graham, February r, 1935, CES, Staff Correspondence, 1934-35, box 16, Witte filer, RG 47, NA. 
+73 Bensel, Sectionalism and American Political Development, pp. 152-53. 
+74 Witte, Development of the Social Security Act, p. 100. 
+75 Letter, Edwin E. Witte to Harry L. Hopkins, February 26, 1935, p. 2, CES, General 
+Records of the Executive Director and Staff, 1934-35, box 9, RG 47, NA.  76 CES, "Report of the Committee on Economic Security," p. 49· 
+77 Paul H. Douglas, Social Security in the United States (New York: Whittlesey House,  1936), pp. IOO-IOI. Presumably, Douglas was making insinuations about westerners, who  also favored the exclusion of such groups in New Deal legislation; see Palmer, "Outside the  Law," pp. 416-40. 
+78 Of those countries with compulsory contributory old-age insurance programs in 1933,  the vast majority covered domestic and agricultural workers; see SSB, Social Security in America, p. 183. 
+79 Ibid., pp. 901-2; Perkins, Roosevelt I Knew, pp. 297-98. 
+80 Bureau of the Census, Census of the Population: I940, Summary Report, table 58 
+(Washington, D.C.: GPO, 1940), pp. 75-80.  81 Ibid., table 72, pp. 120-22. 
+82 Department of Labor, Negro Woman Worker. 
+83 Witte, Development of the Social Security Act, pp. r 54-55. 
+84 Bureau of the Census, Census of the Population: I940, Summary Report, table 58,  pp. 75-80. 
+85 Department of Labor, Women's Bureau, "Old Age Security Legislation from the View-point of Women," speech by Mary Anderson before District of Columbia League of Women  Voters, December 1935, microfilm 16:0133, p. 14, LMDC. 
+86 Alice Kessler-Harris, "Designing Women and Old Fools: The Construction of the Social  Security Amendments of 1939," in U.S. History as Women's History, ed. Linda K. Kerber,  Alice Kessler-Harris, and Kathryn Kish Sklar (Chapel Hill: University of North Carolina  Press, 199 5 ), p. 92. 
+87 Thomas Eliot, "Social Security: The First Half-Century, a Discussion," in Social Security: The First Half-Century (Albuquerque: University of New Mexico Press, 1988), p. 35·  88 Reminiscences of Thomas H. Eliot, pp. p- 53. 
+89 These changes, aimed to make the program entirely self-supporting, were urged by the  administration, particularly by Roosevelt himself and by Secretary Morgenthau. Witte, Development of the Social Security Act, pp. r 50-5 r; Leff, "Taxing the 'Forgotten Man.'" 
+90 George Brown Tindall, The Emergence of the New South, I9IJ-I945 (Baton Rouge: 
+Louisiana State University Press, 1967), p. 491.  
+91 Ibid. 
+92 House Ways and Means Committee, Hearings on the Economic Security Act, H.R. 4120, 
+74th Cong., 1st sess., February 6, 1935, p. 975·  
+93 Ibid., p. 976. 
+94 Letter, Edwin E. Witte to Raymond Moley, March 6, 1935, CES, Staff Correspondence,  1934-35, box 15, Witte filer, RG 47, NA. 
+95 Ibid.; Witte, Development of the Social Security Act, pp. 144-45. 
+96 Patricia Wallace Ingraham, The Foundation of Merit: Public Service in American Democracy (Baltimore: Johns Hopkins University Press, 1995), p. 26.  
+97 Douglas, Social Security in the United States, pp. 106-7. 
+98 Martin, Madam Secretary, p. 3 54· 
+99 Public Law 271, 74th Cong., 1st sess. (August 14, 1935), Social Security Act of I935,  H.R. 7260, title III, sec. 303(a)1 and title IV, sec. 402(a)5. 
+100Witte, Development of the Social Security Act, pp. 143-44. 
+101 The metaphor is borrowed from John Kingdon, Agendas, Alternatives, and Public Pol-icy, 2d ed. (New York: HarperCollins, 1995). 
+102 Committee on Old Age Security of the Twentieth Century Fund, Inc., The Townsend Crusade (New York: Twentieth Century Fund, 1936), pp. 5-15.  
+103 Letter, Witte to Moley, March 6, 1935, p. 3· 
+104 Letter, Franklin D. Roosevelt to Felix Frankfurter, February 9, 1935, President's Per-sonal File (hereafter, PPF) 140, FDR. 
+105 According to Altmeyer, the Republicans were most worried about old age insurance.  Altmeyer, Formative Years, pp. 37-38. 
+106 Congressional Record, 74th Cong., 1st sess., April II, 1935, vol. 79, pt. 5:5468.  
+107 Ibid., 5469-70. 
+108 Ibid., April 15, 1935, 5706.  
+109 Ibid., 5 69 3. 
+110 Ibid., 5706; see also comments of Representative John Miller (D-Ark.), p. 5785. 
+111 Letters, Witte to Mary B. Gilson, April 11, 1935, and Witte to Raymond Moley,  May 10, 1935; both in CES, Staff Correspondence, 1934-35, box 15, Witte file 1, RG 47,  NA. 
+112 Letter, from thirty-two signatories, "to the President and Congress of the U.S.,"  March 13, 1935; also John B. Andrews to Grace Abbott, March 22, 1935; also "Two Groups  Press for Wagner Bill," New York Times, March 22, 193 5; all in Abbott Papers, box 54,  folder 4, Abbott Correspondence, CES, Staff Correspondence, 1934-3 5, box 12, RG 47, NA. 
+113 Douglas, Social Security in the United States, pp. 108-9; Altmeyer, Formative Years, pp. 37-38; Witte, Development of the Social Security Act, pp. 98-99.  
+114 Douglas, Social Security in the United States, pp. 109-10, 116-17.  
+115Bernstein, Caring Society, pp. 69-70. 
+116 Department of Labor, Women's Bureau, "Women Workers and the Social Security Pro-gram," address by Mary Anderson before the Indianapolis Council of Women, January 7,  1936, p. 2, Department of Labor, Women's Bureau, microfilm 16: 01 55, 0271, LMDC. 
+117 Department of Labor, Women's Bureau, "Old Age Security," pp. 9, 15.  
+118 Ibid., p. 16. 
+119 Ibid., p. 7. 
+120 Ibid., passim. Paul Douglas concurred; Douglas, Social Security in the United States 2d  ed. (1939), p. 170. 
+121 Department of Labor, "Old Age Security Legislation," pp. 11-12. 
+122 See, by contrast, Mimi Abramovitz, Regulating the Lives of Women: Social Welfare Policy from Colonial Times to the Present (Boston: South End Press, 1989). 
+123 For the use of such language, see CES, "Report of the Committee on Economic Security," pp. 5, 25-26. 
+
