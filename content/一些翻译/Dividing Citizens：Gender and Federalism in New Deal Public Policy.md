@@ -1163,4 +1163,248 @@ and Ilona Ostner, "The Particularism of West German Welfare Capitalism: The Case
 115 Ibid., p. 182. Canada, like the United States, used federal/provincial administration for  old age assistance but contrasts with the United States in critical dimensions of social policy  for the elderly. First, in the 1930s, Canada lacked a comparable contributory program, so it  could not be characterized as having a two-tiered approach. Second, though the provinces and  especially Quebec had some control over old age assistance, in fact the programs were  handled primarily at the national level. On differences in U.S. and Canadian federalism, see  Robert T. Kudrle and Theodore R. Marmor, "The Development of Welfare States in North  America," in The Development of Welfare States in Europe and America, ed. Peter Flora and  Arnold Heidenheimer (New Brunswick, N.J.: Transaction Books, 1981), pp. 81-121. 
 116 Granted, the gaining of social rights on the basis of paid work instead of caring, as un-der the contributory programs with spousal benefits, connotes different and gender-specific  grounds from which citizenship is derived, as discussed in Ruth Lister, "Women, Economic  Dependency, and Citizenship," Journal of Social Policy 19 (October 1990): 46o; but more  than basing social citizenship on different rationales for different groups, American policies  actually created different forms of citizenship by placing administrative authority under different sovereignties. 
 
-# 第五章
+# 第五章 失业保险与未成年儿童援助的形成
+
+>目前呈交至众议院的这项法案，旨在为从出生到死亡的每一位社会与经济安全受害者提供保障并试图予以照顾。 这项充满人道主义的立法始于家庭的守护神与天使——母亲。 既然上帝无法无处不在，他便创造了母亲来替代他的位置……主席先生，母亲或许是家庭的守护神，但父亲才是养家糊口的人，是维持家庭完整的提供者。 家庭是所有社会的基石。所有政府的上层建筑都必须建立在其之上。 摧毁了家庭，便摧毁了人类所创造的最神圣的人类制度。 
+>——众议员威廉·I·西罗维奇（William I. Sirovich，纽约州民主党人），《国会记录》，1935年4月16日
+
+1935年的《社会保障法》包含了两个主要项目，旨在援助失去经济保障的非老年美国人。 基于人们通常生活在由男性养家糊口者支持的双亲家庭这一假设，决策者开始思考，当这种安排无法正常运作时，公共政策如何在特定情况下援助这些家庭。 他们规划了失业保险（Unemployment Insurance, 简称UI） 以便在全职工人失业时补偿其损失的工资，同时规划了未成年儿童援助（Aid to Dependent Children, 简称ADC） ，以便在母亲及其子女失去养家糊口者的支持时为其提供保障。1
+
+罗斯福总统及经济安全委员会（Committee on Economic Security, 简称CES） 的官员认为，他们关于社会供给的综合提案，是进一步推动和加强母亲养老金发展的绝佳契机。 早期的项目（主要针对寡妇和儿童）仍然享有相当程度的尊重。2 政府官员相信，未成年儿童援助（ADC）与针对老年人的公共援助项目相结合，将有助于推动整个立法方案中他们认为最重要、在政治上也最具争议的项目通过立法程序：失业保险（UI）。3
+
+在大萧条之前，失业在美国被广泛理解为个人失败的病症，而非应由公共政策解决的宏观经济问题的表现。 20世纪30年代飙升的失业率促使民众情绪开始发生转变，但在具有改革意识的活跃知识分子群体的压力下，各州政府才刚刚开始认真考虑失业补偿项目。4 值得注意的是，经济安全委员会（CES）将失业保险作为《社会保障法》的基石，5 为其发展投入的时间和资源远超法案的其他部分。6
+
+失业保险（UI）与未成年儿童援助（ADC）设计中的政策选择，将对社会公民身份的体验产生深远影响。 关于政策类型的基本决定——针对失业者的社会保险以及针对扩大化母亲养老金的公共援助——很早就已做出，并在整个立法过程中保持不变。 然而，仍有待确定的是这些项目将以何种方式融入不断变化的美国联邦制形态之中。
+
+## 经济安全委员会中非老年政策的形成
+
+经济安全委员会（CES）内关于失业保险（UI）计划的讨论基调，与关于未成年儿童援助（ADC）的讨论截然不同。 失业保险的形成卷入了CES的领导者、著名的社会改革家，以及政府内部和咨询委员会中的不同阵营，他们在行政设计（特别是国家与州政府的适当角色）上展开了一系列激烈的博弈。 相比之下，未成年儿童援助的创立则完全由儿童局（Children's Bureau）的两位女性改革家主导。 与围绕失业保险的激烈争议不同，未成年儿童援助的形成以轻松达成共识为特征，因为官员们同意在该项目中保留高度的州责任和地方自由裁量权，尽管他们也希望促进该项目的全国性发展。
+
+### 失业保险
+
+1911年，当英国成为第一个颁布失业补偿的欧洲主要国家时，美国的改革者——例如美国劳工立法协会（American Association of Labor Legislation, 简称AALL） 的成员——开始对类似措施产生兴趣。 然而，美国劳工联合会（American Federation of Labor, 简称AFL） 宣布反对失业政策，理由是其传统上忠于自愿主义伦理，以保持其独立于国家的自治权。 到了20世纪30年代，一些州级的有组织劳工联合会确实开始支持失业补偿的发展，他们与改革者和政党建立联盟，以推动立法的颁布。 尽管如此，去中心化的联邦分权体系构成了失业保险发展的阻碍，因为反对者指出，颁布此类政策并征收雇主税的州，将使其境内的商人在与那些没有此类政策的州的商人竞争时处于劣势。 截至1934年，只有威斯康星州颁布了州级的失业补偿法。7
+
+尽管在州一级缺乏失业补偿的先例，但在罗斯福总统宣布其推进经济安全综合立法的意图之前，关于此类项目设计的意见分歧条款早已确立。 威斯康星州的经济学家、许多重要的商人以及美国劳工立法协会（AALL）创始人约翰·安德鲁斯（John Andrews），都极力主张在州一级为个别企业发展“工厂准备金”（plant reserves）。 这种于1932年在威斯康星州被采用的方法，要求每家企业向其各自独立的准备金账户缴纳资金，这些资金随后将用于为被该特定企业解雇的人员提供福利。 为了阻止企业解雇工人，失业率高的公司将被征收更高比率的税。 另一个群体则提倡俄亥俄州正在考虑的“资金池”（pooled-funds）计划，在该计划中，企业将把他们的缴款汇集成一个大型基金，用于来自任何公司的失业人员。 各种社会工作者、改革者和知识分子——特别是美国社会保障协会（American Association for Social Security）创始人亚伯拉罕·爱泼斯坦（Abraham Epstein）和艾萨克·鲁比诺（Isaac Rubinow）——认为这种方法更优越，因为它能够广泛分散风险并提供统一的福利。8
+
+罗斯福就职后不久，安德鲁斯、保罗·劳申布什（Paul Raushenbush）及其妻子伊丽莎白·布兰代斯（Elizabeth Brandeis）开始与参议员罗伯特·瓦格纳（Robert Wagner）合作起草一项立法提案，该提案旨在鼓励其他州采用自己的失业保险计划，同时保留威斯康星州的法律。 他们设计了“税收抵免”（tax-offset）方案，这项制度安排将对所有雇主征收统一的全国性工资税，以此作为减少州际竞争的手段，但如果某个特定州已经建立了自己的失业保险法，则会将该州的缴款返还给该州政府。 各州将保留采用独立工厂准备金或资金池的自由。
+
+1934年1月，伊丽莎白·布兰代斯在其父亲路易斯·布兰代斯（Louis Brandeis）的协助下，在位于华盛顿的家中召集政府官员开会，以推销该计划。 在得到热烈反响后，一项法案被起草并作为“瓦格纳-刘易斯法案”（Wagner-Lewis Bill）提交给国会。 由于该法案没有规定必须采用的法律类型，它在各种计划的支持者之间促成了一种暂时的和平，所有人在1934年3月的国会听证会上都公开发表了支持言论，尽管有些人的热情高于其他人。9
+
+然而，到了5月，罗斯福决定转而推行一项综合性的经济安全计划，因此他放弃了对瓦格纳-刘易斯法案的支持。 分歧立即重现，因为不同类型计划的倡导者都希望能够影响这项立法。 经济安全委员会（CES）技术委员会失业补偿小组的幕僚负责人布莱斯·斯图尔特（Bryce Stewart）在9月发布了一份报告，敦促采用完全国家化的失业保险计划。 该文件坚持认为，这样的计划将优于任何涉及个别州行政管理的方案，因为它将更加高效且公正。10 技术委员会采取了相同的立场，但敦促必须首先解决宪法方面的担忧。11 随之而来的是持续数周的争议，用威特（Witte）的话来说，在此期间，工作人员和委员会成员“在这个问题上反复角力”。 最终，国家级系统的支持者做出了轻微让步，提供了一种被称为“补贴计划”（subsidy plan）的第三种替代方案。 与瓦格纳-刘易斯方案一样，该提案将依赖于联邦与州的合作，但相比之下，各州在管理该项目时必须遵守国家政府设定的标准。 此外，所有的失业准备金都将由联邦储备银行或美国财政部持有，罗斯福提倡将这种安排作为稳定整体经济的手段。12
+
+感谢你的耐心等待。以下是该文档剩余部分的学术译文，我已继续遵循严谨的政治学与比较公共政策领域的学术语汇进行翻译，并严谨地保留了所有的原始引注：
+
+---
+
+芭芭拉·纳赫特里布·阿姆斯特朗（Barbara Nachtrieb Armstrong）最初被聘为老年保险（OAI）和失业保险（UI）两项事务的顾问，她很快便以主张在失业补偿计划的设计中实行国家级行政管理和国家级标准而闻名。她指出，由于各州之间的失业率差异高达60%，因此将资金在全国范围内进行统筹，比保留各州作为准备金单位要合理得多，因为这可以分散成本。13 然而，在阿姆斯特朗的偏好明朗化后不久，经济安全委员会（CES）主任埃德温·威特（Edwin Witte）便通知她，其职责将被限制在老年安全研究方面。14 当她继续施压，要求至少采用补贴计划时，本·科恩（Ben Cohen）请她共进午餐，并转达了其导师费利克斯·弗兰克福特（Felix Frankfurter）的信息，即她必须放弃此事。科恩解释说，弗兰克福特希望她明白，“布兰代斯（Brandeis）家族卷入了这项失业保险的组织事务，而他与布兰代斯家族的关系是如此之深，以至于无论你如何论证任何替代方法的相对可取性，都无法促使他与布兰代斯家族产生分歧。” 15 事实上，经济安全委员会（CES）的核心领导层似乎也对这项建立在个别州权力基础上的计划持同情态度。作为经济安全委员会（CES）的掌舵人，弗朗西斯·珀金斯（Frances Perkins）倾向于税收抵免计划。除了她总体上倾向于将各州提升为政府主要行为体的偏好之外，珀金斯还对国家级法律是否会被判定为合宪存有疑虑，因此希望采取谨慎的路线，以便至少能取得一些进展。她论证道：“如果在联邦-州体系中，该法律的联邦层面被宣布违宪，我们至少还有州法律可以在各州的‘警察权’（police power）下获得法律支持。尽管州法律可能并不统一，但它们将在失业期间为失业人员提供一定的收入，这就是一种进步。” 16 此外，她怀疑国会是否会通过一项偏袒纯国家级系统的法律。17 当然，奥特迈耶（Altmeyer）和威特本人都来自威斯康星州，并有意保留当时唯一已实施的州级失业补偿法。18 更重要的是，威特反复将罗斯福假定的偏好作为他支持税收抵免计划的主要理由。19 然而，经济安全委员会（CES）的其他成员——即哈里·霍普金斯（Harry Hopkins）、亨利·华莱士（Henry Wallace）和青年亨利·摩根索（Henry Morgenthau, Jr.）——则偏好国家政府的行政管理。20
+
+威特和珀金斯为罗斯福起草了一份演讲稿，供其在11月14日的全国经济安全会议（National Conference on Economic Security）上发表。威特在其中加入了遵循传统联邦制逻辑的措辞，他写道：“对于福利的行政管理而言，各州是最合乎逻辑的单位。在现阶段，鉴于失业保险在我国仍处于未经验证的状态，且在许多细节上存在如此巨大的意见分歧，这就留有了实验的空间。” 21 随着关于联邦与州联合行动的指示通过新闻电讯传播开来，珀金斯和威特确信，他们旨在推进这项最严重依赖个别州之计划的努力已经取得了胜利。22
+
+然而，支持国家级失业补偿方案的力量继续陈述他们的主张。首先，在会议上，一群“失业保险（UI）专家”进行了会晤，并以十三比三的象征性投票支持一项直接的国家级计划。23 其次，被选来代表政策制定过程中公众利益的咨询委员会（Advisory Council），为税收抵免计划的支持者制造了更多障碍。珀金斯在咨询委员会11月15日会议伊始时告知该委员会，总统及其顾问倾向于国家-州联合系统，他们应假定该问题已成定局。24 然而在幕后，经济安全委员会（CES）幕僚斯图尔特已经成功游说了咨询委员会中的商业利益代表支持补贴计划。25 哥伦比亚大学经济学家、同样倡导国家级方法的CES幕僚伊夫林·伯恩斯（Eveline Burns），已与阿姆斯特朗暗中联手，私下影响了咨询委员会主席弗兰克·格雷厄姆（Frank Graham），使其出面 支持补贴计划。此外，该委员会副主席、《调查》（Survey）杂志编辑保罗·凯洛格（Paul Kellogg）公开主张制定严格的国家级标准。26 最终，咨询委员会的多数成员（包括商业界和劳工界的代表）以九比七的投票结果支持补贴计划，另有六名成员弃权。27
+
+但是，专家和咨询委员会的呼吁对经济安全委员会（CES）几乎没有产生任何影响，除了使其进程延缓了几周之外。税收抵免方案的倡导者进行了最后的冲刺，以确立其计划的优越性。28 最终，在圣诞节那一周的某一天，珀金斯强制做出了一项决定。正如她后来所述：“我下达了最后通牒，委员会将于八点在我家开会，当晚我家所有的电话服务都将中断，如果需要，我们将彻夜长谈，直到我们一劳永逸地解决这个棘手的问题。” 29 到了凌晨两点，经济安全委员会（CES）无视咨询委员会的多数意见，最终决定支持税收抵免计划。他们提议对雇主征收3%的工资税，并将所有其他诸如资金池与工厂准备金之间的选择、福利水平以及资格标准等事务，留给各州自行决定。30 然而，即使是这个赋予国家政府最少权力的失业保险（UI）计划，依然保留了高度的中央集权，并为各州制定自身计划提供了重大激励。所有雇主都将被要求为受保雇员纳税，但只有在一个州通过了国家级行政官员可接受的法律的情况下，该州才能动用这些资金。即便如此，国家政府仍将掌管财政大权：雇主将把此类资金存入由财政部长或联邦储备银行管理的一个新的失业信托基金（Unemployment Trust Fund）中。那些未能采取行动的州，只会白白损失其境内雇主已经缴纳的资金。31 经济安全委员会（CES）因此同意了一项失业补偿计划，该计划虽然比老年保险（OAI）计划留给各州更多的权力，但也包含了比公共援助计划多得多的国家政府控制。
+
+从比较研究的视角来看，围绕失业保险（UI）的激烈辩论之所以不同寻常，不仅是因为它无情地聚焦于联邦制问题，还因为决策者完全忽视了提出关于失业对那些失去工作的人的家庭成员所造成之后果的问题。决策者们深知，欧洲国家的失业补偿项目通常包含针对配偶和子女的家属津贴。32 然而，观点分歧如斯图尔特和劳申布什这般巨大的争论各方确实达成了一项共识，即美国的失业补偿不应与任何经过经济状况调查（means-tested）的救济措施有任何相似之处。幕僚报告解释说，“家属津贴”将有效地把“需求”（need）这一概念引入该项目，从而玷污了缴款与福利之间纯粹的联系。33 经济安全委员会（CES）中无一人提出此类考量，尽管哈里·霍普金斯曾试图推行一个将救济与社会保险相统一的系统，但该系统立即遭到罗斯福的拒绝，原因在于其过于类似于他所鄙视的“施舍”（the dole）系统。34 阿姆斯特朗提交了一份综合版社会保险提案，提出了家庭主妇是否应被纳入失业保险体系的问题。35 相反，在政府间关系问题上处于各个派别的决策者们团结一致，创建了将其资格与在有薪劳动力市场中的参与度和收入挂钩的项目。因此，既不同于将妻子和子女定义为“家属”（dependents）并使其有资格领取津贴的英国系统，也不同于根据性别和婚姻状况构建福利水平且将失业已婚妇女完全排除在外的比利时系统，美国的决策者回避了对家庭结构和性别角色的明确关注。36 同理，决策者也避免了将针对妇女的生育福利纳入其中，尽管几个欧洲和拉丁美洲国家已经实施了此类项目。37 相反，经济安全委员会（CES）提出的计划——至少在表面上——以古典自由主义的视角看待受益人：即作为抽象的、独立的个人，剥离了特定的性别角色。
+
+然而，与此同时，决策者的运作基于这样一种假设：失业保险的主要功能是替代男性养家糊口者的工资，而他们被理解为赚取的是一种“家庭工资”（family wage）。38 专家们此前已经建议将兼职工人——即女性——排除在保障范围之外：
+
+> 有些人，特别是女性，希望每天或每周只受雇工作几个小时。此类人员只是真正劳动力供应中的临时或偶然成员，他们不需要也不配获得与那些完全依靠工业就业的人同等的保护。因此，最好是……那些通常在工业领域参与至少一半标准工作时间的人应该被纳入失业保险，但对于那些大半身子还留在家庭中的人来说，情况不应如此。39
+
+委员会随后效仿，向各州推荐了自由裁量的指导方针，这尤其将对女性和非白人工人产生影响。在向总统提交的官方报告中，经济安全委员会（CES）建议各州采用“旨在保护基金免受特定阶层雇员严重消耗的条款”，即“临时工”和处于“季节性工业”中的工人。报告写道：“失业补偿最适合那些通常在就业中享有一定程度保障的雇员。我们认为，应当给予此类工人某种保护，以防资金被其他只从事间歇性工作的人耗尽。” 40 凭借这项建议，经济安全委员会（CES）含蓄地暗示，全职男性养家糊口者的关切应在失业保险（UI）福利中享有优先权，因为最有可能拥有长期、稳定工作的正是他们。41 在其他资格事务上，CES将听从各州的安排。
+
+### 未成年儿童援助
+
+国家政府能够协助促进社会项目发展和完善的理念，发端于儿童局（Children's Bureau）。该局成立于1912年，旨在调查和报告与儿童福利相关的事务，曾就童工、妇幼保健等主题进行了大量研究，这使得该局官员充分认识到地方救济在满足儿童需求方面的不足。42 他们认为，国家政府在社会项目现代化进程中能够发挥重要作用。1932年，在呼吁国家援助时，伊迪丝·阿博特（Edith Abbott，儿童局局长格雷斯·阿博特的妹妹，同时也是一位社会改革家）写道：“华盛顿必须面对的残酷现实是，美国（联邦政府）能够筹集到资金，而各地的地方政府却已破产且无能。导致我们拥有一个过时税收体系的是政客而非人民，这个体系使得我们无法穿过州宪法、城市宪章以及对筹集贫困基金的法定限制所构成的迷宫，迅速为地方紧急需求筹集资金。” 43 正如儿童局在管理《谢泼德-汤纳法案》（Sheppard-Towner Act，这是美国第一个以配套资金形式向各州提供联邦资金的社会项目）时所证明的那样，国家资金不仅可用于提高福利水平，还可通过发展专业的行政实践来施压州政府提高服务和护理标准。44 因此，儿童局在确立社会政策中拨款补助（grant-in-aid）方法的合法性方面发挥了重要作用。
+
+在大萧条初期，局长格雷斯·阿博特（Grace Abbott）曾建议，母亲养老金提供了一个现成的项目，国家政府可以通过该项目援助贫困家庭，特别是如果该政策能够扩大到覆盖更多儿童的话。45 随后，在胡佛（Hoover）政府执政的最后一年，儿童局代理局长凯瑟琳·伦鲁特（Katharine Lenroot）曾试图获得十万美元的拨款，以协助各州鼓励县级政府开发一套儿童服务项目。该提案曾遭到拒绝，但在罗斯福就任总统以及珀金斯（Perkins）被任命为劳工部长之后，政治气候发生了变化。伦鲁特告诉被任命为助理部长的老朋友奥特迈耶（Altmeyer），她之前曾努力为儿童争取联邦援助。他回答说：“哦，别傻了。我们将通过经济安全项目为你争取到比那多得多的资金。” 46
+
+在1934年夏天经济安全委员会（CES）成立后，威特（Witte）联系了伦鲁特（在阿博特重返芝加哥大学担任社会工作教授后，她已成为儿童局局长）以及儿童局首席医疗官玛莎·埃利奥特（Martha Eliot）。威特告诉他们，罗斯福总统和珀金斯部长希望委员会考虑儿童的安全需求，并要求她们在与阿博特协商的情况下，为此类项目设计提案。伦鲁特抓住机会，推动在立法中纳入两项针对儿童的倡议：向各州提供联邦拨款以扩大和加强母亲养老金，以及一项类似于已废止的《谢泼德-汤纳政策》的旨在促进妇幼健康的教育项目。47
+
+后来成为未成年儿童援助（ADC）的项目主要是由伦鲁特和阿博特设计的，而且她们在创建该项目时几乎没有经过太多商榷。按照她们的理解，该项目应在拨款补助项目中提供联邦资金，以匹配州和地方资金；联邦资金的提供将取决于州级项目中“令人满意的行政计划和援助标准”。48 威特曾告知伦鲁特和埃利奥特，所有提案都应突显个别州属活动的核心作用。负责开发失业和老年保险的其他官员对这些指导方针表现出了抵触情绪，但与此不同的是，与儿童局相关的女性并没有质疑这种方法。事实上，向州属单位提供联邦拨款补助正是她们心目中社会项目适当模式的典范。49 因为尽管儿童局官员相较于胡佛政府中的其他人（她们批评胡佛政府强调地方主义 50）一直是国家政府权力的倡导者，但与许多其他新政社会政策制定者相比，她们却是传统联邦制的捍卫者。阿博特姐妹和伦鲁特在一定程度上保留了进步时代（Progressive Era）对国家干预社会政策的不信任态度，担心地方的积极性可能会被取代。她们仍然坚持这样一种观念，即国家政策的主要功能应该是鼓励，而不是组织或取代州和地方的倡议。 51
+
+格雷斯·阿博特和伦鲁特设计ADC的方式，集中体现了她们对国家政府在与各州关系中所扮演角色的矛盾心理。她们希望利用国家政府的力量来扩大母亲养老金的发展和实施。伦鲁特认为，母亲养老金实施情况“参差不齐”的原因在于，只有17个州政府真正在财政上支持母亲养老金；其他29个州将全部责任留给了通常无力承担此重任的地方政府。52 她和阿博特相信，拨款补助方案将促使州政府拨出专款，以扩大该项目的覆盖范围并提高福利水平。为了确保该项目在全州范围内的覆盖，阿博特坚持认为，除非该项目在所有政治分支机构中实施，否则不应允许各州获得任何拨款补助。 53
+
+这两位官员还希望提高州法律的标准，54 为此，她们起草了一项法律，旨在激发连贯的行政实践，并制定比母亲养老金制度下更宽松的居住要求。55 各州将被要求集中管理该法律，被指派负责实施的机构将负责遵循国家机构推荐的方法，并必须向该机构提交定期报告。56 有21个州的母亲养老金法律将资格与在州内居住两到五年挂钩，而在35个州，则要求在同一县或镇居住至少一到两年。阿博特和伦鲁特提议，不得向居住要求超过一年或有任何地方居住要求的州提供国家资金。 57
+
+尽管阿博特和伦鲁特希望利用国家政府的力量来放宽和扩大母亲养老金，但她们为该项目构建资金的方式表明，她们倾向于为各州乃至地方保留充分的责任。伦鲁特建议实行配套拨款制度，其中三分之一的资金来自每一级政府：联邦、州和地方。58 虽然经济安全委员会（CES）提议国家政府为老年援助（OAA）项目的第一年拨款五千万美元，但儿童局官员建议ADC项目第一年的拨款仅为该金额的一半，即两千五百万美元。事实上，当伦鲁特最初就为《社会保障法》中的一整套儿童福利服务申请一百五十万美元一事征求阿博特的意见时，阿博特回答说这个金额太高了，伦鲁特只应申请一百万。在某种程度上，这个较低的数字反映了这样一个事实：儿童局的官员们多年来一直努力从国会为谢泼德-汤纳项目争取同样微薄的拨款，结果却被彻底废除。59 更根本地说，这种方法例证了阿博特和伦鲁特对国家政府作用的看法。正如伦鲁特所言：“我们仍然非常倾向于从州责任的角度来思考……我们深深地根植于这样一种观念，即联邦拨款对最贫困的州应该是一个刺激性的、帮助性的、某种程度上起均衡作用的因素，但不应取代州和地方对儿童服务所承担的财政责任。” 60 她相信，通过拨款补助项目，联邦政府能够实现一个更宏大的目标，即促进州级福利部门的发展和专业化，从而加强各州在有效管理其他社会项目方面的能力。 61
+
+儿童局官员对项目在州和地方行政管理方面的强调，与她们对妥善提供服务之态度的融合交织在一起。其他改革者和社会工作者将确定资格视为公共行政人员的核心任务，与此相反，阿博特和伦鲁特认为，提供福利从属于母性主义（maternalist）的目标，即教育贫困妇女掌握育儿和家政技能。她们认为，为失去父亲的儿童提供资金，应当辅以儿童福利服务。她们论证道，地方官员将最了解其附近妇女的处境，也将最善于处理此类责任。 62
+
+最终，阿博特和伦鲁特提出的项目，比《经济安全法案》的任何其他特征都更能代表对联邦-州关系预先存在之原则的传统应用，并集中体现了决策中的渐进主义（incrementalism）。通过仅仅试图扩大母亲养老金的适用范围，伦鲁特和阿博特提供了一项关于儿童安全的提案，该提案比许多公职人员和社会工作者所期望的要狭隘得多。自20世纪20年代以来，一些女权主义改革者就主张，儿童福利的授予应不考虑家庭结构，就像一些欧洲国家的家庭津贴一样。63 各种适用于所有贫困儿童的提案曾出现在《伦丁法案》（Lundeen Bill），以及霍普金斯和联邦紧急救援署（FERA）幕僚、公共就业与救济咨询委员会、全国社会工作者协会和美国公共福利协会的计划中。64 然而，这些替代方案各自将对儿童的援助置于对所有贫困者提供非分类援助（noncategorical assistance）的语境之中，这种观念在罗斯福推荐的框架或儿童局的目标中没有立足之地。儿童局的官员们遵循确立母亲养老金的根本逻辑，坚信应利用精心界定的分类援助项目，将属于“值得救济的穷人”（worthy poor）的母亲和儿童从救济队伍中分离出来。她们认为这类家庭需要稳定的援助，直到儿童达到16岁，并确信只有像ADC这样的分类项目才能提供家庭应得的长期安全保障、充足福利和尊严——简而言之，即标准。65 然而，阿博特和伦鲁特对维持“标准”的强调是一把双刃剑：必须对该项目的资格进行狭义的界定，以证明伴随该保障范围而来的更好待遇是合理的。正如格雷斯·阿博特将告诉国会议员的那样，即使在接受救济的女性户主家庭中，可能也只有二分之一或三分之一能真正符合该项目的资格，而且他们将是“好孩子”和“好家庭”。 66
+
+由于儿童局的建议如此温和，并且效仿了CES领导人对在政策发展中培养州级主动性的强调，CES欣然将它们纳入了提交给罗斯福总统的最终报告中，而没有出现任何围绕失业保险（UI）计划的争议。随着国会开始审议该法案，人们的注意力很快转向了宾夕法尼亚大道另一端的进展。
+
+## 国会中的《经济安全法案》
+
+在国会，要求为老年人提供更慷慨、更广泛之项目的主张力量主导了对《经济安全法案》的处理，失业保险（UI）和未成年儿童援助（ADC）都没有得到太多明确的关注。像老年援助（OAA）项目一样，两者都被国会委员会削弱了，这些委员会破坏了项目标准的强制力，以此作为削减国家政府触及州和地方政府事务的一种手段。但与老年援助（OAA）不同的是，针对儿童的公共援助项目并没有得到公众舆论的广泛支持。此外，若非一项更为激进的替代方案——即“工人法案”（workers' bill，又称《伦丁法案》）——所带来的制衡压力，失业补偿可能已从该法案中被彻底删除。
+
+### 伦丁法案
+
+美国劳工联合会（AFL）中的一个叛逆派系支持《伦丁法案》（Lundeen Bill），该法案以其发起人、明尼苏达州农工党成员众议员欧内斯特·伦丁（Ernest Lundeen）的名字命名。该计划源于1931年的失业者委员会，其基础理念是：大规模失业是由社会和经济力量引起的，这些力量的运作规模远超个别州，因此需要国家层面的回应。与政府的提案不同，《伦丁法案》呼吁建立一个完全国家化的失业福利系统，该系统将由累进所得税提供资金，并由选举产生的工人和农民委员会进行管理。 67
+
+《伦丁法案》在明确包容的基础上承诺向所有失业人员提供福利，指出：“本法案的福利应扩大至工人，无论他们是工业、农业、家庭、办公室还是专业工人，并扩大至农民，不得因年龄、性别、种族、肤色、宗教或政治意见或信仰而产生歧视。” 68 该计划还将覆盖因生育、疾病、事故或年老而失业的工人。当伦丁任职的众议院劳工委员会在1934年和1935年就该法案举行听证会时，支持者赞扬该计划刻意纳入了非裔美国工人和女性。此外，用劳工领袖“布卢尔大妈”（Mother Bloor，即埃拉·里夫·布卢尔）的话来说，《伦丁法案》“将为……各地的劳动妇女提供极大的帮助”。 69
+
+罗斯福政府官员将《伦丁法案》描绘成共产主义的阴谋，并敦促国会尽快通过其自身的措施，以化解对这一更为激进的替代方案的压力。尽管共产主义者和社会主义者确实支持该法案，但在美国劳工联合会（AFL）庇护下的数千个地方工会和许多市政府也同样予以支持。此外，该法案是由社会保险跨专业协会（Interprofessional Association for Social Insurance）和罗素·塞奇基金会（Russell Sage Foundation）的玛丽·范·克利克（Mary VanKleeck）起草的。70
+
+然而，在整个社会保险辩论期间，支持政府法案的国会议员将伦丁立法描绘成极端的和危险的。尤其是，他们论证道，《伦丁法案》的国家级特征将破坏各州的自治权。71
+
+美国劳工联合会（AFL）的领导层曾希望出台一项真正国家化的失业保险政策，该政策将为所有州法律的内容设定具体标准。AFL发言人威廉·格林（William Green）在国会作证时，批评《经济安全法案》将过多的权力留给了个别州。72 尽管如此，该组织还是向政府提供了官方支持，并谴责了由其内部叛逆者支持的伦丁替代方案。73 有组织劳工内部的这种分裂，协助政府败坏了伦丁计划的声誉。
+
+尽管劳工委员会（Labor Committee）在1935年3月投票支持《伦丁法案》并将其提交，但转而支持政府法案的规则委员会（Rules Committee）并未允许其进入众议院底层进行辩论。4月，伦丁众议员将其法案作为《经济安全法案》的一项修正案提出。然而，辩论不被允许，该修正案仅获得了55张赞成票。与此同时，政府对保守派可能会扼杀其失业保险（UI）计划的担忧烟消云散，因为这一远为全面且全国统一的替代方案的阴影，促使国会联合起来支持温和的经济安全委员会（CES）版本。74
+
+### 失业保险
+
+随着国会开始审议政府的法案，那些曾倡导国家化或补贴型失业补偿方案的人继续陈述他们的主张。在众议院筹款委员会（House Ways and Means Committee）的听证会上，伊夫林·伯恩斯（Eveline Burns）、亚伯拉罕·爱泼斯坦（Abraham Epstein），以及全国消费者联盟（National Consumers' League, 简称NCL）和妇女工会联盟（Women's Trade Union League, 简称WTUL）等组织的代表，批评了政府法案缺乏国家级标准。75 保罗·凯洛格（Paul Kellogg）在参议院财政委员会作证时，恳求将国家级标准作为一项基本的公民权利纳入其中：“这种最低标准应该让美国的每一位工薪阶层都知道，无论他在哪里生活或工作，在作为福利发给他的工资份额、福利期限、等待期、使他有资格获得福利的工作记录、他作为兼职工人的身份……以及其他衡量他和他的家庭是否享有安全保障的条款方面，他至少能够指望得到什么。” 76 由杰拉德·斯沃普（Gerard Swope）领导的一群商人呼吁参议院财政委员会采用补贴计划，而非税收抵免计划。他们论证道，由于“美国经济社会在本质上是国家性的”，而不是在个别州边界内组织起来的，因此失业保险在范围和应用上也应是国家性的。77
+
+在筹款委员会和财政委员会，对国家级标准的诉求并未得到理睬；事实上，这些委员会采取的行动进一步破坏了经济安全委员会（CES）在法案中包含的为数不多的几项标准。筹款委员会限制了失业保险（UI）的保障范围，就像它对老年保险（OAI）所做的那样，在此次事件中，它正式允许各州将碰巧以女性和非白人为主的特定类别的工人排除在UI保障范围之外。将非营利性医院以及宗教和教育组织的雇员排除在外，使得失业保险（UI）和老年保险（OAI）一样，让许多在女性主导的教学、社会工作和医疗保健领域的工人无法获得保障。为了减轻兼职雇主的负担，经济安全委员会（CES）此前已建议免除每年工作少于13周的雇员的保障资格；筹款委员会将该规定修改为仅适用于每年受雇超过20周的工人，以便将女性占多数的罐头制造行业免除在保障范围之外。78 农业和家庭帮佣工人再次被排除在保障范围之外。将以女性为主的家庭帮佣工人队伍排除在外，将使急需失业保险（UI）的很大一部分非白人人口被拒之门外：1934年5月，联邦紧急救援署（FERA）的一项调查发现，在40个城市的受救济人员中，自称职业为仆人及相关工人的人中有超过三分之二是黑人。79
+
+经济安全委员会（CES）曾提议将失业保险（UI）交由劳工部内的一个委员会管理。国会转而选择由一个半独立的委员会来管理UI以及该法案的其他条款，该委员会在行政部门任何机构的管辖之外运作。奥特迈耶将这一改变归因于国会总体上对劳工部的反感，特别是对珀金斯部长的蔑视，很大程度上是因为“她是一位女性，而且是一位能言善辩、聪慧的女性”，并且她“对政治庇护（patronage）的需求不够顺从”。80
+
+在其他方面，国会出台的法案中失业保险部分在很大程度上与其最初由经济安全委员会（CES）提出的形式相同。通过赋予个别州相当程度的权力（特别是在制定和实施资格限制方面），经济安全委员会（CES）已然使得一项在美国看似非传统的法律显得与美国政治传统相协调。通过将几个类别的工人排除在保障范围之外，国会向各州立法机构发出信号：该法律并非旨在颠覆州和地方在界定政治经济学方面的自治权。在未成年儿童援助（ADC）的案例中，国会采取了更为重大的措施，以阐明各州在此次事件中对女性户主家庭福祉的权威和责任。
+
+### 未成年儿童援助
+
+在未成年儿童援助（ADC）提案被提交给国会之前，该项目被以一种根本性的方式进行了修改，这令伦鲁特和阿博特感到震惊。尽管哈里·霍普金斯已对整个立法方案给予了不温不火的批准，但他在联邦紧急救援署（FERA）的助手们却重新挑起了为所有贫困人口争取广泛、普遍之救济项目的战斗。他们指责《经济安全法案》是精英主义的，因为它将老年人和失去父亲的儿童与其他接受救济的人隔离开来。他们论证道，应该将一个国家公共福利部（即联邦紧急救援署的一个永久版本）纳入该法案中。作为对他们要求的让步，官员们重写了该法案的ADC部分，并将该项目的行政管理置于联邦紧急救援署（FERA）的管辖之下，而非像伦鲁特和阿博特所计划的那样置于儿童局内。81
+
+伦鲁特一听到这个消息，就给珀金斯写了一份措辞热烈的备忘录，列出了几个令人信服的理由，说明为何儿童局是管理该项目最合适的机构。她提醒珀金斯注意儿童局在母亲养老金领域的经验、在管理常规拨款补助项目方面的经验，以及将儿童单独对待而非将他们纳入常规救济案件负荷中的可取性。82 尽管珀金斯表示同意，但最终国会还是将未成年儿童援助（ADC）的行政管理与失业保险（UI）一样，置于独立的社会保障委员会（SSB）之下。83 因此，联邦紧急救援署（FERA）和儿童局的官员在行政权威问题上双双落败。
+
+但是，就在机构代表们的注意力被他们争夺对未成年儿童援助（ADC）未来行政控制权的努力所消耗之时，用威特的话来说，国会接着采取了行动，“几乎摧毁了”该项目的其他关键条款。84 正如对待老年援助（OAA）一样，筹款委员会删除了要求负责管理未成年儿童援助（ADC）的州级机构采用功绩制（merit system）的要求。同样与其对老年人项目的处理方式相平行的是，该委员会放弃了本将强制各州提供“至少大到足以提供……与体面和健康相符之合理生计的援助”的条款。正如格雷斯·阿博特所述：“南部议员对联邦政府确定充分性（adequacy）提出了强烈反对，他们担心在为黑人和白人佃农家庭提供援助时，北部的标准可能会被强加给南部。” 85 作为对“合理生计”条款的替代，各州仅仅被要求“在该州条件下尽可能可行地为贫困的未成年儿童”提供援助。86 这两项改变破坏了伦鲁特和阿博特提高标准的希望，将该项目的质量和特征交给了州和地方官员，而这些官员在此之前已经以一种高度多变且具有地方规范特性的方式在管理母亲养老金。然而，在威特看来，最糟糕的是筹款委员会为未成年儿童援助（ADC）分配的融资和福利结构。
+
+经济安全委员会（CES）官员忽视了未成年儿童援助（ADC）和老年援助（OAA）之间配套拨款比率的差异：虽然OAA条款要求一比一的拨款公式，但伦鲁特曾建议国家政府仅以三分之一的比例为各州的ADC支出提供配套资金。匆忙处理ADC的筹款委员会保留了这一较低的资金公式，并且通过规定一个惊人地低的福利上限，只是进一步恶化了其后果。众议员弗雷德·M·文森（Fred M. Vinson，肯塔基州民主党人）建议，该法律使用与通过退伍军人福利授予儿童的相同福利限额：第一个孩子每月18美元，每增加一个孩子每月12美元。鉴于三分之一的配套公式，国家政府因此最多只需为第一个孩子支付6美元，为每一个额外的孩子支付4美元。87 文森忽视了这样一个事实：在退伍军人福利下，寡妇本人每月也获得30美元。尽管如此，委员会接受了这些建议，而且未成年儿童援助（ADC）中根本没有包含任何照料者（caretakers）的福利。88
+
+威特对儿童局的官员们充满敬意，并且担心对老年人的关注正在分散国会的注意力，使其未能对儿童的需求给予足够的重视，他对这些改变感到非常困扰。他批评了适用于有子女的家庭与适用于老年人的拨款公式及最高福利之间的不平等，并宣称，对于年轻家庭而言，如果不也同时接受救济，将“根本不可能”生存下去。他认为法案中根本不应写入最高拨款标准，并希望政府能在参议院将该法案恢复到最初的形式。89 然而，在亲自重审该法案时，也许仍因行政管辖权问题而分心的伦鲁特，让这些变动原封不动地保留了下来。90 直到后来格雷斯·阿博特才评论道：“由于儿童比老年人吃得更多，衣服磨损得也更快，这显然是一个不公平的报销基础。” 91 由于几乎没有采取其他行动的压力，财政委员会决定原封不动地保留筹款委员会对未成年儿童援助（ADC）的修改。尽管在关于老年人需求的众议院底层（floor）辩论的演讲中，偶尔穿插着关于母亲的华丽辞藻，例如众议员西罗维奇关于“家庭的守护神与天使”的言辞，但参众两院和协商委员会同样将修改后的ADC条款保留了下来。1935年8月14日，当罗斯福总统签署该措施使其成为法律时，这些条款依然如此。
+
+国会已使未成年儿童援助（ADC）项目——这个在《经济安全法案》中本已是最温和的计划——变得更加节俭。伦鲁特和阿博特在法案中设置的福利和配套拨款特征，与国会所做的修改相结合，在法律中编纂了对于儿童拨款不充分的标准，并给州政府施加了尤为沉重的财政负担。此外，尽管使母亲在照料儿童中的角色神圣化的母亲养老金法律，为未成年儿童援助（ADC）提供了动力，但母亲们本身在这项新法规中完全消失了，缺乏任何为照料者提供的条款。极低的福利结构似乎让母性主义（maternalist）改革者们的希望破灭，她们曾期望有一个能够更充分地接近母亲养老金目标的计划：让儿童能与母亲一起留在家里，并免受一般性救济的侮辱。最重要的是，筹款委员会中的州权倡导者在将未成年儿童援助（ADC）限制在传统联邦制的边界内方面，超过了儿童局的官员们。
+
+伦鲁特和阿博特在她们的报告中始终建议，联邦拨款至少在暂时的基础之上应按照一种“均等化”（equalization）原则进行分配，“向暂时丧失能力的州提供特别援助”。92 以这种方式，以前的政府配套拨款项目，如公路、农业推广工作和职业教育项目，是根据人口和道路里程等因素进行分配的，而不是留给轻易的政治和经济考量。93 然而，在法定形式中，“均等化”的表述被删除了。未成年儿童援助（ADC）的配套拨款公式与特定州的需求程度没有任何关系，而是取决于每个州政府提供援助的意愿和能力。儿童局官员和国会的共同努力，使得在实施该项目时允许标准和行政风格存在巨大的差异。
+
+伦鲁特和阿博特绝非主张全民覆盖，尽管如此她们依然希望，宽松的联邦标准将意味着与母亲养老金相比，更多的儿童、在更多的情况下将被纳入未成年儿童援助（ADC）的保障范围之内。她们曾批准了联邦紧急救援署（FERA）官员在法案中使用的广泛语言，该语言将“未成年儿童”（dependent child）定义为“16岁以下、因父母死亡、持续不在家或身体或精神丧失能力而被剥夺了父母支持或照料的儿童”。94 然而，为了保持她们将相当大权力留给各州的倾向，该法案的定义并不具有限制性，而只是建议了各州在确定该项目资格时所能依据的最具包容性的边界。格雷斯·阿博特乐观地论证道，尽管各州将不被要求接受相对自由的关于未成年儿童的联邦定义，但该法律将促使各州采用类似的指导方针，因为这样他们就有资格为更多儿童获得联邦拨款。95 然而，在从法案中剥离功绩制条款时，筹款委员会使得未成年儿童援助（ADC）更有可能根据地方和偏狭的规范来实施，而不是根据阿博特和伦鲁特所倡导但不愿强制执行的那些规范来实施。
+
+因此，动机迥异的儿童局官员和国会议员们在不经意间通力合作，使得未成年儿童援助（ADC）成为《社会保障法》中最注定会被联邦制割裂的条款。作为州级治理的坚定信仰者，阿博特和伦鲁特一直试图建立在母亲养老金分权化的基础之上，以使社会供给“更贴近人民”；集中化的国家行政理念对她们理解社会政策实施的恰当领域来说是完全陌生的。国会中拥护州权的保守派，在不同动机的驱使下却为了相同的结果采取行动，为未成年儿童援助（ADC）增加了更多的州级自治权。尽管儿童局官员对国会对ADC的一些操纵感到沮丧，但她们仍然乐观地认为该项目预示着一个更加光明的未来。
+
+## 政策比较
+
+在众议院筹款委员会举行的关于《经济安全法案》的听证会上，全国家长和教师代表大会主席B·F·兰沃西夫人（Mrs. B. F. Langworthy）对提议中的未成年儿童援助（ADC）项目发表了讲话。该组织是由在1910年代指导通过了母亲养老金立法的全国家长代表大会演变而来的。 在描述她的组织在二十多年来为扩大母亲养老金而做出的努力时，兰沃西评论道：
+
+> 在我们的任何决议中，我们都没有发现将母亲养老金作为一个联邦项目来考虑。 然而，我们意识到，在经济萧条期间，一些州变得如此贫困，以至于这种类型的联邦援助似乎是可取的。 我们完全致力于对儿童福利的地方控制和责任。 然而，如果在一种可以保留这种地方控制和责任，并且能够通过使用联邦资金更加充分地满足需求的行政管理方法下，我们认为那些渴望这种援助的州应当被允许通过这项或类似的立法来利用这一机会。96
+
+兰沃西对关于母亲养老金的国家行政管辖权的反对，以及她对该项目使用联邦资金的不温不火的支持，与失业补偿的大多数支持者的证词形成了鲜明对比。众多专家和组织代表坚持认为，针对失业保险（UI）的国家行政管辖权和国家级标准，将远比把大量权力留给个别州的经济安全委员会（CES）计划更为可取。
+
+表 4. UI（失业保险）与 ADC（受抚养儿童补助）特征与规定对比
+
+| **特征与规定**              | **失业保险 (UI)**      | **受抚养儿童补助 (ADC)** |
+| ---------------------- | ------------------ | ----------------- |
+| **政府行政层级**             | 国家与州联合管理           | 国家与州联合管理          |
+| **缴费型 vs 非缴费型**        | 雇主缴费；各州可选择是否要求雇员缴费 | 非缴费型              |
+| **筹资安排**               | 由中央（联邦）政府持有的雇主税    | 联邦补助金，1:2 比例      |
+| **资格认定机构**             | 州政府                | 州政府               |
+| **功绩制 (Merit system)** | 否                  | 否                 |
+| **项目国家行政年度拨款（百万美元）**   | 49                 | 25                |
+
+事实上，在听证会上针对这两个项目的不同话语体系，反映了罗斯福政府官员在创造它们时极其不同的特征。然而，在1935年的政策制定过程中，失业保险（UI）和未成年儿童援助（ADC）在相当具有可比性的基础上应运而生。正如表4所示，这两者都被赋予了一种行政管理模型，在该模型中，权力将由国家和州政府共享。每一项政策都为个别州在确定资格标准和福利比率方面提供了实质性的自由裁量权。因此，与面向美国老年人的项目相比，这两个针对非老年人的项目在对公民身份的影响方面，彼此之间的差异较小。
+
+与老年保险（OAI）不同的是，针对失业保险（UI）的税收抵免计划既没有注入有关个人权利的语言，也没有注入有关公民身份之国家标准的语言。界定各州自身项目的意识形态的权力被留给了各州。同样，未成年儿童援助（ADC）的创建也与个人权利无关，而是建立在关于母亲在将儿童抚养成好公民时所扮演之适当角色的归属概念基础之上。
+
+然而，围绕这两个项目颁布的不同政治因素，导致了截然不同的融资和行政安排。尽管更为集中化的失业保险（UI）版本被击败，最终计划仍然包含了联邦税收，并由国家控制资金向各州的分配。相比之下，未成年儿童援助（ADC）的决策者允许州和地方官员拥有实质性的行政自治权。 在争取更具国家化版本失业保险（UI）战斗中失败的政治力量仍然准备战斗，而未成年儿童援助（ADC）行政管辖权的丧失，则对罗宾·芒西（Robyn Muncy）所谓的“儿童福利领地”造成了毁灭性的打击。
+
+引用
+1 ADC was the precursor to Aid to Families with Dependent Children. 
+2 Winifred Bell, Aid to Dependent Children (New York: Cambridge University Press, 1965), pp. 18-19; Ann Shola Orloff, "Gender in Early U.S. Social Policy," Journal of Policy  History 3 (1991): 249-81. 
+3 Edwin E. Witte, The Development of the Social Security Act (Madison: University of Wisconsin Press, 1962), p. 111. 
+4 On the factors that led to successful enactment of unemployment compensation at the  state level-namely, alliances between reformers, organized labor, and a cohesive party organization-see Edwin Amenta et al., "The Political Origins of Unemployment Insurance in  Five American States," Studies in American Political Development 2 (1987): 137-82. 
+5 Frances Fox Piven and Richard A. Cloward, Regulating the Poor (New York: Random  House, Vintage Books, 1971), pp. 61-66; George Martin, Madam Secretary (Boston: Hough-ton Mifflin, 1976), p. 341; Bruce Allen Murphy, The Brandeis/Frankfurter Connection (New York: Doubleday, 1983), pp. 165-78. 
+6 Edward D. Berkowitz, America's Welfare State (Baltimore: Johns Hopkins University  Press, 1991), pp. 28-29. 
+7 Edward J. Harpham, "Federalism, Keynesianism, and the Transformation of the Unemployment Insurance System in the United States," in Nationalizing Social Security in Europe  and America, ed. Douglas E. Ashford and E. W. Kelley (Greenwich, Conn.: JAI, 1986),  pp. 15 6- 57; Amenta et al., "Political Origins of Unemployment Insurance"; Theda Skocpol,  Protecting Soldiers and Mothers: The Political Origins of Social Policy in the United States (Cambridge: Harvard University Press, 1992), pp. 153-3Io; Theda Skocpol and Gretchen  Ritter, "Gender and the Origins of Modern Social Policies in Britain and the U.S.," Studies in  American Political Development 5 (spring 1991): 36-93. Eight states followed Wisconsin's  lead in 193 5; SSB, Social Security in America: The Factual Background of the Social Security  Act as Summarized from Staff Reports to the Committee on Economic Security (Washington,  D.C.: GPO, 1937), p. 6. 
+8 Daniel Nelson, Unemployment Insurance: The American Experience, 1915-1935 (Madison: University of Wisconsin Press, 1969), pp. 192-95· 
+9 Ibid., pp. 197-204; House Ways and Means Committee, Hearings on the Wagner-Lewis  Bill before the Ways and Means Committee, House of Representatives, 73d Cong., 2d sess.,  March 21-March 30, 1934· 
+10Witte, Development of the Social Security Act, pp. 112-13; Letter, Thomas Eliot to Ed-win Witte, November 5, 1934, CES, Correspondence regarding Proposals for the Economic  Security Program, 1934-35, box 56, RG 47, NA. 
+11 "Preliminary Report of the Technical Board to the Committee on Economic Security," 
+CES, General Records of the Executive Director and Staff, 1934-35, box 1, RG 47, NA.  
+12 Frances Perkins, The Roosevelt I Knew (New York: Harper and Row, 1946), pp. 286-87. 
+13 Witte, Development of the Social Security Act, pp. 116-17; Barbara Nachtrieb Arm-strong, "Advantages of a Federal Subsidy Plan," November 7, I934, CES, Staff Correspondence, 1934-35, box 17, RG 47, NA. 
+14 Reminiscences of Barbara Nachtrieb Armstrong, OHC, pp. 36-40.  
+15 Ibid., p. 58. 
+16 Perkins, Roosevelt I Knew, p. 291.  
+17 Ibid. 
+18 Reminiscences of Arthur f. Altmeyer, OHC, p. 7; Reminiscences of Frank Bane, OHC,  p. 39· 
+19Witte, Development of the Social Security Act, pp. I8, III; Reminiscences of Barbara  Nachtrieb Armstrong, pp. 51-54; Edwin E. Witte, "Balance of Power: Federal and State Governments Share in the Suggested Unemployment Compensation Programs," CES, Staff Re-ports, 1934-35, box 21, Witte file, RG 47, NA. 
+20Witte, Development of the Social Security Act, p. 112; Perkins, Roosevelt I Knew,  p. 29I; Reminiscences of Arthur f. Altmeyer, pp. 7-8. 
+21 Letter and attachments, Edwin Witte to Frances Perkins, November 10, 1934, CES, Cor-respondence regarding Proposals for the Economic Security Program, 1934-35, box 55, RG  47,NA. 
+22 Witte, Development of the Social Security Act, pp. 118-21. 
+23 "Minutes of Meeting on Unemployment Insurance Experts," November I5, I934, CES,  Staff Reports, 1934-35, box 24, RG 47, NA. 
+24 Reminiscences of Arthur]. Altmeyer, p. 12. 
+25 Witte, Development of the Social Security Act, pp. 50-66.  
+26 Martin, Madam Secretary, pp. 350-52. 
+27Witte, Development of the Social Security Act, p. u8. 
+28 Letter, John R. Commons to John B. Andrews, November I9, I934, CES, Correspondence regarding Proposals for the Economic Security Program, 1934-35, box 55; Paul  Raushenbush, "Fundamental Questions of Policy on Unemployment Insurance," December 3,  1934, CES, Staff Reports, 934-35, box 24; Tom Corcoran, "Why the Wagner-Lewis Principle Should Not Be Opposed," CES, Staff Reports, 1934-35, box 17; all in RG 47, NA.  
+29 Perkins, Roosevelt I Knew, p. 292. 
+30 Arthur J. Altmeyer, The Formative Years of Social Security (Madison: University of Wisconsin Press, I968), pp. 20-21; Witte, Development of the Social Security Act, pp. 125-27;  Perkins, Roosevelt I Knew, pp. 290-92; Irving Bernstein, A Caring Society (Boston: Hough-ton Mifflin, I985), p. 56. 
+31 Public Law 271, 74th Cong., 1st sess. (August 14, 1935), Social Security Act of 1935,  titles III and IX. 
+32 SSB, Social Security in America, p. 119.  
+33 Ibid. 
+34 Martin, Madam Secretary, p. 345; Perkins, Roosevelt I Knew, p. 284. 
+35 Barbara Nachtrieb Armstrong, "Possibilities of a Unified System of Insurance against Loss of Earnings," CES, Staff Reports, 1934-35, box 17, RG 47, NA. Homer Folks of the  State Charities Aid Association raised such concerns, but as a member of the Advisory Com-mittee on Child Welfare, his comments were ineffective; see letter, Homer Folks to Katharine  Lenroot, November 7, 1934, Abbott Papers, box 54, folder Id, UC. 
+36 SSB, Social Security in America, pp. 24-26, 3 3, 40. 
+37 Maternity benefits were mentioned in the "Report of the Committee on Economic Security" as one aspect of the health insurance program which failed to materialize; see CES, "Re-port of the Committee on Economic Security," in The Report of the Committee on Economic  Security of I935 and Other Basic Documents relating to the Development of the Social Security Act, 5oth anniversary ed., National Conference on Social Welfare (Washington, D.C.:  National Conference on Social Welfare, 1985), pp. 41-42. On maternity benefits in other  countries by the early 1930s, see Barbara Nachtrieb Armstrong, Insuring the Essentials (New  York: Macmillan, 1932), pp. 345, 350. 
+38 Perkins, Roosevelt I Knew, pp. 284-85; Witte, Development of the Social Security Act,  p. 114; Bernstein, Caring Society, p. 55· 
+39 Paul H. Douglas, Standards of Unemployment Insurance (Chicago: University of Chicago Press, 1933), p. 50. 
+40 CES, "Report of the Committee on Economic Security," p. 21. 
+41 Diana M. Pearce, "Toil and Trouble: Women Workers and Unemployment Compensation," Signs 10 (1985): 441. 
+42 Grace Abbott, "Recent Trends in Mothers' Aid," Social Service Review 8 (1934): 191-210. 
+43 Edith Abbott, "The Fallacy of Local Relief," New Republic, November 9, 1932, pp. 348-50. 
+44 "Views of Miss Edith Abbott of the University of Chicago on a Feasible Program for Eco-nomic Security," August 25, 1934, CES, Correspondence regarding Proposals for the Eco-nomic Security Program, 1934-35, box 54, RG 47, NA; Letter, Grace Abbott to Edwin Embree, October 12, 1929, Abbott Papers, box 36, folder 15, UC. 
+45 Grace Abbott, "Recent Trends in Mothers' Aid," p. 210; Lela B. Costin, Two Sisters for 
+Social Justice (Urbana: University of Illinois Press, 1983), p. 208. 46 Reminiscences of Katherine Lenroot, OHC, pp. 3 3-34, 86. 
+47 Letter, Katharine Lenroot to Grace Abbott, August 17, I934, Abbott Papers, box 54,  folder Ia, UC; Reminiscences of Katharine Lenroot, pp. 33-34. 
+48 Memorandum, Katharine Lenroot to Mrs. Hopkins, June 28, I934, box 479, file 0-5-4-10-0, RG 102, NA. 
+49 Letter, Katharine Lenroot to Grace Abbott, August I?, I934, Abbott Papers, box 54,  folder Ia, UC. 
+50 Edith Abbott, "The Fallacy of Local Relief." 
+51 Katharine Lenroot, "Preliminary and Confidential Suggestions for Development of a  Children's Program as Part of a Federal Security Program," p. 1, Abbott Papers, box 61, folder  3· uc. 
+52 Katharine Lenroot, "Special Measures for Children's Security," Abbott Papers, box 61,  folder 3, UC; Reminiscences of Katharine Lenroot, p. 92. 
+53 Katharine Lenroot to Grace Abbott, January Io, I93 5, Abbott Papers, box 6I, folder 4, UC; SSB, Social Security in America, pp. 288-89. 
+54 Letter, Lenroot to Grace Abbott, October I3, I934, Abbott Papers, box 6I, folder 3,  UC; Katharine Lenroot, "Aid to Dependent Children," in SSB, Social Security in America,  p. 248. 
+55 Reminiscences of Katherine Lenroot, pp. 25, 33; Lenroot, "Preliminary and Confidential Suggestions," p. 3. 
+56 Lenroot, "Preliminary and Confidential Suggestions," p. 2; Public Law 27I, title IV,  sec. 402 (a); Eveline M. Burns, Toward Social Security (New York: McGraw-Hill, I936),  pp. 111-12. 
+57 SSB, Social Security in America, table 49, pp. 235-36; testimony of Katharine Lenroot,  House Ways and Means Committee, Hearings on the Economic Security Act, H.R. 4rzo, 74th Cong., 1st sess.,January 26,1935, p. 267. 
+58 CES, "Report of the Committee on Economic Security," pp. 26-27, 36-37. 
+59 Linda Gordon, Pitied but Not Entitled: Single Mothers and the History of Welfare, 
+1890-1935 (New York: Free Press, 1994), p. 257.  
+60 Reminiscences of Katherine Lenroot, p. 99· 
+61 Lenroot, "Preliminary and Confidential Suggestions," p. 2. 
+62 Reminiscences of Katharine Lenroot, pp. 107-u; Lenroot, "Preliminary and Confidential Suggestions," p. 4; Gwendolyn Mink, The Wages of Motherhood: Inequality in the Wel-fare State, 1917-1942 (Ithaca: Cornell University Press, 1995); Gordon, Pitied but Not En-titled, p. 102; Christopher Howard, "Sowing the Seeds of 'Welfare': The Transformation of  Mothers' Pensions, 1900-1940," Journal of Policy History 4 (1992): 210. 
+63 Wendy Sarvasy, "Beyond the Difference versus Equality Policy Debate: Postsuffrage Feminism, Citizenship, and the Quest for a Feminist Welfare State," Signs 17 (1992): 329-62,  esp. 348-49 and 360. 
+64 Reminiscences of Katherine Lenroot, pp. 104-5. 
+65 Report by Grace Abbott, September 6, 1934, pp. 3-4, Abbott Papers, box 61, folder 3,  UC; testimony of Grace Abbott, House Ways and Means Committee, Hearings on the Eco-nomic Security Act, p. 495; Gordon, Pitied but Not Entitled, p. 105. 
+66 Testimony of Grace Abbott, House Ways and Means Committee, Hearings on the Eco-nomic Security Act, January 21, 1935, pp. 495-96. 
+67 Richard M. Valelly, Radicalism in the States (Chicago: University of Chicago Press,  1989), pp. 168-69; Gordon, Pitied but Not Entitled, pp. 236-41; Kenneth Casebeer, "The Workers' Unemployment Insurance Bill: American Social Wage, Labor Organization, and Le-gal Ideology," in Labor Law in America, ed. Christopher L. Tomlins and Andrew J. King (Baltimore: Johns Hopkins University Press, 1992), p. 49·  
+68 House Committee on Labor, Hearings on Unemployment, Old Age, and Social Insurance, 74th Cong., 1st sess., February 4, 1935, pp. 1-2. 
+69 Ibid., pp. 129-35. Also of particular interest are the testimonies of Frieda Pearl, United  Council of Working-Class Women, pp. 3 86-88; Dr. Reuben S. Young, Interprofessional As-sociation, pp. 388-92; Thomas Jefferson Crawford, Agricultural and Cannery Workers Industrial Union of New Jersey, p. 363; T. Arnold Hill, National Urban League, p. 326; Herbert  Benjamin, National Joint Action Committee for Genuine Social Insurance, pp. 166-9 5; Rosa  Rayside, Domestic Workers Union, p. 635; L. H. Wittner, National Equal Wealth Society,  pp. 424-25; Theresa E. Gold, Brotherhood of Shoe and Allied Craftsmen, p. 440; and Mildred Fairchild, economist, Bryn Mawr College, pp. 397-409. 
+70 Altmeyer, Formative Years, p. 30; Witte, Development of the Social Security Act, p. 8 5;  Gordon, Pitied but Not Entitled, p. 237; Casebeer, "Unemployment Insurance Bill." 
+71 Congressional Record, 74th Cong., 1st sess., April II, 1935, pp. 5467-68; see also, e.g.,  pp. 5550, 5536, 5703-4· 
+72 Edwin E. Witte, "Organized Labor and Social Security," in Labor and the New Deal, ed.  Milton Derber and Edwin Young (Madison: University of Wisconsin Press, 1961), pp. 253-54· 
+73 Casebeer relates in detail the story of the grass-roots support by union locals and municipal governments for the Lundeen Bill and the conflicts that ensued in the AFL over the disputed visions of unemployment compensation; see Casebeer, "Unemployment Insurance Bill";  see also Witte, "Organized Labor and Social Security." 
+74 Gordon, Pitied but Not Entitled, p. 240; Valelly, Radicalism in the States, p. I69. 
+75 House Ways and Means Committee, Hearings on the Economic Security Act, 1935,  pp. 562-65, 790-95, 1092. 
+76 Letter and attachments, Paul Kellogg to Josephine Roche, February I5, I935, CES, General Records of the Executive Director and Staff,1934-35, box 1, RG 47, NA. 
+77 Business Advisory Council for the Department on Commerce, "Report of Committee on  Social Legislation," April 10, 1935 CES, General Records of the Executive Director and Staff,  1934-35, box 11, RG 47, NA. 
+78 Public Law 271, title IX, Sec. 907, parts (a) and (c); Department of Labor, Women's Bureau, "Women Workers and the Social Security Program," address by Mary Anderson before  the Indianapolis Council of Women, January 7, 1936, pp. 19-20, LMDC; Witte, Development of the Social Security Act, pp. I32-43· 
+79 Department of Labor, Women's Bureau, "The Negro Woman Worker," by Jean Collier  Brown, bulletin I65 (Washington, D.C.: GPO, 1938), p. 3· 
+80 Altmeyer, Formative Years, p. 37; see also Perkins, Roosevelt I Knew, pp. 300-301. 
+81 Witte, Development of the Social Security Act, pp. 71, 162. 
+82 Memorandum, Katharine Lenroot to The Secretary, January 3, 1935, CES, box 1, RG  47, NA. Within a week, Perkins informed Lenroot that Roosevelt intended to place mothers'  pensions under the Children's Bureau after all; letter, Katharine Lenroot to Grace Abbott, January 10, 1935, Abbott Papers, box 61, folder 4, UC. Yet, once the final draft was sent to Congress, the FERA was cited as the agency to be charged with administering ADC; see letter,  Grace Abbott to Katharine Lenroot, February 2I, 1935, Abbott Papers, box 6I, folder 4, UC;  letter, Katharine Lenroot to Grace Abbott, February 26, 1935, Abbott Papers, box 54, folder  2, UC; and letter, Grace Abbott to Edwin Witte, February 25, 1935, CES, Staff Correspondence, 1934-35, box r6, RG 47, NA. 
+83 Witte, Development of the Social Security Act, pp. 162-63. 
+84 Letter, Edwin E. Witte to Raymond Moley, March 6, 1935, CES, Staff Correspondence,  1934-35, box 15, Witte file 4, RG 47, NA. 
+85 Grace Abbott, From Relief to Social Security (New York: Russell and Russell, 1966), p. 279· 
+86 Public Law 271, title IV, sec. 401. 
+87 Grace Abbott, From Relief to Social Security, pp. 280-81; Witte, Development of the  Social Security Act, p. 164. 
+88 "See Public Law 271, title IV, sec. 403(a), 406(b).  
+89 Letter, Witte to Moley, March 6, 1935· 
+90 Memorandum, Thomas Eliot to Arthur Altmeyer and Edwin Witte, April 24, 1935, CES,  box 56, RG 47, NA. 
+91 Grace Abbott, From Relief to Social Security, p. 281. 
+92 CES, "Report of the Committee on Economic Security," p. 36; see also Lenroot, "Special Measures for Children's Security," p. 3, and Lenroot, "Preliminary and Confidential Sug-gestions," p. 10. 
+93 James T. Patterson, The New Deal and the States: Federalism in Transition (Princeton: 
+Princeton University Press, 1969), p. 87.  
+94 Public Law 271, title IV, sec. 406{a). 
+95 Grace Abbott, From Relief to Social Security, pp. 279-80. 
+96 House Ways and Means Committee, Hearings on the Economic Security Act, p. 525. 
+97 Robyn Muncy, Creating a Female Dominion in American Reform, r890-I935 (New  York: Oxford University Press, 1991), pp. 153-54. 
