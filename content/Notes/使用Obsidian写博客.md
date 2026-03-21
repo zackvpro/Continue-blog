@@ -9,6 +9,8 @@ title: 经验：使用Obsidian写博客
 
 # 2.如何用mermaid画图
 
+示例如下
+
 ```mermaid
 %%{init: { "themeVariables": { "xyChart": {"plotColorPalette": "#E63946, #1D3557"} } } }%%
 xychart-beta 

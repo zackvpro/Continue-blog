@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.Cusdis({ appId: "73740d44-1230-4072-9c21-36d4e5e6220e" }),],
+  afterBody: [ Component.Cusdis({ appId: "73740d44-1230-4072-9c21-36d4e5e6220e" }),],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
