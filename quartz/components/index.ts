@@ -23,6 +23,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import Cusdis from "./Cusdis"
 
 export {
   ArticleTitle,
@@ -38,6 +39,7 @@ export {
   TableOfContents,
   Explorer,
   TagList,
+  Cusdis,
   Graph,
   Backlinks,
   Search,
