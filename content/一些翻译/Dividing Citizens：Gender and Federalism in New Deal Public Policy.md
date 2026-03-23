@@ -20,7 +20,7 @@ tags:
 title: 
 style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
 minLevel: 0 # Include headings from the specified level
-maxLevel: 3 # Include headings up to the specified level
+maxLevel: 2 # Include headings up to the specified level
 include: 
 exclude: /^(印度GST改革历程|注释)$/
 includeLinks: true # Make headings clickable
@@ -1851,9 +1851,9 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 
 ## 争取国家劳动标准的动力：新政早期
 
-当新当选的罗斯福邀请弗朗西丝·珀金斯（Frances Perkins）出任劳工部长时，她通过概述一项劳动立法计划来试探他，其中包括她长期致力于实现的目标：建立联邦最低工资和最高工时标准。 尽管罗斯福在财政事务上通常是保守的（这从他在社会政策支出方面的观点中可以看出），但在几乎不涉及政府支出的监管政策领域，他通常愿意运用联邦政府权威的力量。 3 他毫不犹豫地承诺全力支持她的整个计划。 她很快提醒他，这些目标尚未得到法院的认可：“但是，”我说，“您是否考虑过，要启动这样一个项目，我们必须构思、起草并制定劳动和社会立法，而这可能会被认为是违宪的？” “嗯，这是个问题，”罗斯福先生承认，“但时机成熟时，我们总能想出办法的。”
+当新当选的罗斯福邀请弗朗西丝·珀金斯（Frances Perkins）出任劳工部长时，她通过概述一项劳动立法计划来试探他，其中包括她长期致力于实现的目标：建立联邦最低工资和最高工时标准。 尽管罗斯福在财政事务上通常是保守的（这从他在社会政策支出方面的观点中可以看出），但在几乎不涉及政府支出的监管政策领域，他通常愿意运用联邦政府权威的力量。 3 他毫不犹豫地承诺全力支持她的整个计划。 她很快提醒他，这些目标尚未得到法院的认可：“但是，”我说，“您是否考虑过，要启动这样一个项目，我们必须构思、起草并制定劳动和社会立法，而这可能会被认为是违宪的？” “嗯，这是个问题，”罗斯福先生承认，“但时机成熟时，我们总能想出办法的。”4 
 
-4 除了珀金斯，劳动标准议程也得到了纺织和服装工人工会领导人的推动，包括美国服装工人联合会（ACWA）和国际女装工人。 联合会（ILGWU）。尽管在性别问题上存在内部矛盾，但这些工会在20世纪30年代初脱颖而出，因为它们代表了主要由从事极低薪水工作的非熟练女性组成的行业。 5 关于政府对劳动力市场的干预以及非熟练工人和未组织工人的需求，其领导人必然持有与其他劳工领袖不同的观点。 美国服装工人联合会（ACWA）的全国主席西德尼·希尔曼（Sidney Hillman）与拥护最低工资的妇女改革协会（包括全国消费者联盟，即NCL，和妇女工会联盟，即WTUL）有着长期的联系。
+除了珀金斯，劳动标准议程也得到了纺织和服装工人工会领导人的推动，包括美国服装工人联合会（ACWA）和国际女装工人。 联合会（ILGWU）。尽管在性别问题上存在内部矛盾，但这些工会在20世纪30年代初脱颖而出，因为它们代表了主要由从事极低薪水工作的非熟练女性组成的行业。 5 关于政府对劳动力市场的干预以及非熟练工人和未组织工人的需求，其领导人必然持有与其他劳工领袖不同的观点。 美国服装工人联合会（ACWA）的全国主席西德尼·希尔曼（Sidney Hillman）与拥护最低工资的妇女改革协会（包括全国消费者联盟，即NCL，和妇女工会联盟，即WTUL）有着长期的联系。
 
 在20世纪30年代，他是白宫最受欢迎的劳工领袖，曾在1932年被拉拢参与罗斯福竞选团队及其未来政府政治领导层的合作。希尔曼像许多凯恩斯主义者一样，用消费不足论的观点来解释大萧条，并寻求旨在刺激大众消费的公共政策措施。6 在1933年6月联合会（Amalgamated）总执行委员会的会议上，他告诉同事们：
 
@@ -1896,9 +1896,9 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 
 什么是这种自由？宪法并没有提及契约自由。它谈论的是自由（liberty），并禁止未经正当法律程序剥夺自由……因此，宪法下的自由必然受制于正当程序的约束，而与其主体合理相关且为共同体利益而采用的监管，即是正当程序。但所保障的自由是社会组织中的自由，这种社会组织需要法律的保护，以抵御威胁人民健康、安全、道德和福祉的罪恶。25
 
-因此，法院摒弃了那种极少允许国家干预经济关系的抽象自由概念，转而采取一种实质性的自由概念；这种概念将为政府（至少在州一级）监管经济和工人条件的行动提供正当性理由。仅仅两周后，在全国劳工关系委员会诉琼斯和劳克林钢铁公司案（National Labor Relations Board v. Jones and Laughlin Steel Corporation）中，最高法院支持了《全国劳工关系法》（NLRA）。该裁决似乎肯定了对商业条款（commerce clause）的修正解释，即生产过程的所有阶段都被理解为相互依存的，因此属于国会的监管权力范围。26 多数意见指出：“尽管单独来看，某些活动可能具有州内性质，但如果它们与州际商业具有如此密切和实质性的联系，以至于对它们的控制对于保护该商业免受负担和阻碍是必要或适当的，那么就不能否认国会行使这种控制的权力。”
+因此，法院摒弃了那种极少允许国家干预经济关系的抽象自由概念，转而采取一种实质性的自由概念；这种概念将为政府（至少在州一级）监管经济和工人条件的行动提供正当性理由。仅仅两周后，在全国劳工关系委员会诉琼斯和劳克林钢铁公司案（National Labor Relations Board v. Jones and Laughlin Steel Corporation）中，最高法院支持了《全国劳工关系法》（NLRA）。该裁决似乎肯定了对商业条款（commerce clause）的修正解释，即生产过程的所有阶段都被理解为相互依存的，因此属于国会的监管权力范围。26 多数意见指出：“尽管单独来看，某些活动可能具有州内性质，但如果它们与州际商业具有如此密切和实质性的联系，以至于对它们的控制对于保护该商业免受负担和阻碍是必要或适当的，那么就不能否认国会行使这种控制的权力。”27 
 
-27 通过扩大“州际商业”的合法领域以及政府在监管经济中的作用，该裁决进一步为1938年公平劳动标准法（FLSA）奠定了基础。最终，最高法院拆除了二元联邦主义的结构性支撑：即对商业条款的严格解释和对契约自由的尊崇。1937年5月下旬，随着制定国家劳动标准法的司法障碍被扫除，罗斯福向国会提交了一份全面的工资与工时法案。
+通过扩大“州际商业”的合法领域以及政府在监管经济中的作用，该裁决进一步为1938年公平劳动标准法（FLSA）奠定了基础。最终，最高法院拆除了二元联邦主义的结构性支撑：即对商业条款的严格解释和对契约自由的尊崇。1937年5月下旬，随着制定国家劳动标准法的司法障碍被扫除，罗斯福向国会提交了一份全面的工资与工时法案。
 
 ## 罗斯福政府时期工资与工时法案的形成
 
@@ -1908,7 +1908,7 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 
 关于1938年公平劳动标准法（FLSA）形成过程的记述通常侧重于该法律在国会经历的动荡历程；行政部门在政策制定中的作用却鲜少受到关注。30 但正是在政府官员悄然起草该法案的过程中，大多数低薪女性工人和非白人男性——那些本可以从国家劳动标准中获益最多的人——被豁免于法案的覆盖范围之外。在此过程中，政策制定者不仅像学者们通常假设的那样受到宪法本身的约束，还受到了政治和战略考量的制约。保护性劳动法的覆盖基础是在政治上衍生出来的，它是通过关于国家角色的特定思想的胜利，以及对女性公民身份意义的社会建构而形成的。同样，国家劳动标准覆盖范围的新标准也是通过政治过程制定的，只不过这一次是在不同的制度背景下。在这种情况下，当旧的二元联邦主义结构不再适用时，政策制定者必须决定哪些类别的工作符合州际商业的标准，哪些不符合。
 
-最近法院裁决中解释的宪法提供了基本框架，但绝不是一个明确的蓝图。当政府官员划定受涵盖职业与被排除职业之间的界限时，政治上的当务之急必然会发挥作用。早些时候，当珀金斯部长指导起草一项恢复工资与工时规定的法案时，她借鉴了《布莱克-康纳利三十小时法案》（Black-Connery Thirty-Hour Bill，_译者注：原文Cannery疑为拼写错误_）的模式，该法案提议对在州际商业中运输在低于标准劳动条件下生产的货物的工业家处以罚款。该法案的涵盖条款（“任何矿山、采石场、磨坊、罐头厂、作坊、工厂或制造机构”）主要涉及男性主导的职业（罐头厂和磨坊是显著的例外）。在接下来两年最高法院的动荡中，珀金斯就州际商业方法的现实可行性咨询了众多宪法律师和政府官员。32 政府制定的法案虽然明显超越了1936年卡特案极其严格的限制，但对覆盖条款的设定依然谨慎，其界限一方面参考了1935年早期谢克特（Schecter）判决中使用的州际商业定义，另一方面则参考了1937年全国劳工关系委员会（NLRB）案件中的定义。
+最近法院裁决中解释的宪法提供了基本框架，但绝不是一个明确的蓝图。当政府官员划定受涵盖职业与被排除职业之间的界限时，政治上的当务之急必然会发挥作用。早些时候，当珀金斯部长指导起草一项恢复工资与工时规定的法案时，她借鉴了《布莱克-康纳利三十小时法案》（Black-Connery Thirty-Hour Bill）的模式，该法案提议对在州际商业中运输在低于标准劳动条件下生产的货物的工业家处以罚款。该法案的涵盖条款（“任何矿山、采石场、磨坊、罐头厂、作坊、工厂或制造机构”）主要涉及男性主导的职业（罐头厂和磨坊是显著的例外）。在接下来两年最高法院的动荡中，珀金斯就州际商业方法的现实可行性咨询了众多宪法律师和政府官员。32 政府制定的法案虽然明显超越了1936年卡特案极其严格的限制，但对覆盖条款的设定依然谨慎，其界限一方面参考了1935年早期谢克特（Schecter）判决中使用的州际商业定义，另一方面则参考了1937年全国劳工关系委员会（NLRB）案件中的定义。
 
 在谢克特案中，休斯大法官曾写道，国会的商业权力仅涉及州际交易的直接影响，而间接影响“仍属于州权领域”。相比之下，NLRB案件似乎对州际商业的定义要宽泛得多，它支持将国会权力扩展到即使只是“影响”商业的行业。但是，政府官员并没有假设NLRB的裁决取消了谢克特案的原则，而是采取了谨慎的中间路线。他们起草了一份劳动标准法案，适用于“从事商业或为商业生产商品”的雇员，明确表示打算将贸易之前的制造业部门包括在内。33 但出于对谢克特案中早期豁免的遵从（在该案中，州际商业的“流动”已达到最终停滞的企业被豁免），他们假定贸易之后的分销活动应被排除在该法律的涵盖范围之外。34 因此，官员们划定了他们认为超出1938年公平劳动标准法（FLSA）范围的领域，明确确立了法案涵盖的领域，并提出了一个仍有待国会限定和后续行政裁决的中间地带。
 
@@ -1935,19 +1935,19 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 1937年5月，罗斯福向国会提交了工资与工时法案。鉴于广泛的民众支持和谨慎的起草过程，政府官员曾乐观地认为该法案会迅速通过。 然而，这种希望在国会听证会初期便破灭了，因为有组织的劳工阵营内部出现了冲突。 尽管女性工人的倡导者对该法案给予了热情的支持，但男性工人的倡导者却开始表达强烈的保留意见。47
 ### 1938年公平劳动标准法听证会：劳工阵营内部的冲突
 
-在关于工资与工时法案的国会听证会上，大多数利益相关方的作证方式都在意料之中。政府官员拥护该法案；全国制造商协会（National Association of Manufacturers）和商会（Chamber of Commerce）则表示反对； 而纺织业雇主代表则基于南北地域差异产生了分歧。 然而，当有组织劳工的关键派别开始批评该法案时，这令政策制定者感到措手不及。48 尽管近期二元联邦主义（dual federalism）的解体已允许劳工组织在国家政治中获得一席之地，但在围绕1938年公平劳动标准法（FLSA）的斗争中，他们迅速加入了反对进一步改变联邦主义的势力阵营。 具体而言，劳工领袖们担心，这样一项政策会将国家政府的管辖范围扩大至未加入工会的工人。 美国劳工联合会（AFL）的全国领导层长期以来一直反对最低工资法，尽管一些州级联合会曾支持仅针对女性的保护性劳动法。 该组织担心“最低标准会变成最高标准”，从而破坏通过集体谈判争取更高工资的努力。 在听证会期间，美国劳工联合会（AFL）官员威廉·格林（William Green）至少对该劳动标准法案予以了“微弱的认可”49。 他之所以这样做，条件是所采纳的工资标准必须处于最低谷的水平，低到不足以对那些试图通过集体谈判提高工资的有组织工人的努力产生不利影响。 然而，他主张进行修正，以澄清该法案的作用将是鼓励而非取代集体谈判。
+在关于工资与工时法案的国会听证会上，大多数利益相关方的作证方式都在意料之中。政府官员拥护该法案；全国制造商协会（National Association of Manufacturers）和商会（Chamber of Commerce）则表示反对； 而纺织业雇主代表则基于南北地域差异产生了分歧。 然而，当有组织劳工的关键派别开始批评该法案时，这令政策制定者感到措手不及。48 尽管近期二元联邦主义（dual federalism）的解体已允许劳工组织在国家政治中获得一席之地，但在围绕1938年公平劳动标准法（FLSA）的斗争中，他们迅速加入了反对进一步改变联邦主义的势力阵营。 具体而言，劳工领袖们担心，这样一项政策会将国家政府的管辖范围扩大至未加入工会的工人。 美国劳工联合会（AFL）的全国领导层长期以来一直反对最低工资法，尽管一些州级联合会曾支持仅针对女性的保护性劳动法。 该组织担心“最低标准会变成最高标准”，从而破坏通过集体谈判争取更高工资的努力。 在听证会期间，美国劳工联合会（AFL）官员威廉·格林（William Green）至少对该劳动标准法案予以了“微弱的认可”49。 他之所以这样做，条件是所采纳的工资标准必须处于最低谷的水平，低到不足以对那些试图通过集体谈判提高工资的有组织工人的努力产生不利影响。 然而，他主张进行修正，以澄清该法案的作用将是鼓励而非取代集体谈判。50 
 
-50 产业工会联合会（CIO）的约翰·L·刘易斯（John L. Lewis）对工资与工时法案提供了比格林更多的支持，但他也阐述了各种保留意见，并将他对性别相关问题的担忧表达得相当明确。 他对同工同酬原则表示强烈支持：“我认为委员会应该在法案中增加一点，即与男性做同样工作的女性应该获得与男性相同的报酬。” 51 但他接着辩称，产业工会联合会（CIO）的根本利益并不在于争取每小时40美分这种微薄的最低工资；这种工资水平将迫使丈夫、妻子乃至有时他们青春期的孩子都必须工作才能养家糊口：
+产业工会联合会（CIO）的约翰·L·刘易斯（John L. Lewis）对工资与工时法案提供了比格林更多的支持，但他也阐述了各种保留意见，并将他对性别相关问题的担忧表达得相当明确。 他对同工同酬原则表示强烈支持：“我认为委员会应该在法案中增加一点，即与男性做同样工作的女性应该获得与男性相同的报酬。” 51 但他接着辩称，产业工会联合会（CIO）的根本利益并不在于争取每小时40美分这种微薄的最低工资；这种工资水平将迫使丈夫、妻子乃至有时他们青春期的孩子都必须工作才能养家糊口：
 
->这种做法对我们在美国制度中最珍视的一切都是具有破坏性的。 在正常情况下，一位丈夫和父亲应该能够赚取足够的钱来养活他的家庭。 当然，这并不意味着我反对雇佣女性，甚至反对雇佣妻子，只要这是她们自由选择的结果。 但我强烈反对这样一种制度：它通过贬低成年男性的收入，在经济上迫使妻子和孩子成为补充性的工资赚取者，然后宣称，“看这个家庭的收入多可观。”
+>这种做法对我们在美国制度中最珍视的一切都是具有破坏性的。 在正常情况下，一位丈夫和父亲应该能够赚取足够的钱来养活他的家庭。 当然，这并不意味着我反对雇佣女性，甚至反对雇佣妻子，只要这是她们自由选择的结果。 但我强烈反对这样一种制度：它通过贬低成年男性的收入，在经济上迫使妻子和孩子成为补充性的工资赚取者，然后宣称，“看这个家庭的收入多可观。”52 
 
-52 刘易斯坚称，必须继续为确保所有成年男性获得“生活工资”（living wage）、使他们能够单枪匹马养家糊口的斗争。 但是，尽管他清楚地表达了他的信念，即如果女性愿意，应该允许她们工作并赚取公平的工资，但他压倒一切的关切是男性必须能够行使经济独立，以确保具有明确性别角色的中产阶级家庭模式的福祉。 刘易斯担心，如果“最低标准变成了最高标准”，劳动标准可能会破坏这种传统家庭模式。 同时，为了保护男性工人的自主权，他敦促取消法案中提议由劳动标准委员会设定次级“最低公平工资”的部分；他抱怨该原则听起来像是在“操纵工资”（wage fixing），并有干涉雇主与雇员关系的危险。
+刘易斯坚称，必须继续为确保所有成年男性获得“生活工资”（living wage）、使他们能够单枪匹马养家糊口的斗争。 但是，尽管他清楚地表达了他的信念，即如果女性愿意，应该允许她们工作并赚取公平的工资，但他压倒一切的关切是男性必须能够行使经济独立，以确保具有明确性别角色的中产阶级家庭模式的福祉。 刘易斯担心，如果“最低标准变成了最高标准”，劳动标准可能会破坏这种传统家庭模式。 同时，为了保护男性工人的自主权，他敦促取消法案中提议由劳动标准委员会设定次级“最低公平工资”的部分；他抱怨该原则听起来像是在“操纵工资”（wage fixing），并有干涉雇主与雇员关系的危险。53 
 
-53 低薪且以女性为主导的服装和纺织行业的组织代表，即美国服装工人联合会（ACWA）、国际女装工人联合会（ILGWU）以及全国消费者联盟（NCL），对1938年公平劳动标准法（FLSA）（包括最低工资标准和最低公平工资）表达了热烈的支持。 54 当代表美国服装工人联合会（ACWA）发言的西德尼·希尔曼（Sidney Hillman）被问及为何他的观点与刘易斯大相径庭时，他回答说，他是基于多年与纺织和服装行业工人打交道的经验发言的，这些工人肯定会从这样的立法中受益；而刘易斯则是基于他在煤炭行业的经验发言的，该行业提供的工资已经远高于“每小时60美分或80美分”。 55 他本可以补充说，在各种服装和纺织行业中，女性占操作工人的50%到80%，而采矿业几乎全部雇佣男性。 56 从联合会（Amalgamated，指ACWA）的角度来看，提议的最低工资已经足够低，不会危及工会在集体谈判中的努力，而且它将确立一个必要的工资底线，以保护未加入工会的女性并防止工厂搬迁。 国际女装工人联合会（ILGWU）的顾问默尔·文森特（Merle Vincent）也提出了类似的论点。57
+低薪且以女性为主导的服装和纺织行业的组织代表，即美国服装工人联合会（ACWA）、国际女装工人联合会（ILGWU）以及全国消费者联盟（NCL），对1938年公平劳动标准法（FLSA）（包括最低工资标准和最低公平工资）表达了热烈的支持。 54 当代表美国服装工人联合会（ACWA）发言的西德尼·希尔曼（Sidney Hillman）被问及为何他的观点与刘易斯大相径庭时，他回答说，他是基于多年与纺织和服装行业工人打交道的经验发言的，这些工人肯定会从这样的立法中受益；而刘易斯则是基于他在煤炭行业的经验发言的，该行业提供的工资已经远高于“每小时60美分或80美分”。 55 他本可以补充说，在各种服装和纺织行业中，女性占操作工人的50%到80%，而采矿业几乎全部雇佣男性。 56 从联合会（Amalgamated，指ACWA）的角度来看，提议的最低工资已经足够低，不会危及工会在集体谈判中的努力，而且它将确立一个必要的工资底线，以保护未加入工会的女性并防止工厂搬迁。 国际女装工人联合会（ILGWU）的顾问默尔·文森特（Merle Vincent）也提出了类似的论点。57
 
-珀金斯和全国消费者联盟（NCL）的代表在阐述劳动标准的价值时，使用了与她们自己及其先驱在进步时代（Progressive Era）妇女改革者传统中所使用的相似话语，但融入了更新的凯恩斯主义色彩。 珀金斯部分诉诸于人道主义理由来推动法案的通过，引用了“童工、血汗工厂和低工资的罪恶”，58 但她也辩称，该法案将消除“工资削减者”（wage cutters）的问题，即那些因为支付极其微薄的工资而能够以低于竞争对手的成本出售产品的企业。 59 女性雇员通常成为这些“吉普赛产业”（gypsy industries）中薪酬过低或失业的受害者；这些产业通常在各州之间游走，以逃避劳动法和工会。 代表全国消费者联盟（NCL）发言的梅森（Mason）嘲讽此类产业为“寄生虫”；它们不仅剥削工人，还榨取了其他支付更高工资的企业的利润，并且未能改善其所在社区的生活质量。 60 1938年公平劳动标准法（FLSA）不仅将保护雇员并为企业提供更多保障，还能通过最低工资赋予许多公民更多的购买力，从而激发经济增长。
+珀金斯和全国消费者联盟（NCL）的代表在阐述劳动标准的价值时，使用了与她们自己及其先驱在进步时代（Progressive Era）妇女改革者传统中所使用的相似话语，但融入了更新的凯恩斯主义色彩。 珀金斯部分诉诸于人道主义理由来推动法案的通过，引用了“童工、血汗工厂和低工资的罪恶”，58 但她也辩称，该法案将消除“工资削减者”（wage cutters）的问题，即那些因为支付极其微薄的工资而能够以低于竞争对手的成本出售产品的企业。 59 女性雇员通常成为这些“吉普赛产业”（gypsy industries）中薪酬过低或失业的受害者；这些产业通常在各州之间游走，以逃避劳动法和工会。 代表全国消费者联盟（NCL）发言的梅森（Mason）嘲讽此类产业为“寄生虫”；它们不仅剥削工人，还榨取了其他支付更高工资的企业的利润，并且未能改善其所在社区的生活质量。 60 1938年公平劳动标准法（FLSA）不仅将保护雇员并为企业提供更多保障，还能通过最低工资赋予许多公民更多的购买力，从而激发经济增长。61 
 
-61 后来，在其1937年10月的大会上，美国劳工联合会（AFL）坚决站出来反对1938年公平劳动标准法（FLSA），理由是拟议中的劳动标准委员会权力过大，会破坏有组织劳工进行集体谈判的权力。 经过两年来与全国劳工关系委员会（NLRB）打交道的经验，该联合会已经开始将此类行政安排视为对劳工自主权的制约。62
+后来，在其1937年10月的大会上，美国劳工联合会（AFL）坚决站出来反对1938年公平劳动标准法（FLSA），理由是拟议中的劳动标准委员会权力过大，会破坏有组织劳工进行集体谈判的权力。 经过两年来与全国劳工关系委员会（NLRB）打交道的经验，该联合会已经开始将此类行政安排视为对劳工自主权的制约。62
 
 总而言之，女性工人的倡导者将劳动标准理解为对那些需要它的人的赋权，而对于那些已经赚取较高工资的工人来说则无关紧要。 男性工人的倡导者则认为它们在根本上削弱了工人的力量。他们承认，这类措施可能是保护女性（他们认为女性难以组织）的合法手段，但他们坚称，国家劳动标准对有组织工人的政治和经济能动性（agency）构成了危险的威胁。 珀金斯、希尔曼及其他劳动标准倡导者口若悬河地谈论这些措施将如何帮助培养更好的公民和更健康的民主制度，因为这会为那些因社会地位而在劳动力大军中处于经济弱势的人带来更多的自由和生活质量的改善。 63 美国劳工联合会（AFL）在1937年10月的大会上反驳道：
 
@@ -1957,13 +1957,13 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 
 ### 围攻之下的1938年公平劳动标准法（FLSA）：国会中的区域冲突
 
-尽管工资与工时法案在最初提出时政治气候似乎非常有利，但随着该法案陷入有组织劳工阵营内部冲突的泥潭，反对声浪不断高涨。 随着1937年的推进，经济再次陷入衰退，导致南方的工厂关闭，工作岗位流失，工资下降。 在日益保守的国会中，对新政的反对态度变得更加强硬，而且不仅仅是在南方人中间。
+尽管工资与工时法案在最初提出时政治气候似乎非常有利，但随着该法案陷入有组织劳工阵营内部冲突的泥潭，反对声浪不断高涨。 随着1937年的推进，经济再次陷入衰退，导致南方的工厂关闭，工作岗位流失，工资下降。 在日益保守的国会中，对新政的反对态度变得更加强硬，而且不仅仅是在南方人中间。65 
 
-65 7月初，参议院教育和劳工委员会完成了对该法案的工作，并增加了几项具有削弱作用的修正案。 主要的变化是对提议成立的委员会的权力进行了大幅限制，并降低了童工标准。66 当该法案提交参议院全院辩论时，那些致力于代表有组织劳工行事的参议员，却被产业工会联合会（CIO）的矛盾态度和美国劳工联合会（AFL）领导层的分歧弄得不知所措。 文森特写信给杜宾斯基说：“五名美国劳工联合会（A.F. of L.）的董事会成员正在纠缠参议员们，企图扼杀这项法案。” 67 在南方，反对活动由南方松木产业委员会（Southern Pine Industry Committee）、全国制造商协会和商会组织，他们游说南方国会议员反对该法案。 68 这一次，文森特通知杜宾斯基：“劳工法案[FLSA]已经被南方团体破坏得相当彻底。南方制造商的顾问正在抛出一连串的苛求和威胁。” 69 参议员们最终通过了1938年公平劳动标准法（FLSA）的一个版本，但前提是增加了几十项豁免：包括地方零售业、铁路雇员、林业、农业、乳业和渔业。
+7月初，参议院教育和劳工委员会完成了对该法案的工作，并增加了几项具有削弱作用的修正案。 主要的变化是对提议成立的委员会的权力进行了大幅限制，并降低了童工标准。66 当该法案提交参议院全院辩论时，那些致力于代表有组织劳工行事的参议员，却被产业工会联合会（CIO）的矛盾态度和美国劳工联合会（AFL）领导层的分歧弄得不知所措。 文森特写信给杜宾斯基说：“五名美国劳工联合会（A.F. of L.）的董事会成员正在纠缠参议员们，企图扼杀这项法案。” 67 在南方，反对活动由南方松木产业委员会（Southern Pine Industry Committee）、全国制造商协会和商会组织，他们游说南方国会议员反对该法案。 68 这一次，文森特通知杜宾斯基：“劳工法案[FLSA]已经被南方团体破坏得相当彻底。南方制造商的顾问正在抛出一连串的苛求和威胁。” 69 参议员们最终通过了1938年公平劳动标准法（FLSA）的一个版本，但前提是增加了几十项豁免：包括地方零售业、铁路雇员、林业、农业、乳业和渔业。
 
-8月初，在众议员玛丽·诺顿（Mary Norton，新泽西州民主党人）的新领导下，众议院劳工委员会对参议院版本的法案采取了行动。 尽管她通常对占主导地位的工会组织的立场表示同情，但她也受到了“妇女网络”（women's network）的影响，从而支持劳动标准。 70 应罗斯福的要求，她的委员会增加了一些格林所要求的旨在保护集体谈判的让步。71 然而，该法案未能进入众议院全院表决阶段，因为它被由南方民主党人主导的众议院规则委员会（House Rules Committee）当作了人质。
+8月初，在众议员玛丽·诺顿（Mary Norton，新泽西州民主党人）的新领导下，众议院劳工委员会对参议院版本的法案采取了行动。 尽管她通常对占主导地位的工会组织的立场表示同情，但她也受到了“妇女网络”（women's network）的影响，从而支持劳动标准。 70 应罗斯福的要求，她的委员会增加了一些格林所要求的旨在保护集体谈判的让步。71 然而，该法案未能进入众议院全院表决阶段，因为它被由南方民主党人主导的众议院规则委员会（House Rules Committee）当作了人质。72 
 
-72 最终，到了12月初，经过各种选票“交易”和其他妥协，已有足够多的议员签署了解除限制请愿书（discharge petition），迫使规则委员会交出该法案。 诺顿打算向美国劳工联合会（AFL）做出重大让步，于是将法案中提议的独立委员会替换为隶属于劳工部（DOL）的一名行政长官。 她没有意识到AFL的领导人们对该部门嗤之以鼻，很大程度上是因为其由一位无工会背景的女性领导。 在12月，AFL反对了诺顿的法案，转而支持自己的法案，该法案将该法律的行政管理权交给了司法部。 12月12日，AFL的法案在众议院以162票对131票被击败。随后，在12月17日，诺顿的法案以216票对198票被否决。73
+最终，到了12月初，经过各种选票“交易”和其他妥协，已有足够多的议员签署了解除限制请愿书（discharge petition），迫使规则委员会交出该法案。 诺顿打算向美国劳工联合会（AFL）做出重大让步，于是将法案中提议的独立委员会替换为隶属于劳工部（DOL）的一名行政长官。 她没有意识到AFL的领导人们对该部门嗤之以鼻，很大程度上是因为其由一位无工会背景的女性领导。 在12月，AFL反对了诺顿的法案，转而支持自己的法案，该法案将该法律的行政管理权交给了司法部。 12月12日，AFL的法案在众议院以162票对131票被击败。随后，在12月17日，诺顿的法案以216票对198票被否决。73
 
 这一失败标志着自1933年初以来，获得罗斯福支持的立法首次在众议院遭到失败，总统对此感到愤怒。 他誓言要继续施压以促使法案通过，并要求珀金斯在国会休会期间将其简化并缩短。 1938年初，他敦促新一届国会通过一个修订版本；该版本提议设立一个由一名行政长官领导的工资与工时处，该长官将任命三方委员会（tripartite boards）进行调查、举行听证会，并在每小时40美分和每周40小时的限制范围内推荐工资与工时标准。74 然而，AFL继续阻挠这一计划，仍然担心赋予联邦行政长官的权力过大。75 诺顿任命了一个小组委员会来设计一个劳工界可以接受的版本。 在AFL又拒绝了一个版本之后，格林在政府和普通工会会员（rank and file）的双重压力下，最终勉强同意支持第二次修订的版本。
 
@@ -1978,7 +1978,7 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 就在一个月后，妇女局（Women's Bureau）的官员们在其出版物《女工》（Woman Worker）中总结了决策过程的结果。他们对受该法律约束的行业（尤其是服装和纺织行业）中女性雇员所取得的进步表示赞赏。 然而，他们指出，很大一部分女性劳动力被排除在该法律的覆盖范围之外，其中包括零售工人的低薪工作、洗衣和染织及清洁工、罐头厂工人、女服务员及其他酒店和餐馆雇员、美容业操作员、农业劳工、家庭雇员以及许多文书人员。 82 简而言之，二元联邦主义的司法残余与新政的政治博弈相结合，使得大多数从事最低薪工作的女性工人被排除在国家劳动标准的覆盖范围之外，只能让她们各自向其所在的州去申诉。
 
 引用
--------------------- Footnotes --------------------
+
 1 Landon R. Y. Storrs, "Civilizing Capitalism: The National Consumers' League and the Politics of 'Fair' Labor Standards in the New Deal Era" (Ph.D. diss., University of Wisconsin-Madison, 1994); Vivien Hart, Bound by Our Constitution: Women, Workers, and the Mini-mum Wage (Princeton: Princeton University Press, 1994).
 2 See also Vivien Hart, "Minimum Wage Policy and Constitutional Inequality: The Para-dox of the Fair Labor Standards Act of 1938," Journal of Policy History 1 (1989): 319-43;  Eileen Boris, "(En)gendering the New Deal Order: Labor Standards' Alternative Stream" (paper presented at the Thirteenth Annual North American Labor History Conference,  Wayne State University, October 17-19, 1991). On industrial homework regulations in the  FLSA, see Eileen Boris, "The Quest for Labor Standards in the Era of Eleanor Roosevelt: The  Case of Industrial Homework," Wisconsin Women’s Law Journal 2 (spring 1986): 53-74.
 3 Author's conversation with James MacGregor Burns, May 6, 1993, Richmond, Va.
@@ -2062,4 +2062,218 @@ pp. 10-11, 72-73; Reminiscences of Jane Hoey, p. 42.
 81 House, Conference Report: Fair Labor Standards Act of 1938, June 11, 1938, 75th  Gong., 3d sess., Rep. 2738; Bernstein, Caring Society, p. 142.
 82 Department of Labor, Women's Bureau, "The Federal Wage-Hour Law and Women  Workers," Woman Worker, July 1938, p. 3·
 
-# 第八章
+# 第八章 1938年公平劳动标准法的实施
+
+>每个人都有生存的权利；这意味着他也拥有过上舒适生活的权利。他可能会因懒惰或犯罪而拒绝行使这项权利；但绝不能剥夺他的这项权利。我们并没有真正的饥荒或匮乏；我们的工业和农业机制足以提供绰绰有余的物资。我们正式与非正式、政治与经济的政府，有责任为每个人提供一条途径，使其能通过自身的劳动获取足以满足其需求的充裕物质。
+>——富兰克林·D·罗斯福总统，关于进步派政府的竞选演讲，旧金山联邦俱乐部，1932年9月23日
+
+劳工部（DOL）工资与工时局的早期管理者在解释《1938年公平劳动标准法》（FLSA）的覆盖范围时，在其包容性定义似乎允许的范围内采取了尽可能宽松的标准。尽管如此，FLSA 在覆盖与豁免之间的界限划分，依然导致了一个具有性别特定后果的双层政府监管体系的产生。随着时间的推移，FLSA 的边界成为了新政（New Deal）决策者如何重构联邦制的例证，这种重构以性别为界线重新组织了治理模式，并在随后的几十年里为男性和女性创造了本质上不同的公民身份（citizenship）形式。
+
+## FLSA的早期实施
+
+FLSA 的制定者确实成功创设了一项被裁定为合宪的法律：该法规在1941年“美国诉达比木材公司案”（U.S. v. Darby Lumber Co.）的判决中得到维持。1 当时的最高法院（其多数法官已由罗斯福任命）最终推翻了“汉默诉达根哈特案”（Hammer v. Dagenhart）2，从而免除了进行宪法修正的必要。哈伦·F·斯通（Harlan F. Stone）大法官在多数意见书中写道：“确定最低工资属于立法权范畴已毋庸置疑，且仅仅行使该权力的事实并不构成对正当程序（due process）的剥夺……确定最高工时属于立法权范畴同样毋庸置疑。” 3 此外，与早先基于性别差异逻辑而仅确认针对女性的法律的判决相比，法院此次确认了该法律对男女两性的均等适用。
+
+早在司法机构对该立法予以认可之前，劳工标准的倡导者们（他们深知 FLSA 的适用范围狭窄）就已试图使这些条款的实施产生尽可能深远的影响。他们深知，新成立的工资与工时局执行该法律的方式，会对受影响的工人数量产生实质性的改变。正如国会最终通过 FLSA 时，默尔·文森特（Merle Vincent）写给大卫·杜宾斯基（David Dubinsky）的信中所言：“这是一个薄弱的开端，但如果我们有幸得到一位优秀的管理者，他就能使该法律在其框架下实现最佳的可能结果，并收集事实来证明通过修正案扩大和强化该法律的必要性。” 4 首批管理者是由弗朗西丝·珀金斯（Frances Perkins）在与西德尼·希尔曼（Sidney Hillman）协商后挑选出来的。到了1941年，外勤视察员已近1200名，他们进行了48,449次调查，促使约19,000家企业向其员工补发了1000万美元的额外工资。5
+
+实际上，在实施的头几年里，管理者们可以稳妥地在其类别允许的范围内以最宽泛的方式解释该法规，因为在此期间，最高法院又下达了多项判决，澄清并进一步扩大了国家政府在规制州际商业（interstate commerce）方面的作用。在1938年“圣克鲁斯水果包装公司诉全国劳工关系委员会案”（Santa Cruz Fruit Packing Company v. National Labor Relations Board）6 的裁决中，法院维持了全国劳工关系委员会（NLRB）的一项裁决，尽管该裁决涉及的公司仅有37%的商品在州际商业中销售。商业条款（commerce clause）的适用范围在同为1938年的“联合爱迪生公司诉全国劳工关系委员会案”（Consolidated Edison Co. v. NLRB）中得到进一步扩大，而在1939年的“全国劳工关系委员会诉费恩布拉特案”（NLRB v. Fainblatt）中则扩大得更为显著。7 前一项判决确认了 NLRB 对一家产品完全在州内销售的电力公司的管辖权，其依据是许多购买者（如广播电台、机场等）本身从事着州际商业。在后一个案件中，法院维持了 NLRB 针对一家将所有商品在州内销售的小型服装生产商的裁决。8 诚然，在短短几年的时间里，商业条款所赋予的权力得到了极大的扩张。
+
+### FLSA下的劳动力覆盖范围
+
+鉴于工资与工时局的领导层以及20世纪30年代后期的司法环境允许对 FLSA 进行相对扩张性的解释，在实施的最初几年里，究竟有多大比例的劳动力实际被纳入了 FLSA 的覆盖范围？这在性别层面又意味着什么？为了回答这些问题，有必要考察管理者如何解释该法律的作用域，并按性别分析受影响职业的构成。以往关于 FLSA 覆盖范围的学术研究使用了1939年计算的数据，这些数据来源于雇主自愿向劳工部交回的问卷调查反馈。9 不仅劳工部官员自己对这些数据的质量表示怀疑，而且这些发现依赖于雇主的视角，而雇主可能对该法规的条款理解有限，且只能猜测管理者将会以何种方式对其进行解释。最近，罗尼·斯坦伯格（Ronnie Steinberg）从性别的角度评估了 FLSA 的覆盖范围。10 尽管她在评估雇员覆盖范围时考察了司法和行政决定，但斯坦伯格在考察中遗漏了劳动力中很大一部分群体，因此她的发现并未充分描绘出所有劳动者在性别层面上与 FLSA 条款相关的真实处境。11
+
+因此，本书重新汇编了数据，重点关注 FLSA 中的最低工资部分。该条款的实际覆盖范围是通过审查法规的语言以及工资与工时局所使用的州际商业定义来确定的，这既体现在该局法律顾问于1940年的阐述中，也体现在20世纪40年代初各项案件的适用中。12 将这一分析结果应用于1940年人口普查使用的职业类别时，得出了受 FLSA 覆盖以及被豁免的职业分类。13 在此基础上，受该法律覆盖的工人总数似乎为15,467,760人。14 总体而言，34%的劳动力被覆盖，66%被豁免。接下来，这些数据被用于计算按性别划分的被覆盖与被豁免工人的数量。
+
+表 9. 1940 年各行业就业人员职业组别，按性别划分（百分比）
+
+|**职业组别**|**男性 (%)**|**女性 (%)**|
+|---|---|---|
+|**专业及半专业人员** (Professional and semiprofessional)|5.5|13.0|
+|**农场主及管理者** (Farmers and managers)|14.7|1.4|
+|**业主** (Proprietors)|9.7|3.8|
+|**文职及销售人员** (Clerical and sales)|12.8|28.3|
+|**手工艺者及领班** (Craftsmen and foremen)|14.5|0.9|
+|**工厂操作工** (Factory operatives)|18.2|18.4|
+|**家政服务** (Domestic service)|0.4|17.7|
+|**安保服务** (Protective service)|2.0|0.0|
+|**服务业（不含家政和安保）** (Service, excluding domestic and protective)|4.5|11.3|
+|**农场劳动力** (Farm labor)|8.1|2.9|
+|**非农劳动力** (Labor, excluding farm)|8.7|0.9|
+|**职业未申报** (Occupation not reported)|0.7|1.2|
+
+**数据来源：** 人口普查局，《1940年人口普查：总结报告》，（华盛顿特区：政府印刷局，1940年），表 58，第 75–80 页。
+
+为了将 FLSA 的覆盖范围置于适当的背景下，必须审视1940年劳动力按性别划分的职业分布情况。15 如表9所示，1940年的人口普查显示，职业隔离现象依然存在：女性和男性在劳动力市场中的处境截然不同。雇佣男性比例最高的五个职业组别（按递减顺序）包括：工厂操作工、农场主和经理、工匠和工头、文职人员和销售人员，以及企业主。相比之下，女性的工作主要集中在文职和销售领域，其次是工厂工作、家政服务、专业及半专业就业，以及服务业。
+
+表 10. 1940 年《公平劳动标准法》(FLSA) 下受覆盖与豁免工人的状况，按性别划分（百分比）
+
+|状况|男性 (%)|女性 (%)|
+|---|---|---|
+|**受覆盖** (Covered)|34.9|32.1|
+|**豁免** (Exempt)|64.9|67.9|
+
+**数据来源：** 众议院，《会议报告：1938 年公平劳动标准法》(H.R. 2738)；劳工部工资工时司总法律顾问《意见手册》；Raymond S. Smethurst 与 Reuben S. Haslam，《1938 年公平劳动标准法案例》；劳工部工资工时司署长《第一份年度报告 (1939)》；Louis Weiner，《联邦工资与工时法》；人口普查局，《1940 年商业普查：零售业摘要》；以及劳工部妇女局关于休斯顿、洛杉矶、堪萨斯城、里士满和费城办公室工作的系列简报。
+
+ 表 11. 1940 年《公平劳动标准法》(FLSA) 最低工资条款下工人的状况，按性别和职业组别划分（百分比）
+
+|**职业组别**|**男性 - 受覆盖 (%)**|**男性 - 豁免 (%)**|**女性 - 受覆盖 (%)**|**女性 - 豁免 (%)**|
+|---|---|---|---|---|
+|**专业及半专业人员** (Professional and Semiprofessional)|0.0|5.5|0.0|13.0|
+|**农场主及管理者** (Farmers and managers)|0.0|14.7|0.0|1.4|
+|**业主** (Proprietors)|0.0|9.7|0.0|3.8|
+|**文职及销售人员** (Clerical and sales)|6.0|6.8|16.3|12.0|
+|**手工艺者及领班** (Craftsmen and foremen)|8.3|6.2|0.4|0.5|
+|**工厂操作工** (Factory Operatives)|13.7|4.5|14.7|3.7|
+|**家政服务** (Domestics)|0.0|0.4|0.0|17.7|
+|**安保服务** (Protective service)|0.0|2.0|0.0|0.0|
+|**服务业（不含家政和安保）** (Service, excluding domestic and protective)|0.0|4.5|0.0|11.3|
+|**农场劳动力** (Farm labor)|0.0|8.1|0.0|2.9|
+|**非农劳动力** (Labor, excluding farm)|6.9|1.8|0.7|0.2|
+|**职业未申报** (Occupation not reported)|0.0|0.7|0.0|1.2|
+
+**数据来源：** 请参见表 9 和表 10 的来源。
+
+学者们通常假设，该法律覆盖的女性比例远低于男性。16 然而，尽管两性之间在职业分布上存在差异，本研究的数据分析表明，FLSA 的最低工资条款实际上覆盖了比例近乎相等的男性和女性劳动力。见表10，覆盖率的差异仅约3%，在所有劳动力中，大约35%的男性被覆盖，而女性的这一比例为32%。按性别划分的受覆盖与被豁免工人的职业构成细目见表11。在男性劳动者中，FLSA 的最低工资条款被解释为适用于13.7%的工厂操作工、8.3%的工匠和工头、6.9%的非农业劳工以及6.0%的文职与销售人员。在女性劳动力中，16.3%的雇员因其从事文职和销售工作的职业身份而被覆盖，14.7%作为工厂操作工的女性被覆盖。然而，接下来的任务是分析 FLSA 实际上为那些受其条款覆盖的人带来了怎样的改变，以及如果那些被排除在外的人能够被纳入其条款管辖，它原本可以带来怎样的改变。
+
+### FLSA在提高工资方面的效力
+
+劳工部的一份报告指出，在1940年3月，几乎所有雇佣大量女性的行业中，女性的平均时薪都高于前一年。该报告将这些工资的增长归因于 FLSA 的影响，并指出棉制连衣裙行业的女性工资增长了10%，而在棉织品、糖果、女性内衣、橡胶靴鞋以及袜业等行业中，女性工资增长了6%。17
+
+表 12. 受 FLSA 最低工资条款影响最大的 12 个行业的低工资工人数及女性雇佣百分比
+
+| **行业名称**                       | **时薪低于 30 美分的工人数 (1939年)** | **行业内女性雇佣百分比 (1940年)** |
+| ------------------------------ | -------------------------- | ---------------------- |
+| **锯木厂** (Sawmills)             | 96,200                     | 2.3                    |
+| **家具** (Furniture)             | 9,300                      | 14.4                   |
+| **木制品/细木工** (Millwork)         | 10,000–11,000              | *                      |
+| **靴鞋** (Boots and shoes)       | 20,400                     | 46.1                   |
+| **男装** (Clothing, men’s)       | *                          | 77.4                   |
+| **女装** (Clothing, women’s)     | 28,000                     | 77.4                   |
+| **衬衫与衣领** (Shirts and Collars) | 10,500                     | 77.4                   |
+| **棉纺** (Cotton)                | 51,300                     | 47.0                   |
+| **针织品** (Knit goods)           | 28,100                     | 66.9                   |
+| **丝绸与人造丝** (Silk and rayon)    | 10,500                     | 55.4                   |
+| **棉籽油** (Cottonseed oil)       | 15,100                     | *                      |
+| **化肥** (Fertilizers)           | 12,500                     | *                      |
+
+**数据来源：**
+
+- 劳工部劳工统计局，《受 1938 年公平劳动标准法条款约束的工人预估数量 (1939年4月)》，1939年10月24日生效，作者：A. F. Hinrichs 与 A. Sturges（华盛顿特区：劳工部，1939年），第 25–26 页。
+- 人口普查局，《1940 年人口普查：劳动力》（华盛顿特区：政府印刷局，1940年），表 58，第 78 页。
+
+**备注：** `*` 表示数据不可用。
+
+由于数据的局限性，我们无法就“究竟有多少男女工人因 FLSA 的最低工资条款而获得加薪”这一问题得出结论性的答案。18 尽管如此，我们可以考察劳工标准法迫使哪些低薪行业发生改变，并检视这些行业中劳动力参与的人口统计学特征。根据1939年劳工部的报告，在制造业中时薪低于三十美分的工资收入者里，有超过四分之三受雇于十二个特定的行业。在表12中，这些数据与各行业中男女性别的比例相匹配。尽管这些数据略显不完整，并且未能明确指出在 FLSA 之下实际获得加薪的工人的性别，但与1940年人口普查中的职业数据进行对比后发现，受 FLSA 最低工资条款影响最大的几个行业中，女性占据了显著地位。考虑到在1940年女性仅占总劳动力的24.7%，表中显示的各种纺织和服装生产行业显然雇佣了不成比例的女性工人。鉴于1940年工业领域的大多数女性工作都处于薪资等级的底层，我们可以合理地推断，在纺织和服装行业中从最低工资条款中受益的大多数工人是女性。19
+
+普遍的看法是，能够立即获得收益的工人数量极少。尽管如此，对于那些确实从中受益的“血汗工厂”（sweatshops）里的女工，以及在低薪的锯木厂和家具行业工作的男工而言，国家劳工标准无疑是一项最为受欢迎的改革。
+
+### 豁免对男女两性的意义
+
+由于仅有约三分之一的劳动力受FLSA覆盖，一个更为重要的问题浮现出来：在那些其职业被豁免适用最低工资的工人中，如果被覆盖，有多少人的工资会得到提高？ 在此，利用1940年人口普查的工资数据来计算每种就业类别的平均薪酬。20 在20世纪40年代初，全职工作的标准年度最低工资薪酬应为800美元：每小时40美分，每周40小时，每年50周。 计算结果显示，被豁免于FLSA的男性工人中有35.6%的工资低于这一最低年薪标准，而被豁免的女性工人中这一比例则高达62.1%。 
+
+表 13. 1940 年《公平劳动标准法》(FLSA) 豁免工人的平均年薪（单位：美元），按性别和职业组别划分
+
+|**职业组别**|**男性：豁免比例 (%)**|**男性：年薪 ($)**|**女性：豁免比例 (%)**|**女性：年薪 ($)**|
+|---|---|---|---|---|
+|**专业及半专业人员** (Professional and semiprofessional)|5.5|1,661|13.0|1,152|
+|**农场主及管理者** (Farmers and managers)|14.7|86|1.4|67|
+|**业主** (Proprietors)|9.7|1,362|3.8|628|
+|**文职及销售人员** (Clerical and sales)|6.8|1,557|12.0|910|
+|**手工艺者及领班** (Craftsmen and foremen)|6.2|1,264|0.5|993|
+|**工厂操作工** (Factory operatives)|4.5|1,108|3.7|573|
+|**家政服务** (Domestics)|0.4|579|17.7|359|
+|**安保服务** (Protective service)|2.0|1,431|0.0|-|
+|**服务业（不含家政和安保）** (Service, excl. domestic & protective)|4.5|836|11.3|518|
+|**农场劳动力** (Farm labor)|8.1|269|2.9|78|
+|**非农劳动力** (Labor, excluding farm)|1.8|887|0.2|686|
+|**职业未申报** (Occupation not reported)|0.7|1,164|1.2|648|
+|**总计及加权平均工资**|**64.9**|**901**|**67.9**|**653**|
+|**扣除农场相关后的总计及加权平均工资**|**42.1**|**1,307**|**63.6**|**694**|
+
+**数据来源：** 人口普查局，《1940 年人口普查：总结报告》（华盛顿特区：政府印刷局，1940 年），表 72，第 120–22 页。
+
+换言之，如表13所总结的那样，作为被豁免覆盖的后果，女性遭受的负面影响在比例上远大于男性。21 对于大多数男性而言，不受FLSA覆盖是无关紧要的，除了占男性总劳动力22.8%的从事农业的人员，他们的工资极低，且非白人男性在其中占有不成比例的多数。22 另外42.1%从事被豁免职业的男性工人往往能获得1940年提供的最高薪酬，他们是专业人士、商人、政府工作人员、熟练工匠或担任管理职位。 相比之下，42.2%的女性雇员（几乎是男性比例的两倍）既被豁免于FLSA的覆盖，又在各种职业中赚取远低于最低标准的工资。 在被豁免的工人中，男性平均年收入为901美元，而女性仅为653美元。 剔除农场主和农业劳工后，其他被豁免男性的平均薪酬为1307美元，而女性的平均薪酬为694美元，依然远低于每年800美元的最低工资标准。 女性工人的工资在服务业部门尤为低微，而她们在该部门中占据着极为显著的比例：足足有17.7%的女性工人（包括绝大多数黑人女性）受雇于家政服务业，平均年工资仅为359美元； 受雇于其他服务类职业的女性（占女性劳动力的11.3%）平均年收入为518美元。 简而言之，尽管女性工人本应从FLSA的覆盖中获益最多，但绝大多数实际上能够从最低工资中受益的女性却被排除在劳工标准的管辖范围之外。
+
+该法律性别中立的语言，虽然在抽象意义上是对两性平等的致敬，却与该法规产生特定性别差异影响的现实形成了鲜明对比。 鉴于大多数低薪女性工人被排除在FLSA之外，在该法律通过后，妇女改革组织将何去何从？ 对这一问题的解答阐明了女性在新政秩序（New Deal order）中的地位所强加给她们的独特的公民身份（citizenship）负担。
+
+## 女性的工作永无止境：妇女组织在FLSA之后的议程
+
+在由新政重构的美国政体（polity）中，男性的工作条件已成为国家政府新的、理性且高效的行政程序的合法客体。在《全国劳工关系法》（Wagner Act/NLRA）的授权下，加入工会的男性现在在受国家认可的组织中拥有了能动性（agency），能够通过集体谈判来改善他们的工资、养老金和工作条件。 但由于女性工人大多未受《全国劳工关系法》的影响，并且在关键方面被FLSA所规避，她们的倡导者不得不回归到新政前三十年所追求的几乎相同的议程。
+
+诸如全国消费者联盟（NCL）、妇女工会联盟（WTUL）和基督教女青年会（YWCA）等团体不得不加倍努力，代表那些未能从FLSA的通过中获得任何利益的受剥削的女性工人。 这些改革团体的活动几乎完全投入到逐个州争取最低工资法和其他劳工标准的努力中，这些标准旨在针对那些被新政支持者视为属于“州内商业”领域的女性就业部门。 最高法院在维持经济规制方面展现出的新意愿，在理论上使改革者处于实现其目标的更有利地位。 然而，尽管在20世纪30年代国家层面诞生了新的政府治理风格，但各州政府对此类政府行动主义（governmental activism）依然极为抵制。
+
+全国消费者联盟（NCL）带头呼吁各州制定劳工标准，以覆盖未受FLSA影响的群体。 1938年10月下旬，在FLSA生效的同一周，NCL宣布计划发起一场全国性运动，以推动一项模范法案（model bill）的通过。23 在宣传该法案时，NCL总干事玛丽·都柏林（Mary Dublin）哀叹道，当人们试图依靠许多行业支付的低薪来维持生存和抚养家庭时，社区将付出巨大的社会和经济代价。 她告诉《纽约时报》的记者：“当人口生活在极度低下的收入水平上时，其结果可以清晰地追溯到由购买力崩溃引起的失业、赤贫、依赖以及低下的健康标准。” 24 尽管有二十五个州和哥伦比亚特区已经实施了最低工资法，成都柏林指出，其中大多数法律仅适用于女性工人，需要扩大覆盖范围以包括男性。25 然而，针对女性工人的立法仍然是该联盟的优先事项，因为它同时也试图捍卫现有的针对特定性别的工资法。26
+
+改革者本期望司法障碍的消除以及FLSA树立的榜样能为各州更积极地制定劳工立法、并使法律适用于男女两性创造一些动力。27 然而，大多数州政府继续阻挠此类努力，甚至在很长一段时期内（远至新政之后），仍对颁布最低工资法极度抵制。28 一年之后，NCL的模范法案已在30个州被提出，但均未获通过。 该组织着手起草一项新法案，以澄清原法案中的问题。29 然而，即便到了1949年，NCL仍在哀叹还有二十二个州缺乏最低工资法。
+
+逐个州进行努力的困难并不令人惊讶，考虑到尽管新政中国家政府的性质和能力发生了巨大变化，但大多数州仍由保守势力主导，这些势力不愿或无法利用政府权力来改善工作场所和社会条件。 正如劳工标准司司长克拉拉·拜尔（Clara Beyer）在1939年所写：“州立法机构几乎在所有情况下都由农场主和大企业主导。很少有劳工立法会被颁布。” 詹姆斯·帕特森（James Patterson）观察到，到了第二次世界大战爆发时，“州与联邦劳工法之间的差距正在扩大，在太多州里，标准依然薄弱且执行不力。”30
+
+拜尔和NCL领导人曾希望工资与工时局能致力于推动州级有效劳工部门的发展，但他们很快对这些新管理者从事此类任务的能力和意愿感到悲观。31 在其1950年对州劳工部门的综合研究中，罗伯特·欧文·贝里（Robert Erwin Berry）发现，尽管 少数部门“令人钦佩地履行了其职责”，但大多数部门“根据劳工专员们自己通常建立的标准来评判，只能被归为介于一般和差之间。” 他将大多数州劳工部门的糟糕记录归咎于它们缺乏“在组织、法定权威、人员和财务方面的必要工具”。 32
+
+此外，改革者取得并保留下来的大多数法律，仍然仅针对女性。 “西海岸酒店案”（West Coast Hotel）的多数意见尽管在背离生物学标准，但依然强调女性的特殊需求，以此作为在工作场所实施特定性别保护的理由。 在1937年至20世纪60年代初《同工同酬法》（Equal Pay Act）和《民权法》（Civil Rights Act）颁布之间的几十年里，法院继续维持针对女性的立法，朱迪思·贝尔（Judith Baer）将此称为“穆勒原则（Muller principle）近乎无限的扩张”。33
+
+因此，FLSA的局限性为女性改革者界定了一项长期议程，使她们将其努力集中于艰苦的、逐个州的劳工立法运动，而排除了她们如果在第一部国家劳工标准法中实现期望后本可能追求的其他目标。 改革团体在1938年之后所遵循的路径使她们与主流劳工运动相当孤立，后者主要专注于集体谈判努力并试图维护新政中取得的成果。34 保护性劳工立法的捍卫者也与妇女运动的另一翼保持着对立，因为后者支持《平权修正案》（ERA），该修正案威胁要破坏改革者辛勤争取来的、针对女性的州级措施。 因此，改革团体的精力也被投入到维持对ERA有组织的反对中。
+
+自20世纪20年代初以来，那些寻求通过保护性劳工立法改善女工生活的团体，与反对她们努力的一小群妇女团体之间的关系一直充满敌意。 FLSA凭借其对两性平等适用的原则，获得了两大阵营的支持，但这两派队伍在州一级继续相互抗争。 在NCL 1939年的年会上，几位州分会的代表抱怨说，全国妇女党（National Woman's Party）和商业与职业妇女俱乐部（Business and Professional Women's Clubs）是她们立法目标的头号反对者。35
+
+支持保护性法律且与新政民主党关系密切的妇女改革团体联盟，在20世纪30年代末ERA再次被引入国会时继续予以反对，并在20世纪40年代维持了她们坚定的反对立场。36 她们的代表认为，ERA所暗示的法律平等会破坏仅针对女性的劳工法，从而导致女性的经济和社会地位下降。 尽管共和党在1940年认可了ERA，但民主党直到1944年才予以支持，即便如此，埃莉诺·罗斯福（Eleanor Roosevelt）和弗朗西丝·珀金斯等杰出民主党女性仍表示反对。37 妇女运动的两个分支确实在1945年设法联合起来支持一项同工同酬法案。保护性劳工法阵营的一些领导人开始对这种方法感到疲倦和怀疑。 1946年，克拉拉·拜尔写信给莫莉·杜森（Molly Dewson）：
+
+>我再也无法对专门针对女性的立法感到兴奋，并且认为，通过强调性别，我们正在丧失推动真正改善条件的大量动力……男性和女性一样需要座位、餐厅、洗手间等。 但是，如果我们作为一个劳工部门，仅仅强调女性对这些设施的需求，我们就是在帮全体工人的倒忙。 同理，为女性争取工资和工时立法的运动，无疑阻碍了为所有工人争取此类法律的可能性。38
+
+尽管如此，根本的分歧依然存在了好几年，并阻碍了全面妇女运动在随后的四分之一个世纪内的出现。39
+
+由于女性在政治上依然弱小且分裂，在国家层面扩大FLSA的努力也继续受阻。改革联盟零星地推动提高国家最低工资标准，并将更多类别的工作纳入FLSA的覆盖范围，但此类努力遇到了持续的障碍。 1945年，NCL在华盛顿组建了公平最低工资委员会（Committee for a Fair Minimum Wage），以开展改善FLSA的运动。40 美国服装工人联合会（ACWA）也加入了该运动，并再次派遣几名女工前往国会作证，但扩大该法律的支持仍然薄弱。41 1949年，当国会迟迟未将最低工资提高到每小时七十五美分时，FLSA中增加了新的规定，使覆盖范围更具限制性。42 此后，管理者应将这些条款解释为排除了“边缘”（fringe）职业，即指代那些在 销售商品于州际商业的公司中大量雇佣女性的文职和服务性工作，除非这些职位通过了与州际商业商品生产“密切相关”（closely related）且“直接必需”（directly essential）的检验； 更为宽泛的“生产所必需”（necessary to production）这一条件不再适用。43
+
+直到被排除在FLSA之外的群体获得了政治权力，国会才采取行动大幅扩大了覆盖范围。作为对民权运动的回应，对农业工人的豁免终于在1966年被取消。 零售、服务和家政服务雇员最终在1974年（妇女运动“第二波”出现之后）获得了覆盖。44 事实上，女性因未能被大量纳入FLSA而在公民身份上承受的负担，占据了妇女团体在新政之后几十年的精力，并且在漫长的岁月中，这扼杀了许多改善女性生活状况的可能性。
+
+FLSA代表了对美国联邦制的整体重构，也代表了一个长期以来一直回避此类干预的政府在政治经济中的一种全新姿态。 受该法律覆盖的工人获得了由国家政府保障的新的经济权利，确保他们享有某些最低的劳工标准。 该法律还标志着一种通过经济权利增强公民融合来促进积极公民身份（active citizenship）的新手段。 在国会就该法律举行的听证会期间，支持者西德尼·希尔曼和弗朗西丝·珀金斯曾争辩说，它将通过改善收入最低工人的生活质量、从而赋予他们更多参与公共生活的自由，来促进培养更好的公民。45 然而，本质上，该法律偏离了其目标，将绝大多数受剥削的工人，特别是女性和少数族裔男性，排除在了覆盖范围之外。
+
+一位批评新政修改商业条款的人士指责说，“美国诉达比案”等判决“表明‘一个州的内部事务’已成为一个空壳”。46 但是，尽管20世纪30年代末和40年代初的最高法院裁决确认了稍微更广泛的“州际商业”定义具有潜在适用性，但实际上各州仍然保留着实质性的权力，特别是在涉及被排除在国家政策之外的人的福利方面。 即便是FLSA也将女性公民留给了参差不齐但总体上不让步且具有家长式作风的各州政府管辖，在这些州里，她们的倡导者不得不继续日复一日、州复一州地为来之不易却微不足道的改革而努力。
+
+引用
+
+1 312 u.s. 100 (1941).  
+2 247 u.s. 251 (1918). 
+3 312 u.s. 100 (1941). 
+4 Letter, Merle Vincent to David Dubinsky, June 11, 1938, Records of the International  Ladies' Garment Workers Unions, LMDC, box 81, file 7A. 
+5 Steve Fraser, Labor Will Rule: Sidney Hillman and the Rise of American Labor (New  York: Free Press, 1991), p. 411; George Martin, Madam Secretary: Frances Perkins (Boston: 
+Houghton Miffiin, 1976), pp. 392-93.  
+6 303 u.s. 453 (1938). 
+7 305 u.s. 197 (1938); 306 u.s. 601 (1939). 
+8 Alfred H. Kelly, Winfred A. Harbison, and Herman Belz, The American Constitution: Its  Origins and Development, 7th ed. (New York: Norton, 1991), 2:489-90. 
+9 Department of Labor, Bureau of Labor Statistics, Estimated Number of Workers in  April 1939 Subject to Provisions of FLSA, Effective October 24, 1939, by A. F. Hinrichs and  A. Sturges (Washington, D.C.: Department of Labor, 1939). The method of data collection  yielded very conservative estimates of the law's coverage, claiming that only about one-fifth of  the labor force (eleven million workers) would be covered. The report suggested, moreover,  that the minimum wage provisions would have nearly negligible consequences: of workers to  whom the law applied, only about 300,000 would actually see an increase in their wages un-der the 25¢ per hour minimum in the first year under the law and 650,000 when the 30¢ per  hour minimum took effect. 
+10 Ronnie Steinberg, Wages and Hours: Labor and Reform in Twentieth-Century America (New Brunswick: Rutgers University Press, 1982), pp. 99-100. Steinberg shows inverse pro-portions of male and female workers covered, respectively, by national versus state labor standards from 1938 to 1970. 
+11 Because minimum wage laws excluded some entire categories of workers, namely, owners and managers and professional, executive, administrative, and public employees, Steinberg  dropped those occupational groupings from her analysis altogether. Because those groups included a disproportionate number of male workers, their omission from the analysis skews  Steinberg's evaluation of FLSA coverage in terms of sex. Another shortcoming of Steinberg's  data is that she does not clarify how extensively she disaggregated occupational groupings in  making judgments about their coverage. Ibid., pp. 37, 30-31. 
+12 See House, Conference Report: Fair Labor Standards Act of 1938, H.R. 2738, 75th Cong., 3d sess., June 11, 1938; Department of Labor, Opinion Manual of the General Counsel, Wage and Hour Division (Washington, D.C.: GPO, 1940), vol. 1; Raymond S. Smethurst and Reuben S. Haslam, Cases on the Fair Labor Standards Act of 1938 (Washington, DC: Smethurst, 1949); Department of Labor, First Annual Report of the Administrator of the Wage and Hour Division, 1939 (Washington, D.C.: GPO, 1940); Louis Weiner, Federal Wage and Hour Law (Philadelphia: American Law Institute, 1977).
+13 Bureau of the Census, Census of the Population, 1940: Summary Report (Washington, D.C.: GPO, 1940), Occupations, table 58, pp. 75-80. Some workers were considered to be entirely exempt from coverage regardless of the relation of their particular job to interstate commerce; for instance, all professionals, agricultural workers, and service and domestic workers were excluded. Much more detailed analysis and discretionary judgments were required to determine the status of some other occupational groups: 49 percent of clerical and sales workers were exempt from the FLSA, as well as 43 percent of craftsmen and foremen, 22 percent of nonfarm labor, and 24 percent of factory operatives. See Suzanne B. Mettler, "Divided Citizens: State-Building, Federalism, and Gender in the New Deal," (Ph.D. diss., Cornell University, 1994), App. A.
+14 Since the data were derived through judgments about the legal and administrative interpretations of coverage rather than payment of the minimum wage in actual practice, they tend to overestimate the number of workers who actually received minimum wages as a result of the law.
+15 Coverage evaluations rely on census data that disaggregate each of these general occupational categories into very detailed job classifications.
+16 For example, see Vivien Hart, "Minimum Wage Policy and Constitutional Inequality: The Paradox of the Fair Labor Standards Act of 1938," Journal of Policy History 1 (1989): 337.
+17 Bureau of Labor Statistics, "Women in Industry" (Bulletin 694), Handbook of Labor  Statistics Ⅰ (1941): 969. 
+18 The 1940 census data are not very useful for determining which workers benefited from  the new minimum wage because several industries had already improved conditions while the  NRA was in effect earlier in the 1930s, and others raised wages as soon as the FLSA took effect, either voluntarily or in response to specific industry codes. 
+19 See Bureau of Labor Statistics, "Women in Industry," noting that in every industry re-ported, women had lower earnings than men and in half of the industries reported, women's  average hourly earnings were less than the lowest average for men. 
+20 This was done by figuring weighted averages of the numbers of workers of each type per  income group and then adding them together. 
+21 For a detailed discussion of covered and exempt groups within each broad occupational  category, see Mettler, "Divided Citizens," App. B. 
+22 It should be noted, however, that though 8.I percent of this group were "farm laborers,"  the other 14.7 percent were "farmers and managers," who presumably derived various non-cash benefits, namely, food, from farming. 
+23 Minutes, Annual Meeting of the National Consumers' League, December 1938, LMDC,  collection 5235. 
+24 Anne Petersen, "National Drive to Broaden Wages and Hours Law," New York Times,  October 30, 1938. 
+25 On existing state minimum wage laws, see Department of Labor, Women's Bureau, "A  Year of the Minimum Wage," by Mary Andersen, American Federationist, March 18, 1938.  26 lbid. 
+27 Paul Douglas and Joseph Hackman, "The Fair Labor Standards Act of 1938, II: The Act  as Finally Passed," Political Science Quarterly 54 (1939): 54-55; Michael E. Parrish, "Felix  Frankfurter and American Federalism," in Federalism: Studies in History, Law, and Policy, ed. Harry N. Scheiber (Berkeley: University of California, 1988), pp. 28-29.  
+28 Steinberg, Wages and Hours, pp. 99-100. 
+29 Minutes, Annual Meeting of the National Consumers' League, December 1939, collection 5235, LMDC. 
+30 Both quotations appear in James T. Patterson, The New Deal and the States (Princeton:  Princeton University Press, 1969), pp. 125-26. 
+31 Landon R. Y. Storrs, "Civilizing Capitalism: The National Consumers' League and the  Politics of 'Fair' Labor Standards in the New Deal Era" (Ph.D. diss., University of Wisconsin-Madison, 1994), pp. 378-80. 
+32 Robert Erwin Berry, "The State Labor Departments: Organization, Functions, Personnel, Finances, and Relations with the Federal Department of Labor" (Ph.D. diss., University  of Wisconsin, 1950), p. 255. 
+33 300 U.S. 79 (1937); Judith Baer, The Chains of Protection (Westport, Conn.: Green-wood, 1978), p. 6. 
+34 Frances Fox Piven and Richard A. Cloward, Poor People's Movements: Why They Succeed, How They Fail (New York: Random House Vintage, 1979), chap. 3· The NCL did,  however, participate in efforts to protect the NLRA from weakening amendments in 1939-40; see Storrs, "Civilizing Capitalism," pp. 388-411. 
+35 Minutes, Annual Meeting of the National Consumers League, December I939, collection 5235, LMDC; letter, Lavinia Engle to Molly Dewson, April 8, [year missing], Dewson  Papers, General Correspondence, box 1, FDR. 
+36 Resolutions adopted at Annual Meeting of National Consumers League, January 18,  1947, collection 5235, LMDC. 
+37 Ethel Klein, Gender Politics (Cambridge: Harvard University Press, 1984), chap. 1.  
+38 Letter, Clara Beyer to Molly Dewson, August 24, I946, Dewson Papers, General Correspondence, box I, FDR. 
+39 File on ERA and National Committee on the Status of Women, Records of the National  Consumers League, collection 5235, LMDC; letter, Mary Andersen to President Mosher, National Association of Manufacturers, May 11, 1945, Papers of the Women's Trade Union  League, collection 3, Mary Andersen Papers, microfilm 3:74, LMDC, original at Schlesinger  Library, Cambridge, Mass. 
+40 See "Some Milestones" and "Minimum Wage and Collective Bargaining," by Solomon  Barkin, May 22, 1946, Records of the National Consumers League, collection 5235, LMDC.  41 Records of the ACWA, collection 5619c, box 546, file B702., LMDC. 
+42 Jerry Voorhis, Confessions of a Congressman (Garden City, N.J.: Doubleday, 1947},  pp. 94-95· 
+43 Louis Weiner, Federal Wage and Hour Law (Philadelphia: American Law Institute, 
+1977}, pp. 8, 63-64, 72-74·  
+44 Ibid., pp. 122-24. 
+45 Senate, Joint Hearings on the Fair Labor Standards Act, Senate Committee on Education  and Labor and House Committee on Labor, 75th Cong., 1st sess., June 1937, pp. 173, 180,  943, 957· 
+46 Richard A. Epstein, "The Proper Scope of the Commerce Power," Virginia Law Review  73 (November 1987): 1447. 
