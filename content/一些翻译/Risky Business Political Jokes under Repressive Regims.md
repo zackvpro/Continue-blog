@@ -4,7 +4,7 @@ tags:
   - 翻译
   - 政治制度
   - 政治笑话
-  - 反抗
+  - 反抗运动
 ---
 >[!NOTE] Translated with Gemini 3.1 pro
 >**作者： Elliott Oring 来源： Western Folklore, Vol. 63, No. 3 (Summer, 2004), pp. 209-236**
