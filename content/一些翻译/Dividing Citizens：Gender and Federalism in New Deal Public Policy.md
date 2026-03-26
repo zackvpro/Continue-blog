@@ -28,7 +28,7 @@ hideWhenEmpty: false # Hide TOC if no headings are found
 debugInConsole: false # Print debug info in Obsidian console
 ```
 
-## 前言
+## 引言
 
 当今美国，许多人哀叹自20世纪中叶以来公民参与（Civic Participation）的明显衰退，并呼吁重振社会信任与公共精神。在这种话语体系中，公民身份通常被建构为仿佛仅仅是由社会通过特定价值观和理念的传递而产生的一系列态度和活动。然而，令人惊讶的是，这种讨论完全没有考虑治理机构、公共政策以及政治本身可能如何塑造公民与社会生活。我对这一关系的疑问促使我思考，美国治理的一次重大转型——“新政”（New Deal）——是如何影响美国公民身份的组织与特征的。
 
