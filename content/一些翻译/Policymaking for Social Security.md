@@ -110,5 +110,160 @@ This book is about policymaking for the OASDHI portion of the Social Security Ac
 16 Robert M. Ball, "Managing the Social Security Program," encl. to SSA Vista, vol.16 (February 8, 1973).
 17 A. Haeworth Robertson, "OASDHI: Fiscal Basis and Long-Range Cost Projections," Social Security Bulletin, vol. 40 (January 1977), p. 48. But see also the article written by Robertson after he left office, in which he argued that failure to revise and contain social security--for example, by raising the age of eligibility-would result in destructive economic and social costs. "The nation must not be influenced unduly," he wrote, "by decisions made in the past by and for different generations of people living under different circumstances." Robertson was chief actuary of the Social Security Administration from 1975 to 1978. "Providing for Social Security," Wall Street Journal, September 6, 1978.
 
-# chapter 1
 
+# 第一部分 参与者
+
+## 第一章 项目行政主管
+
+“社会保障将永远是一个目标，而绝非一件已完成的刻板事物，因为人类的抱负是可以无限扩展的……正如人性是可以无限完善的一样。” 这句引自阿瑟·奥特迈耶（Arthur Altmeyer）——他在1935年至1953年间的大部分时间里领导了社会保障项目——的名言，展示在位于巴尔的摩的社会保障署（Social Security Administration）总部的博物馆内 。这句名言在很大程度上揭示了那些在行政部门内部负责运行该项目的人员的特质 。它以极其纯粹的形式表达了他们的自由主义信念，以及对人类毫不掩饰的乐观态度 。它同样以纯粹的形式表达了他们的公共政策制定哲学 。如同人类自身的进步一样，公共事业的改善是事物的自然状态，而改善的途径即是扩张 。
+
+该博物馆中带有颂扬色彩的陈列也揭示了奥特迈耶所塑造的这个组织的一些特征。他的办公桌陈列在那里，上面放着一部20世纪30年代的电话，但在办公杂物方面却别无他物（在玻璃桌面下保存着一封奥特迈耶写给社会保障署历史学家的信，他在信中写道：“我是一个保持办公桌整洁的人”） 。那里还通过电影和原声带鲜活地展示了伟大的自由主义总统们的身影：富兰克林·罗斯福（Franklin Roosevelt）签署1935年《社会保障法》（Social Security Act），以及林登·约翰逊（Lyndon Johnson）在三十年后签署联邦医疗保险（medicare）法案 。有超过90,000人为该机构工作，其中20,000人在其巴尔的摩总部工作，其中心建筑正是以奥特迈耶的名字命名的 。如果员工们驻足观看博物馆内收藏的图片、小册子、新闻剪报和手工艺品，博物馆就会提醒他们铭记社会保障署的历史传统 。这是这个具有强烈自我意识的组织向其成员诉说其过去是什么、其目标应是什么，以及为何他们应为这两者感到无比自豪的方式之一 。
+
+### 连续性与承诺
+
+该组织的领导者——或者我称之为项目行政主管——一直是一个拥有强大持久力的小群体 。连续性和持久性是其特征 。在社会保障项目最初四十年的大部分时间里，行政行动的塑造者鲜有更迭；少数几位核心人物主导了全局 。
+该项目的最高行政长官是社会保障委员会（Social Security Board）主席，直到1946年这个由三人组成的委员会被废除；自那以后，该职位由社会保障署署长1（commissioner of social security）担任 。从1936年到1972年，共有六人担任过这两个职位：
+
+- 约翰·G·怀南特（John G. Winant） 1935–1937
+    
+- 阿瑟·J·奥特迈耶（Arthur J. Altmeyer） 1937–1953
+    
+- 约翰·W·特兰伯格（John W. Tramburg） 1953–1954
+    
+- 查尔斯·I·肖特兰（Charles I. Schottland） 1954–1958
+    
+- 威廉·L·米切尔（William L. Mitchell） 1959–1962
+    
+- 罗伯特·M·鲍尔（Robert M. Ball） 1962–1973
+    
+
+然而，即使是如此少的人数，也夸大了领导层的流动性。奥特迈耶和鲍尔两人担任最高行政长官的时间加起来超过了总时间的三分之二 。此外，如果我们不局限于这份名义上的清单，而是试图找出实际而非名义上的最高行政长官，那么鲍尔的任期将被视为远远长于十一年 。这至少可以追溯到1953年 。在艾森豪威尔（Eisenhower）政府的大部分时间里担任署长的肖特兰，在随后的采访中并没有声称自己掌控了社会保障项目 。它也不是由共和党人任命的老年和遗属保险局（Bureau of Old Age and Survivors Insurance）局长维克多·克里斯特高（Victor Christgau）所掌控的 。它实际上是由当时担任该局副局长的鲍尔负责运行的。2
+
+说明行政领导层稳定性的另一种方法是考察特定时期社会保障署高层职位任职者的职业履历 。例如，在1970年，当该项目已经运行了一代人之久时，作为署长的鲍尔、一位副署长（阿瑟·E·赫斯，Arthur E. Hess）以及四位助理署长（负责行政管理的杰克·S·福特曼，Jack S. Futterman；负责区域行动的托马斯·C·帕罗特，Thomas C. Parrott；负责项目评估与规划的阿尔文·M·大卫，Alvin M. David；以及负责研究和统计的艾达·C·梅里亚姆，Ida C. Merriam），他们在社会保障署的服役时间总计达到了191年 。他们都是在20世纪30年代加入该机构的，并且几乎将整个职业生涯都奉献在了这里 。尽管其中一些领导者是从低级别的外地基层职位起步的（鲍尔最初是在纽瓦克担任外地代表），但他们在总部的高级职位上度过了很多年 。美国卫生、教育及福利部（Department of Health, Education, and Welfare）的一份半官方历史文献将社会保障署描述为一个“以职业生涯为导向的组织” 。其管理架构中有极大比例是由那些“与系统共同成长”的人组成的 。3
+
+建设这个项目是一项工作——更是一项使命——一些男女为此倾注了一生。领导层表现出非凡的谦逊 。奥特迈耶作为奠基性人物——被整整一代充满敬意的员工尊称为“社会保障先生”（Mr. Social Security）——是一个安静的人，据曾短暂担任署长、并长期担任其副手的威廉·米切尔称，他从不“将自己作为一个个人推向台前” 。对奥特迈耶而言，项目永远是第一位的；他“总是在思考计划、政策或项目” 。4奥特迈耶自我评价的坦露与此并不矛盾：
+
+> “我认为检验一个好管理者的标准，在于你是默默无闻的，还是一个引人注目的角色，一个公众人物 。如果你是一个公众人物，或者如果你有任何渴望成为公众人物，你就不太可能对管理本身感兴趣 。我认为保持默默无闻是可取的，这样你才不会让公众卷入基于性格而非成就所做出的决策中 。当然，非常需要像（萨金特）施莱弗（Sargent Shriver）[20世纪60年代和平队及后来的经济机会局局长]那样脱颖而出的人物 。天哪，你确实需要像施莱弗这样的人物来推销一个项目并抓住公众的想象力 。但这与我的能力或兴趣大相径庭，超出你的想象 。我会对那种任务退避三舍 。所以我曾多次说过，一个成功的管理者应该像菠菜一样无趣——而且还是凉拌菠菜 。理念就该如此……我不认为你能在我的整个职业生涯中找到任何色彩斑斓的东西 。如果你能找到，我会感到惊讶的 。”5
+
+罗伯特·鲍尔作为奥特迈耶的继承者（尽管不是他的直接继任者），对这份工作的看法则有所不同，他认为它“为了获得成功，需要具备许多公众人物的能力” 。在鲍尔看来，署长需要能够“发表激动人心的演讲、与工会谈判、在电视上表现出色，并通过直接的人际接触激励员工” 。6那些了解鲍尔的人认为他在处理这些任务时非常娴熟 。他的前任之一查尔斯·肖特兰将他描述为社会保障项目的“首席……哲学家、管理者、阐释者 。他非常口齿伶俐，有一种表达思想的绝妙方式，（并且）在智力上极其灵活，因此他能想出办法来处理那些需要妥协的情况 。他聪明又风度翩翩，极具才智 。他很有勇气 。一个非常不寻常的人……能力极强 。”7
+
+与奥特迈耶一样，鲍尔将自我置于社会任务之下，并激发了组织下属强烈的忠诚感 。1973年卸任署长后，他住在华盛顿，继续致力于社会保险项目的建设 。担任公职并非关键所在，这是社会保障领导层具有使命精神的一个标志 。一些最重要的领导者即使在名义上成为普通公民后，仍继续履行着许多领导职能 。
+
+### **目标明确且留有妥协余地**
+
+行政领导者们清楚自己想要什么；他们对首要原则非常明确 。然而，尽管他们在某些问题上显得教条，但他们绝非无法妥协 。在广阔的政策领域里，这些教条并没有提供最终的指南 。教条主要涉及项目的运作特征 。它应该是缴费型的（contributory）：人们必须通过缴纳费用（纳税）来获取申领福利的资格 。在缴纳了费用之后，他们或其受抚养人应将获得福利视为一项权利 。绝对不能有经济状况调查（means test），也就是说无需证明其处于贫困状态 。福利应与工资挂钩 。该项目应具有全国范围的适用性，并应由联邦政府负责运营 。它应该是普遍且强制性的 。
+
+这些都是重要的问题，但它们仍留有大量的选择空间 。关于这些原则的应用，社会保障署的高管们可能会表现得相当灵活 。人们应该缴纳费用，但他们不需要缴纳太多、也不需要缴纳太久就能获得福利资格 。该项目也不必仅仅由缴费（和配套的雇主税）来提供资金 。在很早的时候，管理者们就提议使用一般财政收入（general revenues），而在另一次战术灵活性的展示中，当国会表现出不接受的态度时，他们又放弃了这一提议 。尽管他们绝对坚持福利应当与工资挂钩，但他们从未规定具体的比例关系应该是怎样的。他们还认为社会保险福利应该是累进的，向低薪劳动者倾斜 。因此，他们将社会保险设想为一个结合了福利目的（消除贫困）和维持习惯性生活水平的项目； 但是，究竟应在哪里达到这种平衡，他们对此并没有固定的观点 。即使在国家行政管理的问题上，他们也不是不知变通的 。当似乎只有在给予州政府重要行政角色时，残疾保险（insurance against disability）法案才能通过时，社会保障的行政领导者们欣然接受了这一妥协 。这些领导者所表现出灵活性的点并非细枝末节，也不仅仅是对基本原则如何应用的解释； 它们决定了成本和福利将如何在不同社会阶层之间分配，即社会保险中“谁得到什么”（who gets what）的问题 。在税源、福利水平以及已缴税款与所获福利之间的关系上保持灵活性，为项目中所包含的最重要的社会选择留下了包容与调整的空间 。
+
+在解释和评估行政规划者在社会保险方面取得的成功时，重要的是要客观地看待其目标的范围 。他们主要在工具性层面上定义其目标 。他们希望建立一种特定的项目，即被称为社会保险的项目，并将其覆盖范围广泛扩展到全国人口及各种风险类型上，包括年老退休、残疾和健康不佳 。他们在这一点上非常成功 。今天存在的一个庞大项目正符合初创时期确立的首要原则 。如果当初在定义目标时精确地规定了最终的社会结果，那么成功肯定要难得多 。如果当初的行政创始人能够自由地使该项目符合个人偏好，他们很可能会使它比实际情况更加累进（尽管我估计，不会是激进的平均主义） 。该项目一直由自由主义者运营，他们坚信应广泛而有力地使用政府力量来实现社会福利，特别是保护穷人免受不幸 。但是，如果说自由主义是行政领导者中的主导价值观 ，那么实用主义（pragmatism）始终同样有力地指导着他们在任期间的行为 。他们压倒一切的目标是建立和扩展社会保险项目 。为此，他们需要获得国会和公众的接受，并准备好为了这一目的调整项目设计 。起初，该项目的建立本身就可以被视为自由主义的胜利 。至少在20世纪60年代之前，自由主义者和保守主义者的分歧在于公共部门与私人部门活动的界限应划在哪里 。这个项目是否应该存在，对自由主义者（包括其行政创始人）而言，比它应该做什么、以及为了谁的利益而做，要更为关切 。它在很大程度上未能服务于平均主义目的，并且实际上经常给那些只缴纳了少量费用却相对富裕的人带来巨额福利，这似乎并没有要求创始人们对他们自己或他人进行辩护或正当化 。带着明显的自豪和平静，奥特迈耶曾评论道：“没有人认为拿那张支票有损尊严，我想他们可能还盼着它呢 。如果他们非常富有，他们可能会把它交给妻子，让她拿去买些原本不会买的东西 。大家都皆大欢喜，快乐得像云雀一样 。”8
+
+### **通过渐进步骤进行扩张**
+
+尽管项目的领导层基本保持不变，但该项目却在不断变化。它在扩张 。“越多越好”可以说是其领导者的座右铭，他们从来都不缺乏当下的立法议程，也不缺乏关于长期议程的构想 。据哥伦比亚大学一位密切而富有同情心的观察家埃弗琳·M·伯恩斯（Eveline M. Burns）称，这种持久驱动力的解释在于领导层所秉持的自由主义和人道主义价值观 。她曾告诉采访者：
+
+> “[它一直是]一个极其人道的行政机构 。以老年和遗属保险为例 。他们现在肯定已经达到了第2000万个受益人 。想想看这本来会怎么运作 。他们本可以从一开始就对进来的申领人抱有怀疑，把所有证明其有权获得福利的举证责任都推给申领人 。他们本可以把自己的工作看作根本不涉及政策层面 。他们被告知执行法案，他们大可以仅此而已，而不去问自己这个法案是否已经尽善尽美了…… 恰恰相反，在这个项目中的重点，从一开始就（并且越来越明显地——对于一个庞大的项目来说这很令人惊讶）截然不同 。……我认为，这在很大程度上要归功于鲍勃·鲍尔（Bob Ball）的影响 。他让这个机构渗透了他自己的一些理念 。他也成功地让一些非常优秀的人与他共事…… 他是一个了不起的人 。他拥有那些我认为非常重要的品质——理想主义、对项目的坚定信念，以及项目是为了服务人民的理念，而且他对这份工作的看法就是不断地看看它能否成为一个更好的项目 。”9
+
+罗伯特·J·迈尔斯（Robert J. Myers）曾长期担任社会保障署的首席精算师，最终因政见不合而离职。他认为，这种解释毋宁说在于公职人员扩大其管辖项目的“自然”冲动 。在一本为某英国研究机构撰写的小册子中，他写道：
+
+> “多年来，大多数从事项目规划和政策制定的美国员工都秉持一种哲学——并以近乎宗教般的热忱加以贯彻——即最重要的是项目的扩张 。对他们中的一些人来说，持有其他信念实质上就等同于反对该项目 。因此，这些人并不一定倾向于在政党之间抱有党派偏见，而是倾向于偏袒和帮助那些希望最大程度扩张该项目的人 。……人们倡导并大力推动他们所从事活动的增长，这不过是人之常情 。”10
+
+在某种程度上，这种扩张主义动力表现在对行政自由裁量权（administrative discretion）的行使上。奥特迈耶写道：“行政管理不仅仅由组织、程序和人员构成…… 行政管理还包括以能最充分地实现其根本目的的方式来解释社会立法 。”11然而，更为重要的是政策规划，旨在借此生成立法扩张的提议。政策规划早在联邦行政部门的组织中被普遍确立之前，就已在社会保障委员会内发展成为一种独特的功能。《社会保障法》责成委员会负责研究并就立法和行政政策事项提出建议，从而为这一发展奠定了基础。1934-1935年社会保障项目的许多创始人都来自学术界，并且相信研究和形式化分析作为政策制定要素的价值 。
+
+最初，政策规划职能被安置在研究与统计局（Bureau of Research and Statistics）。根据1949年的官方描述，该局（当时是一个“处”，后来成为“办公室”）的职能包括就通过社会保险提供社会保障的“最有效方法形成‘发现’和建议，特别是针对疾病和残疾期间尚未满足的保护需求”。12 在20世纪40年代I. S. 福尔克（I. S. Falk）的领导下，该处特别负责规划健康保险。然而，它对政策规划并没有专属管辖权 。老年和遗属保险局的一个项目分析处也很活跃 。值得注意的是，后来社会保障署的领导人（鲍尔、赫斯、大卫）都出自那里，这表明要么组织中最能干的成员在该处工作，要么那里的工作比在组织的其他部分（如外地行政管理）受到更高的重视和奖励 。
+
+社会保障署的政策规划始终包含在既定项目框架内进行变革的规划。社会保险被假定为首选的手段 。前一段引述的研究与统计办公室的使命即具有指示意义 。它被指派研究“通过社会保险”提供社会保障的方法 。人们对备受鄙视的替代方案——公共援助（public assistance）——关注甚少（社会保障署在1963年之前也负责公共援助），也没有考虑满足已感知到的社会需求的不同途径 。政策分析的流行技巧是找出一个社会问题，如缺乏医疗保健，并发展出通过社会保险来应对它的论据和方法 。与这种政策分析方法相一致的是，社会保障署的研究是在内部完成的，而不是像联邦政府许多其他机构那样外包出去 。13
+
+这种对社会保险的承诺结合了教条主义和实用主义的成分。社会保险的行政领导者当然相信，原则上这是解决社会依赖问题的最佳项目形式； 他们还认为这是最好的，因为在1935-1936年被确立和接受后，它相对容易得到扩张 。在他们看来，渐进的步骤相对容易为公众和国会所接受，并且无论社会保险原则延伸到何种新领域，都可以被包装为对一种广受欢迎和可接受的手段的详细阐述和修订 。在项目行政领导者阐明政策形成哲学的程度上，这种哲学强调渐进主义（gradualism） 。该群体中最持久、最具影响力的人物之一威尔伯·J·科恩（Wilbur J. Cohen，尽管他在1955年之后并未真正在社会保障署任职），曾向采访者总结过他们的观点：
+
+> “与我共事的男男女女，尽管他们是平民主义者，尽管他们是进步派，尽管他们是社会立法的坚定信徒，但他们也坚信渐进主义的必然性 。换句话说，他们认为一次迈出一步更为重要 。或者也许我应该这样说——一次消化一顿饭，而不是早餐、午餐和晚餐一起吃导致消化不良 。这就是他们的哲学 。我认为这是正确的社会哲学 。……事实上，最近一本分析我这些年行为的杂志有个标题叫‘切香肠的人’（Salami Slicer） 。文章说科恩部长相信切香肠的原则，也就是拿一块香肠切得非常薄，然后一片一片叠起来，最终你就能得到一个非常好的三明治 。这就是我对社会立法演进的理念； 一次咬一口并消化它，然后在有秩序的演进中进入下一阶段，而这种演进是政治体可以接受的，因为它被认为是具有现实意义的、实际的，也是他们愿意在此基础上添砖加瓦的 。”14
+
+迈尔斯在离开社会保障署后，冷眼旁观了其前同事的渐进主义策略：
+
+> “扩张主义者在策略上经常使用‘棘轮’（ratchet）方法 。他们不会和盘托出他们的最终目标，而是只倡导其中的一部分 。当他们只得到这一部分的一小点时，他们在当时也会感到满足 。他们相信总有改日进一步向目标推进的机会，而且他们知道，一旦实现了某种程度的扩张，想要倒退几乎是不可能的 。……通常，新颁布修正案上的墨迹未干，针对下一次立法努力的计划就已在制定中了 。”15
+
+事实上，社会保障署的高管们并不总是耐心的渐进主义者。1943年的瓦格纳-默里-丁格尔法案（Wagner-Murray-Dingell bill）绝非满足于零碎变革之人的作品 。作为一项影响深远的提案，它呼吁大幅增加现金福利、提供针对暂时和永久性残疾的保险、为全体人口提供健康保险、提供生育福利，以及建立一个完全联邦化的失业补偿系统 。但它并没有通过，甚至整体上也没有接近通过 。只有通过分解成多个部分在多年内逐一审议，并根据当时的政治环境对个别部分进行调整，瓦格纳-默里-丁格尔法案的许多内容最终才成为法律 。
+
+或许作为一种哲学，渐进主义同时也是从经验中汲取的教训 。尽管意识到零碎的步骤在美国政治体制中是合适的，但项目高管们仍然非常清楚其他工业化国家已经建立了全面的社会保险计划，他们相信美国假以时日也必将如此 。社会保险运动是国际性的，各国的领导人通过国际劳工组织（International Labor Organization）和国际社会保障协会（International Social Security Association）等组织保持着联系 。美国的领导人试图推行一种能很好适应美国文化和价值观的社会保障版本（因此强调与工资挂钩的福利和个人工作努力），但他们同时也意识到自己是全球运动的一部分，并因此相信他们正试图做的事情具有逻辑性，甚至是必然性 。
+
+### 能力与共识
+
+社会保障的行政领导者在极大程度上结合了行政管理与概念构建的能力 。作为出色的规划者和政策阐释者，奥特迈耶和鲍尔同时也是出色的首席管理者，并且得益于BOASI早期主管约翰·J·科森（John J. Corson）的非凡能力（内部人士常常将社会保障署杰出的行政表现归功于他） 。领导层组建、训练并激励了一支具有卓越能力和团队精神的队伍，并维持了高度的内部纪律。
+
+1935年后成立社会保障委员会员工队伍时，委员会成员亲自控制了大多数高层任命 。他们并没有依赖公务员委员会（Civil Service Commission）的常规程序 。尽管委员会的员工受联邦功绩制（merit system）管辖，但《社会保障法》为两类雇员（律师和专家）提供了豁免 。委员会成员慷慨地利用了“专家”条款来引进他们自己挑选的人选 。被期望成为政策规划中心的研究与统计局，到1937年2月其编制内单独就拥有了五十四名“专家”，这些人的任命均绕过了常规的公务员程序 。16
+
+公务员豁免针对专家是一项古老的国会惯例，通常保留给分肥制（patronage）任命 。但在社会保障委员会的情况并非如此，由怀南特和奥特迈耶组成的两人多数派极力抵制政治分肥的呼声，而倾向于基于功绩的任命，尽管主导标准是他们自己对“功绩”的理解 。一份早期的社会保障委员会行政史总结道，与新政（New Deal）时期的其他机构或那些突然获得新项目的较老机构相比，该委员会中政治恩赐任命的数量非常少 。17
+
+如果社会保障委员会的领导人没有挑选党棍，那么他们挑选了谁呢？麦金利（McKinley）和弗雷斯（Frase）非常简单地说，他们想要全国最优秀的人才 。尤其是奥特迈耶（他在1937年初怀南特辞职后升任主席），他对人事政策抱有很高的理念 。他将委员会的招募工作视为等同于大学选拔教员 。他需要创造性的头脑。为了得到他们，他和怀南特依靠个人熟人、与专业团体的接触以及“朋友的朋友” 。18 首批任命者继承自经济安全委员会（Committee on Economic Security）的班底，这个内阁级别的委员会曾在1934年规划了总统的社会福利提案；或者像那个班底一样，他们来自大学、基金会和其他私人慈善机构 。具有社会科学背景的人士受到偏爱。总的来说，首批被任命者并非来自其他更成熟的联邦机构，尽管有些人是从新政机构转过来的 。他们也不是来自私人保险业，这成了奥特迈耶与必须批准专家任命的公务员委员会之间的一个争论点 。公务员委员会很难理解，为什么具有私人保险经验的人会不如那些具有学术社会科学背景的人专业 。奥特迈耶后来回忆说，他从未“能够解释清楚私人保险和社会保险之间的巨大区别” 。19 那些确实带着私人保险背景来到委员会的雇员，后来被他们的上司判定为能力低劣 。他们获得的效率评级低于其他人 。
+
+在组织的最底层，即由外地办公室的助理和职员组成的层级，委员会无法雇佣“专家”，也无法雇佣怀南特和奥特迈耶朋友的朋友 。它必须遵循公务员程序，但仍强调素质 。人事主管从公务员名册中挑选新兵，该名册是建立在要求大学教育及通识知识笔试结果的基础上的 。像他在委员会的上级一样，他相信受过社会科学训练且具备高一般智力的年轻人会成为最好的雇员，而在大萧条（Depression）期间，这样的人员显然比后来在更繁荣时期更容易获得从事低级别公务员职位的机会 。正是在这种理论指导下，老年福利局（Bureau of Old Age Benefits）的地方办公室配备了人员，并为组织未来的领导者创造了一个人才库 。20
+
+阿瑟·赫斯的职业生涯就是一个例证，他于1939年进入外地办公室，最终成为副署长 。赫斯在普林斯顿大学（Princeton）本科学习政治学 。参加公务员考试时，他对社会保障并没有特别的兴趣，但一旦进入该组织，他发现服务人民的机会令人充满成就感 。他告诉采访者：
+
+> “我在高中时开始对公共事务产生浓厚兴趣，大学里我主修政治学 。实际上，我的父母都出生在瑞士，我有丰富的旅行经历和语言接触，我曾希望能进入外交部门 。……我参加了外交人员考试…… 所以我都准备好去国务院（State Department）了，但我没有通过外交部门的体检 。在此期间，我参加了公务员考试，在39年的一天，我收到了面试通知 。坦白说，除了任何对公共事务感兴趣的大学生都会关注社会保障问题之外，我当时其实并没有面向国内事务的打算 。……但我接受了社会保障局的这份工作，开始在外地工作 。渐渐对这份工作中的公共服务方面产生了浓厚的兴趣 。外地工作领域能带来强烈的职业满足感 。在与老年人打交道时，你可以帮助人们穿过官僚主义繁文缛节的迷宫，帮助他们登记，帮助他们弄清楚如何获取证明并理清他们的亲属关系，我总是发现每天工作结束时都有很强的满足感 。”21
+
+对招聘质量的强调帮助建立了一个组织，其成员在与他们尊重其智慧和能力的同事交往中找到了满足感 。在华盛顿特区，社会保障署因其卓越的行政能力建立了极佳的声誉； 它还发展出一种高度满足感的自我概念 。此外，由于组织的规模和活动范围不断扩大，成员们可以确信获得晋升 。极其能干的人迅速从外地或技术岗位晋升到总部的重要职位 。赫斯告诉采访者：
+
+> “……我对地方工作感到非常厌倦，因为从长远来看它在智力上缺乏足够的挑战性 。当我有了进入总部的机会时，首先是从事管理规划，然后进入项目规划……我想我只是越来越深地投入到社会保障项目活动中，接触了鲍尔、科恩和大卫，顺理成章地一步步走来 。我必须坦白地说，我从未受到过非常强烈的诱惑要脱离这个机构 。”22
+
+在一种微妙的层面，招聘程序可能也促进了对项目共享信念和态度的形成 。社会保障署的成员受到强烈的客户服务伦理（client-serving ethic）的约束：该组织的存在是为了服务其受益人 。招聘程序通过偏向于那些对公共保险项目已证实或预期具有承诺的人，从而对此做出了贡献 。尽管典型的新员工带着智慧、教育和一定程度的社会意识来到岗位，但仍然必须接受关于社会保险哲学和行政实践的培训 。始于项目初期的培训课程，在联邦机构中保持着不同寻常的复杂度和集中度 。培训并不仅仅是技术性的 。它没有局限于法律和法规的细节，而是旨在指导项目的概念基础，并灌输服务受益人的承诺 。回顾过去，奥特迈耶告诉采访者，这种培训及其对机构社会使命的坚持，是该项目广受欢迎的原因 。在地方办公室，公众遇到的是受过服务培训的工作人员 。“我们让这里的办事员以及高层官员在派往地方设立办公室之前停留数月，”他说，“所以他们完全被这种理念感染了 。完全如此 。”23 这种客户服务伦理如此强烈，以至于它与政府问责局（General Accounting Office）发生了冲突，后者指控社会保障委员会违反了一项禁止联邦官员鼓励对联邦政府提出索赔的旧法律。据奥特迈耶称，“我们花了好大一阵子才让他们相信这是一种不同性质的事物——因为有缴费，就存在某些法定权利，必须得到承认和实现，而我们负有这一义务。”24
+
+在一个整体上具有凝聚力的组织中，只有负责估算成本的精算办公室成为了持异议之地 。第一任首席精算师W. 鲁隆·威廉姆森（W. Rulon Williamson）断定该项目存在根本性错误，并于上世纪40年代末离职。他的继任者罗伯特·迈尔斯断定该项目的持续扩张将对国家经济构成威胁，并于1970年离职。但即便是在异议中，组织的自豪感依然存在。尽管迈尔斯毫不犹豫地指出，他在社会保障署（SSA）高层的前同事在政策上是错误的，并且在他们被指控为了对抗共和党政府目标而追求这些政策时是不道德的，但他从未暗示过他们的能力不够杰出 。在回顾过去时，他写道，SSA从上到下都配备了尽职尽责且能干的公务员，他们实现了高效、公正和诚实的行政管理 。25 在精算办公室以及其他部门，连续性和高能力是常态。迈尔斯在这个项目工作了三十六年，从经济安全委员会时期开始，他自己广受赞誉的专业技能也为该组织增添了光彩 。需要明确的是，这种自豪感和凝聚力仅代表了社会保险的管理部门 。多年来，社会保障委员会及其继任者社会保障署也负责其他项目——直到1963年的公共援助（public assistance）和直到1949年的失业补偿——但这些被行政领导层视为劣等项目 。社会保险是社会项目群星中最闪亮的一颗 。这种情况在整个组织内部造成了一些紧张和嫉妒，但提升了负责社会保险部分的团队精神 。
+
+从1978年的视角来看，似乎社会保障署长期以来关于行政能力的声誉并不完全实至名归 。当补充保障收入（Supplemental Security Income, SSI）在1974年作为联邦穷人援助项目启动时，SSA的基层行政管理崩溃了 。大约四分之一的案件在资格认定或支付方面发生错误； 超额支付每年接近十亿美元；申请人在地区办事处等待数小时的服务，然后接待他们的却是对规则了解不足、被计算机故障所困扰的员工 。报纸进行了曝光，国会各委员会纷纷介入调查。新项目的重担以及该组织无法应对这些重担的事实被揭露，严重破坏了SSA传统的极高士气 。然而，仅仅根据SSI的经验就断言SSA行政卓越的声誉名不副实，将是完全错误的 。最近的历史表明，不是该组织存在缺陷，而是那些使其声誉建立起来的任务相对容易执行 。在基层，这些任务只需要有限的自由裁量权，因为法律对老年和遗属保险下的福利权利有着极其详尽的规定 。因为申请人如果符合条件就是依法享有权利的，所以基层工作者并不扮演对抗者的角色 。而且，因为行政组织垄断了关于规则和个人申请人与系统关系的资讯，雇员通常处于帮助申请人获取其应得福利的位置 。他不必从申请人那里索取或评估信息，这类情况往往使机构容易受到欺诈，并在雇员与受益人之间产生敌意 。正是任务的性质（而不仅仅是技术能力或被灌输的态度）使得错误率极低，且客户与机构雇员双方的满意度都很高 。
+
+### 专长知识
+
+专长知识是社会保障署领导人的另一个显著特征，在一定程度上源于前面已描述的特质：任职的连续性、高水平的智力能力，以及组织在通过研究积累知识上的大量投资 。该项目的行政领导者为政策制定带来了使其有别于其他参与者（其中大多数远非专家）的技能和知识广度 。项目的性质也有助于解释这种与众不同的专长知识 。要理解社会保障的运作，包括诸如如何确定资格和福利以及如何为项目融资等基本问题，需要付出巨大的努力 。横亘在专家和非专家之间的，是专业的词汇，以及由错综复杂的法律和法规堆砌而成的障碍，对于任何没有受过法律、经济学、公共财政或精算科学训练的人来说，其中大部分都是难以完全理解的 。不仅是现有的知识区分了专家与非专家 。它也是一种预测的能力，因为正式的预测方法构成了政策制定的不可或缺的部分 。效仿私人保险的模式，社会保障署是根据精算师（精通保险风险和保费计算的专家）编制的收支预测来提出法案建议的 。任何希望理解并参与社会保障政策制定的人，都必须了解这些预测背后的假设、方法学和术语体系 。这是一项晦涩的，或至少看起来晦涩的工作，有着独特的术语系统，围绕着“均衡保费成本”（level-premium costs）、“应税工资单百分比”（percentages of taxable payroll）、“受保收入”（covered earnings）、“静态收入假设”（static earnings assumptions）等术语，这些术语对非专业人士来说并不是一目了然的，而且最重要的是，它们可能会与那些要么庞大得难以理解，要么小得不合常理的数字联系在一起（因此项目变更的成本是以“应税工资总额”——即需缴纳社会保障税的总收入——的微小百分数来衡量的，且由于总数庞大，这些百分比都是微乎其微的） 。在政策制定中，让人无法理解未必是一种优势。专家无法避免与占据选举职位的非专家打交道，虽然有些非专家可能对他们不了解的东西感到敬畏，但其他人则会感到烦恼和挫败。该领导层的技能之一（又一个标志）是：尽管他们本身是专家，却能够用通俗易懂的方式开展公共对话 。罗伯特·鲍尔作为行政主管的伟大天赋之一，就在于擅长将本质上令人困惑的题材澄清； 在作证时，他总是口齿伶俐、耐心且清晰易懂。然而，事实依然是，很少有外部人士指望能在对这一主题的掌握上与内部人士竞争 。外部人士需要依赖内部人士进行解释 。
+
+### 行政自主权
+
+联邦政府项目的首席执行官——意味着作为署长、委员或局长，对主要活动负有首要责任的官员——必须与他人分享行政权力 。在使用补助金（grants-in-aid）资助州或地方政府的项目中，他们必须与接受拨款的政府高管分享权力 。在联邦政府内部，他们与部门的上级领导和总统分享权力，这些高层需对下属的所作所为向国会和公众负责 。在社会保险项目中，其他这些高层领导一直未成为重要的约束或竞争来源 。
+
+社会保险的行政领导者不必过于担忧联邦体制内的其他政府层级 。除了一些授权州政府机构认证参与联邦医疗保险的医院和疗养院的合同，以及残疾保险项目中赋予州机构对残疾初始认定责任的反常条款外，该项目完全是一个联邦项目 。在联邦系统内的自主权赋予了他们比那些管理财政补助计划的联邦管理者预期能实现的更大的项目控制权 。
+
+在成立最初的几年里，社会保障委员会是联邦行政部门内的一个独立机构，不受任何行政监督，除了总统；甚至在那个时候，拥有比现在少得多的事务的总统，通常也不会太关注国内行政管理 。奥特迈耶回忆起罗斯福总统时说：“他对行政管理不感兴趣 。他只是假定奥特迈耶懂行，并且他不想被打扰 。”26
+
+当1939年联邦安全局（Federal Security Agency, FSA）成立时，社会保障委员会失去了其独立地位 。与组成新机构的其他五个局（公共卫生局、教育办公室、美国就业服务局、平民保育团和国家青年管理局）一起，它被置于一名由总统任命的FSA行政首长之下 。FSA下属的各个组成部分保留了相当多的自由，并且在FSA于1953年改组为卫生、教育及福利部（HEW）之后，那些留存下来的部门继续保持着这种自由。27 FSA以及后来HEW的历史，就是一部通才行政官缓慢、犹豫、几乎不成功地试图对名义上的下属专业局施加控制的历史 。
+
+在社会保障署（SSA）的案例中，规模和物理距离构成了阻碍通才行政控制的特殊障碍 。SSA的员工占到了HEW人员的将近三分之二。其总部设在马里兰州巴尔的摩，距离华盛顿的HEW总部大约有一个小时的车程 。这种分离起初是偶然的 。20世纪30年代末华盛顿没有足够的办公空间来容纳快速增长的老年保险局（BOAI），所以它的一些活动被安置在巴尔的摩的一座制造和仓库大楼里 。这种安排本应是临时的，20世纪40年代初在华盛顿完工的FSA总部大楼就包含了特殊的电气管道和加固的地板，价值约150万美元，这是社会保险项目所需的数据处理设备所需的 。但老年和遗属保险局（BOASI）从未搬进过这座大楼，该楼最初被一个战时机构占据，随后被FSA的其他部门所用 。
+
+奥特迈耶决定将BOASI的总部设在华盛顿之外，正是为了保护它的独立性 。他的副手威廉·米切尔后来回忆起奥特迈耶的推理：“他私下对我说……他这样做是因为……他希望老年和遗属保险能在没有外来的、外部因素施加影响的情况下发展 。如果他们远离政府中心，远离联邦安全局或后来的卫生、教育及福利部的总体组织结构，那么这个局将有更大的机会去客观、稳健地发展 。”28 米切尔向奥特迈耶争辩说，尽管社会保险很重要，但它不是唯一的东西，而且为了整体项目的利益，组织的各个部分应该放在一起 。据米切尔说，奥特迈耶最终也开始认为他的决定是个错误，但事实证明它是不可逆转的 。在20世纪50年代初，将BOASI总部迁往华盛顿的企图被国会中的马里兰州代表团击败。29
+
+阻碍行政监督的另外两个障碍是SSA的财务独立性以及其领导者所享有的卓越行政能力的声誉 。事实上，SSA几乎所有的运作，甚至包括办公设施的建设和租赁，都是通过专项用于社会保障目的并记入信托基金（trust fund）的工资税来提供资金的 。直到1969年通过了统一预算（unified budget），将所有信托基金与传统预算项目合并之前，社会保障的金融交易都与政府其余部分的交易分开记录，这抑制了预算局（Bureau of the Budget）和卫生、教育及福利部部长的监督。此外，无论是在预算局还是HEW，行政主管们无一例外都对社会保障领导层被大肆赞扬的管理技巧充满敬畏 。“我对普通职员完全有信心，”查尔斯·肖特兰在向采访者解释他为什么作为社会保障署署长不干涉老年和遗属保险局时说道。特别是，他对鲍尔有信心。30
+
+孤立地来看，领导层的这些特征仅仅是理解该机构在政策制定中角色的一步。无论他们在任多长时间，他们对目标有多么确定，他们为工作带来了多少能力、承诺和专长，或者他们如何免于行政监督，项目的领导者都无法单凭自己制定政策 。政策最权威的表达是法律，而在宪法上，制定法律是国会的职能。为了创建社会保障的行政规划者所设想的那个项目，他们首先需要国会的合作。
+
+引用
+
+1 Initially (1935-46), the Social Security Board was responsible for administering old age insurance and the other programs authorized by the Social Security Act. Within the SSB, a separate bureau, called at first the Bureau of Federal Old Age Benefits and then the Bureau of Old Age Insurance, was in charge of old age insurance. Following the 1939 amendments to the Social Security Act, it was renamed the Bureau of Old Age and Survivors Insurance, in recognition of the changed character of the program. In 1946 the board was abolished and replaced by the Social Security Administration. The BOASI survived, and the SSA continued to include other bureaus, responsible for other programs. Following a reorganization of the Department of Health, Education, and Welfare in 1963, the SSA finally be came responsible for the insurance program alone, other programs having been moved elsewhere. Subunits multiplied within SSA to reflect the complexity of the maturing, expanding insurance program. As of 1972, SSA contained the following components: Office of the Commissioner, Office of the Actuary, Office of Administration, Office of Public Affairs, Office of Program Evaluation and Planning, Office of Research and Statistics, Bureau of Disability Insurance, Bureau of District Office Operations, Bureau of Data Processing, Bureau of Hearings and Appeals, Bureau of Health Insurance, Bureau of Retirement and Survivors Insurance, and Office of the General Counsel. In the text I use SSB, SSA, and BOASI. I have tried to use the designation that best fits the chronological and organizational context
+2 Interview with Charles I. Schottland, Oral History Collection, Columbia University (1965), pp. 42-44, 80-86, 123-25. (Hereafter Schottland, OHC.)
+3 Rufus E. Miles, Jr., The Department of Health, Education, and Welfare(Praeger, 1974 ), p. 106.
+4 Interview with William L. Mitchell, Oral History Collection, Columbia University (1965), p. 85. (Hereafter Mitchell, OHC. )
+5 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University(1967), p. 192.(Hereafter Altmeyer, OHC.)
+6 From tape-recorded comments by Robert M. Ball addressed to the author. May 6, 1978.(Hereafter Ball transcript.)
+7 Schottland, OHC, pp. 78-79. Schottland's phrasing has been slightly re. arranged
+8 Altmeyer, OHC, p. 128.
+9 Interview with Eveline M. Burns, Oral History Collection, Columbia University (1965), pp. 91-100.
+10 Robert J. Myers, Expansionism in Social Insurance (London: Institute of Economic Affairs, 1970), p. 29.
+11 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966 ), pp. 262--63.
+12 United States Government Organization Manual--1949, p. 389.
+13 External advisory committees periodically urged the SSA to stimulate out-side research and increase consultation with privately employed social scientists. See The Research Program of the Social Security Administration, Report of the 1967 SSA Advisory Committee on Research Development (Washington, D.C.: the Com-mittee, 1968), pp. 1-5.
+14 Interview with Wilbur J. Cohen by David G. McComb for the Lyndon Baines Johnson Library (1968); copy in John F. Kennedy Library, Waltham, Mass
+15 Myers, Expansionism in Social Insurance, pp. 19-20.
+16 Charles McKinley and Robert W. Frase, Launching Social Security, 1935.-1937 ( University of Wisconsin Press, 1970), pp. 407-24, 435n.
+17 Ibid., p. 424. 
+18 Ibid., p. 411.
+19 Altmeyer, OHC, p. 45.
+20 An anecdote from Wilbur J. Cohen shows the interest that Altmeyer and Winant took even in relatively low-ranking appointments. In a speech at the dedication of the Altmeyer building at SSA headquarters in 1973, Cohen recalled “opening the door between my office and Mr. Winant’s office when Mr. Winant was Chairman of the Board. My little office adjoined both his and Mr. Altmeyer’s. I opened the door —this was 1936 —and I found Mr. Winant and Mr. Altmeyer down on the floor on their hands and knees with little 3x5 cards spread on the rug. On the cards were the names of all the people they were considering for appointment as the first field office managers of this great program. They had these cards down on the floor and were sorting them out. Ladies and gentlemen, nobody was appointed to a field office manager’s job in 1936-37 but what Mr. Altmeyer and Mr. Winant had looked him over bit by bit. They knew every person.” Social Security Administration, Office of Management and Administration, “Arthur J. Altmeyer: Mr. Social Security,” OHR/DTCD Pub. No. 065-73 ( 7-75 )
+21 Interview with Arthur E. Hess, Oral History Collection, Columbia University(1966), p. 13. 
+22 Ibid., p. 14.
+23 Altmeyer, OHC, p. 199. 
+24 Ibid
+25 Myers, Expansionism in Social Insurance, pp. 15, 29.
+26 Altmeyer, OHC, p. 204. However, other evidence in the Oral History Project interviews indicates that the President did get interested in administrative matters if he sensed a potentially embarrassing situation. According to William Mitchell. who was director of the Bureau of Business Management in the early years of the Social Security Board, the President was concerned about newspaper reports that the board had a disproportionate number of Jewish employees. Within a week or two of her appointment to the board in 1937, Molly Dewson called Mitchell into her office and said that one of the things the President had instructed her to look into was the report that the staff was getting filled up with New York Jews. The President wanted to know if this was true, and, if it was, he wanted the situation cleaned up forthwith. Mitchell concluded, upon inquiry, that the staff was in fact heavily weighted "with New Yorkers and people of the Jewish faith," though he flatly disbelieved insinuations that this was the result of biased decisions by the board's personnel director, who was Jewish. Mitchell concluded that it was the result rather of the strict application of merit principles, combined with the superior performance of Jews on civil service tests. In response to the President's concern, the board began a "very confidential" and "very small" screening program, and the personnel director was moved to another job. Mitchell, OHC, pp. 17-19.
+27 The Civilian Conservation Corps and National Youth Administration were abolished during World War II.
+28 Mitchell, OHC, pp. 84--85.
+29 Schottland, OHC, pp. 103-07. 
+30 Schottland, OHC, pp. 42, 125.
+
+## c2
