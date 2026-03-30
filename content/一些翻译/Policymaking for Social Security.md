@@ -469,3 +469,192 @@ tee on Ways and Means, 89 Cong. 1 sess. (GPO, 1965), pt. 2, p. 804.
 27 Interview with Katherine Ellickson, Oral History Collection, Columbia University (1967), pp. 180-81.
 28 Social Security Amendments of 1961, Hearings, pp. 109-10, 115.
 29 Fai, OHC, p. 15.
+
+## 第三章 政治行政官员
+
+每隔几年，社会保障项目的许多奠基人、朋友和忠实追随者就会在密歇根州举行一次会议，该州成为了他们在美国中西部的前哨和避风港。威尔伯·科恩（Wilbur Cohen）在未担任联邦公职时常驻安娜堡（Ann Arbor），其他专家则在此期间被吸引至韦恩州立大学和密歇根大学任教。这种会议具有一种家庭聚会的性质，而最让这个“家庭”感到紧张的，莫过于共和党即将在华盛顿执政的前景。“我们要祈祷新一届政府能记住《圣经·罗马书》第十二章中的教诲：‘要持守善美（Hold fast to that which is good）。’”哥伦比亚大学的伊芙琳·M·伯恩斯（Eveline M. Burns）在1968年说道；她祈求尼克松政府不要撤换社会保障局局长（Commissioner of Social Security）罗伯特·M·鲍尔（Robert M. Ball）。拥有协和神学院（Union Theological Seminary）学位的美国劳联-产联（AFL-CIO）社会保障专家尼尔森·克鲁克香克（Nelson Cruikshank）也不甘示弱。他引用了《马太福音》中耶稣的话：“看哪，我差你们去，如同羊进入狼群。所以你们要灵巧像蛇，驯良像鸽子。” “那么，”克鲁克香克问道，“用现代的政治术语来说，这究竟意味着什么？他实际上是在说：‘小伙子们，共和党政府就要上台了。’”1
+
+共和党政府比共和党控制的国会更令人担忧，因为前者出现的频率更高：在1935年至1972年的38年中，共和党有12年掌控着总统职位；而且，在一个极大程度上依赖于行政领导的项目中，政治行政官员（political executives，即代表现任政党并负责界定和执行其政策的官员）的影响力似乎具有巨大的潜在意义。人们原本预料共和党政府的上台会中止该项目所期望的扩张进程。然而，这并没有发生。相反，将该项目带至目前高度发达状态的一些重大立法成果，正是在共和党籍总统任期内取得的。在1954年艾森豪威尔执政期间，项目覆盖的人口大幅扩大，福利也有所增加。将残疾人纳入保障范围的法案于1956年获得通过；医疗保险（Medicare）虽然未在艾森豪威尔任内通过，但在其政府执政末期获得了巨大的发展势头。在尼克松任内，大幅扩大该项目保护范围的福利增长法案获得了通过。综上，该项目的发展并没有因为共和党人担任总统而中断，甚至可以说并没有被严重推迟。
+
+### 政治监督的演进
+
+随着时间的推移，对项目业务官员（program executives）的政治监督层级日益增多。起初，作为社会保障委员会（Social Security Board）主席的阿瑟·奥特迈耶（Arthur Altmeyer）直接向总统汇报。随后在1939年，联邦安全局（Federal Security Agency, FSA）成立，社会保障委员会被置于该局局长的监督之下，而该局长由总统任命。七年后，该委员会被废除，其职能转移给了联邦安全局局长，局长随后又将其中大部分职能下放给了一位社会保障专员。这位新设立的专员显然是联邦安全局局长的下属，由后者任命并界定其职能。1953年，新成立的卫生、教育及福利部（Department of Health, Education, and Welfare, HEW）取代了联邦安全局，并由总统任命的部长担任负责人。在新组织架构下，社会保障局局长由总统在参议院的建议和同意下任命，并负责执行卫生、教育及福利部部长可能规定的职能。除了部长本人，其直属办公室中还有其他政治任命官员——一名副部长（under secretary）和若干名助理部长（assistant secretaries），且他们的数量逐年增加。特别是在该部成立后不久设立的负责立法事务的助理部长，成为了政治监督的一个潜在重要来源。他负责统筹该部门的立法计划。对于社会保障局而言，由于其财政独立，在很大程度上免受预算监督，且在推动新立法方面表现出极强的进取心，因此这种立法监督可能会产生相当大的约束力。
+
+无论采取何种组织形式，政治行政官员与项目业务官员之间精确的“界线”都是难以辨认的。我认为，政治行政官员主要关注的是推进其所在政党的政策并确保其连任，而项目业务官员则主要关注其机构所负责的特定政府职能的日常管理和演进。2 总统无疑是一名政治行政官员，但他也要分担管理其名义上监督的各个项目（包括社会保险）的责任。老年与遗属保险局（Bureau of Old Age and Survivors Insurance）局长无疑是一名项目业务官员，但在1953年，新上任的共和党政府罢免了原有的职业公务员并以一名共和党员取而代之时，这一职位也带上了政治色彩；而当威尔伯·科恩——他无疑曾是一名项目业务官员——在20世纪60年代步入政治职位（先后担任助理部长、副部长以及最终的卫生、教育及福利部部长）时，这些高级职位也染上了强烈的项目偏好色彩。
+
+因此，这条“界线”之所以模糊，至少有三个原因：首先，在高级职位中，政治义务和项目义务是混合在一起的；其次，由于不同的政府当局会决定特定职位是否具有“政治性”，并据此操纵公务员系统的分类和任命，这条假定界线的位置会发生改变；最后，特定符合业务官员分类的个人也会跨越界线进入政治领域，但这并没有显著改变他们对该项目的看法。究竟哪种角色占据主导地位是一个悬而未决的问题，需要通过观察特定的职位或任职者来厘清。在社会保障局局长这一职位上，这种角色模糊性达到了极点。奥特迈耶在担任局长时拥有公务员身份，但人们普遍认为他的工作具有高度政治性质。在1953年他离职的方式和时机问题上，他与艾森豪威尔政府的官员之间产生了紧张关系——礼仪成为了争议焦点，情绪也被激化——但除了美国劳工联合会（AFL）之外，没有人认为共和党政府对该职位进行党派政治任命在原则上是错误的。3 然而，很快，局长一职就成了一个项目业务官员在公务员体系中积累资历后很可能被晋升到的职位。威廉·米切尔（William Mitchell，1959-1962年）和罗伯特·鲍尔（1962-1973年）都是通过这种途径获得该职位的，而且两人都曾为两党的政府服务过。
+
+人们可以认为社会保障局局长一职要么主要是政治性的，要么主要是业务性的；同时也可以认为，对项目业务官员的政治监督要么始于该局长职位，要么存在于局长层级之上的卫生、教育及福利部部长办公室中。理论上，位于社会保障局之上及顶层的政治职位（如果将局长一职包括在内）对项目业务官员构成了一种约束。理论上，这些职位由通才（generalists）担任，他们为该项目带来了不同于项目专家（specialists）的价值观和视角。然而，我在此论证，项目专家主导了这种关系，并试图解释其中的原因；我将主要集中探讨共和党的政治行政官员，其假设前提是：政治行政官员实施通才监督的能力，在共和党执政期间受到了最清晰的检验。相比之下，民主党政府通常支持项目业务官员追求扩张性目标的做法。
+
+### 卫生、教育及福利部的政治行政官员
+
+除了民主党人中的威尔伯·科恩和共和党人中的马里恩·福尔瑟姆（Marion Folsom）这两个显眼的例外，两党的大多数政治行政官员在进入卫生、教育及福利部任职时，对社会保障事务而言都是新手，而且他们的任期如此短暂，以至于很难获得并保持必要的专业知识。在1953年至1973年间，卫生、教育及福利部共有九任部长、八任副部长和七任负责立法事务的助理部长。从一位资深项目业务官员的视角来看，与这些政治行政官员共事，就等同于举行一系列的简报会，目的是为他们在国会山那些知识渊博的委员会面前出席作证做准备。 首席精算师罗伯特·迈尔斯（Robert Myers）在1967年接受采访时表示：
+
+>“我们的部长通常都不是社会保障方面的学者，因此他们需要大量的简报。……有些部长意识到他们不可能在一天内学会所有东西，而且大多数问题将由威尔伯·科恩、鲍勃·鲍尔或我自己来处理；他们只需要回答那些宽泛的、宏观的问题。其他部长则会变得有些恐慌，他们认为自己应该掌握一切细节，因此理所当然会涉及更多的简报会，但结果都是一样的——他们无论如何都无法回答委员会向他们提出的问题，因为那是一个非常了解情况的委员会。……一位初来乍到的部长根本比不上这些家伙。”4
+
+同样，借用迈尔斯的话来说，部长也无法与社会保障局（SSA）里的那些同僚相抗衡。无论是民主党还是共和党，新上任的政治行政官员都必须向社会保障局里担任导师的专家们学习关于社会保障的专业课程，并不可避免地会受到他们的影响。即使这些专家克制自己不提出直接的政策处方和建议，政治行政官员也从项目业务官员那里习得了一套概念语言——即用于在政治和政策制定中解释社会保障的假设和词汇体系。政治行政官员对社会保障部门的行政领导者留下了极其深刻的印象，这不仅仅是因为他们的专业知识，还因为区分该组织的其他品质，包括对工作的奉献精神、高昂的士气和严明的内部纪律。“他们非常出色，而且他们甚至以为自己比实际还要出色，”一位在20世纪70年代曾在卫生、教育及福利部工作的共和党人如是评论道。另一位曾在70年代初于部长办公室任职的成员，满怀钦佩地回忆起鲍尔领导下的社会保障局在回应部长办公室常规下发的系列政策声明草案（如总统咨文等）时的应对手段是多么“巧妙”。卫生、教育及福利部的大多数下级单位会回复说他们没有足够的时间进行审阅，然后提供一些细枝末节的修改意见。少数单位会提出实质性的反对意见，但又拿不出替代方案。唯独社会保障局会送回一份经过全面修订的版本，使用了全新的表述，且其文风完全契合受众的需求。正如该消息人士所指出的，这“将你自行炮制出有别于他们希望你对社会保障所作表述的几率降到了最低。”5
+
+简而言之，社会保障局的领导层能力出众、手法圆滑，且从不把任何事情留给运气去决定。政治行政官员只是匆匆过客，对社会保障知之甚少，且需要处理无数其他事务——这些事务大多属于卫生、教育及福利部中那些看起来远不如社会保障局管理得当的部门——因此，他们无法避免对社会保障局的严重依赖。卫生、教育及福利部中的共和党被任命者，除了依赖项目业务官员之外，他们自身往往也足够自由派，能够富有同理心地接纳这些专家的建议。总体而言，只要卫生、教育及福利部的共和党高管确实是共和党人，他们就往往比国会中的共和党人自由派得多。而且，他们常常根本就是民主党人。一个引人注目的事实是：从来没有一位活跃的共和党人担任过社会保障局局长。艾森豪威尔政府的首位被任命者约翰·W·特拉姆堡（John W. Tramburg），据其副手米切尔所言，是“一种似是而非的共和党人”——“他简直就像我们中的许多人一样，是个非政治化的人物。”6 继任的查尔斯·肖特兰（Charles Schottland）是一位民主党人，曾服务于加利福尼亚州州长厄尔·沃伦（Earl Warren）领导的自由派共和党政府。1959年接替肖特兰的米切尔是一名职业公务员；退休后，他在接受采访时坦言，尽管他从未登记过党籍，但他一直是一名民主党人。7 1962年，民主党政府用罗伯特·鲍尔取代了米切尔；而1969年随理查德·尼克松上台的共和党政府直到1973年才替换鲍尔，随后任命了一位曾担任卫生、教育及福利部主计长（comptroller）的职业公务员。退休后，鲍尔甚至领导了民主党全国委员会的一个工作组，并在1976年为该党的纲领委员会和候选人吉米·卡特提供政策建议。
+
+在社会保障局局长之上的层级，卫生、教育及福利部中的共和党被任命者是相对更可靠的共和党人，但按照该党的标准，他们仍然相当倾向于自由派。奥维塔·卡尔普·霍比（Oveta Culp Hobby）作为一名转而支持艾森豪威尔的得克萨斯州民主党人，其政治立场很难被归类；但她的共和党继任者——马里恩·B·福尔瑟姆（1955-1958年）和阿瑟·S·弗莱明（Arthur S. Flemming，1958-1961年）——绝对属于该党的自由派阵营。担任副部长的纳尔逊·A·洛克菲勒（Nelson A. Rockefeller，1953-1954年）以及担任立法事务助理部长的罗斯威尔·B·珀金斯（Roswell B. Perkins，1954-1957年）和埃利奥特·L·理查森（Elliot L. Richardson，1957-1959年）也是如此。8 他们在根本上对社会保障计划抱有同情态度；而福尔瑟姆更是该计划创始团队的一员，曾连续在多个咨询委员会任职，并代表了商界对社会保障的支持。1969年至1972年的尼克松政府延续了任命自由派人士的惯例，先后由罗伯特·H·芬奇（Robert H. Finch，1969-1970年）和理查森（1970-1973年）担任部长，约翰·G·维尼曼（John G. Veneman，1969-1973年）担任副部长。共和党总统们的行事方式，就仿佛该部门“归属于”党内的自由派分支；这也许是因为只有自由派党员去寻求这些任命，或者是因为保守派未能积极争取，又或者是因为总统不希望通过空降完全缺乏同情心的政治上司来激怒卫生、教育及福利部的职业文官。
+
+考虑到共和党对该部门任命官员的性质，以及所有政治任命者对低于其级别的在职专家的信息依赖，我们有理由认为：共和党政治行政官员在很大程度上受到了社会保障局内那些名义上的下属的影响；而且，共和党政府之所以未能中止或推迟项目业务官员所规划的发展进程，是因为他们被说服去支持这些计划。然而，这种解释并不能完全说明那些亟待解释的历史事件。事实上，卫生、教育及福利部的共和党政治行政官员并不支持1956年增加残疾保障的决定，也不支持20世纪50年代末期发展起来的关于扩大社会保险以涵盖老年人住院费用的提议，更不支持1972年将现金福利增加20%的做法。他们比大多数其他共和党人更具自由派色彩，但这并不意味着他们赞同由项目业务官员所孵化出的项目扩张的类型或规模。他们的政策立场通常处于两极之间。与保守派共和党人相比，卫生、教育及福利部的共和党被任命者更愿意承认不利社会状况的存在以及政府采取干预行动的必要性；但即便如此，他们依然不愿意支持项目业务官员所偏好的全面、强制性措施。他们始终在寻求能够保留一定个人选择空间、保障私人组织行动领域或引入州政府参与的折中解决方案。他们本会在残疾或医疗保健问题上采取一些干预行动，但他们会做得更少，推进的步伐也会更慢，以便留出充足时间来评估这些相对温和措施的有效性。在1972年扩大社会保障的问题上，他们本愿意投入比保守派共和党人更多的资金，但绝不会像最终实际支出的那样多。在践行这条中间道路的过程中，他们很可能受到了项目业务官员的影响，正如他们也受到了来自党内更保守成员从另一侧施加的政治压力一样；但必须指出，他们绝非对项目业务官员俯首帖耳的俘虏。他们在与社会保障体系相关的议题上，拥有（或试图去拥有）一种独特的共和党立场。尽管如此，即使拥有行政职权上的优势，共和党政治行政官员也无法确保他们自己的提案在公共政策议程中获得优先权。
+
+### 党派控制的障碍
+
+卫生、教育及福利部的政治行政官员的权力不可能大过他们所代表的政党，而政党本身却是控制国家机器的一项低效工具。
+
+在权力宪制分立的政府体制中，行政权与立法权的分立选举意味着政党控制权可能出现分裂；而当共和党入主白宫时，这种情况通常确实发生了 。民主党控制的国会坐镇国会山，随时准备并往往热切地接收社会保障项目业务官员关于下一步行动的提案 。此外，无论该党对机构的控制范围如何 ，其效能都会因内部在社会福利政策上的分歧而大打折扣 。
+
+总体而言，国会中的共和党人比行政分支中的共和党人更为保守，但在国会和行政分支内部，党内都存在意识形态派系 。卫生、教育及福利部（HEW）中的共和党人通常属于自由派派系，他们在内部博弈中无法指望获得总统的稳定支持；即便总统支持他们，他们也无法确信国会中的共和党人会转而支持总统 。艾森豪威尔政府的共和党政治行政官员（包括总统本人）甚至无法说服党内的国会领袖去支持一份替代“福兰德法案”（Forand bill，项目业务官员所青睐的老年人住院保险措施，见第16章讨论）的方案 。正如部长办公室的一位成员后来分析的那样，共和党在该问题上分裂成了四个阵营 ：
+
+- 大量共和党人认为不应对老年医疗保健采取任何行动 。
+    
+- 一些人认为应该采取行动，但希望不要立即执行 。
+    
+- 一些人认为，提出一个能作为政党政治资本的提案是良好的策略 。
+    
+- 还有一些人认为必须采取行动，且政党应制定一个民主党也能接受的方案，作为解决这一难题的合理对策 。
+    
+
+这位参与分析的人士总结道，最后一组人在整个党内的力量对比中处于绝对劣势，遭到了主要国会议员的反对 。同样持反对态度的还有预算局（Bureau of the Budget）和财政部的政治行政官员 。1960年春，HEW部长弗莱明在白宫向共和党国会领袖会议简要介绍了一项计划 。尽管该计划是自愿性质的，要求参与者承担部分成本，并规定了州政府和私人保险公司的重要角色，但国会领袖们仍予以否决 。一周后，总统公开支持弗莱明，但众议院中没有一名共和党人愿意提出包含该计划的法案 。
+
+而在1956年，如果行政当局能获得共和党人的稳固支持，原本可以在反对残疾保障覆盖范围的斗争中获胜 。当时该修正案的投票结果为49比47，有六名共和党人投了赞成票，其中包括一名相当保守的议员——内华达州的乔治·马龙（George Malone），他显然是想借此与行政当局清算旧账，或者是被多数党领袖林登·约翰逊（Lyndon Johnson）以特殊恩惠承诺所收买 。尼克松政府在就职后不久也领教了同样的教训 。1969年，总统支持根据生活成本上涨比例将社会保障福利增加10% ；然而，筹款委员会（Ways and Means Committee）中的共和党人无视其党魁，转而与委员会中的民主党成员一道支持增加15% 。
+
+政府中分裂的政党控制权与共和党内部的派系主义相结合，为项目业务官员提供了政治斡旋的肥沃土壤 。他们很少从HEW的共和党行政官员那里获得明确指导，因为这些名义上的政党代表也无法说明政党究竟意欲何为 。相比之下，项目业务官员对自己的目标了然于胸，他们可以根据战略地位和潜在的接纳程度，有选择地挑选施加影响的目标 。他们向共和党政治行政官员提供源源不断的提案，后者则乐于接纳那些可能与政党意识形态协调一致并服务于政党利益的部分 。当共和党人表现出抵制且官方渠道受阻时，有组织的劳工团体或离任的项目业务官员（如1955年后的威尔伯·科恩）便会接手推动工作 。由于政治行政官员无法为其所属政党界定政策，他们同样无法阻止项目业务官员去孵化那些与共和党政府意图完全背道而驰的项目变革 。
+
+人们或许预期政治行政官员在领导其行政下属方面会比领导其政党更为成功，因为他们在行政分支内的权力是正式且层级化的 。国会议员独立于总统选举产生，属于宪制独立的政府分支，在任何意义上都不是总统的正式下属，因此他们往往不服从行政当局的领导也就不足为奇了 。相比之下，在行政分支内部，正式结构是有利于政治行政官员的，并辅以文官的非党派伦理——这种伦理要求他们公正地为不同政党的政治行政官员服务 。文官深知自己应服务并服从现任政府，尽管界定服从的适当范围是一项艰巨且微妙的工作，有时甚至涉及法律、伦理和道德的深刻问题，但普遍的忠诚预期仍赋予了政府某种优势 。
+
+然而，HEW的正式结构并不像这种简单的层级化意象所暗示的那样有利于政治行政官员的控制 。社会保障局局长仅向HEW部长一人汇报 ；各助理部长及部长参谋部门的其他成员对社会保障事务并无管辖权 。如果社会保障局局长与（例如）负责立法事务的助理部长意见相左，他没有义务向后者妥协，且完全有权直接向部长申诉 。这一点至关重要，因为比起事务繁忙的部长本人，部长的幕僚层往往表现出更强烈的监督冲动 。根据罗伯特·鲍尔的说法：“一旦部长就职，其主要愿望就是让事务运行顺畅，他没有动力去修理那些并不需要修理的东西” 。在运行的头几十年里，社会保障项目的表现异常卓越。鲍尔再次指出：“部长们一致且迅速地认为，继续维持强有力的授权，且不鼓励其幕僚助理干扰行政运作，才符合他们自身的利益” 。
+
+此外，社会保障行政官员对自身角色的认知也不利于现任党派官员的控制 。虽然他们能迅速回应政治行政官员的咨询和建议请求，但他们自身的项目规划并不局限于这些回应 。他们独立地推进项目规划，并不将计划局限于他们所知或能稳妥推测现任政府会批准的范围内 。尽管已知艾森豪威尔政府反对政府医疗保险计划，但在1956年后，老年与遗属保险局（BOASI）的覆盖与残疾规划处仍设立了一个全职单位专门负责规划医疗保险 。
+
+（但该单位并未使用此名称。医疗规划负责人后来告诉采访者：“在立法通过之前，‘医疗保险’在组织内部并不是任何事物的正式头衔。”） 这里的“中立”并不意味着消极被动 ，也不意味着等待现任政治行政官员的指令 。政治中立意味着在民主党和共和党政府下采取一致的行为模式，而这种行为模式是动态且扩张性的 。
+
+中立也不意味着咨询意见只能提供给现任的政治行政官员 。罗伯特·鲍尔向采访者解释道，社会保障局始终坚持为任何试图制定立法的人提供技术援助 。鲍尔补充说：“这是让政府运作的唯一途径” 。1956年，当国会中的民主党人顶着行政当局的反对通过残疾保险修正案时，鲍尔在HEW部长马里恩·福尔瑟姆的批准下，与民主党参议员罗伯特·克尔（Robert Kerr）合作，“处理制定最佳法案的技术性事务，随后（克尔）在参议院辩论中促成了该法案的采纳” 。部门外的咨询对象也不仅限于如克尔参议员那样直接参与立法过程的国会议员 。咨询意见也可能提供给完全不担任公职、但隶属于从事游说活动的私人利益集团的人员，例如社会保障局工作人员曾长期协助劳联-产联（AFL-CIO）制定“福兰德法案” 。或者，社会保障局工作人员也可能与担任国会议员或候选人助手的党派活动家合作 。因此，在20世纪60年代初，它向罗斯威尔·珀金斯提供了协助；珀金斯曾是50年代共和党政府的助理部长，当时已离职，正试图为肯尼迪政府的医疗保险法案准备一份自由派共和党的替代方案 。
+
+中立虽然规定了要公正地为政治行政官员服务，但并未要求“排他性地”为他们服务 。为每一位求助者提供帮助，似乎是一项足够公平的原则 。这确实是专家官僚机构构想“公正性”的一种方式 。职业文官体系中的项目行政官员可以对政治人物说：“告诉我们你们想做什么，我们将为您提供有效、明智且务实地完成任务所需的信息和建议” 。
+
+然而，这种做法并未让社会保障局在关于社会福利公共政策的持续斗争中保持中立 。项目行政官员关于中立行为的概念，对于那些希望维持现状、无所作为的群体毫无帮助 。社会保障局本身具有行动主义（activist）色彩，在项目规划与开发上投入巨大，它收到的援助请求大多来自其他行动主义者——即那些希望推动政府行动的政党、派系或利益集团 。对于那些想要有所作为、但未必想采取社会保障局规划者所偏好方式的政治人物来说，其建议和技术援助的作用十分有限 。20世纪50年代HEW的共和党行政官员就面临这种处境：他们正在寻找联邦政府协助老年人支付医疗费用的途径，但又不想走到社会保障体系下强制性医疗保险那一步 。
+
+社会保障局的技术援助对于那些目标与该局行政官员高度一致的政治人物——如国会中的自由派民主党人、劳联-产联的幕僚——价值最大，因为他们都希望通过扩大强制性社会保险项目来满足感知到的社会需求 。为了服务于这些援助消费者，社会保障局的工作人员可以迅速调整其研究和规划成果 。数据和草案随手可得。由于有预先准备，援助可以提供得相对迅速且详尽，并带有源于政治承诺的活力、独创性和机敏 。
+
+这些技术援助的消费者对此非常满意 。关于项目行政官员与有组织劳工及其他自由派“亲医疗保险”（pro-medicare）联盟成员的协作，必须追问这是否还是单纯的“技术援助” 。作为他人技术助手与作为追求自身目标的政治行为体，社会保障局在这两者之间的界限已变得极难划清 。例如，当覆盖与残疾规划处的副处长、社会保障局内HEW总法律顾问办公室的成员以及社会保障局聘用的秘书，于1959年在国会山的一个办公室里起草“麦克纳马拉法案”（McNamara bill，即1959-1960年医疗保险支持者团结一致支持的法案）时，这是否属于技术援助？ 当同一位副处长在1960年的一个深夜，将一份法案草案送往国会山的一家酒店房间，而威尔伯·科恩和劳工组织成员当时正在那里举行策略与起草会议时，这是否也属于技术援助？
+
+这些获得所谓“技术援助”的政治消费者确实拥有自己的想法，构成了某种指引 。关于医疗服务覆盖的广度、覆盖的人口类别、免赔额的大小、政府与私人医疗服务提供者之间的关系等问题，始终需要做出选择 。在这些问题上，原本同盟的各方也可能存在显著的意见分歧 。社会保障局的技术官僚并不是在提供一个在巴尔的摩预先封装好、再交给仅作为进取型官僚机构“前台”的政治人物的固定方案 。然而，同样不能说社会保障局的工作人员在这些接触中是中立的第三方 。技术助手的角色与政治盟友的角色已合二为一，无从分辨 。
+
+政治活动与技术援助之间界限的微妙与精细，使得政治任命官员很难对项目行政官员的行为作出评判。此外，级别最高的项目行政官员对政治领导人而言最为显眼，也最容易受到卷入政治的猜疑，因此他们的行事极为敏感和谨慎。例如，鲍尔（Ball）就没有参与社会保障局（SSA）与劳联-产联（AFL-CIO）官员就福兰德法案（Forand bill）举行的会议。当采访者问及他的角色时，他提到了自己作为公务员所受到的制约。他曾向政治行政官员明确表示，他支持类似福兰德法案的提案，但他无法公开谈论此事，因为他在一个反对该法案的政府中担任公务员。“因此，许多正在进行的旨在推动立法的活动，我根本没有参与其中，”他说。“我之所以了解这些事情，是因为我与许多致力于此事的人保持着联系，而不是因为我深度卷入了政治层面。”鲍尔让采访者去询问社会保障局中一位级别较低的公务员，正是此人负责处理与劳联-产联的讨论。16
+
+政治行政官员对其下属业务官员的影响力似乎随着距离的拉近而增强。保持政治上司的信任以及与他们维持密切工作关系的需要，可能对最高层的项目行政官员构成了制约，但对下层官员的影响则较小。在下层，公务员的中立规范更有可能被违反。另一方面，也应该指出，那些距离最近的政治行政官员——即任职于卫生、教育及福利部（HEW）的官员——通常被认为在私下里对项目行政官员的自身目标抱有同情。例如，项目行政官员满怀欣慰地注意到，马里恩·福尔瑟姆（Marion Folsom）在离职两年后，公开认可了解决医疗保健问题的保险路径。
+
+### 共和党的回应
+
+卫生、教育及福利部中的共和党任命的官员并非没有察觉到项目行政官员、国会民主党人以及有组织劳工之间的协作。17 在某种程度上，他们默许了这种协作。1956年，福尔瑟姆部长批准鲍尔与克尔（Kerr）参议员就残疾立法展开合作；而在1957年，肖特兰（Schottland）局长签署了一封致劳联-产联的信函，使该组织与社会保障局工作人员之间的交流合法化——这封信是社会保障局工作人员在开始对他们与劳工组织的积极协作的适当性感到担忧时安排的。一些共和党任命官员之所以给予此类批准，可能是出于对项目行政官员目标的潜在同情（肖特兰无疑同情这些目标），或者，在与国会议员协作的情况中，他们可能仅仅是向宪制与政治现实妥协。行政部门对社会保障局内职业项目行政官员的层级控制形式，仅仅流于形式。国会独立于行政首脑设立和选举，被公认有权独立获取公务员所掌握的专家建议和信息储备。而且，一旦这一权利得到承认，就不可能再控制项目行政官员与国会沟通的性质。政治行政官员永远无法确信（其中一位后来告诉本书作者），当鲍尔向国会提供“技术援助”时，他到底是在推销自己的目标，还是以中立的方式回应国会的求助，但在美国宪制体系下，他有权利也有义务向国会提供技术援助，这一点是不容置疑的。18
+
+这并不意味着所有共和党高官都会同等程度地批准职业项目行政官员与其利益集团盟友之间的沟通，因为这完全是另一回事。很难用宪法义务的伪装，甚至是服务公众的实用主义伪装，将对劳联-产联的援助与对国会议员的援助一并掩盖起来。虽然人们可以合理地争辩说，如果罗伯特·鲍尔能够自由地与克尔参议员讨论即将出台的立法，政府的运作会更加顺畅；但要争辩说政府的运作有赖于鲍尔的下属能够自由地为劳联-产联起草法案，就困难得多了。
+
+但是在这里，在技术援助与政治同盟相互交融的灰色地带，官方关系与私人关系以一种复杂的方式交织在一起。关于社会保障下一步行动的沟通网络，是通过私人熟识的纽带维系的。如果共和党的政治行政官员更加努力地尝试，他们或许能增加公务员与其利益集团盟友进行官方沟通的难度，但在一个自由社会中，没有办法阻止人们与他们的朋友交谈。
+
+那些决定社会保障项目下一步走向的人，彼此之间进行着持续不断的对话。这种对话在不同的场合发生。它在社会保障局内部进行。它在定期的咨询委员会会议上以及在密歇根的会议上进行。只要这个内部人“家庭”聚集在一起，无论是官方还是非官方场合，无论何时何地，对话都在进行。共和党政府的上台并没有终止这场对话，而是改变了它的模式和地点。社会保障局外部以及社会保障局与外部人士之间的交流增多了。当官方支持减弱时，维系该项目党派支持者之间沟通网络的非官方和社会支持变得更加重要。当科恩（Cohen）——这位曾在社会保障局内部担任提示者（cue-giver）和对话领袖的人——转入体制外时，这极大地改变了对话模式，但丝毫没有改变实际的参与者。作为提示者和游说者，科恩在体制外可以发挥与在体制内同样出色的作用——在共和党执政时期甚至更好。罗斯威尔·珀金斯（Roswell Perkins）怀疑，他离职正是为了摆脱公务员身份的束缚。他可以通过电话和信件，继续从现任的社会保障局官员那里获取信息（如成本估算等）。共和党行政官员无法阻止这种沟通，正如他们无法阻止社会保障局公务员和支持医疗保险（pro-medicare）联盟的其他成员在1960年参议院表决失利后举行的“同病相怜派对”（commiseration party）一样。（这种同病相怜中也夹杂着庆祝，因为该联盟正令人兴奋地接近其目标。）一位社会保障局的高级成员担任了东道主，联盟的主要成员都出席了，唯独缺少科恩，因为他当时正与克尔参议员共进晚餐，共同拟定替代方案，即“克尔-米尔斯法案”（Kerr-Mills bill）。19
+
+如果拟议中的社会保障倡议完全绕过他们，卫生、教育及福利部的共和党人可能会被彻底激怒，但社会保障局的提案会作为常规程序提交给他们。
+
+鲍尔在准备艾森豪威尔政府的立法计划时，与共和党行政官员进行了密切合作。
+
+当时担任负责立法事务助理部长的理查森（Richardson），在接受采访时对他与鲍尔的关系给予了高度评价：
+
+我与鲍勃·鲍尔有很多交道。每当他提出他认为必要的对《社会保障法》的修正案时，这些提案都会经过社会保障局局长，然后再经肖特兰呈交给我；
+我们总会在我的办公室开会，在这些提案得到更充分的阐述以及进行任何起草工作之前，讨论其总体构架，随后我们可能会举行后续会议，讨论草案中呈现的更具体的问题等等。我发现他是一个极其聪明、完全敬业且能干的人，判断力均衡，极其公平，待人诚实。在我看来，他是一位优秀的行政管理者，对他所管理的系统有着非常敏锐的认知。20
+
+即使在1970-1971年理查森担任卫生、教育及福利部部长，而鲍尔担任社会保障局局长期间再次合作后，理查森也没有改变这一评价。理查森就任部长时，决心保留鲍尔的局长职位，尽管尼克松的白宫有意摆脱他。“他是我共事过的最伟大的官僚，”理查森在1977年说。对于一个当时已经在公共服务领域度过几十年、并在联邦政府五个行政部门担任或接近首长职位的人来说，这绝非微不足道的赞扬。
+
+理查森补充说，他“喜欢那些为了自己的项目而足智多谋进行内部斗争的人”，而鲍尔无疑是其中之一。他精通所有的策略，”理查森评论道，而且“他在国会山有极广的人脉”，但是“在任何你质问他的事情上，他总是绝对诚实。如果你足够聪明，能提出正确的问题，他会给你诚实的答案。”那么，理查森是否确信，作为卫生、教育及福利部部长，他完全掌握了鲍尔的行动？“在一定限度内，”他回答说，并补充说他无法确定这些限度到底是什么。鉴于他们之间相互信任的关系，如果他有更多时间与鲍尔相处，他本可以对鲍尔的行动有更深的理解；但是，对部门首长的要求如此繁多，他们很少有时间进行这种深入理解的努力。21
+
+时间的缺乏始终是对政治行政官员的一项关键制约——甚至对像理查森这样非同寻常地愿意掌握政策实质、致力于发展政党立场并寻求项目行政官员合作的人来说也是如此。作为艾森豪威尔政府的助理部长，理查森曾着手准备一项采用社会保险方法但印有共和党原则烙印的医疗健康法案。他给职业专家提供了指导原则，要求将福利作为一项权利而非基于需求提供，引入个人选择的保障，并在实践中提供最大程度的商业保险载体参与。专家们基于行政管理的理由提出了反对意见，而理查森在将这项努力带入令人满意的结局之前就离开了该部门。他无法断定如何评估他们反对意见的价值：
+
+我经常在想，如果我坚持到底，把它争取下来并解决一些问题，沿着这些思路制定的计划是否可能在1960年由政府提出。我一直没有机会回过头来在这件事上花足够的时间，以自己判断部门人员提出的那些行政困难是否真的无法克服。我认为说他们提出困难是因为他们在心理上倾向于一个完全由政府主导的项目，这是不公平的。我觉得可以说的是，当我中断参与这个问题时，我并不确信这些困难真的无法克服。22
+
+### 总统
+
+总统承担着如此众多的其他职责（处理外交关系、统帅武装部队、领导政党、发布国内立法计划、作为国家的象征性领导者），且事务极其繁忙，以至于他们没有太多时间去监督所有名义上由其领导的行政机构。 某些部门比其他部门（如国务院、国防部、财政部）获得总统更多的关注，因为这些部门协助总统履行尤为紧迫的职责； 其他部门，包括大多数国内事务部门，往往只有在出事时才会引起总统的注意——比如威胁到总统声誉的行政失误，或者需要他干预才能调解的争端。 从历史上看，社会保障并没有引发过这类麻烦。 “你很少会听到投诉，”一位前社会保障局局长在回忆该项目的行政运作时说道。 “结果就是，社会保障局成了部门里的‘宠儿’，当然也是执政党的‘宠儿’，因为你每个月要发出1900万张支票。这总是非常讨喜的。”23
+
+如果社会保障不太可能为总统带来麻烦，那么它是否作为一种潜在的政治收益来源而存在于总统的考量中呢？ 它提供了一种向庞大且普遍具有吸引力的选民群体——老年人——提供福利的途径。 随着受益人数随时间增加，两党的总统都开始发现这一点的巨大吸引力，并赞助了一些自由化改革；但他们也必须权衡扩大福利的政治吸引力与提高税收的政治成本，并考量项目扩张的宏观经济效应。 在做出这些选择时，某些民主党人比其他人更致力于自由化（例如，林登·约翰逊与约翰·肯尼迪相比）；当然，民主党人总体上比共和党人更为积极。 事实上，人们原本预期共和党人会利用总统权力的特殊资源来遏制不合意的发展，例如1956年残疾保险的通过和1972年福利增加20%的举措。
+
+作为首席行政官，总统拥有独特的资产。 他拥有宪法赋予的否决国会法案的权力。 尽管卫生、教育及福利部（HEW）的共和党政治行政官员可能无法阻止威尔伯·科恩（Wilbur Cohen）离职去推动残疾法案，但总统可以拒绝签署最终结果。 此外，总统还有一支由职业文官组成的庞大幕僚团队提供协助——他们是通才，但知识渊博且经验丰富，并深受制度忠诚规范的熏陶。 成立于1921年的预算局（Bureau of the Budget）比联邦安全局（FSA）或HEW历史更悠久，且不受特定项目承诺的束缚。 预算局的存在是为了服务总统，无论其为何人，并代表总统执行中央幕僚职能。 在这些职能中包括立法许可（legislative clearance），即审查各部门的提案，以确保它们“符合总统的计划”。 至少，这构成了对项目行政官员行动的额外制衡，且可能正因为其超脱地位而比部门内部的检查更为有效。
+
+实际上，无论是总统的否决权还是总统的幕僚，对社会保障的发展都没有产生太大影响。 从未有共和党总统否决过扩大该项目的措施。 民主党控制的国会（这也是共和党总统几乎总是面对的国会）乐于向共和党总统递交耗资巨大的社会保障法案，使后者要么违背政党原则签署，要么违背政党利益否决。 共和党总统最终签署了这些法案。或许否决权的暗示有时能起到抑制作用。 例如在1958年，民主党参议员罗伯特·克尔（Robert Kerr）通过引用否决的前景，在议场上辩护财政委员会的福利提案，以抵御自由派民主党人的修正案。 “我不打算愚弄俄克拉荷马州的老年人，”克尔说。 “他们不会从否决中得到任何好处。他们不能吃掉否决。他们不能穿上否决。”24 但没有多少证据表明否决权的威胁始终是一种制约力量，或者共和党总统曾成功利用这一筹码讨价还价以减少不合意措施的影响。 相反，民主党国会与共和党总统之间对政治功劳的竞争，很可能导致该项目在政府分裂时期的增长速度，超过了行政与立法分支由同一政党（即便是民主党）控制时的速度。 在共和党执政期间，民主党国会的出价总是高于总统提出的福利增长幅度，要么迫使总统冒着巨大的政治风险行使否决权，要么通过将增长案附加在诸如最后一刻增加债务上限法案等“不可否决”的法案上，剥夺他行使否决权的机会。
+
+历史上唯一一次针对社会保障动用否决权的总统，其目的是为了保护该项目。 民主党人哈里·杜鲁门三次否决了共和党控制的第80届国会通过的法案，这些法案通过缩小《社会保障法》中“雇员”的定义并排除某些报刊摊贩来缩小覆盖范围。 （这些被否决的法案部分源于一种观点，即行政部门对“雇员”一词的解释超出了国会的原意；民主党人最终与共和党人联手推翻了杜鲁门三次否决中的两次。）
+
+否决权总是难以使用的，因为它是立法过程的最后一步。 从本质上讲，它挫败了一个已经形成并通过公开投票行为正式化的立法多数。 总统寻求更有效地行使权力，方法是提前介入并在立法的早期阶段表明政府立场。立法许可程序旨在确保向国会传达的信息准确表述了总统的观点。 然而，作为对社会保障的一种政治监督技术，预算局的立法许可在部门既有工作的基础上几乎没能增加什么内容。 预算局的审查严重依赖正式提交的材料，并聚焦于支出总额和跨机构协调。 该局的许可过程在很大程度上演变成了与其他行政机构（劳工部、财政部等）的协调，该局通常会将法案提交给这些机构征求意见。 这种监督并未深入到社会保障局（SSA）自身的立法规划中，也未能广泛介入与国会委员会的谈判。 国会委员会并不邀请总统幕僚代表参加通常决定立法内容的执行会议。
+
+预算局与社会保障立法之间的疏离感可以用1960年的一起事件来说明。 经过一场关于如何为老年人提供医疗服务的党派竞选前辩论，国会在夏末完成了综合修正案的行动。 HEW向艾森豪威尔总统提交了一份签署该法案时发表的声明草案，但预算局幕僚认为他不应使用该草案。 作为反对理由，他们援引了HEW拟议声明中的说法，即退休审查（retirement test）的变化是遵循该部门所开发路径的“重大改进”。 预算局幕僚写道：“事实是，行政当局反对放宽退休审查，且根据白宫指示，预算局并未给该部门关于此主题的任何建议提供许可。” 尽管如此，该部门仍向筹款委员会提交了一份报告，“且未获得预算局的许可或告知”。25
+
+这种SSA与预算局之间的紧张关系并不局限于共和党总统任期。在杜鲁门总统任内，该局幕僚同样对SSA未能就1950年《社会保障法》修正案保持沟通感到恼火，尽管当时毫无疑问总统总体上支持SSA的所作所为。26 最早的医疗保险倡议，即1943年演变为“瓦格纳-默里-丁格尔法案”（Wagner-Murray-Dingell bill）的提案，在未向总统幕僚正式申请许可的情况下就提交到了国会山。 阿瑟·奥特迈耶告诉采访者：
+
+“我们必须承担起向准备承担责任的国会议员提供技术援助的角色。 我作为主席与委员会的其他成员讨论了这件事，他们都同意由研究与统计处提供数据并起草法案。 我就该主题和项目作证支持，但我记得我从未具体背书该法案本身及其所有细节。 ……我认为我的公开演说背书了瓦格纳-默里-丁格尔法案中包含的所有内容。 但我并没有说我正在支持或者政府正在倡导通过该法案，因为我当时在官职上并不处于可以这样做的地位。 你看，你必须从预算局获得许可，而我们从未获得预算局的许可。 我记得我们从未催促过许可。”27
+
+经历许可程序本可以赋予SSA官员作为总统代理人发言的权利。 然而，奥特迈耶有理由相信许可无法获得。 他曾问过总统会支持哪种医疗立法，罗斯福说是一个由向各州提供补助金资助的有限医院建设项目——仅此而已。 根据奥特迈耶的回忆，罗斯福并不反对将该法案作为一种“试水球”引入以测试民意，但并不准备支持它。 缺乏许可并未迫使项目行政官员保持沉默。 在技术援助这一战略性便利的掩护下，项目行政官员可以独立于总统办公室开展行动；而在民主党政府中，与共和党政府不同的是，这样做可以基于一种政治行政官员默许其行为的自信推断。
+
+### 民主党执政时期
+
+如果说由共和党控制行政分支对项目行政官员而言并非如表面看起来那般不利，那么民主党人的执政也并非全然有利。 诚然，获得政治管理者对重大倡议的支持是有利的。 通过压力集团盟友能做到的事情是有极限的。 在共和党执政期间，医疗保险可以保持生命力并留在议程上，但如此重大的变革，涉及如此复杂的法律，最好——或许只能——通过全面动员职业官僚机构（包括总法律顾问办公室）来实现，而这需要行政当局的支持。
+
+随着1960年后民主党重返HEW，官方活动基地迅速扩大，但过程并不总是和谐的。 在某种程度上，项目行政官员与民主党管理者的关系中存在着比与共和党人之间更多的紧张和冲突，因为与民主党人保持距离更为困难。 当民主党执政时，伟大的事业可以被开启，但必须通过与政治官员的协作来开启。 随着合作负担的增加，冲突的发生率也随之增加。 在策略、战术和分工上产生了紧张关系。失败之后随之而来的是互相指责。 杜鲁门政府期间瓦格纳-默里-丁格尔法案失败后情况正是如此。 政治方与项目方每一方都断定另一方不懂政治。 杜鲁门任内的联邦安全局局长奥斯卡·R·尤因（Oscar R. Ewing）告诉采访者：
+
+“[I. S.] 弗兰克（与科恩同为法案起草者）在这个主题上是一个优秀的技术专家。…… 我对他唯一的批评是，在某种程度上，他对当时政治局势的直觉很弱。 在我看来，提交到国会的瓦格纳-默里-丁格尔法案不必要地激起了某些本不需要被激起的反对力量。 例如，它规定政府可以设定药品价格。 结果这导致整个制药行业都反对该法案，而这根本不是必需的。…… 弗兰克非常诚实地认为，一次性把所有反对意见都引出来并解决掉是明智的。 我本更倾向于渐进式路径。但这种模式在我上任之前就已经设定好了。”28
+
+根据尤因的说法，在法案失败后，是他的主意促成了采用最终获得成功的、覆盖范围较窄的路径。 而奥特迈耶的回忆与尤因截然相反。他回忆说，是他和科恩决定应当向尤因建议一个缩减后的提案，作为可以从废墟中挽救回来的东西。 根据他的说法，是尤因在医疗保险上推得太猛、要得太多：
+
+“当涉及立法时，他觉得他拥有权力和责任——他确实有；毫无疑问，他是对的。这意味着不再是由卫生局局长（surgeon general）和社会保障委员会主席开发一个项目并去国会山解释和推动它，而是由他来开发一个项目，确信他会说——依赖下属给他提供技术建议。 但他会做出关于立法内容的所有决定，他将是那个解释它的人，也将是推动它的人。 他觉得在那方面他远胜于任何下属，因为他是一个知道如何与政治家打交道的政治家，无论他是否懂行政，他确实了解关于政治行动的一切。……所以他真的干劲十足，而我们对医疗保险感到战战兢兢，因为我们觉得那里有很多暗礁，‘国之航船’必须小心操纵才能避开它们。”29
+
+类似的紧张关系在1961年至1965年间医疗保险最终成功但举步维艰的过程中再次出现（见第16章讨论）。 这一案例中的政治主角是伊万·A·内斯廷根（Ivan A. Nestingen），他曾是威斯康星州麦迪逊市市长，肯尼迪为了偿还政治债而任命他为HEW副部长。 内斯廷根着手主导政府的医疗保险运动，尽管这样做肯定会与当时担任立法事务助理部长的科恩产生冲突。 曾一度，白宫让内斯廷根而非科恩负责政府在国会听证会上的陈述。华盛顿的支持医疗保险活动家们分裂成了以内斯廷根为首的政治导向派，和以科恩为首的项目导向派。 在1962年的一次失败后，情况变得非常糟糕，以至于总统被劝说给这两组人做了一次鼓劲谈话，并呼吁他们合作。 敌意是如此强烈，以至于白宫会议上有些人不愿与科恩握手。就科恩而言， 他将内斯廷根及其追随者看作一群搞砸事情的闯入者。
+
+共和党政治行政官员与项目行政官员之间目标的不同，使得在项目扩张（尤其是医疗保险）的主导议题上无法合作；但当民主党执政时，共同的目标创造了一种合作可能的推定，而在合作的努力中，政治导向官员与项目导向官员之间的差异便显露了出来。 在构建项目的过程中，项目行政官员也建立了一个与其他决策者（最重要的是国会委员会）的关系网络，后者对该项目负有持续责任且拥有某种所有权利益。 政治行政官员作为部门的过客，对这个网络的存在并不特别敏感，没有融入其中，不理解其制定政策的规则，也不认为遵守规则有多重要。 （在科恩团队眼中，内斯廷根团队对成本的漠视显示了他们在社会保障政策上的天真。一位成员说：“内斯廷根的人想把这个加进去，把那个也加进去。……而一直在社会保障领域工作的人总是知道你必须覆盖成本；如果你不这样做，鲍勃·迈尔斯说它在精算上不可靠，你就永远无法取得进展。”）30 作为行政管理者，项目行政官员还必须对与医院、医生和保险公司的潜在工作关系保持敏感，而政治行政官员则不必。简而言之，项目行政官员是调和性的、非意识形态的，并且非常关注维持其项目所需的协作关系。 政治官员则更愿意接受冲突，寻求可以向大众选民宣传的党派与总统胜利。31 他们的立法路径是组织群众集会，而科恩团队的路径是计算筹款委员会中的选票，并询问自己可以通过对法案进行何种修改来赢取另一张选票——最终的大奖自然是主席米尔斯（Mills）的那一票。
+
+当法律最终在1965年写就时，正是作为内部战略家典范的科恩，与米尔斯及其筹款委员会坐在一起解决了所有问题。 科恩在选举后取代内斯廷根担任副部长，作为一个转为政治行政官员的项目行政官员，他为国会谈判带来了一种高度调和性的方法。 随着一名项目行政官员完全代表政府掌权，与政治行政官员的冲突便烟消云散了。 值得注意的是，即便在更庞大、更积极、人才济济的政党执掌政权的民主党政府中，一种鲜明的党派领导力并未主导行政部门对社会保障的政策制定。 情况正好相反：核心的项目行政官员进入了党派职位。 民主党任命了罗伯特·鲍尔为社会保障局局长，并开始依赖科恩来运作医疗保险立法的通过。
+
+在本书这一部分所构建的社会保障决策者画像中，政治行政官员并不占显著地位。 他们的影响力依赖于其作为政党领袖的地位，但政党作为关于社会保障的指导来源或工具几乎并不存在。 作为政府中的过客，由于在任时时间紧迫且通常并不专业，他们变得非常依赖职业项目行政官员提供建议、解释和提案。 他们也并未构成一种强有力的制约力量，因为他们顺应了那些赋予职业项目行政官员在与国会议员、压力集团、党派活动家及其他行政分支外人士交流时极大自由度的规范。 只要局限于“技术援助”，这种沟通就是可以接受的；而技术援助之所以被接受，是基于其政治中立的理论。 但在政策制定的实践中，它并不中立。 它最主要地帮助了那些与项目行政官员拥有共同项目目标的参与者。
+
+引用
+1 Proceedings of the Sixth Social Security Conference (Ann Arbor, Mich.: 1968 ), pp. 18, 40. 62
+2 The distinction is not equivalent to (and is only roughly parallel to) that between political appointees and civil servants. It is meant to apply to the dominant purposes or orientations of the individual in his job, not to a formal administrative status, source of official authority, or mode of qualification for the job. Most executives of the social security program were civil servants, and the leading program executives were all civil servants at some point in their careers. Arthur Altmeyer, Wiibur Cohen, and Robert Ball were variously civil servants, political appointees, and private citizens, and functioned as if they were program executives no matter which status they were in, although Altmeyer, in contrast to Cohen and Ball, was not highly active upon leaving office. I assume that to be a political appointee necessarily imparts to an incumbent some degree of political orientation, but that even “political" appointees may have a predominantly programmatic orientation. A safe generalization is that the higher the rank in the executive hierarchy, the greater the political content of the executive function. Particular programmatic responsibilities are progressively diluted, while responsibility for advancing party policies intensifies with the steps up the ladder from bureau chief to secretary, which successively increase distance from the career civil service and narrow distance from the presidency. For elaborate analyses of the relations between political officials and program specialists, see Hugh Heclo, "Political Executives and the Washington Bureaucracy," Political Science Quarterly, vol. 92 (Fall 1977), pp. 395-424, and Heclo, A Government of Strangers: Executive Politics in Washington (Brookings Institution 19)
+3 Nelson Cruikshank later remarked that "here was a civil servant in the best tradition and . . . we had hoped that social security . . . could be kept out of politics and that a good competent staff could be held intact and people could make a career of it. Now, we knew that a secretarial post had to be changed with the changing administrations. But people like Cohen and Altmeyer and Bob Ball and all those good, sound technical people should have been retained." (Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University [1967], p 108. [Hereafter, Cruikshank, OHC.]) Cohen and Ball were retained, though Cohen soon left of his own choice. The Republicans made Cohen director of research and statistics in place of I. S. Falk. He thereafter resented what he took to have beer pressure to leave. The job as research director, though a better title than he had had, entailed a cut in grade and salary.
+4 Interview with Robert J. Myers, Oral History Collection, Columbia University(1967), pp.23-26.
+5 Both sources requested anonymity.
+6 Interview with William L. Mitchell, Oral History Collection, Columbia University (1965), pp. 124-26. 
+7 Ibid, p. 127.
+8 Technically, Perkins was assistant secretary for program analysis. The title of the office was later changed to assistant secretary for legislation
+9 Interview with M. Allen Pond, Oral History Collection, Columbia University (1966), pp. 65-66.
+10 James L. Sundquist, Politics and Policy: The Eisenhower, Kennedy, and John-son Years (Brookings Institution, 1968), pp. 302-05.
+11 From tape-recorded comments by Robert M. Ball addressed to the author, May 6, 1978. (Hereafter Ball transcript. )
+12 Robert Ball, upon reading this passage, commented: "There is no way that an organization can fulfill its responsibility to be prepared for what may arise in the future if it waits each time for a new administration to lay out the areas in which it should do research and analyze alternative program developments. But a careful dis-tinction needs to be made between this activity and promotion of programs contrary to the position of a president. When Marion Folsom was in office, we talked several times about the possibility of the administration backing a disability insurance pro-gram beginning at age fifty-five, and then later we discussed one beginning at age sixty. One couldn't even have discussed such a possibility without there having been work done prior to an administration taking a position. I was for it and so was Folsom. but in the end he had to testify against any kind of a disability insurance program because that was the President's decision. He gave the task of writing the testimony jointly to Rod [Roswell] Perkins and me, with a staff writer of his to actually put the words down. The reason was that Perkins was wholeheartedly and personally opposed to disability insurance and I was wholeheartedly and personally in favor of it. And what Folsom wanted was a statement against it, but still one that did not cut off all possibilities for the future and dig a big hole which he could have never climbed out of. Incidentally, we worked on that testimony all night long the night before he was to give it, and handed it to him as he went to the Hill. We fought over almost every word in it. I was, of course, not trying to develop a statement in favor of dis-ability insurance, merely one that in opposing it didn't overdo the argument. At the time, of course, Perkins was a political appointee and I was a civil servant." Ibid.
+13 Interview with Irwin Wolkstein, Oral History Collection, Columbia University (1966), pp. 51-52.(Hereafter Wolkstein, OHC.)
+14 Interview with Robert M. Ball, Oral History Collection, Columbia University(1967-68), pp. 11-12. (Hereafter Ball, OHC. )
+15 Wolkstein, OHC, pp. 9, 9a, 32a, 32b, 45-46
+16 Ball, OHC, pp. 10-12, 46. Accounts of the SSA's assistance to the AFL-CIO in regard to the Forand bill may be found in oral history interviews with Katherine Ellickson, Leonard Lesser and Lisbeth Bamberger Schorr, Irwin Wolkstein, and Nelson Cruikshank.
+17 The recollections of Roswell B. Perkins for an interviewer are particularly pertinent:
+QUESTION: Do you know anything about the opposition [to the administration's position on disability coverage]--what they were doing in this?
+PERKINS: Not a great deal. I'm reasonably sure that it was being masterminded by Wilbur Cohen from behind the scenes. It would have been virtually inconceivable, with the dedication that he had to it, that he could avoid being drawn into the discussions by those who favored the bill. It was nominally Nelson Cruikshank who headed operations but with Wilbur's extraordinarily keen strategy and advice. Also, Bob Ball I'm sure must have been operating behind the scenes to put this thing over.
+QUESTION: Is this something that you suspect in retrospect or was this something that you probably knew at the time?
+PERKINS: I think I probably knew it at the time. QUESTION: But chose to overlook it.
+PERKINS: I can't reconstruct my thinking on it at the time. Of course Bob and Wilbur were sufficiently astute in the way that they handled themselves so that certain of their conferences could be classified as the necessary response of government officials to requests from the Hill for information. It would be impossible to close off all telephone calls and contacts from the Hill to members of the staff of the department. They were public servants, and the fact that the administration, including the head of the department, disagrees with the positions being taken by elected representatives on the Hill doesn't give the heads of the department the right to foreclose the quest of congressmen and senators for technical and other information from the staff members in the department. Also, their personal lives and associations I never felt we could enter into. : . . It would have had to be a gestapo-like operation. .
+QUESTION: So that you were fully aware of the fact that there were relationships continuing to exist between the AFL-CIO and people out at Social Security but had to overlook it.
+PERKINS : I think that's a fair summary of it. I didn't try to know the precise nature of the relationship, but I was sufficiently sophisticated to know that probably a day wasn't going by that Wilbur Cohen and Nelson Cruikshank weren't putting their heads together-[even] before [Cohen] left the department---in one way or another over the progress of the disability benefits bill. (Interview with Roswell B. Perkins, Oral History Collection, Columbia University [1968], pp. 31, 33.)
+18 Author's interview with Elliot Richardson, December 2, 1977.
+19 Cruikshank, OHC, p. 269.
+20 Interview with Elliot Richardson, Oral History Collection, Columbia University (1967), p. 53. (Hereafter Richardson, OHC.) 
+21 Interview with the author, December 2, 1977.
+22 Richardson, OHC, pp. 37-40. Robert Ball, upon reading this passage, commented: "I still think that Richardson's idea was unworkable. Essentially the problem was that he would have had people pay over their lifetime toward paid-up health insurance in old age, just as the final medicare program did. The problem, though, was that he wanted people to be able to elect into and out of the system so that some would reach age sixty-five having paid in for a few years and others having paid in for all their years of coverage. I still see no way to work this out, and not just because I'm a Democrat." Ball transcript.
+23 Interview with Charles I. Schottland, Oral History Collection, Columbia University (1965), p. 76. Social security also offered frequent opportunities for thoroughly benign symbolic gestures by the president, including the recognition of such milestones as the birthdays of extremely aged recipients or the mailing of a check to the x-millionth beneficiary. In 1965, for example, President Johnson sent greetings on her ninety-first birthday to Ida Fuller of Brattleboro, Vermont, whom the SSA had long honored as the “first” social security beneficiary, and explained to her that she would soon get an extra social security check as a result of his having signed a benefit increase into law. Milestone beneficiaries, to be honored if possible in White House ceremonies, were picked by the SSA with great care. In 1968, the SSA’s acting com missioner recommended as a 24-miHionth beneficiary “a dignified and respectable citizen” who was about to retire as superintendent of buildings and grounds at Johns Hopkins Hospital in Baltimore. His race, age, marital status, and job history were given, and he was described as “personable and photogenic.” (Letter, Lyndon Johnson to Ida Fuller, September 3, 1965, Gen WE 6 WHCF, Lyndon Baines John son Library, Austin, Texas; Memo, Arthur Hess to Wilbur Cohen, May 24, 1968, Gen WE 4 WHCF, LBJ Library; and Memo, Wilbur Cohen to Douglass Cater, May 27, 1968, Gen. WE 4 WHCF, LBJ Library.) Documents in the Johnson Library also show that the President was concerned with such administrative matters as the amount of employment in the SSA’s district office in Austin, Texas, and the choice of a manager for that office, but that degree of involvement in SSA operations was unusual among presidents. In the Johnson administration, relations between the White House and the SSA sometimes dealt with matters as minor as the assignment of a social security number to the newborn child of a White House aide
+24 Congressional Record (August 16, 1958), p. 17959.
+25 "Enrolled Bill H. R. 12580, Social Security Act Amendments of 1960," memo. Michael S. March, Labor and Welfare Division to P. S. Hughes, September 8, 1960 (File HR 12580-86 PL 778 R8-2/60.1 vol. III, National Archives)
+memo, I. M. Labovitz to the Director via
+26 “FSA Report on H. R. 6000,” memo, I. M. Labovitz to the Director via J. W. Jones, FSA Report, January 16, 1950 ( File Social Security Act Amendments of 1948 and 1949 —Public Welfare Act of 1949, R8-4/48.4 vol. II, National Archives )
+27 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967) pp. 36-37. (Hereafter Altmeyer, OHC.) I. S. Falk, director of re-search and statistics for the SSB, who, with Wilbur Cohen, was the principal author of the Wagner-Murray-Dingell bill, recalled nevertheless that the Bureau of the Budget and the White House staff had been consulted informally. "We were in each other's offices and in each other's hair, too," he told an interviewer. "We were working with global omnibus programs, and with fractional programs. We had scores of explorations of that kind going on. And very gingerly the board would decide what  it would put out in its annual report or in a speech that Altmeyer would make or someone else would make and try them out. And the White House and the Budget Bureau were watching the reactions to see what they would endorse and what they wouldn't. This wasn't any solo performance." Interview with I. S. Falk, Oral History Collection, Columbia University (1965-68), pp. 241-42.
+28 Interview with Oscar R. Ewing, Oral History Collection, Columbia University (1966), pp. 41-42.
+29 Altmeyer, OHC, pp. 131--32.
+30 Interview with Leonard Lesser and Lisbeth Bamberger Schorr, Oral History Collection, Columbia University (1967), pp. 57-58.
+31 Altmeyer speculated that Oscar Ewing in 1947-48 saw national health insurance as a political vehicle that would carry him to high office, perhaps even the presidency itself. Altmeyer, OHC, p. 133.
+
+## c4
