@@ -1,4 +1,285 @@
-### 第一章 **大动荡 (The Great Upheaval)**
+---
+title: 社会保障的政策制定 (Policymaking for Social Security)
+tags:
+  - 翻译
+  - 政治制度
+  - 公共政策
+  - 福利制度
+---
+>[!NOTE] Translated with Gemini 3.1 pro
+>**作者：Jeremy Brecher 来源：_PM Press_. 2014**
+
+---
+# 目录
+
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 2 # Include headings up to the specified level
+include: 
+exclude: /^(印度GST改革历程|注释)$/
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
+```
+
+Praise for Strike!
+
+“With this new edition of Strike! Jeremy Brecher has brought the story of U.S. labor up to date. From the Great Upheaval of 1877 to the Teamsters’ UPS strike of 1997, here is the story of mass working-class action and organization. For a new generation that is once again discovering the power of organized workers and a class-based social movement, Brecher presents an important and critical perspective on the labor movement and U.S. history. For anyone who wants to get behind the headlines on the ‘resurgence of U.S. labor,’ Strike! is essential reading.”
+
+—Elaine Bernard, executive director, Harvard University Trade Union Program
+
+“For the past twenty-five years, anyone getting turned on to American labor history has turned first to Strike! This new anniversary edition, which adds an in-depth examination of recent events and experiences, guarantees that this book will be the first source consulted by the next generation of workers and students who seek out the ‘hidden history’ of the American working class.”
+
+—Peter Rachleff, author of Hard-Pressed in the Heartland: The Hormel Strike and the Future of the Labor Movement
+
+“Strike! manifests the real roots of workers’ struggle—battles that moved from the streets of Minneapolis in 1934, to the mass confrontations of the 1960s against the Vietnam War, poverty, and racism, to the war zone of the 1990s in Decatur, Illinois. Jeremy Brecher’s underlying message is powerful: workers will be exploited and reviled unless we challenge those who appoint themselves as our masters.”
+
+—Dan Lane, activist and locked-out Staley worker
+
+“Jeremy Brecher’s Strike! is one of the most important books on labor history published since World War II. It is a much-needed history of recent labor struggles. But what makes it indispensable is its point of view, its spirit, which is that of rank-and-file resistance to both corporate power and trade union bureaucracy. Its emphasis on worker-community solidarity, across all boundaries, is exactly what is needed in our time.”
+
+—Howard Zinn, author of A People’s History of the United States
+
+“Splendid … clearly the best single-volume summary yet published of American general strikes.”
+
+—Washington Post
+
+“Strike! is the single most important book about the history of the American labor movement published in our time. And now Jeremy Brecher has brought the history up to date—just in time to make a new generation ready for this new era of labor struggle.”
+
+—Dick Flacks, University of California, Santa Barbara
+
+“Jeremy Brecher’s Strike!, a labor and left-wing classic, has educated tens of thousands of readers over the decades and now comes back again—better than ever.”
+
+—Paul Buhle, author of Marxism in the United States: Remapping the History of the American Left and Robin Hood: People’s Outlaw and Forest Hero
+
+“When Strike! first appeared in 1972, it provided a healthy antidote to narcotic of standard labor history. Rather than merely being the victims or at times allegedly the beneficiaries of government or corporate largess, workers, as Brecher shows in exciting, exhilarating strokes, not only have the power to change the world for the betterment of all humanity, but at their best moments, are capable of doing so in democratic, participatory fashion.”
+
+—Michael Goldfield, author of The Color of Politics: Race and the Mainsprings of American Politics
+
+“Jeremy Brecher views the past quarter-century as a time of retrenchment and disorganization between periods of mass strikes. In a new last chapter, he tells the stories of Pittston, Staley, and other prefigurative struggles. This chapter will serve future historians as a definitive introduction to the emerging era of wider solidarity and more militant tactics.”
+
+—Staughton Lynd, coauthor of Labor Law for the Rank & Filer: Building Solidarity While Staying Clear of the Law and Wobblies and Zapatistas: Conversations on Anarchism, Marxism and Radical History
+
+“Brecher, a gifted young radical historian … offers a graphic history of industrial strikes…. His research is thorough, his presentation lucid and often absorbing … draws its strength from a coherent view.”
+
+—Publishers Weekly
+
+“An exciting history of American labor.”
+
+—New York Times Book Review New and Recommended list
+
+“An objective, minimally tendentious study of the American experience … a bracing draft of history … brings to life the flashpoints of labor history.”
+
+—Richard Lingeman, New York Times
+
+“A magnificent book. I hope it will take its place as the standard history of American labor.”
+
+—Staughton Lynd, labor historian
+
+“The best book I have seen on American labor as a social movement. An important contribution to sociology as well as history. By focusing on mass actions of workers, Brecher sheds new light on the role of trade unions and radical organizations in the labor movement. Well-written, well-researched, and well-argued. I highly recommend it as a text for courses on social movements, political sociology, and American society.”
+
+—William Kornhauser, University of California, Berkeley
+
+“An excellent and exciting book.”
+
+—Fusion
+
+“A really impressive piece of work which deserves the widest possible circulation. It offers simultaneously a readable and largely accurate account of many of the major strikes of American workers since 1877 [and] an extremely useful and well-researched account of today’s rank and file struggles.”
+
+—David Montgomery, author of The Fall of the House of Labor: The Workplace, the State, and American Labor Activism, 1865–1925
+
+“Scholarly, genuinely stirring.”
+
+—New York Times Book Review
+
+
+
+**目录**
+
+- **致谢**
+    
+- **序言**（玛丽娜·西特林 著）
+    
+- **前言**
+    
+- **开场白**
+    
+- **第一章：大动荡**
+    
+- **第二章：五一劳动节**
+    
+- **第三章：无政府状态的边缘**
+    
+- **第四章：一九一九年**
+    
+- **第五章：大萧条年代**
+    
+- **第六章：战争及战后罢工浪潮**
+    
+- **第七章：越南战争时期反抗运动中不为人知的劳工维度**
+    
+- **第八章：千禧年前夕的美国劳工**
+    
+- **第九章：群众罢工的意义**
+    
+- **第十章：超越单方面的阶级战争**
+    
+- **了解更多**
+
+
+# 致谢
+
+撰写一本书虽然是个人的项目，但也离不开许多人的帮助。我想在此感谢那些给予我最直接帮助的人。虽然几乎所有人都曾在某些观点上与我产生分歧，但事实或解释上的错误仍完全由我个人承担。
+
+本书的大部分初始工作是在华盛顿特区的**政策研究所**（Institute for Policy Studies）完成的。在我准备撰写《罢工！》的那些年里，该研究所的研究员、学生、工作人员及相关人员对我的教育贡献良多。正是那里的马库斯·拉斯金（Marcus Raskin）给了我必要的鼓励，让我停止空谈，开始动笔。
+
+- **学术与编辑支持：**
+    
+    - 《根与枝》（_Root & Branch_）杂志的合作者们共同增进了一我对本书涉及问题的理解。
+        
+    - 爱德华·M·布雷彻（Edward M. Brecher）不仅提供了一个理想的撰稿场所，还凭借其丰富的写作经验，细致地对初稿进行了删改和润色。
+        
+    - 印刷师兼艺术家莎伦·哈默（Sharon Hammer）熟练地准备了原始手稿。
+        
+- **资源与资助：**
+    
+    - 路易斯·M·拉比诺维茨基金会（Louis M. Rabinowitz Foundation）的资助支持了我的研究。
+        
+    - 詹姆斯·H·威廉姆斯、凯瑟琳·罗拉巴克、乔尔和珍妮·斯坦借给我一些本难以获取的资料。
+        
+- **审阅与评论：**
+    
+    - 许多人不吝惜时间阅读并评论了原始手稿。我要特别感谢斯坦利·阿罗诺维茨、斯托顿·林德、保罗·马蒂克等多人。
+        
+    - 感谢伊莱恩·伯纳德、蒂姆·科斯特洛等人在二十五周年纪念版结语《千禧年前夕的美国劳工》初稿上提出的建议。
+        
+    - 在最新章节《超越单方面的阶级战争》中，我感谢史蒂文·阿什比、玛丽娜·西特林、布伦丹·史密斯等人的评论。其中许多人通过分享他们亲身参与相关事件的详细知识，做出了特殊贡献。
+        
+
+特别感谢大卫·罗维克斯（David Rovics）允许我使用《最低工资罢工》（_Minimum Wage Strike_）的歌词。我感谢在过去的四十年里和四家出版商合作中，所有帮助《罢工！》发挥影响力的人，特别是安东尼·阿诺夫（Anthony Arnove）。还要感谢 PM Press 出版社为推出新版所做的努力。最后感谢吉尔·卡特勒（Jill Cutler），除了多年来无数次的编辑和校对外，她还帮助作者避免了成为“过去式”。
+
+# 序言（玛丽娜·西特林 著）
+
+杰里米·布雷彻为我们提供了一份礼物，也是一个工具。这本书蕴含着对我们自身历史的强大描述力——这是一段充满激烈且富有创造性的激进斗争史。在这段历史中，我们获得了进一步理解和诠释这些斗争的工具，这些工具可用于构建另一个世界。
+
+- **关于“工人”的定义：** 我们这些必须靠工作生存、且对社会大部分决策（生产什么、生产多少、谁来生产、在哪里生产）没有决定权的人，很容易被定义为“工人”。用“占领运动”的话说，这就是那 99%。
+    
+- **回归历史：** 《罢工！》归还了我们的历史——我们作为历史创造者、奋斗者、梦想家和世界改变者的角色。而这段历史通常被向我们隐瞒。
+    
+
+本书更新版中描述的斗争涵盖了当代历史的每一个时刻，包括“占领运动”、威斯康星州抗议、移民权利动员以及针对全球金融机构的直接行动。杰里米·布雷彻将这些当代事件称为“微型反抗”（mini-revolts）。本书将这些微型反抗与过去一个半世纪里美国群众罢工放在同一语境下。这些都是我们的斗争，是劳动人民集体拒绝被击垮和沉默的历史，是我们创造尊严、能动性和权力的历史。
+
+有时人们说，我们是站在巨人的肩膀上接触过去的。但这本书表明，事实上我们是与普通人并肩而立，共同战斗并创造一个不同的世界。作为“占领华尔街”及早期全球正义运动的参与者，我赞美书中赋予这些运动的创造力。我热爱我们集体的创新，以及发现创造政治的新方式。同时，我们也常因沉浸于当下或“预构性”（prefigurative）的行动，而忘记向历史中的集体巨人（普通人）寻求经验来巩固现在。这本书提醒我们要做到这一点。
+
+《罢工！》是给所有人的礼物，尤其是给当前和下一代的奋斗者、组织者和梦想家。在这些篇章中，我们阅读历史，找准位置，从群众罢工和微型反抗中学习，并从那里出发，并肩迈向未来。
+
+# **前言**
+
+本书讲述了美国普通劳动人民反复发起的、规模宏大且时而伴随暴力的反抗历史 。这一历史叙事包含了几乎席卷全国的总罢工、对庞大工业设施的占领、极具规模的非暴力直接行动，以及动用火炮与坦克的武装冲突 。它涵盖了由企业资助的暴力团体、地方警察、州民兵以及美国陆军和国民警卫队对工人反抗行为所实施的反复镇压 。它揭示了美国历史中一个鲜为人知的维度，这一维度在常规的高中或大学历史课程中极为罕见，更遑论在大众媒体呈现的历史叙事中 。
+
+美国常被普遍视为一片个人自由的乐土 。这种观念往往促使人们试图通过个人努力来满足自身需求 。然而，人们时不时会遭遇另一种现实 。长期以来，我们社会的大部分资源一直被少数人所控制。1 其余的人除了出卖劳动能力外，别无谋生之路。2 大多数美国人——并非出于自愿——都是劳动者 。作为劳动者的基本体验——即缺乏足够的经济资源，只能依靠受雇于他人来维持生计——塑造了大多数人的日常生活，也塑造了我们社会的生命形态 。作为劳动者，人们经历了一种自由被剥夺的状态，这与美国生活中备受推崇的自由大相径庭 。“机会”被降维为将个人的时间与创造力出卖给某一个雇主的机会——如果你不这么做，就会陷入贫困 。“选择的自由”被替换为服从命令的自由 。
+
+与此同时，由多数人劳动创造的财富却被极少数人所占有，这主要体现为那些主导国家乃至日益主导全球经济的巨型企业。3 它们控制着美国及全球数以百万计人民的劳动 。企业及其所有者的财富与权力进一步转化为对媒体、政治进程、塑造知识与舆论的机构，乃至最终对政府的控制力 。因此，即使在所谓的民主社会中，劳动者作为个体也显得相对无权无势 。但是，个体在这种境遇中并非孤立无援。他们与同事以及绝大多数同样是劳动者的人共享着这一处境 。因此，在某些时刻，人们或多或少会开始意识到自己与其他劳动者拥有共同利益，并与他们的雇主存在冲突 。届时，他们可能会转向集体而非个人的策略来解决他们面临的问题 。这一过程在个体生命、社会群体的经历、美国历史乃至世界范围内都屡见不鲜 。
+
+当劳动者开始追求集体策略时，他们会发现团结起来的力量远比单打独斗要强大得多 。在任何工作场所、社区或国家，他们都是绝大多数 。雇主的所有职能，乃至整个社会的运转，都依赖于他们的劳动 。通过撤回劳动并拒绝以其他方式与既有权威合作，他们能够使任何工作场所、社区甚至国家陷入停顿 。人们认识到并基于其作为劳动者的共同利益和力量采取行动的程度，总是起伏不定的 。有时，劳动者的行动主要表现为在工作场所和社区中对权威的半隐蔽式抵抗，从而呈现出一种“劳资和平”的表面现象 。有时，它表现为工会代表在政府监管的、制度化的集体谈判体系中有序地参与 。但有时，他们的抗争会变得公开可见、充满戏剧性且带有不服从的色彩 。
+
+《Strike！》是一部关于这些特殊时期的历史——它所描述的冲突顶峰时期，借用了政治哲学家罗莎·卢森堡 (Rosa Luxemburg) 的术语，被称为“群众罢工” (mass strike) 时期。4 这些时期展现了极其多样的活动，包括罢工、总罢工、占领、大规模示威，有时甚至包括武装对抗 。但它们都具有三个显著特征：对工作场所及更广泛领域的既有权威提出日益扩张的挑战 ；劳动者倾向于掌控自身的行动 ；以及不同劳动群体之间不断扩大的团结与互助 。这个故事的主要参与者是普通的劳动人民 。乍看之下，人们去工作、安家、购物及努力谋生的过程，似乎与创造历史相去甚远 。但在试图解决日常生活问题的过程中，人们有时会发现必须以挑战现有秩序的方式采取行动——并由此创造历史 。在群众罢工时期，我们会发现普通劳动人民在思考、计划、从自身经验中汲取教训、自我组织并共同采取行动 。他们可能会利用工会及其他既有组织作为实现这一目标的手段 ；但在许多情况下，他们不得不进行自我组织并在制度化渠道之外采取行动 。
+
+《Strike！》最初出版于1972年。在某些方面，过去的那些伟大的群众罢工在今天甚至比其初版时更具现实意义 。四十年来，美国工人面临着工资下降、经济不安全感加剧以及工作条件恶化的困境 。确立于20世纪30年代末和40年代初国家法律与实践中的制度化集体谈判体系，如今已形同残垣，覆盖的劳动力不足12% 。政府针对劳动人民的保护措施正日益被拆解 。企业及其所有者变得愈发富有和强大——不仅在国家层面上，在日益全球化的层面上亦是如此 。随着个人主义的“自由市场”意识形态日益盛行，劳动人民越来越无法通过个人策略来解决他们的问题 。
+
+在全球范围内，面对跨国企业及其政治盟友的压力，工人乃至全体民众已经开始转向群众罢工和其他形式的直接行动 。在2011年和2012年，在突尼斯、埃及、英国、法国、阿根廷、希腊、西班牙和尼日利亚等情况各异的国家，爆发了群众罢工和总罢工 。从“阿拉伯之春” (Arab Spring) 到“愤怒者运动” (indignados)，再到“占领华尔街” (Occupy Wall Street)，大规模抗议活动震撼了世界，以至于《时代》杂志将“抗议者”评为2011年“年度风云人物”。5 群众罢工及相关反抗活动远非历史陈迹，它们正被证明是全球化时代的一个重要特征 。
+
+如今并非美国工人首次面临工作条件退化、薪酬微薄、经济缺乏保障以及在工作场所无能为力的局面 。然而——尽管对劳工及其他非精英群体历史的学术研究有了大幅增长——学校和媒体依然很少教授我们关于工人的历史以及他们过去是如何应对此类问题的 。对普通人历史的这种忽视，本身就是历史的一部分 。三分之二个世纪前，两位劳工领袖曾如此描述横亘在“人民与其过去之间”的“铁幕”：“将军、外交官和政客们早就明白，历史不仅是过去的记录，它同样是为未来汲取力量和方向感的源泉。必须不惜一切代价，剥夺数以百万计为生计而劳作的男女获得这种力量和方向感的可能。因此，他们过去的成就记录被蓄意掩盖，以磨灭他们对 未来的渴望。”6 本书的主旨即在于协助揭开那道铁幕 。
+
+当劳动人民开始寻求集体策略时，关于过去的知识能够赋予他们力量 。1999年，当西雅图的劳工活动人士正在考量如何应对即将到来的世界贸易组织 (WTO) “千禧年峰会”时，部分人士参加了一场关于1919年西雅图总罢工的研讨会。西雅图金县劳工委员会的负责人随后在被问及希望如何回应世贸组织峰会时回答道：“如果在一个完美的世界里，我们会重演1919年。” 其基础将不再是像1919年总罢工那样“因为我们在海事工会与雇主有矛盾” ；而是“因为我们与这个星球上的雇主有矛盾，他们在强奸和掠夺这个星球，对吧？” 1919年的西雅图总罢工成为了促使“西雅图之战”爆发的灵感来源之一，这场运动使该市陷入停顿并阻止了世贸组织峰会的召开 。
+
+归根结底，本书探讨的是权力。许多人感到无力影响我们社会中正在发生的事情 。那些理应让他们能够发挥影响力的官方渠道——选举、压力集团等——往往显得毫无用处 。然而，普通民众——一旦团结起来——潜藏着最为强大的力量。正是他们的活动构成了社会 。如果他们拒绝工作，如果他们撤回合作，每一个社会机构都可能陷入停滞 。通过掌控自身的活动，他们拥有重塑社会的权力 。这种权力与我们在企业和其他权威机构中所熟知的权力截然不同 。它并非部分人对他人发号施令的权力 。它是人们为了共同目标而合作地引导自身行动的权力 。正是这种权力在本书中得到了揭示 。
+
+劳动人民及社会其他阶层如今面临的问题，从全球不公到气候崩溃，已远远超出了工作场所或薪酬经济学的范畴 。解决这些问题将需要新型的团结、自我组织以及对既有权威的挑战 。事实上，这将要求我们将生活策略从自我保存 (self-preservation) 转向我如今所称的“共同维系” (common preservation)，这是一种人们试图通过满足彼此的需求而非仅仅满足自身需求来解决自身困境的策略 。人们实现这一转变的过程，正如本书所描绘的“群众罢工过程”所例证的那样 。
+
+在过去的四十年里，我曾有多次机会修订和更新本书 。此次四十周年纪念版通过新增的最后一章将叙事推进至当下，该章叙述了其所称的21世纪“工人阶级微型反抗” (working-class mini-revolts)，包括西雅图之战 ；2006年的大规模移民权利示威；2011年的“威斯康星起义” (Wisconsin Uprising) ；占领华尔街运动及其激发的遍布美国六百个城市的占领运动 ；芝加哥为争取公共教育而发起的非凡直接行动运动，其高潮是2012年的芝加哥教师罢工 ；以及在本书此版付梓时仍在持续的、史无前例的低薪工人罢工 。我还重新组织了涉及20世纪70年代至90年代的材料，并对文本其余部分进行了个别修订 。
+
+自本书写就以来，世界一直在持续变迁，自然地，我也一样。从某种意义上说，这个版本是四十年前的我与今天的我之间的一次合作 。就像在任何合作中一样，我们每个人都为这场聚会带来了某些东西，但我们并非在所有事情上看法完全一致 。这不是我们中任何一个人可以单独写出的书，但我希望我在吸收后来所学知识的同时，也保留了原版中最具价值的部分。7
+
+新版《Strike！》谨献给我四十年的写作伙伴蒂姆·科斯特洛 (Tim Costello) 的记忆，他定会满怀喜悦地——尽管也不乏批评——迎接新千禧年微型反抗的出现 。
+
+![[Strike! Introduction Pittsburgh.png]]
+
+匹兹堡，1877年7月22日。宾夕法尼亚铁路公司上层机车库的内部，这是在罢工者与费城民兵发生激战的次日 。此图像是 S.V. Albee 拍摄的“铁路战争” (The Railroad War) 系列立体照片的一部分 。
+
+注释
+
+1. “The share of total stock owned by the richest 1 percent in terms of wealth increased from 33.5 percent in 2001 to 38.3 percent in 2007 and that of the richest 5 percent from 62.3 to 69.1 percent.” Edward N. Wolff, Recent Trends in Household Wealth in the United States (Annandale-on-Hudson: Levy Economics Institute, 2010).
+
+2. “Average wealth of the bottom 80% was just $62,900 in 2009,” including equity in their homes. Sylvia A. Allegretto, “The State of Working America’s Wealth, 2011,” EPI Briefing Paper #292, Marcy 23, 2011, 7, http://epi.3cdn.net/2a7ccb3e9e618f0bbc_3nm6idnax.pdf.
+
+3. Of the 100 largest economies in the world in 2000, 51 were corporations, not countries. Sarah Anderson and John Cavanagh, “Top 200: The Rise of Global Corporate Power,” Institute for Policy Studies, December 4, 2000, http://www.corpwatch.org/article.php?id=377.
+
+4. Rosa Luxemburg, “Massenstreik, Partei und Gewerkshaften” [The Mass Strike, the Political Party and the Trade Unions], Hamburg, 1906, cited in J.P. Nettl, Rosa Luxemburg, Vol. II (London: Oxford University Press, 1966), 500. Strike! is not intended to be a complete study of strikes, let alone a general history of the American working class in the industrial era. Many dimensions of working-class history—such as daily life in the workplace, community, and home, the dynamics of gender, race, and ethnicity, the sphere of politics, and the realm of culture and ideology—are touched on only as they affect the particular struggles presented.
+
+5. “Person of the Year 2011: The Protester,” Time, December 14, 2011, http://www.time.com/time/person-of-the-year/2011/.
+
+6. George F. Addes and R.J. Thomas, in introduction to Henry Kraus, The Many and the Few (Los Angeles: Plantin Press, 1947).
+
+7. For a reconsideration of some of the major questions raised by Strike!, see “Discovering Workers Power” in Jeremy Brecher, Save the Humans? Common Preservation in Action (Boulder, CO: Paradigm Publishers, 2012).
+
+# 开场白
+
+1831年访问美国时，法国旅行家亚历克西·德·托克维尔（Alexis de Tocqueville）认为妇女、黑人和印第安人的从属地位不足为奇 。但他感到惊讶的是，他在美国没有发现欧洲同样视为理所当然的贫富两极分化，以及贵族与农民之间的阶级鸿沟 。在美国，绝大多数男性并非失地的农民，而是经营自己土地的农场主，其生产主要为了满足自身需求 。其余的大多数人则是自雇的工匠、商人、贸易商和专业人士 。其他阶级——北方的工资劳动者和工业家，南方的奴隶和种植园主——规模相对较小 。托克维尔发现，绝大多数人是独立的，不受任何人的指令支配 。
+
+然而，破坏这种相对平等的因素——并导致作为本书主题的群众罢工的各种力量——当时已经显现 。托克维尔忧虑地注意到，“在我们时代的巨大民主之中，由一些制造业者形成的微小贵族社会” 。正如前时代的贵族社会一样，这个社会倾向于将美国人划分为由“一些极其富有的人和大量贫困潦倒的人”组成的阶级，且几乎没有改变现状的手段 。此外，托克维尔看到生产趋于日益集中，因为“当一个工人每天从事相同的细节工作时，整个商品的生产会变得更加容易、迅速和经济” 。因此，“制成品的生产成本随着生产设施的扩大和所雇佣资本总量的增加而降低” 。大型、集约化的公司自然而然地胜出 。
+
+这一过程同时重塑了工人与雇主。“当一个工人不断地且排他地从事某一件物品的制造时，他最终能以非凡的灵巧完成工作；但与此同时，他丧失了将头脑应用于指导工作的普遍能力” 。因此，“在工人得到改进的同时，人的本质却在退化……（他）不再属于他自己，而属于他所选择的职业” 。但是，托克维尔辩称，虽然“制造业的科学降低了工人阶级的地位，却提升了主人阶级的地位”，直到雇主越来越像是一个庞大帝国的管理者 。
+
+托克维尔相信，“正在我们眼前兴起的制造业贵族，是世界上曾经存在过的最严酷的贵族之一” 。他断言：“如果永久性的条件不平等和贵族制度再次渗透到世界中，可以预见这就是它们进入的大门” 。
+
+亚历克西·德·托克维尔的可怕预言很快便不幸言中 。美国工业以令人难以置信的速度增长。在内战开始后的五十年里，制造业投资增长了十二倍 。铁路覆盖的里程从3万英里增长到超过20万英里 。到世纪之交，超过四分之三的制成品来自企业和其他股东协会拥有的工厂 。1860年，只有六分之一的美国人居住在8000人或以上的城市；到1900年，这一比例增加到三分之一 。与此同时，工资劳动者的数量从150万人增加到550万人 。美国成为了一个完全成熟的资本主义社会，其经济由在一个几乎不受监管的市场中追求私人利润所驱动 。
+
+回首这些变化在其一生中如何影响工人时，一位劳工领袖在1889年写道：
+
+> 随着机器的引入，城市和城镇中建立了大型制造设施 。以前由手工制作的物品，现在由机器大批量产出 ；价格降低了，那些从事手工劳动的人发现自己正在与某种能够抵御饥饿和寒冷且丝毫不受影响的东西竞争 。乡村的铁匠铺被废弃了，路边的鞋匠铺荒芜了，裁缝离开了他的工作台，所有这些技工（工人）一起离开了他们的乡村家园，前往建立了大型工厂的城市 。大门在清晨开启允许他们进入，在完成一天的任务后，大门在黄昏于他们身后关闭 。这些人默默地、深思地回到家中。他们不再带着车间的钥匙，因为车间、工具和钥匙都不属于他们，而属于他们的主人 。就这样被聚集在这些工业的大型蜂巢中，人们彼此相识，并经常讨论劳工权利及其所受侵害的问题 。
+
+基于这些经历和讨论，许多工人得出结论，他们不再是自由平等的公民 ；他们越来越觉得自己像是工资奴隶，只能靠为别人工作生存，当没有雇主雇用他们时，只能流落街头、贫困潦倒 。由于不再拥有车间的钥匙，他们几乎陷入了无助的境地 。然而，他们拥有一种能赋予其力量的武器——罢工 。因为没有他们的劳动，所有的工厂和办公室、铁路和矿山都无法产出任何东西 。
+
+自从一部分人被迫为他人工作以来，罢工似乎就已发生 。几千年前埃及大金字塔的工人们就有罢工记录 。北美早在1636年就发生了罢工，但在接下来的两个世纪里，罢工罕见、规模小且具有地方性 。罢工者及其组织经常作为非法阴谋者受到起诉 。从1800年左右开始，工人逐渐成为美国生活中一种有组织的政治存在 。印刷、制鞋和内阁制作等行业的工人开始在美国城市组织行业工会 。到19世纪30年代，许多行业工会已经召开了全国大会，许多城市的基层工会成立了中心贸易理事会，这些城市理事会也召开了第一次全国大会 。工人还尝试了劳工政党、生产和消费合作社，甚至是合作社社区 。
+
+然而直到内战后，绝大多数工人仍是自雇者 。他们可能会通过投票、示威、骚乱，甚至时不时通过武装反抗来表达抗议，但他们无法进行罢工 。因此，本书从内战结束十二年后的1877年大动乱（Great Upheaval）开始——这是美国历史上第一个引起全国关注的事件，揭示了庞大的新工人阶级，他们既没有作坊也没有农场，因此不得不为那些拥有资产的人，即新的工业资本家阶级工作 。
+
+内战后的几年里，铁路、工厂和农场以惊人的速度增长 。原本在很大程度上是地方性和区域性的经济变成了一个真正的全国性经济 。随着印第安人原本拥有的领土被接连向自耕农和土地投机者开放，边疆稳步向西推进 。铁路公司贿赂政客，获得了相当于整个国家面积的土地赠款 。国家的注意力从政治转向了工业令人震惊的进步 。这似乎是一个“镀金时代”，那些积累了巨额财富和庞大事业的巨头们被广泛视为新工业文明的征服英雄 。政府为经济增长创造了条件——从给铁路公司的土地赠款到对进口产品征收高关税——但在应对后果方面却无所作为 。当工业家利用他们对国家资源的控制，通过任何必要手段增加自己的财富时，混乱随之而来 。结果是一个无组织、无秩序的社会。后来发挥调节社会冲突、缓解困境和化解不满情绪作用的社会制度当时几乎不存在 。只有那些工业家骑在他们背上通往权力的底层人民，才不认为他们是身披闪亮盔甲的骑士，而是“强盗男爵” 。
+
+随后泡沫破裂。1873年9月，美国领先的银行机构杰伊·库克公司（Jay Cooke and Company）突然宣布破产 。股市暴跌，到月底证券交易所已经关闭了的大门 。仅在1873年一年，就有5183家价值超过2亿美元的企业倒闭 。经济萧条自资本主义社会开始以来一直是其固定特征 。但到1877年，这场大萧条持续的时间比美国历史上任何一次都长。对于工人来说，情况相当绝望 。整个行业的工资被削减了25%以上，在许多情况下低于生存水平，而据估计有100万工业工人失业 。大量的失业者走上街头寻找工作，通常成群结队地旅行，被称为“流浪汉” 。
+
+富有阶级观察到这些情况并感到颤栗。仅仅在六年前，巴黎工人起义，通过武装力量接管了城市，建立了著名的巴黎公社 。现在不仅是欧洲被“共产主义的幽灵”所困扰 。致力于推翻资本主义的工人党在美国也应运而生 。与此同时，面色蜡黄、神情阴郁的男女老少走在街上，腹中空空，几乎没有栖身之所 。一位英国访客发现，富有的美国人被一种“不安的情感所笼罩，即他们生活在一个充满社会和工业不满情绪的矿井之上，而在美国的体制下，政府的力量完全不足以应对：总有一天这个矿井会爆炸，将社会炸向空中” 。
+
+这场爆炸随之而来，即1877年的大动乱。
+
+注释
+
+1. Alexis de Tocqueville, Democracy in America, vol. 2 (New York: Vintage edition, 1959), 170.
+
+2. Ibid., 170.
+
+3. Ibid., 168.
+
+4. Ibid.
+
+5. Ibid.
+
+6. Ibid., 168–69.
+
+7. Ibid., 169.
+
+8. Ibid., 171.
+
+9. Ibid.
+
+10. Terence V. Powderly, Thirty Years of Labor, 1859–1889 (Columbus, OH: Excelsior Publishing House, 1889), 26–27.
+
+11. Goldwin Smith, “The Labour War in the United States,” The Contemporary Review 30 (September 1877): 537, cited in Robert V. Bruce, 1877: Year of Violence (Indianapolis: Bobbs-Merrill, 1959), 26.
+
+#  第一章 **大动荡 (The Great Upheaval)**
 
 在许多美国城市的中心，矗立着巨大的军械库，这些是19世纪阴森的砖石建筑。它们是堡垒，配备有厚重的墙壁和用于射击的枪眼。你可能曾想过为什么它们会在那里，但你可能从未想过，建造它们并不是为了保护美国免受外来入侵，而是为了防范国内的民众起义。它们的建立是1877年大动荡（Great Upheaval）的一座纪念碑。
 
@@ -323,3 +604,5 @@ B&O的总裁也补充了他的请求，电告总统西弗吉尼亚州已经尽�
 95. Irving Bernstein, Turbulent Years: A History of the American Worker 19331941 (Boston: Houghton Mifflin, 1970), 217.
 
 96. Rosa Luxemburg, “The Mass Strike, the Political Party and the Trade Unions,” in Rosa Luxemburg Speaks (New York: Pathfinder Press, 1970), 182.
+
+# c2
