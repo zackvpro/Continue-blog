@@ -1,10 +1,11 @@
 ---
-title: 社会保障的政策制定 (Policymaking for Social Security)
+title: 罢工！ (Strike!)
 tags:
   - 翻译
   - 政治制度
   - 公共政策
-  - 福利制度
+  - 劳工运动
+  - 工会
 ---
 >[!NOTE] Translated with Gemini 3.1 pro
 >**作者：Jeremy Brecher 来源：_PM Press_. 2014**
