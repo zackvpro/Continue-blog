@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasTag("Daily_notes_fin")
+        - file.hasTag("2026_3")

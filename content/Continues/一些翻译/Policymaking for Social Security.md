@@ -1,0 +1,2968 @@
+---
+title: 社会保障的政策制定 (Policymaking for Social Security)
+tags:
+  - 翻译
+  - 政治制度
+  - 公共政策
+  - 福利制度
+---
+>[!NOTE] Translated with Gemini 3.1 pro
+>**作者：Suzanne Mettler 来源：_Cornell Univerisity Press_. 1998**
+
+---
+
+# 社会保障的政策制定
+
+## 目录
+
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 2 # Include headings up to the specified level
+include: 
+exclude: /^(印度GST改革历程|注释)$/
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
+```
+
+# **前言**
+
+布鲁金斯学会早先出版的一本书的前言中写道，社会保障“已经作为一项永久性的美国制度被牢固确立下来。……该系统管理高效且廉洁，赢得了广泛的认可。”十一年前，约瑟夫·A·佩奇曼（Joseph A. Pechman）、亨利·J·阿伦（Henry J. Aaron）和迈克尔·K·陶西格（Michael K. Taussig）在撰写《社会保障：改革的视角》（_Social Security: Perspectives for Reform_）时写下的这句话，在今天依然适用。然而，它听起来却有些略显陈旧了。如今的社会保障体系比1968年时更加完善，拥有更多的纳税人和受益人，福利规模大得多，在国民生产总值中所占的份额也更大了。
+
+但与此同时，它也引发了更多的争议。在20世纪70年代中期，该系统出现了巨额赤字：国会被迫首次颁布了一项主要以增加收入为目的的社会保障法案，而历任总统（先是福特，然后是卡特）也开始提议削减该计划中相对冷门且存在争议的部分福利。社会保障曾经幸运地免受麻烦困扰，并且是两党政治家的最爱，如今却正在经历一场政治命运的转变。
+
+这本由布鲁金斯学会政府研究部主任玛莎·德西克（Martha Derthick）撰写的著作，解释了社会保障在1935年颁布后的四十年里是如何成功实现制度化的，以及为什么它在今天会陷入困境。作者追问，为什么一项如此重要且显而易见的计划在过去却几乎没有引发什么冲突和讨论？她从政策制定的性质（特别是少数专家的主导地位）和计划本身的性质（它承诺纳税人能从其缴纳的税款中获得公平的回报，而事实上，几乎所有最早的纳税人得到的回报都远超于此）中找到了答案。她认为，目前正在展开的辩论是健康的，而且早该进行了。本书是第一部对社会保障政治学进行全面研究的专著。因此，它补充了布鲁金斯学会此前出版的关于社会保障经济学的著作，并填补了美国公共政策学术文献中的一个明显空白。
+
+德西克女士在素材方面大量借鉴了哥伦比亚大学的口述历史馆藏，她对该馆的工作人员——凯瑟琳·A·巴克（Kathryn A. Back）、珍妮特·L·福利（Janet L. Foley）、伊丽莎白·B·梅森（Elizabeth B. Mason）以及馆长路易斯·M·斯塔尔（Louis M. Starr）的帮助表示感谢。她还感谢了布鲁金斯学会、社会保障署、美国劳工联合会-产业工会联合会（AFL-CIO）、美国人寿保险协会、德克萨斯州奥斯汀市的林登·贝恩斯·约翰逊图书馆以及马萨诸塞州沃尔瑟姆市的约翰·F·肯尼迪图书馆的图书管理员们。
+
+许多人允许作者引用口述历史馆藏或其他地方的采访内容：罗伯特·M·鲍尔（Robert M. Ball）、J·道格拉斯·布朗（J. Douglas Brown）、伊芙琳·M·伯恩斯（Eveline M. Burns）、威尔伯·J·科恩（Wilbur J. Cohen）、尼尔森·H·克鲁克香克（Nelson H. Cruikshank）、I·S·福尔克（I. S. Falk）、亚瑟·赫斯（Arthur Hess）、莱因哈德·A·霍豪斯（Reinhard A. Hohaus）、莫林·穆林纳（Maurine Mulliner）、罗伯特·J·迈尔斯（Robert J. Myers）、罗斯威尔·B·珀金斯（Roswell B. Perkins）、埃利奥特·L·理查森（Elliot L. Richardson）、莉斯贝斯·班伯格·肖尔（Lisbeth Bamberger Schorr）、西德尼·萨珀斯坦（Sidney Saperstein）、查尔斯·I·肖特兰（Charles I. Schottland）、已故的阿兰森·W·威尔科克斯（Alanson W. Willcox）、伊丽莎白·威肯登（Elizabeth Wickenden）以及欧文·沃尔克斯坦（Irwin Wolkstein）。其中一些人还接受了她的额外采访或对原稿发表了评论。她特别感谢鲍尔先生和迈尔斯先生提供的详细意见。作为将漫长而卓越的职业生涯奉献给社会保障计划建设的人，他们是非常宝贵的评论家；但需要强调的是，他们对本书的内容概不负责，在本书中，他们不可避免地作为主要对象出现。
+
+其他对全部或部分书稿提出有益意见的人包括：阿部·博茨（Abe Bortz）、珠穆朗玛峰·P·德西克（Everest P. Derthick）、朱迪思·M·费德（Judith M. Feder）、克利福德·R·格罗斯（Clifford R. Gross）、彼得·米利斯（Peter Milius）、威廉·C·米切尔（William C. Mitchell）、鲁道夫·彭纳（Rudolph Penner）、马丁·雷恩（Martin Rein）、查尔斯·A·齐格弗里德（Charles A. Siegfried）、阿莱尔·汤森（Alair Townsend），以及以下布鲁金斯学会的员工：亨利·J·阿伦（Henry J. Aaron）、劳伦斯·D·布朗（Lawrence D. Brown）、休·赫克洛（Hugh Heclo）、理查德·P·内森（Richard P. Nathan）、约翰·L·帕尔默（John L. Palmer）、约瑟夫·A·佩奇曼（Joseph A. Pechman）、吉尔伯特·Y·施泰纳（Gilbert Y. Steiner）和詹姆斯·L·森德奎斯特（James L. Sundquist）。布朗先生和赫克洛先生的批评意见篇幅极大且非常有用。
+
+芭芭拉·P·哈斯金斯（Barbara P. Haskins）编辑了书稿，佩内洛普·S·哈波尔德（Penelope S. Harpold）核实了事实内容，杰克·戈登（Jack Gordon）负责了校对。索引由弗洛伦斯·罗宾逊（Florence Robinson）编制。大卫·莫尔斯（David Morse）、拉德米拉·尼科利奇（Radmila Nikolic）、西莉亚·里奇（Celia Rich）和唐娜·丹尼尔斯·维迪尔（Donna Daniels Verdier）共同完成了打字工作。维迪尔女士还协助了校对工作。
+
+本研究得到了福特基金会的部分支持，林登·贝恩斯·约翰逊基金会授予了作者穆迪资助金（Moody Grant），使其能够使用约翰逊图书馆。
+
+本书表达的观点仅代表作者本人，不应归因于布鲁金斯学会的受托人、官员或其他工作人员。
+
+**布鲁斯·K·麦克劳里** (BRUCE K. MACLAURY) 总裁 1979年3月 华盛顿哥伦比亚特区
+
+# 引言 作为政治难题的社会保障
+
+美国人对其社会保障项目的关注度日益提高，但满意度却在下降 。随着20世纪70年代的推移，社会保障陷入了财务困境 。财政赤字出乎意料地出现，而官方精算预测的改变也显示出严重的长期赤字问题 。记者们宣称危机已至；官方则予以否认，但在他们安抚性的辞藻之下，对这一联邦政府最庞大、最受赞誉的项目能否持续受人欢迎的担忧正日益加剧 。1977年，国会勉强采取行动以纠正赤字，然而新税法刚一颁布，议员们就开始提交法案试图废除或掩盖这些税收 。一场社会保障纳税人的反抗似乎正在酝酿，尽管其深度和严重性难以估量 。
+
+社会保障的福利被广泛体验，且得到更广泛的认可 。到1977年底，在这个拥有2.18亿人口的国家中，16%的人口（略多于3400万人）正在领取该项目提供的现金支付，其中包括65岁以上人口中的90% 。在这些受益人中，有2100万是退休人员或其家属，但也有大量人员符合领取伤残福利（480万人）或作为受保工人遗属（760万人）的条件 。1978年，一对老年夫妇每年最多可领取8280美元，尽管平均水平远低于此，约为4800美元 。没有任何证据表明美国人民希望废除该项目，也毋庸置疑，该国老年人的生活因此变得更好 。
+
+另一方面，其成本高昂且正以惊人的速度增长 。1977年，838亿美元的福利支出（不包括215亿美元的医疗保险）占到了联邦预算的五分之一 。90%的劳动力通过对其收入征税（连同联邦所得税）来为这些福利买单 。自1955年以来，政府国内支出占国民生产总值（GNP）的比例急剧上升，而社会保障占了这一增长的绝大部分；在1970年至1975年间，社会保障支出翻了一番多，从320亿美元增至670亿美元，这一增速远远超过了受益人数量和消费者物价指数的增长 。雇员应缴纳的最高税额在1957年为94.50美元，1967年为290.40美元，1978年为965.25美元，预计到1987年将达到3045.90美元；这项税收（当与雇主匹配的税收结合时）消耗了超过4.5%的国民生产总值，并给私营经济带来了沉重的负担 。这两项税收被认为抑制了储蓄和资本存量，并成为工薪阶层的负担 ；它们可能还会对就业产生抑制作用。尽管美国人确信社会保障是一项有益的制度，但他们也越来越意识到其代价极其高昂 。并且，无论是在绝对支出还是在占国民生产总值的比例上，它都将继续增长。社会保障的极高声望一直是美国公共生活中的公理之一 。
+
+十年前，经济学家保罗·萨缪尔森（Paul Samuelson）在其《新闻周刊》的专栏中，宣布它是现代福利国家中最成功的项目 。他写道：“一个引人注目的事实是，专家和外行都会同意这一判断。”在萨缪尔森的同行、经济学家奥托·埃克斯坦（Otto Eckstein）看来，社会保障没有严重的政治或行政问题；正如米尔顿·弗里德曼（Milton Friedman）所写，它已经成为没有政治家敢于批评的“神圣之牛”（sacred cow） 。无论喜欢与否（萨缪尔森和埃克斯坦喜欢，而弗里德曼不喜欢），20世纪60年代后期的社会保障似乎是不容置疑和毫无异议的 。
+
+社会保障的行政领导人对该项目获得的压倒性支持感到自豪是可以理解的，他们也偶尔为此提供解释 。长期领导该项目的、善于反思的罗伯特·M·鲍尔（Robert M. Ball）认为，它之所以被证明具有极高的可接受性并取得了革命性的成果，有三个原因 。首先，它建立在古老且被广泛接受的原则之上——即工作、自助和个人储蓄的美德 。“这不是一个政府或富人帮助穷人的项目，”鲍尔写道 。“相反；它主要是一个人们利用政府作为工具来进行自助的项目。我们社会保障项目的本质是，人们通过自己的工作来赚取自身的保障” 。其次，它在“缴费型”基础上获得了稳健的融资，无需动用财政部的一般性收入来支付福利或行政开支 。第三，它以福利的形式将几乎所有的“缴费”返还给了公众 。行政管理仅消耗了2.2%的收入；然而，这种解释是缺乏说服力的 。
+
+第一点——社会保障本质上是一个自助项目而非政府项目——是该项目发言人习惯性断言的观点，而这是非常值得质疑的 。只有在最一般和抽象的意义上——即民主社会中的任何政府项目都可以说是人民自己的工作——这对社会保障才是成立的 。对于绝大多数人来说，参与是非自愿的；不纳税的人会受到惩罚；人们缴纳的税额也不决定他们获得的福利 。两者之间的关系一直非常薄弱；其次，鲍尔的解释忽略了一些明显重要的因素 。如果说较低的行政开支率一直很重要，那么更为重要的无疑是，受益人后来获得的福利远超他们所缴纳的税款 。例如，在1967年，鲍尔作证说，受益人及其雇主支付的费用仅占其福利精算价值的10%左右；最后，这种解释让人疑惑：如果该项目的财务独立性对其受欢迎程度如此重要，那么近年来其领导人为何还敦促引入一般性财政收入 ？“缴费型”（即工薪税）融资是否是其受欢迎的根源，如果是的话，是否应该对其做出妥协 ？
+
+社会保障的政治基础值得彻底分析，正如本书旨在提供的那样；社会保障是一项重大的公共制度，影响着几乎所有美国人现在和未来的生活，因此，了解该项目向美国人民推广并被其接受的基础至关重要；这一分析包含三个步骤 。第一步即第一部分，其基础是基于这样一种假设：可能存在某些原因 。关于政策制定系统的一些因素——正式结构、参与者以及他们达成选择的过程——解释了社会保障领域冲突和异议水平较低的原因 。它详细描述了该系统，各章涵盖了主要的参与者或对政策选择产生影响的主要来源 。每一章评估了一个由利益、意识形态或功能联系起来的主要行为体或行为体集群的角色和政策视角（例如，保守派利益集团在一章中讨论，而各种大众意见的表达渠道——群众运动、政党和具有群众基础的压力集团——则在另一章中被集中探讨），其主要论点是，政策是由相对狭隘且自主的一群行为体所制定的，他们对该项目具有强烈的“所有权”意识 。
+
+关于社会保障的决策通常是在结构和财务上独立于其他政府活动的决策而做出的 。在该“所有者”群体内部，在指导原则方面存在着高度的共识 。倡议和选择通常遵循由项目教条明确界定的路径，并被当作技术性问题来处理 。几乎没有考虑过重大的替代方案；占据主导地位的模式是维持和扩大该项目 。即使有可能解释政策制定系统为何采取了当时的形式，这样做也未必能解释为什么社会保障如此免于冲突 。很有可能——实际上是高度合理的——我所描述的那种受限且共识性的政策制定，是缺乏冲突的结果，而非原因 。如果对社会保障的争论更加广泛、深入和激烈，那个系统大概会变得截然不同 。如果这种形式的政策制定确实是结果而非原因，那么就有必要进一步寻找冲突水平较低的解释，而符合逻辑的切入点便是该项目本身 。
+
+这正是第二部分的目的，该部分考察了体现在社会保障中的主要政策选择，以及该项目中与政治潜在相关的主要特征；这里的核心主题是模糊性、不一致性、晦涩性和悖论——我认为这些特质在很大程度上解释了社会保障何以获得压倒性的、看似无条件的接受 。该项目意识形态上的模糊性和内部矛盾意味着它可以同时吸引自由派和保守派，并使个体决策者能够调和相互冲突的自由派与保守派冲动 。只要涉及到原则问题，每个人的原则都可以得到满足 。与此同时，该项目对自利具有强大的吸引力——纳税人-选民的自利（他们获得的福利远超其缴纳的税款），以及政治家的自利（他们可以同时为当前的纳税人-选民提供这些超额福利，将高税率推迟到下一代，并一本正经地宣称该项目的“财政稳健性”） 。到第二部分结束时，经过十四章的描述和分析，仍然存在一个未解之谜 。已经提出了两种可能的解释来阐明社会保障领域冲突水平较低的原因，一种在于政策制定系统的性质，另一种在于该项目的性质 。
+
+第三部分将探究推进一步，试图评估这两者的有效性和相对重要性 。这样做是可能的，因为第二部分并没有穷尽与社会保障相关的所有主要政策选择 。它仅涵盖了在1935年至1950年间落实的、为老年人和已故工人遗属提供现金福利的基础项目——官方术语称为“老年和遗属保险”（OASI） 。第三部分涵盖了该项目的主要扩张——1956年增加的伤残保险覆盖范围 ；1965年增加的为老年人支付医疗费用的医疗保险（Medicare） ；以及1969年至1972年间现金福利的跃升式增长。
+
+这些扩张被证明是充满争议的，而这是其他决策所没有的 。这一点上的证据，连同早先提供的证据片段表明，当提出对公共部门进行重大扩张时，社会保障领域并不缺乏争议 。我将这些关于公私责任划分的问题称为“边界”（boundary）问题，它们所引发的冲突与辩论，远多于涉及成本与收益分配的“分配性”（distributive）决策 。第三部分（第18章）的分析结论探讨了为何如此，并试图从社会保障的案例中提炼出一种关于政治争议决定因素，以及美国体制中政治与政策制定之间关系的合理的普遍性描述 。
+
+该案例对于这一普遍性目的很有用，因为它涉及了跨越数十年的、导致一项重大政府项目制度化的一系列政策决策 。许多分析政策制定的学术文献都集中在“主导性”或具有争议的案例上——这些危机或创新的时刻本质上很有趣，且无疑很重要，但其本身并不具代表性 。政策制定是混合体：一部分是激动人心的创新事件，在这些事件中政治行为体相互动员并竞争；另一部分则是并非如此激动人心的常规程序，这些常规程序的执行既没有广泛的动员、激烈的冲突，除了少数相关人员外，也没有多少人了解正在发生什么 。我试图描绘这种变化的一部分，并思考其对公共政策演变的意义 。我认为，冲突的缺席并不意味着变革的缺席，而那些常规事务，尽管在特定时刻对分析师来说可能并不有趣，但其累积效应却非常重要 。
+
+在选择专注于社会保险政策是如何制定的这一问题时，我很少关注“为何存在这样一个项目”这一更根本的问题 。如果本书旨在探讨该主题，它就必须广泛地与其他国家进行比较，并深入探究美国的历史、经济和社会结构 。现代福利国家是典型现象，而非例外 。无论是民主制还是威权制，单一制还是联邦制，“资本主义”、“社会主义”抑或“共产主义”，世界上几乎所有的国家都制定了为其部分人口提供收入支持的法律 。这种支持的范围似乎与经济发展水平有关 ；通常，较富裕、较发达的国家用于社会保险的支出占国民收入的比例，高于较贫穷、欠发达的国家 。研究还表明，社会保险项目运作的时间越长，其支出（同样是作为占国民收入的比例而言）往往越高 。此类项目存在渐进扩张的趋势 。覆盖范围会扩展至更多的人口群体，以及更多的风险或收入损失原因；随着时间的推移，福利标准也会提高 。
+
+但是，尽管收入支持项目在演变和目标上存在广泛的相似性，并且对经济发展力量有着或多或少共同的回应，各国在选择的项目组合上仍存在差异 。它们以不同的比例使用与工资相关的福利、向特定人口类别提供的定额补助（flat grants）或经过家计调查（means-tested）的项目，并且在强调某一类受益人或某一种收入来源时各有侧重 。区别于其他工业化国家，美国的特点在于其保险项目发展相对较晚，相对严重地依赖与工资相关的福利且缺乏定额补助，致力于使用工薪税（payroll tax）融资，以及即使实践已偏离该信条，仍坚持“一分钱一分货”（getting what you pay for）的教条 。
+
+在行政领导层行使影响力的程度方面，美国可能也是不同寻常的，尽管这一点很难确定 。比较分析一致指出，社会保险管理者在政策制定中具有重要作用 。一些分析人士认为，他们的影响力可能是导致渐进扩张模式广泛存在的一个原因 。“随着时间的推移，行政常规得以确立，关于既有成就的共识日益增强，而管理者们也对进一步的零星扩张产生了利益，”休·赫克洛（Hugh Heclo）在总结这种对事件的解释时写道 。赫克洛推测，在美国，国家行政结构发展的有限性阻碍了社会保险项目的启动，但“该事业的全新性意味着政策制定者能够建立一个新的行政机构，该机构将坚定地致力于新的保险教条，并将使基本政策方针免受未来来自多元主义政治（pluralistic politics）的干扰。”
+
+在美国，1935年的《社会保障法》标志着福利国家的建立 。作为富兰克林·D·罗斯福（Franklin D. Roosevelt）总统“新政”的一项成就，该法案是对大萧条的回应，但其根源却在于本世纪初发展起来的各类社会运动 。当贫困与苦难大规模袭来时，这些运动的领导者们已经准备好了采取国家行动的理念 。除了养老保险外，该法案还规定了失业补偿、向特定类别的贫困者（老年人、盲人以及失去父母抚养的十六岁以下儿童）发放救济金、儿童福利服务，以及妇幼保健服务 。希望了解该法案整体起源，乃至仅了解其养老保险部分起源的读者，查阅历史著作和回忆录，会比阅读一位政治学家对后续政策制定的描述更好 。
+
+作为历史，本书始于1935年，当时这部基础性法案成为法律，而我认为是后续政策演变主要推动者的社会保险项目的行政领导人，正开始塑造他们的组织，并形成对该项目未来图景的构想 。同样作为历史，可以说它结束于1972年 。随着该年度福利的异常增长，以及一项将未来增长与消费者物价指数自动挂钩的法律的通过，该项目呈现出了当代的形态 。
+
+在1973年初退休前夕，专员鲍尔（Ball）预见到现金福利项目将迎来一个相当稳定的时期 。根据他作为告别辞而准备的一份冗长评估，与近期频繁的增税形成对比的是，将于1973年1月生效的税率将在未来四十年内保持平稳甚至略有下降 。回想起来，1972年这个过渡年份似乎引致了一个新的动荡时代，而非新的宁静时期 。由于经济的失调，该项目的短期财务状况很快出人意料地急转直下，而由于人口和经济假设的变化，长期预测也变得更加悲观 。与此同时，政策制定程序的改变耗尽了内在的容错空间 。政府不得不开始为社会保障寻求更多资金，这重新开启了原以为已经解决的问题 。我在第二部分中描述的受限且共识性的政策制定系统，可能会在新的条件下发生改变 。它已经发生了足够大的改变，以至于我故意使用过去时态来描述它，仿佛该系统是一个在1972年终结的历史现象 。即便如此，它也是一个具有重要意义的现象，因为它贯穿了该项目建立初期的数十年，并对早期社会保障政治产生了重要的后果 。
+
+一些读者会希望书中能对老年人、残疾人和病患的处境给予更多关注，他们是社会保障的主要受益群体 。如果本书的目的是解释为何存在社会保险项目，那么就有必要探讨社会保险所回应的经济和社会状况，但本书的焦点却集中在政策制定者及其选择上 。本研究假设，政策制定本身就值得去理解，并且可以在不详细了解选择客体的情况下，对公共选择的制定过程进行评估 。无论如何，社会问题随着时间的推移已经发生了相当大的变化 。在项目建立的20世纪30年代，这些问题肯定比其进行实质性扩大的1965-1975年间要严重得多 。该项目的扩张似乎是独立发生的，既不受制于社会条件的变化（本分析对此甚少关注），也不受制于政党政权的更替（本分析对此极为关注） 。政策制定和项目扩张拥有其自身的连续性、动力和政治逻辑 。如果社会保障是一个具有代表性的案例（毫无疑问，它是一个主导性案例），那么规模的不断扩张就是现代福利国家固有的属性，或者至少是不可阻挡的 。
+
+终章将回到这一命题，并思考如何（如果可能的话）保持选择的开放性 。在一个政策制定长期以参与受限、教条僵化和极度惯性为特征的项目中，首要的需求是扩大选择的可能性 。首先必须认识到，未来政策制定的选择范围不太可能很广 。社会保障署（Social Security Administration）的首席精算师最近在写下这段话时无疑是正确的：“该项目如此庞大、根基如此深厚，而且是我们国家社会经济结构中如此重要且不可或缺的一部分，以至于其发展的势头将无法被阻止。唯一的问题在于，它将向什么方向发展以及增长多少。” 正如他所言，问题在于它将是“以一种不受控制和非理性的方式增长，还是以一种合乎逻辑的方式增长，从而最好地匹配受益人的经济需求和纳税人的财务能力。” 我同意他的断言，即答案将“在很大程度上取决于知情公民之间对话的深度” 。我认为，这种对话在过去一直严重匮乏，我希望本书通过揭示这一事实，能够促成改进 。
+
+1 Charles L. Schultze, "Federal Spending: Past, Present, and Future," in Henry Owen and Charles L. Schultze, eds., Setting National Priorities: The Next Ten Years(Brookings Institution, 1976), pp. 323-69; Herbert Stein, "Spending and Getting, in William Fellner, ed., Contemporary Economic Problems 1977 (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1977), pp. 53-81.
+2 See, among numerous works by economists, Alicia H. Munnell, The Future of Social Security (Brookings Institution, 1977), chap. 6; and Sherwin Rosen, "Social Security and the Economy," in Michael J. Boskin, ed., The Crisis in Social Security: Problems and Prospects (San Francisco: Institute for Contemporary Studies, 1977), Pp. 8106
+3 Staff Data and Materials Relating to Social Security Financing, prepared by the staff for the Senate Committee on Finance, 95 Cong. 1 sess. (Government Printing Office, 1977), pp. 47, 87.
+4 Newsweek, February 13, 1967, p. 88.
+5 Otto Eckstein, "Financing the System of Social Insurance," in William G. Bowen, Frederick H. Harbison, Richard A. Lester, and Herman Somers, eds., The Princeton Symposium on the American System of Social Insurance (McGraw-Hi, 1968), p. 48.
+6 Newsweek, April 3, 1967, p. 81.
+7 Robert M. Ball, "The American Systein of Social Security," Journal of Commerce, June 15, 1964; encl. to SSA Vista, vol. 7 (October 2, 1964). SSA Vista was an in-house newsletter for Social Security Administration employees.
+8 In 1961, for example, the Internal Revenue Service seized three horses belong.ing to Valentine Y. Byler, a farmer in New Wilmington, Pennsylvania, and sold them so that the government could collect $3o8.96 in unpaid social security taxes. A member of the Amish sect, which teaches that its members should care for one another, Mr. Byler had declined to participate in a system of social insurance. Congressional Record ( June 26, 1961 ), pp. 11307-08.
+9 Departments of Labor and Health, Education, and Welfare Appropriations for 1968, Hearings before a Subcommittee of the House Committee on Appropriations, 90 Cong. 1 sess. (GPO, 1967), pt. is Ida Fuller of Brattleboro, Vermont. p. 869. An extreme individual example in the program's first group of beneficiaries. She began getting social security checks on January 31, 1940. Miss Fuller had paid $22 in taxes before her retirement. When she died in a nursing home her thirty-five years later at the age of one hundred, she had received more than $20,000 in benefits. If Miss Fuller had been a married man with a spouse's benefit equal to 50 percent of her own, this would have lifted the benefit-cost ratio to even more impressive heights. Miss Fuller and her relatives, and millions of other early beneficiaries and their relatives, had every reason to believe that social security was a wonderful thing. (New York Times, January 28, 1975.) For a recent academic analysis of the magnitude of "unearned" benefits in the program, see Donald O. Parsons and Douglas R. Munro, "Intergenerational Transfers in Social Security," in Boskin, ed., The Crisis in Social Security, pp. 65-86.
+10 Two works of political analysis, both of them very brief, have appeared recently: Carl V. Patton, "The Politics of Social Security," in Boskin, ed., The Crisis in Social Security, pp. 147-71; and William C. Mitchell, The Popularity of Social Security: A Paradox in Public Choice (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1977 ) .
+11 A note on terminology is called for. I use the terms "social insurance" or "social security" interchangeably in this book to denote a cluster of programs known officially as OASDHI, or Old Age, Survivors, Disability, and Hospital Insurance. This use of "social security" conforms to today's popular usage, except that the hospital insurance part of this program is more commonly known as "medicare." As medicare, it also encompasses what in official terminology is known as SMI, the Supplementary Medical Insurance system, which pays for doctors' fees and certain other medical services for persons sixty-five and over who have elected to participate in it and pay a monthly premium. In the Social Security Act of 1935, the term "social security" was used more broadly, to encompass government programs of public assistance (means-tested aid to the poor) and unemployment compensation as well as old age insurance, a program in which benefits were granted by right regardless of need, in return for payment of payroll taxes.
+This book is about policymaking for the OASDHI portion of the Social Security Act. It does not cover public assistance--which today is popularly known as "welfare"--except incidentally, as an alternative to social insurance, nor does it cover unemployment compensation, which is often classified as a form of social insurance. The analysis of disability insurance and medicare is limited to the policy decisions to add them to the basic program (see chapters 15 and 16). Both of these programs, medicare especially, are so important and complicated that policymaking for them would merit treatment as an independent subject altogether.
+12 Some readers may wish to read part 2 before part 1. Part 2 is more meaningful if the reader has become acquainted first with the policymakers described in part 1, but part 1 is more meaningful to the reader who is cognizant of the  issues and choices analyzed in part 2. I have tried to make each part comprehensible independently.
+13 Arnold J. Heidenheimer, Hugh Heclo, and Carolyn Teich Adams, Comparative Public Policy: The Politics of Social Choice in Europe and America (St. Martin's Press, 1975), p. 192. Heclo's chapter on income maintenance in this volume is an excellent comparative analysis of the development of social security systems. See also the literature cited there. 
+14 Ibid, p. 197.
+15 For example, see Arthur J. Altmeyer, The Formative Years of Social Security(University of Wisconsin Press, 1966); Edwin E. Witte, The Development of the Social Security Act (University of Wisconsin Press, 1963); Frances Perkins, The Roosevelt I Knew (Viking, 1946), chap. 23; Merrill G. Murray, "Social Insurance Perspectives: Background Philosophy and Early Program Developments," Journal of Insurance, vol. 30 (June 1963)
+16 Robert M. Ball, "Managing the Social Security Program," encl. to SSA Vista, vol.16 (February 8, 1973).
+17 A. Haeworth Robertson, "OASDHI: Fiscal Basis and Long-Range Cost Projections," Social Security Bulletin, vol. 40 (January 1977), p. 48. But see also the article written by Robertson after he left office, in which he argued that failure to revise and contain social security--for example, by raising the age of eligibility-would result in destructive economic and social costs. "The nation must not be influenced unduly," he wrote, "by decisions made in the past by and for different generations of people living under different circumstances." Robertson was chief actuary of the Social Security Administration from 1975 to 1978. "Providing for Social Security," Wall Street Journal, September 6, 1978.
+
+
+# 第一部分 参与者
+
+## 第一章 项目行政主管
+
+“社会保障将永远是一个目标，而绝非一件已完成的刻板事物，因为人类的抱负是可以无限扩展的……正如人性是可以无限完善的一样。” 这句引自阿瑟·奥特迈耶（Arthur Altmeyer）——他在1935年至1953年间的大部分时间里领导了社会保障项目——的名言，展示在位于巴尔的摩的社会保障署（Social Security Administration）总部的博物馆内 。这句名言在很大程度上揭示了那些在行政部门内部负责运行该项目的人员的特质 。它以极其纯粹的形式表达了他们的自由主义信念，以及对人类毫不掩饰的乐观态度 。它同样以纯粹的形式表达了他们的公共政策制定哲学 。如同人类自身的进步一样，公共事业的改善是事物的自然状态，而改善的途径即是扩张 。
+
+该博物馆中带有颂扬色彩的陈列也揭示了奥特迈耶所塑造的这个组织的一些特征。他的办公桌陈列在那里，上面放着一部20世纪30年代的电话，但在办公杂物方面却别无他物（在玻璃桌面下保存着一封奥特迈耶写给社会保障署历史学家的信，他在信中写道：“我是一个保持办公桌整洁的人”） 。那里还通过电影和原声带鲜活地展示了伟大的自由主义总统们的身影：富兰克林·罗斯福（Franklin Roosevelt）签署1935年《社会保障法》（Social Security Act），以及林登·约翰逊（Lyndon Johnson）在三十年后签署联邦医疗保险（medicare）法案 。有超过90,000人为该机构工作，其中20,000人在其巴尔的摩总部工作，其中心建筑正是以奥特迈耶的名字命名的 。如果员工们驻足观看博物馆内收藏的图片、小册子、新闻剪报和手工艺品，博物馆就会提醒他们铭记社会保障署的历史传统 。这是这个具有强烈自我意识的组织向其成员诉说其过去是什么、其目标应是什么，以及为何他们应为这两者感到无比自豪的方式之一 。
+
+### 连续性与承诺
+
+该组织的领导者——或者我称之为项目行政主管——一直是一个拥有强大持久力的小群体 。连续性和持久性是其特征 。在社会保障项目最初四十年的大部分时间里，行政行动的塑造者鲜有更迭；少数几位核心人物主导了全局 。
+该项目的最高行政长官是社会保障委员会（Social Security Board）主席，直到1946年这个由三人组成的委员会被废除；自那以后，该职位由社会保障署署长1（commissioner of social security）担任 。从1936年到1972年，共有六人担任过这两个职位：
+
+- 约翰·G·怀南特（John G. Winant） 1935–1937
+    
+- 阿瑟·J·奥特迈耶（Arthur J. Altmeyer） 1937–1953
+    
+- 约翰·W·特兰伯格（John W. Tramburg） 1953–1954
+    
+- 查尔斯·I·肖特兰（Charles I. Schottland） 1954–1958
+    
+- 威廉·L·米切尔（William L. Mitchell） 1959–1962
+    
+- 罗伯特·M·鲍尔（Robert M. Ball） 1962–1973
+    
+
+然而，即使是如此少的人数，也夸大了领导层的流动性。奥特迈耶和鲍尔两人担任最高行政长官的时间加起来超过了总时间的三分之二 。此外，如果我们不局限于这份名义上的清单，而是试图找出实际而非名义上的最高行政长官，那么鲍尔的任期将被视为远远长于十一年 。这至少可以追溯到1953年 。在艾森豪威尔（Eisenhower）政府的大部分时间里担任署长的肖特兰，在随后的采访中并没有声称自己掌控了社会保障项目 。它也不是由共和党人任命的老年和遗属保险局（Bureau of Old Age and Survivors Insurance）局长维克多·克里斯特高（Victor Christgau）所掌控的 。它实际上是由当时担任该局副局长的鲍尔负责运行的。2
+
+说明行政领导层稳定性的另一种方法是考察特定时期社会保障署高层职位任职者的职业履历 。例如，在1970年，当该项目已经运行了一代人之久时，作为署长的鲍尔、一位副署长（阿瑟·E·赫斯，Arthur E. Hess）以及四位助理署长（负责行政管理的杰克·S·福特曼，Jack S. Futterman；负责区域行动的托马斯·C·帕罗特，Thomas C. Parrott；负责项目评估与规划的阿尔文·M·大卫，Alvin M. David；以及负责研究和统计的艾达·C·梅里亚姆，Ida C. Merriam），他们在社会保障署的服役时间总计达到了191年 。他们都是在20世纪30年代加入该机构的，并且几乎将整个职业生涯都奉献在了这里 。尽管其中一些领导者是从低级别的外地基层职位起步的（鲍尔最初是在纽瓦克担任外地代表），但他们在总部的高级职位上度过了很多年 。美国卫生、教育及福利部（Department of Health, Education, and Welfare）的一份半官方历史文献将社会保障署描述为一个“以职业生涯为导向的组织” 。其管理架构中有极大比例是由那些“与系统共同成长”的人组成的 。3
+
+建设这个项目是一项工作——更是一项使命——一些男女为此倾注了一生。领导层表现出非凡的谦逊 。奥特迈耶作为奠基性人物——被整整一代充满敬意的员工尊称为“社会保障先生”（Mr. Social Security）——是一个安静的人，据曾短暂担任署长、并长期担任其副手的威廉·米切尔称，他从不“将自己作为一个个人推向台前” 。对奥特迈耶而言，项目永远是第一位的；他“总是在思考计划、政策或项目” 。4奥特迈耶自我评价的坦露与此并不矛盾：
+
+> “我认为检验一个好管理者的标准，在于你是默默无闻的，还是一个引人注目的角色，一个公众人物 。如果你是一个公众人物，或者如果你有任何渴望成为公众人物，你就不太可能对管理本身感兴趣 。我认为保持默默无闻是可取的，这样你才不会让公众卷入基于性格而非成就所做出的决策中 。当然，非常需要像（萨金特）施莱弗（Sargent Shriver）[20世纪60年代和平队及后来的经济机会局局长]那样脱颖而出的人物 。天哪，你确实需要像施莱弗这样的人物来推销一个项目并抓住公众的想象力 。但这与我的能力或兴趣大相径庭，超出你的想象 。我会对那种任务退避三舍 。所以我曾多次说过，一个成功的管理者应该像菠菜一样无趣——而且还是凉拌菠菜 。理念就该如此……我不认为你能在我的整个职业生涯中找到任何色彩斑斓的东西 。如果你能找到，我会感到惊讶的 。”5
+
+罗伯特·鲍尔作为奥特迈耶的继承者（尽管不是他的直接继任者），对这份工作的看法则有所不同，他认为它“为了获得成功，需要具备许多公众人物的能力” 。在鲍尔看来，署长需要能够“发表激动人心的演讲、与工会谈判、在电视上表现出色，并通过直接的人际接触激励员工” 。6那些了解鲍尔的人认为他在处理这些任务时非常娴熟 。他的前任之一查尔斯·肖特兰将他描述为社会保障项目的“首席……哲学家、管理者、阐释者 。他非常口齿伶俐，有一种表达思想的绝妙方式，（并且）在智力上极其灵活，因此他能想出办法来处理那些需要妥协的情况 。他聪明又风度翩翩，极具才智 。他很有勇气 。一个非常不寻常的人……能力极强 。”7
+
+与奥特迈耶一样，鲍尔将自我置于社会任务之下，并激发了组织下属强烈的忠诚感 。1973年卸任署长后，他住在华盛顿，继续致力于社会保险项目的建设 。担任公职并非关键所在，这是社会保障领导层具有使命精神的一个标志 。一些最重要的领导者即使在名义上成为普通公民后，仍继续履行着许多领导职能 。
+
+### **目标明确且留有妥协余地**
+
+行政领导者们清楚自己想要什么；他们对首要原则非常明确 。然而，尽管他们在某些问题上显得教条，但他们绝非无法妥协 。在广阔的政策领域里，这些教条并没有提供最终的指南 。教条主要涉及项目的运作特征 。它应该是缴费型的（contributory）：人们必须通过缴纳费用（纳税）来获取申领福利的资格 。在缴纳了费用之后，他们或其受抚养人应将获得福利视为一项权利 。绝对不能有经济状况调查（means test），也就是说无需证明其处于贫困状态 。福利应与工资挂钩 。该项目应具有全国范围的适用性，并应由联邦政府负责运营 。它应该是普遍且强制性的 。
+
+这些都是重要的问题，但它们仍留有大量的选择空间 。关于这些原则的应用，社会保障署的高管们可能会表现得相当灵活 。人们应该缴纳费用，但他们不需要缴纳太多、也不需要缴纳太久就能获得福利资格 。该项目也不必仅仅由缴费（和配套的雇主税）来提供资金 。在很早的时候，管理者们就提议使用一般财政收入（general revenues），而在另一次战术灵活性的展示中，当国会表现出不接受的态度时，他们又放弃了这一提议 。尽管他们绝对坚持福利应当与工资挂钩，但他们从未规定具体的比例关系应该是怎样的。他们还认为社会保险福利应该是累进的，向低薪劳动者倾斜 。因此，他们将社会保险设想为一个结合了福利目的（消除贫困）和维持习惯性生活水平的项目； 但是，究竟应在哪里达到这种平衡，他们对此并没有固定的观点 。即使在国家行政管理的问题上，他们也不是不知变通的 。当似乎只有在给予州政府重要行政角色时，残疾保险（insurance against disability）法案才能通过时，社会保障的行政领导者们欣然接受了这一妥协 。这些领导者所表现出灵活性的点并非细枝末节，也不仅仅是对基本原则如何应用的解释； 它们决定了成本和福利将如何在不同社会阶层之间分配，即社会保险中“谁得到什么”（who gets what）的问题 。在税源、福利水平以及已缴税款与所获福利之间的关系上保持灵活性，为项目中所包含的最重要的社会选择留下了包容与调整的空间 。
+
+在解释和评估行政规划者在社会保险方面取得的成功时，重要的是要客观地看待其目标的范围 。他们主要在工具性层面上定义其目标 。他们希望建立一种特定的项目，即被称为社会保险的项目，并将其覆盖范围广泛扩展到全国人口及各种风险类型上，包括年老退休、残疾和健康不佳 。他们在这一点上非常成功 。今天存在的一个庞大项目正符合初创时期确立的首要原则 。如果当初在定义目标时精确地规定了最终的社会结果，那么成功肯定要难得多 。如果当初的行政创始人能够自由地使该项目符合个人偏好，他们很可能会使它比实际情况更加累进（尽管我估计，不会是激进的平均主义） 。该项目一直由自由主义者运营，他们坚信应广泛而有力地使用政府力量来实现社会福利，特别是保护穷人免受不幸 。但是，如果说自由主义是行政领导者中的主导价值观 ，那么实用主义（pragmatism）始终同样有力地指导着他们在任期间的行为 。他们压倒一切的目标是建立和扩展社会保险项目 。为此，他们需要获得国会和公众的接受，并准备好为了这一目的调整项目设计 。起初，该项目的建立本身就可以被视为自由主义的胜利 。至少在20世纪60年代之前，自由主义者和保守主义者的分歧在于公共部门与私人部门活动的界限应划在哪里 。这个项目是否应该存在，对自由主义者（包括其行政创始人）而言，比它应该做什么、以及为了谁的利益而做，要更为关切 。它在很大程度上未能服务于平均主义目的，并且实际上经常给那些只缴纳了少量费用却相对富裕的人带来巨额福利，这似乎并没有要求创始人们对他们自己或他人进行辩护或正当化 。带着明显的自豪和平静，奥特迈耶曾评论道：“没有人认为拿那张支票有损尊严，我想他们可能还盼着它呢 。如果他们非常富有，他们可能会把它交给妻子，让她拿去买些原本不会买的东西 。大家都皆大欢喜，快乐得像云雀一样 。”8
+
+### **通过渐进步骤进行扩张**
+
+尽管项目的领导层基本保持不变，但该项目却在不断变化。它在扩张 。“越多越好”可以说是其领导者的座右铭，他们从来都不缺乏当下的立法议程，也不缺乏关于长期议程的构想 。据哥伦比亚大学一位密切而富有同情心的观察家埃弗琳·M·伯恩斯（Eveline M. Burns）称，这种持久驱动力的解释在于领导层所秉持的自由主义和人道主义价值观 。她曾告诉采访者：
+
+> “[它一直是]一个极其人道的行政机构 。以老年和遗属保险为例 。他们现在肯定已经达到了第2000万个受益人 。想想看这本来会怎么运作 。他们本可以从一开始就对进来的申领人抱有怀疑，把所有证明其有权获得福利的举证责任都推给申领人 。他们本可以把自己的工作看作根本不涉及政策层面 。他们被告知执行法案，他们大可以仅此而已，而不去问自己这个法案是否已经尽善尽美了…… 恰恰相反，在这个项目中的重点，从一开始就（并且越来越明显地——对于一个庞大的项目来说这很令人惊讶）截然不同 。……我认为，这在很大程度上要归功于鲍勃·鲍尔（Bob Ball）的影响 。他让这个机构渗透了他自己的一些理念 。他也成功地让一些非常优秀的人与他共事…… 他是一个了不起的人 。他拥有那些我认为非常重要的品质——理想主义、对项目的坚定信念，以及项目是为了服务人民的理念，而且他对这份工作的看法就是不断地看看它能否成为一个更好的项目 。”9
+
+罗伯特·J·迈尔斯（Robert J. Myers）曾长期担任社会保障署的首席精算师，最终因政见不合而离职。他认为，这种解释毋宁说在于公职人员扩大其管辖项目的“自然”冲动 。在一本为某英国研究机构撰写的小册子中，他写道：
+
+> “多年来，大多数从事项目规划和政策制定的美国员工都秉持一种哲学——并以近乎宗教般的热忱加以贯彻——即最重要的是项目的扩张 。对他们中的一些人来说，持有其他信念实质上就等同于反对该项目 。因此，这些人并不一定倾向于在政党之间抱有党派偏见，而是倾向于偏袒和帮助那些希望最大程度扩张该项目的人 。……人们倡导并大力推动他们所从事活动的增长，这不过是人之常情 。”10
+
+在某种程度上，这种扩张主义动力表现在对行政自由裁量权（administrative discretion）的行使上。奥特迈耶写道：“行政管理不仅仅由组织、程序和人员构成…… 行政管理还包括以能最充分地实现其根本目的的方式来解释社会立法 。”11然而，更为重要的是政策规划，旨在借此生成立法扩张的提议。政策规划早在联邦行政部门的组织中被普遍确立之前，就已在社会保障委员会内发展成为一种独特的功能。《社会保障法》责成委员会负责研究并就立法和行政政策事项提出建议，从而为这一发展奠定了基础。1934-1935年社会保障项目的许多创始人都来自学术界，并且相信研究和形式化分析作为政策制定要素的价值 。
+
+最初，政策规划职能被安置在研究与统计局（Bureau of Research and Statistics）。根据1949年的官方描述，该局（当时是一个“处”，后来成为“办公室”）的职能包括就通过社会保险提供社会保障的“最有效方法形成‘发现’和建议，特别是针对疾病和残疾期间尚未满足的保护需求”。12 在20世纪40年代I. S. 福尔克（I. S. Falk）的领导下，该处特别负责规划健康保险。然而，它对政策规划并没有专属管辖权 。老年和遗属保险局的一个项目分析处也很活跃 。值得注意的是，后来社会保障署的领导人（鲍尔、赫斯、大卫）都出自那里，这表明要么组织中最能干的成员在该处工作，要么那里的工作比在组织的其他部分（如外地行政管理）受到更高的重视和奖励 。
+
+社会保障署的政策规划始终包含在既定项目框架内进行变革的规划。社会保险被假定为首选的手段 。前一段引述的研究与统计办公室的使命即具有指示意义 。它被指派研究“通过社会保险”提供社会保障的方法 。人们对备受鄙视的替代方案——公共援助（public assistance）——关注甚少（社会保障署在1963年之前也负责公共援助），也没有考虑满足已感知到的社会需求的不同途径 。政策分析的流行技巧是找出一个社会问题，如缺乏医疗保健，并发展出通过社会保险来应对它的论据和方法 。与这种政策分析方法相一致的是，社会保障署的研究是在内部完成的，而不是像联邦政府许多其他机构那样外包出去 。13
+
+这种对社会保险的承诺结合了教条主义和实用主义的成分。社会保险的行政领导者当然相信，原则上这是解决社会依赖问题的最佳项目形式； 他们还认为这是最好的，因为在1935-1936年被确立和接受后，它相对容易得到扩张 。在他们看来，渐进的步骤相对容易为公众和国会所接受，并且无论社会保险原则延伸到何种新领域，都可以被包装为对一种广受欢迎和可接受的手段的详细阐述和修订 。在项目行政领导者阐明政策形成哲学的程度上，这种哲学强调渐进主义（gradualism） 。该群体中最持久、最具影响力的人物之一威尔伯·J·科恩（Wilbur J. Cohen，尽管他在1955年之后并未真正在社会保障署任职），曾向采访者总结过他们的观点：
+
+> “与我共事的男男女女，尽管他们是平民主义者，尽管他们是进步派，尽管他们是社会立法的坚定信徒，但他们也坚信渐进主义的必然性 。换句话说，他们认为一次迈出一步更为重要 。或者也许我应该这样说——一次消化一顿饭，而不是早餐、午餐和晚餐一起吃导致消化不良 。这就是他们的哲学 。我认为这是正确的社会哲学 。……事实上，最近一本分析我这些年行为的杂志有个标题叫‘切香肠的人’（Salami Slicer） 。文章说科恩部长相信切香肠的原则，也就是拿一块香肠切得非常薄，然后一片一片叠起来，最终你就能得到一个非常好的三明治 。这就是我对社会立法演进的理念； 一次咬一口并消化它，然后在有秩序的演进中进入下一阶段，而这种演进是政治体可以接受的，因为它被认为是具有现实意义的、实际的，也是他们愿意在此基础上添砖加瓦的 。”14
+
+迈尔斯在离开社会保障署后，冷眼旁观了其前同事的渐进主义策略：
+
+> “扩张主义者在策略上经常使用‘棘轮’（ratchet）方法 。他们不会和盘托出他们的最终目标，而是只倡导其中的一部分 。当他们只得到这一部分的一小点时，他们在当时也会感到满足 。他们相信总有改日进一步向目标推进的机会，而且他们知道，一旦实现了某种程度的扩张，想要倒退几乎是不可能的 。……通常，新颁布修正案上的墨迹未干，针对下一次立法努力的计划就已在制定中了 。”15
+
+事实上，社会保障署的高管们并不总是耐心的渐进主义者。1943年的瓦格纳-默里-丁格尔法案（Wagner-Murray-Dingell bill）绝非满足于零碎变革之人的作品 。作为一项影响深远的提案，它呼吁大幅增加现金福利、提供针对暂时和永久性残疾的保险、为全体人口提供健康保险、提供生育福利，以及建立一个完全联邦化的失业补偿系统 。但它并没有通过，甚至整体上也没有接近通过 。只有通过分解成多个部分在多年内逐一审议，并根据当时的政治环境对个别部分进行调整，瓦格纳-默里-丁格尔法案的许多内容最终才成为法律 。
+
+或许作为一种哲学，渐进主义同时也是从经验中汲取的教训 。尽管意识到零碎的步骤在美国政治体制中是合适的，但项目高管们仍然非常清楚其他工业化国家已经建立了全面的社会保险计划，他们相信美国假以时日也必将如此 。社会保险运动是国际性的，各国的领导人通过国际劳工组织（International Labor Organization）和国际社会保障协会（International Social Security Association）等组织保持着联系 。美国的领导人试图推行一种能很好适应美国文化和价值观的社会保障版本（因此强调与工资挂钩的福利和个人工作努力），但他们同时也意识到自己是全球运动的一部分，并因此相信他们正试图做的事情具有逻辑性，甚至是必然性 。
+
+### 能力与共识
+
+社会保障的行政领导者在极大程度上结合了行政管理与概念构建的能力 。作为出色的规划者和政策阐释者，奥特迈耶和鲍尔同时也是出色的首席管理者，并且得益于BOASI早期主管约翰·J·科森（John J. Corson）的非凡能力（内部人士常常将社会保障署杰出的行政表现归功于他） 。领导层组建、训练并激励了一支具有卓越能力和团队精神的队伍，并维持了高度的内部纪律。
+
+1935年后成立社会保障委员会员工队伍时，委员会成员亲自控制了大多数高层任命 。他们并没有依赖公务员委员会（Civil Service Commission）的常规程序 。尽管委员会的员工受联邦功绩制（merit system）管辖，但《社会保障法》为两类雇员（律师和专家）提供了豁免 。委员会成员慷慨地利用了“专家”条款来引进他们自己挑选的人选 。被期望成为政策规划中心的研究与统计局，到1937年2月其编制内单独就拥有了五十四名“专家”，这些人的任命均绕过了常规的公务员程序 。16
+
+公务员豁免针对专家是一项古老的国会惯例，通常保留给分肥制（patronage）任命 。但在社会保障委员会的情况并非如此，由怀南特和奥特迈耶组成的两人多数派极力抵制政治分肥的呼声，而倾向于基于功绩的任命，尽管主导标准是他们自己对“功绩”的理解 。一份早期的社会保障委员会行政史总结道，与新政（New Deal）时期的其他机构或那些突然获得新项目的较老机构相比，该委员会中政治恩赐任命的数量非常少 。17
+
+如果社会保障委员会的领导人没有挑选党棍，那么他们挑选了谁呢？麦金利（McKinley）和弗雷斯（Frase）非常简单地说，他们想要全国最优秀的人才 。尤其是奥特迈耶（他在1937年初怀南特辞职后升任主席），他对人事政策抱有很高的理念 。他将委员会的招募工作视为等同于大学选拔教员 。他需要创造性的头脑。为了得到他们，他和怀南特依靠个人熟人、与专业团体的接触以及“朋友的朋友” 。18 首批任命者继承自经济安全委员会（Committee on Economic Security）的班底，这个内阁级别的委员会曾在1934年规划了总统的社会福利提案；或者像那个班底一样，他们来自大学、基金会和其他私人慈善机构 。具有社会科学背景的人士受到偏爱。总的来说，首批被任命者并非来自其他更成熟的联邦机构，尽管有些人是从新政机构转过来的 。他们也不是来自私人保险业，这成了奥特迈耶与必须批准专家任命的公务员委员会之间的一个争论点 。公务员委员会很难理解，为什么具有私人保险经验的人会不如那些具有学术社会科学背景的人专业 。奥特迈耶后来回忆说，他从未“能够解释清楚私人保险和社会保险之间的巨大区别” 。19 那些确实带着私人保险背景来到委员会的雇员，后来被他们的上司判定为能力低劣 。他们获得的效率评级低于其他人 。
+
+在组织的最底层，即由外地办公室的助理和职员组成的层级，委员会无法雇佣“专家”，也无法雇佣怀南特和奥特迈耶朋友的朋友 。它必须遵循公务员程序，但仍强调素质 。人事主管从公务员名册中挑选新兵，该名册是建立在要求大学教育及通识知识笔试结果的基础上的 。像他在委员会的上级一样，他相信受过社会科学训练且具备高一般智力的年轻人会成为最好的雇员，而在大萧条（Depression）期间，这样的人员显然比后来在更繁荣时期更容易获得从事低级别公务员职位的机会 。正是在这种理论指导下，老年福利局（Bureau of Old Age Benefits）的地方办公室配备了人员，并为组织未来的领导者创造了一个人才库 。20
+
+阿瑟·赫斯的职业生涯就是一个例证，他于1939年进入外地办公室，最终成为副署长 。赫斯在普林斯顿大学（Princeton）本科学习政治学 。参加公务员考试时，他对社会保障并没有特别的兴趣，但一旦进入该组织，他发现服务人民的机会令人充满成就感 。他告诉采访者：
+
+> “我在高中时开始对公共事务产生浓厚兴趣，大学里我主修政治学 。实际上，我的父母都出生在瑞士，我有丰富的旅行经历和语言接触，我曾希望能进入外交部门 。……我参加了外交人员考试…… 所以我都准备好去国务院（State Department）了，但我没有通过外交部门的体检 。在此期间，我参加了公务员考试，在39年的一天，我收到了面试通知 。坦白说，除了任何对公共事务感兴趣的大学生都会关注社会保障问题之外，我当时其实并没有面向国内事务的打算 。……但我接受了社会保障局的这份工作，开始在外地工作 。渐渐对这份工作中的公共服务方面产生了浓厚的兴趣 。外地工作领域能带来强烈的职业满足感 。在与老年人打交道时，你可以帮助人们穿过官僚主义繁文缛节的迷宫，帮助他们登记，帮助他们弄清楚如何获取证明并理清他们的亲属关系，我总是发现每天工作结束时都有很强的满足感 。”21
+
+对招聘质量的强调帮助建立了一个组织，其成员在与他们尊重其智慧和能力的同事交往中找到了满足感 。在华盛顿特区，社会保障署因其卓越的行政能力建立了极佳的声誉； 它还发展出一种高度满足感的自我概念 。此外，由于组织的规模和活动范围不断扩大，成员们可以确信获得晋升 。极其能干的人迅速从外地或技术岗位晋升到总部的重要职位 。赫斯告诉采访者：
+
+> “……我对地方工作感到非常厌倦，因为从长远来看它在智力上缺乏足够的挑战性 。当我有了进入总部的机会时，首先是从事管理规划，然后进入项目规划……我想我只是越来越深地投入到社会保障项目活动中，接触了鲍尔、科恩和大卫，顺理成章地一步步走来 。我必须坦白地说，我从未受到过非常强烈的诱惑要脱离这个机构 。”22
+
+在一种微妙的层面，招聘程序可能也促进了对项目共享信念和态度的形成 。社会保障署的成员受到强烈的客户服务伦理（client-serving ethic）的约束：该组织的存在是为了服务其受益人 。招聘程序通过偏向于那些对公共保险项目已证实或预期具有承诺的人，从而对此做出了贡献 。尽管典型的新员工带着智慧、教育和一定程度的社会意识来到岗位，但仍然必须接受关于社会保险哲学和行政实践的培训 。始于项目初期的培训课程，在联邦机构中保持着不同寻常的复杂度和集中度 。培训并不仅仅是技术性的 。它没有局限于法律和法规的细节，而是旨在指导项目的概念基础，并灌输服务受益人的承诺 。回顾过去，奥特迈耶告诉采访者，这种培训及其对机构社会使命的坚持，是该项目广受欢迎的原因 。在地方办公室，公众遇到的是受过服务培训的工作人员 。“我们让这里的办事员以及高层官员在派往地方设立办公室之前停留数月，”他说，“所以他们完全被这种理念感染了 。完全如此 。”23 这种客户服务伦理如此强烈，以至于它与政府问责局（General Accounting Office）发生了冲突，后者指控社会保障委员会违反了一项禁止联邦官员鼓励对联邦政府提出索赔的旧法律。据奥特迈耶称，“我们花了好大一阵子才让他们相信这是一种不同性质的事物——因为有缴费，就存在某些法定权利，必须得到承认和实现，而我们负有这一义务。”24
+
+在一个整体上具有凝聚力的组织中，只有负责估算成本的精算办公室成为了持异议之地 。第一任首席精算师W. 鲁隆·威廉姆森（W. Rulon Williamson）断定该项目存在根本性错误，并于上世纪40年代末离职。他的继任者罗伯特·迈尔斯断定该项目的持续扩张将对国家经济构成威胁，并于1970年离职。但即便是在异议中，组织的自豪感依然存在。尽管迈尔斯毫不犹豫地指出，他在社会保障署（SSA）高层的前同事在政策上是错误的，并且在他们被指控为了对抗共和党政府目标而追求这些政策时是不道德的，但他从未暗示过他们的能力不够杰出 。在回顾过去时，他写道，SSA从上到下都配备了尽职尽责且能干的公务员，他们实现了高效、公正和诚实的行政管理 。25 在精算办公室以及其他部门，连续性和高能力是常态。迈尔斯在这个项目工作了三十六年，从经济安全委员会时期开始，他自己广受赞誉的专业技能也为该组织增添了光彩 。需要明确的是，这种自豪感和凝聚力仅代表了社会保险的管理部门 。多年来，社会保障委员会及其继任者社会保障署也负责其他项目——直到1963年的公共援助（public assistance）和直到1949年的失业补偿——但这些被行政领导层视为劣等项目 。社会保险是社会项目群星中最闪亮的一颗 。这种情况在整个组织内部造成了一些紧张和嫉妒，但提升了负责社会保险部分的团队精神 。
+
+从1978年的视角来看，似乎社会保障署长期以来关于行政能力的声誉并不完全实至名归 。当补充保障收入（Supplemental Security Income, SSI）在1974年作为联邦穷人援助项目启动时，SSA的基层行政管理崩溃了 。大约四分之一的案件在资格认定或支付方面发生错误； 超额支付每年接近十亿美元；申请人在地区办事处等待数小时的服务，然后接待他们的却是对规则了解不足、被计算机故障所困扰的员工 。报纸进行了曝光，国会各委员会纷纷介入调查。新项目的重担以及该组织无法应对这些重担的事实被揭露，严重破坏了SSA传统的极高士气 。然而，仅仅根据SSI的经验就断言SSA行政卓越的声誉名不副实，将是完全错误的 。最近的历史表明，不是该组织存在缺陷，而是那些使其声誉建立起来的任务相对容易执行 。在基层，这些任务只需要有限的自由裁量权，因为法律对老年和遗属保险下的福利权利有着极其详尽的规定 。因为申请人如果符合条件就是依法享有权利的，所以基层工作者并不扮演对抗者的角色 。而且，因为行政组织垄断了关于规则和个人申请人与系统关系的资讯，雇员通常处于帮助申请人获取其应得福利的位置 。他不必从申请人那里索取或评估信息，这类情况往往使机构容易受到欺诈，并在雇员与受益人之间产生敌意 。正是任务的性质（而不仅仅是技术能力或被灌输的态度）使得错误率极低，且客户与机构雇员双方的满意度都很高 。
+
+### 专长知识
+
+专长知识是社会保障署领导人的另一个显著特征，在一定程度上源于前面已描述的特质：任职的连续性、高水平的智力能力，以及组织在通过研究积累知识上的大量投资 。该项目的行政领导者为政策制定带来了使其有别于其他参与者（其中大多数远非专家）的技能和知识广度 。项目的性质也有助于解释这种与众不同的专长知识 。要理解社会保障的运作，包括诸如如何确定资格和福利以及如何为项目融资等基本问题，需要付出巨大的努力 。横亘在专家和非专家之间的，是专业的词汇，以及由错综复杂的法律和法规堆砌而成的障碍，对于任何没有受过法律、经济学、公共财政或精算科学训练的人来说，其中大部分都是难以完全理解的 。不仅是现有的知识区分了专家与非专家 。它也是一种预测的能力，因为正式的预测方法构成了政策制定的不可或缺的部分 。效仿私人保险的模式，社会保障署是根据精算师（精通保险风险和保费计算的专家）编制的收支预测来提出法案建议的 。任何希望理解并参与社会保障政策制定的人，都必须了解这些预测背后的假设、方法学和术语体系 。这是一项晦涩的，或至少看起来晦涩的工作，有着独特的术语系统，围绕着“均衡保费成本”（level-premium costs）、“应税工资单百分比”（percentages of taxable payroll）、“受保收入”（covered earnings）、“静态收入假设”（static earnings assumptions）等术语，这些术语对非专业人士来说并不是一目了然的，而且最重要的是，它们可能会与那些要么庞大得难以理解，要么小得不合常理的数字联系在一起（因此项目变更的成本是以“应税工资总额”——即需缴纳社会保障税的总收入——的微小百分数来衡量的，且由于总数庞大，这些百分比都是微乎其微的） 。在政策制定中，让人无法理解未必是一种优势。专家无法避免与占据选举职位的非专家打交道，虽然有些非专家可能对他们不了解的东西感到敬畏，但其他人则会感到烦恼和挫败。该领导层的技能之一（又一个标志）是：尽管他们本身是专家，却能够用通俗易懂的方式开展公共对话 。罗伯特·鲍尔作为行政主管的伟大天赋之一，就在于擅长将本质上令人困惑的题材澄清； 在作证时，他总是口齿伶俐、耐心且清晰易懂。然而，事实依然是，很少有外部人士指望能在对这一主题的掌握上与内部人士竞争 。外部人士需要依赖内部人士进行解释 。
+
+### 行政自主权
+
+联邦政府项目的首席执行官——意味着作为署长、委员或局长，对主要活动负有首要责任的官员——必须与他人分享行政权力 。在使用补助金（grants-in-aid）资助州或地方政府的项目中，他们必须与接受拨款的政府高管分享权力 。在联邦政府内部，他们与部门的上级领导和总统分享权力，这些高层需对下属的所作所为向国会和公众负责 。在社会保险项目中，其他这些高层领导一直未成为重要的约束或竞争来源 。
+
+社会保险的行政领导者不必过于担忧联邦体制内的其他政府层级 。除了一些授权州政府机构认证参与联邦医疗保险的医院和疗养院的合同，以及残疾保险项目中赋予州机构对残疾初始认定责任的反常条款外，该项目完全是一个联邦项目 。在联邦系统内的自主权赋予了他们比那些管理财政补助计划的联邦管理者预期能实现的更大的项目控制权 。
+
+在成立最初的几年里，社会保障委员会是联邦行政部门内的一个独立机构，不受任何行政监督，除了总统；甚至在那个时候，拥有比现在少得多的事务的总统，通常也不会太关注国内行政管理 。奥特迈耶回忆起罗斯福总统时说：“他对行政管理不感兴趣 。他只是假定奥特迈耶懂行，并且他不想被打扰 。”26
+
+当1939年联邦安全局（Federal Security Agency, FSA）成立时，社会保障委员会失去了其独立地位 。与组成新机构的其他五个局（公共卫生局、教育办公室、美国就业服务局、平民保育团和国家青年管理局）一起，它被置于一名由总统任命的FSA行政首长之下 。FSA下属的各个组成部分保留了相当多的自由，并且在FSA于1953年改组为卫生、教育及福利部（HEW）之后，那些留存下来的部门继续保持着这种自由。27 FSA以及后来HEW的历史，就是一部通才行政官缓慢、犹豫、几乎不成功地试图对名义上的下属专业局施加控制的历史 。
+
+在社会保障署（SSA）的案例中，规模和物理距离构成了阻碍通才行政控制的特殊障碍 。SSA的员工占到了HEW人员的将近三分之二。其总部设在马里兰州巴尔的摩，距离华盛顿的HEW总部大约有一个小时的车程 。这种分离起初是偶然的 。20世纪30年代末华盛顿没有足够的办公空间来容纳快速增长的老年保险局（BOAI），所以它的一些活动被安置在巴尔的摩的一座制造和仓库大楼里 。这种安排本应是临时的，20世纪40年代初在华盛顿完工的FSA总部大楼就包含了特殊的电气管道和加固的地板，价值约150万美元，这是社会保险项目所需的数据处理设备所需的 。但老年和遗属保险局（BOASI）从未搬进过这座大楼，该楼最初被一个战时机构占据，随后被FSA的其他部门所用 。
+
+奥特迈耶决定将BOASI的总部设在华盛顿之外，正是为了保护它的独立性 。他的副手威廉·米切尔后来回忆起奥特迈耶的推理：“他私下对我说……他这样做是因为……他希望老年和遗属保险能在没有外来的、外部因素施加影响的情况下发展 。如果他们远离政府中心，远离联邦安全局或后来的卫生、教育及福利部的总体组织结构，那么这个局将有更大的机会去客观、稳健地发展 。”28 米切尔向奥特迈耶争辩说，尽管社会保险很重要，但它不是唯一的东西，而且为了整体项目的利益，组织的各个部分应该放在一起 。据米切尔说，奥特迈耶最终也开始认为他的决定是个错误，但事实证明它是不可逆转的 。在20世纪50年代初，将BOASI总部迁往华盛顿的企图被国会中的马里兰州代表团击败。29
+
+阻碍行政监督的另外两个障碍是SSA的财务独立性以及其领导者所享有的卓越行政能力的声誉 。事实上，SSA几乎所有的运作，甚至包括办公设施的建设和租赁，都是通过专项用于社会保障目的并记入信托基金（trust fund）的工资税来提供资金的 。直到1969年通过了统一预算（unified budget），将所有信托基金与传统预算项目合并之前，社会保障的金融交易都与政府其余部分的交易分开记录，这抑制了预算局（Bureau of the Budget）和卫生、教育及福利部部长的监督。此外，无论是在预算局还是HEW，行政主管们无一例外都对社会保障领导层被大肆赞扬的管理技巧充满敬畏 。“我对普通职员完全有信心，”查尔斯·肖特兰在向采访者解释他为什么作为社会保障署署长不干涉老年和遗属保险局时说道。特别是，他对鲍尔有信心。30
+
+孤立地来看，领导层的这些特征仅仅是理解该机构在政策制定中角色的一步。无论他们在任多长时间，他们对目标有多么确定，他们为工作带来了多少能力、承诺和专长，或者他们如何免于行政监督，项目的领导者都无法单凭自己制定政策 。政策最权威的表达是法律，而在宪法上，制定法律是国会的职能。为了创建社会保障的行政规划者所设想的那个项目，他们首先需要国会的合作。
+
+引用
+
+1 Initially (1935-46), the Social Security Board was responsible for administering old age insurance and the other programs authorized by the Social Security Act. Within the SSB, a separate bureau, called at first the Bureau of Federal Old Age Benefits and then the Bureau of Old Age Insurance, was in charge of old age insurance. Following the 1939 amendments to the Social Security Act, it was renamed the Bureau of Old Age and Survivors Insurance, in recognition of the changed character of the program. In 1946 the board was abolished and replaced by the Social Security Administration. The BOASI survived, and the SSA continued to include other bureaus, responsible for other programs. Following a reorganization of the Department of Health, Education, and Welfare in 1963, the SSA finally be came responsible for the insurance program alone, other programs having been moved elsewhere. Subunits multiplied within SSA to reflect the complexity of the maturing, expanding insurance program. As of 1972, SSA contained the following components: Office of the Commissioner, Office of the Actuary, Office of Administration, Office of Public Affairs, Office of Program Evaluation and Planning, Office of Research and Statistics, Bureau of Disability Insurance, Bureau of District Office Operations, Bureau of Data Processing, Bureau of Hearings and Appeals, Bureau of Health Insurance, Bureau of Retirement and Survivors Insurance, and Office of the General Counsel. In the text I use SSB, SSA, and BOASI. I have tried to use the designation that best fits the chronological and organizational context
+2 Interview with Charles I. Schottland, Oral History Collection, Columbia University (1965), pp. 42-44, 80-86, 123-25. (Hereafter Schottland, OHC.)
+3 Rufus E. Miles, Jr., The Department of Health, Education, and Welfare(Praeger, 1974 ), p. 106.
+4 Interview with William L. Mitchell, Oral History Collection, Columbia University (1965), p. 85. (Hereafter Mitchell, OHC. )
+5 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University(1967), p. 192.(Hereafter Altmeyer, OHC.)
+6 From tape-recorded comments by Robert M. Ball addressed to the author. May 6, 1978.(Hereafter Ball transcript.)
+7 Schottland, OHC, pp. 78-79. Schottland's phrasing has been slightly re. arranged
+8 Altmeyer, OHC, p. 128.
+9 Interview with Eveline M. Burns, Oral History Collection, Columbia University (1965), pp. 91-100.
+10 Robert J. Myers, Expansionism in Social Insurance (London: Institute of Economic Affairs, 1970), p. 29.
+11 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966 ), pp. 262--63.
+12 United States Government Organization Manual--1949, p. 389.
+13 External advisory committees periodically urged the SSA to stimulate out-side research and increase consultation with privately employed social scientists. See The Research Program of the Social Security Administration, Report of the 1967 SSA Advisory Committee on Research Development (Washington, D.C.: the Com-mittee, 1968), pp. 1-5.
+14 Interview with Wilbur J. Cohen by David G. McComb for the Lyndon Baines Johnson Library (1968); copy in John F. Kennedy Library, Waltham, Mass
+15 Myers, Expansionism in Social Insurance, pp. 19-20.
+16 Charles McKinley and Robert W. Frase, Launching Social Security, 1935.-1937 ( University of Wisconsin Press, 1970), pp. 407-24, 435n.
+17 Ibid., p. 424. 
+18 Ibid., p. 411.
+19 Altmeyer, OHC, p. 45.
+20 An anecdote from Wilbur J. Cohen shows the interest that Altmeyer and Winant took even in relatively low-ranking appointments. In a speech at the dedication of the Altmeyer building at SSA headquarters in 1973, Cohen recalled “opening the door between my office and Mr. Winant’s office when Mr. Winant was Chairman of the Board. My little office adjoined both his and Mr. Altmeyer’s. I opened the door —this was 1936 —and I found Mr. Winant and Mr. Altmeyer down on the floor on their hands and knees with little 3x5 cards spread on the rug. On the cards were the names of all the people they were considering for appointment as the first field office managers of this great program. They had these cards down on the floor and were sorting them out. Ladies and gentlemen, nobody was appointed to a field office manager’s job in 1936-37 but what Mr. Altmeyer and Mr. Winant had looked him over bit by bit. They knew every person.” Social Security Administration, Office of Management and Administration, “Arthur J. Altmeyer: Mr. Social Security,” OHR/DTCD Pub. No. 065-73 ( 7-75 )
+21 Interview with Arthur E. Hess, Oral History Collection, Columbia University(1966), p. 13. 
+22 Ibid., p. 14.
+23 Altmeyer, OHC, p. 199. 
+24 Ibid
+25 Myers, Expansionism in Social Insurance, pp. 15, 29.
+26 Altmeyer, OHC, p. 204. However, other evidence in the Oral History Project interviews indicates that the President did get interested in administrative matters if he sensed a potentially embarrassing situation. According to William Mitchell. who was director of the Bureau of Business Management in the early years of the Social Security Board, the President was concerned about newspaper reports that the board had a disproportionate number of Jewish employees. Within a week or two of her appointment to the board in 1937, Molly Dewson called Mitchell into her office and said that one of the things the President had instructed her to look into was the report that the staff was getting filled up with New York Jews. The President wanted to know if this was true, and, if it was, he wanted the situation cleaned up forthwith. Mitchell concluded, upon inquiry, that the staff was in fact heavily weighted "with New Yorkers and people of the Jewish faith," though he flatly disbelieved insinuations that this was the result of biased decisions by the board's personnel director, who was Jewish. Mitchell concluded that it was the result rather of the strict application of merit principles, combined with the superior performance of Jews on civil service tests. In response to the President's concern, the board began a "very confidential" and "very small" screening program, and the personnel director was moved to another job. Mitchell, OHC, pp. 17-19.
+27 The Civilian Conservation Corps and National Youth Administration were abolished during World War II.
+28 Mitchell, OHC, pp. 84--85.
+29 Schottland, OHC, pp. 103-07. 
+30 Schottland, OHC, pp. 42, 125.
+
+## **第二章 国会**
+
+总体而言，国会对行政部门的提案做出了积极的回应。倘若并非如此，现行的项目便不会存在。国会的反应一向缓慢。在诸如残疾保险或健康保险等重大提案的提出与其最终通过之间，通常存在数年的滞后期，且往往只是部分被采纳。犹如行政领导层一样——甚至有过之而无不及——国会采取渐进式的工作方式。其通常的偏好是采取小幅度的举措。然而，国会行动中缺乏的果断与迅速，均以其频繁的行动得以弥补。国会始终处于立法状态之中。自1950年起的十年间，国会通常在选举年定期颁布提高社会保障福利或放宽其他限制的法案。在1960年至1972年期间，其行动的规律性虽有所降低，但平均而言其频率几乎未减。尽管项目行政官员明确其诉求，但国会及其下属委员会则或多或少地持续处于权衡决断的过程中。目标，即体现为一种主导性目的或指导性愿景，对于行政组织的运作而言至关重要，甚至是必不可少的。项目性目标整合了整个组织，并为成员提供了动力。界定目标是行政领导层的内在任务；而层级制则维持了统一性。但对于国会及其委员会而言——由于其本质上具有代议制和非层级制的特征——形成清晰的目标概念既不具有功能性，也不具有可行性。缺乏多样性，它们便会丧失合法性。立法机关及其委员会做出决策的权利，恰恰取决于它们能够代表价值、利益和意见的分歧，以及它们能够反映在永无止境的两年一度的选举中所记录的变迁。在决策时刻，实行多数决定原则，或者通过讨价还价与妥协来调和多样性，但这仅仅是为了达成眼前的决策。每项新的决策都需要进行一次新的调和实践。因此，国会所追求的目标，即是一个不断变化的国会在持续的一系列特定选择（ad hoc choices）中所决定的目标。据此，以下对作为社会保障政策制定者的国会的分析，将侧重于其内部结构、角色与态度、以及其行动的总体驱动力或效应，及其与项目行政官员的关系，而非政策目标。
+
+### 管辖权结构
+
+在国会内部，对社会保障的责任异常集中。通常情况下，对各项计划的管辖权至少分为两条路径——在参议院与众议院之间分配，并且在两院内部，分配给负责授权立法的按主题分类的专业委员会，以及负责处理行政部门资金请求的拨款委员会。然而，在社会保障领域，管辖权几乎完全集中于两个委员会——众议院筹款委员会（House Committee on Ways and Means）和参议院财政委员会（Senate Committee on Finance）。拨款委员会的作用十分有限，因为社会保障资金并非从美国财政部的一般基金中拨付。该项目由专门针对雇主工资总额和雇员收入征收的税款提供资金，这些税款由财政部征收，随后自动转入一个信托基金，财政部从中提取资金以满足社会保障支出。通常的拨款程序被绕过了。社会保障署（Social Security Administration）的官员虽定期出席拨款委员会的听证会，但委员会的问题通常局限于工资和建筑等行政事务。拨款法案对这些行政项目设定了限制，这些项目首先由一般财政收入拨付，但最终由信托基金支付。
+
+管辖权受到如此限制，对政策制定产生了几个重要后果。这减轻了行政官员所承担的说服负担。它限制了参众两院作为一个整体参与的机会，因为它们只有机会对授权立法采取行动，而没有通常在拨款法案提交全院表决时所出现的第二次机会。它限制了国会的专业知识储备，因为只有筹款委员会和财政委员会才有机会掌握这一领域。最后，由于实质上将拨款委员会（相比专业委员会，其通常更具批判性和约束力）排除在立法程序之外，这可能为项目的扩张增添了动力。
+
+在众议院，将管辖权完全置于筹款委员会产生了进一步的重要影响，即限制了在院会层面对社会保障法案的审议，因为筹款委员会的法案通常是在封闭规则（closed rule）下进行审议的。辩论被限制在几个小时内，并且除了委员会批准的修正案外，禁止提出任何修正案。允许提出将法案发回委员会重审的动议，但此类动议总是来自少数党，且几乎总是被按党派划线的投票所击败。对于税收法案而言，这种做法始于20世纪30年代。对于社会保障法案，它正式始于1949年，但甚至在此之前，筹款委员会就已经确立了其在院会的支配地位，最初是通过民主党的党内纪律，随后是通过委员会内部的两党共识。1935年初创的社会保障立法是在开放规则（open rule）下审议的，但民主党领袖指示其成员击败各项修正案。大约提出了50项修正案，但没有一项接近通过。1939年的修正案得到了委员会两党多数的支持，针对这些修正案提出的39项院会修正案均被轻易击败。1
+
+支持封闭规则的一个论点是，筹款委员会的立法在技术上极其复杂，因而不应开放给缺乏专业知识的议员进行修改。另一个即使未被明言也广为理解的论点是，该委员会的法案，包括税收、关税以及社会保障，极易受到选区压力的影响。封闭规则是对权宜之计和不负责任行为的一种保护机制。然而，如果众议院对该委员会没有信心，它本不会服从这种纪律；而委员会之所以能够保持众议院的信任，是因为其通过长期而艰苦的工作来制定在技术上完备的法案，通过妥协而非拒绝各方诉求，使得许多立法在委员会内部获得两党支持，并预判众议院成员的诉求。在20世纪60年代对该委员会进行详尽研究后，约翰·曼利（John Manley）得出结论，其工作受到一种“克制党派偏见规范（norm of restrained partisanship）”的支配。尽管党派差异决定了在许多问题上的分歧，但内部审议是以无党派精神进行的，而主席威尔伯·米尔斯（Wilbur Mills）在领导委员会时致力于达成最广泛的共识。2
+
+由于其实践着煞费苦心的审议，该委员会作为一个整体确立了专业性的声誉，但许多成员尽管对此感到自豪，却也对此感到厌倦。对社会保障的精通集中在少数高层人士身上，尤其是米尔斯，他在该委员会任职长达34年（1942-1976），并担任了其中17年的主席（1958-1974）。在领导任期方面，他可以与行政部门的奥特迈耶（Altmeyer）或鲍尔（Ball）相媲美。远在成为主席之前，他有时便在院会层面负责管理社会保障法案；在听证会上，他是民主党中最具技巧的提问者；在执行会议（executive sessions）中，他也是最熟练的技术专家。当他发言时，每个人都会倾听。
+
+在参议院，财政委员会的主导地位较弱，辩论也更为开放。在那里，限制众议院对社会保障采取行动的封闭规则是不可想象的。委员会内部的分歧司空见惯；党派偏见较少受到约束；共识性决策并非规范。然而，即使是具有更强个人主义传统的参议院，在就社会保障做出决策时，通常也会听从其专业委员会的意见。尽管没有与米尔斯完全对等的人物——没有人能统治财政委员会那么长的时间，对专业知识有同样的精通程度，或者在委员会内部同样成功地达成一致——但该委员会确实拥有其强力人物，例如沃尔特·F·乔治（Walter F. George）和罗伯特·S·科尔（Robert S. Kerr），其他参议员乐于从他们那里获取提示。并且，在乔治和科尔离任后，当参议院确实变得不再那么顺从，并开始违背委员会的建议，在社会保障法案上附加大量修正案时，筹款委员会往往能成功地在两院协调会议（conference）中将其删除。
+
+在20世纪60年代末，参议院的例子坚定筹款委员会成员们的信念：如果不希望社会保障法案演变成“圣诞树法案（Christmas-tree bills，指附加大量无关修正案的法案）”，封闭规则就是必不可少的。 正如筹款委员会的一位共和党籍成员告诉曼利的那样：
+
+“搞什么鬼，你不能让两院都搞政治煽动，否则天知道你会弄出什么东西来。那些参议员，老天！他们把这个加进去，把那个拿出来，就花个三天时间——而我们在法案上可是花了几个月。总得有人负责，这取决于我们和封闭规则。”3
+
+参议院开放的程序助长了众议院那些更为严格的程序旨在防止的政治病态，但通过在协调委员会中占据上风，筹款委员会成功维持了专业问题专家对社会保障政策的控制。偶尔也会有其他委员会作为“闯入者”出现，例如参议院老龄养老金制度调查特别委员会（Senate Special Committee to Investigate the Old-Age Pension System）在1941年举行听证会时；或是参议院教育与劳工委员会，以及后来的劳工与公共福利委员会，在1946年至1949年间就国家健康保险举行听证会时；再或者是参议院劳工与公共福利委员会下属的老年与老龄化问题小组委员会，以及随后的参议院老龄问题特别委员会（麦克纳马拉委员会/McNamara committee）在20世纪50年代末和60年代初就老年医疗保险举行听证会并发布报告时。这类委员会可能会将常规委员会不愿纳入的社会保障议题（尤其是医疗保险）提上公共议程，从而产生采取行动的压力；但直到常规委员会真正采取行动为止，相关立法的通过几率微乎其微。作为一项普遍规则，国会总是听从其项目专家的意见。尽管项目行政官员所面临的国会环境相对简单且稳定，但它并非总是能够接受提议，关于残疾保险的延迟，以及健康保险更长时间的延迟便证明了这一点。这两项措施都遭到了委员会内两党保守派联盟的抵制。但是，当委员会多数派不予支持时，项目行政官员也不必放弃。凭借等待新选举结果的耐心，以及对未表态者的说服工作，委员会的少数派是可以转变为多数派的；与此同时，可以通过持有同情态度的少数派来推行立法目标——这一策略在参议院的实操性远高于众议院，因为除了筹款委员会的建议外，众议院不会采取行动。1956年参议院通过残疾保险法案，以及1964年通过医疗保险早期版本时，均否决了财政委员会多数派的意见；这些案例表明，参议院更大的开放度是如何为项目行政官员在那里追求立法目标提供便利的。4当麦克纳马拉委员会等“闯入”的委员会支持其目标时，项目行政官员也可能通过这些委员会展开工作；但他们对此持谨慎态度，不愿破坏与常规委员会的合作关系。随着时间的推移，他们与那些委员会发展出了极其密切的合作关系，而这些委员会也开始对社会保障抱有与项目行政官员相同的“所有权（proprietary）”立场。
+
+### 态度与角色
+
+尽管在1935年，税务委员会对社会保障法案的实质内容并未表现出太大兴趣，但他们仍然关注并争取对它的管辖权。该法案理应提交给这些委员会，因为它以政府的征税权为基础。害怕他们可能会不支持，立法的行政起草者希望该法案能由一个特别委员会处理，而两院劳工委员会（Labor committees）的领袖——参议院的罗伯特·F·瓦格纳（Robert F. Wagner）和众议院的大卫·J·刘易斯（David J. Lewis）——则希望亲自接管此事。当发现自己可能被绕过时，来自北卡罗来纳州的筹款委员会主席罗伯特·L·道顿（Robert L. Doughton）去面见了总统；随即总统告诉经济安全委员会主席弗朗西丝·珀金斯（Frances Perkins），绕过筹款委员会是“绝不可行的”。这会伤害道顿及其参议院同僚帕特·哈里森（Pat Harrison）的感情。5 这体现了总统精明的判断力。两位委员会主席尽管并未特别青睐老年保险计划，却依然忠诚地支持它，这或许是对被保留主导权的一种回报。随着委员会从该项目中获得经验，以及项目受益人的增加，委员会对该项目的兴趣也随之加深。
+
+至少对于众议院筹款委员会而言，1950年的修正案似乎是一次塑造型的经历。尽管道顿主席在智识层面仍未深入该议题，但他是一位严厉的监督者；从1949年4月到8月，他让委员会几乎每天都举行执行会议，期间工作人员就法案的每一个章节以及一份关于公共援助的配套法案进行了两次演示，第一次用于初步投票和讨论，第二次用于最终投票。许多成员在某些特定观点上被说服后，改变了他们的投票意向。委员会完成工作后，道顿提交了一份冠以自己名字的新修订法案（clean bill）；而在会议初期，他是“应要求（by request）”提交行政部门法案的，这种转变标志着国会在该领域新确立了利益相关地位。6
+
+来自行政部门的信息来源证实，至少在筹款委员会处理社会保障事务时，自豪感和主人翁意识成为了其特征。在一次采访中，一位消息人士强调了委员会的严肃态度以及对哲学一致性的追求：
+
+我观察筹款委员会的运作已有很长时间了，我认为许多关键成员——比如一两位像约翰·伯恩斯（John Byrnes）这样的少数党成员，当然还有六位左右的多数党成员以及主席本人——都强烈地感到，整个社会保障体系……是他们自身智力投入的产物……并且在许多情况下，一位国会议员可能正在提出的观点并不是……有意识地与[选区压力]联系在一起。……这往往是他对于这项工作应该如何完成的判断。他在思考基本原则，思考什么是对的、什么是错的，以及如何才能最好地为这个项目辩护。他必须与哲学、目标以及他过去所采取的立场保持一致。7
+
+像项目行政官员一样，国会领导人开始抵制外部人士的干预，例如总统行政办公室（Executive Office of the President）中那些试图将该项目服务于宏观经济政策目的的人。他们将该项目视为一项特殊的信托，一项独立于政府其他部门的活动，并将他们自己视为受托人（trustees）。筹款委员会对社会保障的集体自豪感和占有欲，是通过成员的实用主义和共识性的决策模式得以维持的。正如曼利所指出的那样，委员会成员很少是意识形态狂热者。他们“在政治倾向上务实，在追求目标时耐心，在少数事情上固执己见，并且在除了最根本问题以外的所有问题上都倾向于妥协”：作为新政的产物，社会保险对委员会中共和党少数派的实用主义的考验，超过了对民主党多数派的考验。共和党人的适应能力在1950年后该党强人约翰·W·伯恩斯（John W. Byrnes）的“转变”上得到了最生动的个人体现。最初从根本上反对社会保险的伯恩斯，是仅有的14位投票反对1950年修正案的众议员之一，该修正案是三部奠基性立法（在1935年法案和1939年修正案之后）中的最后一部。在委员会报告中，他赞同众议员卡尔·柯蒂斯（Carl Curtis）的建议，即由一般性税收提供资金，向所有老年公民支付统一标准款项。在院会发言中，他辩称这既不是明智的政策，也不诚实——让子孙后代的纳税人承担社会保险所固有的不断攀升的费率，这在政治上是不负责任的。他表示，社会保险会让早期的参与者不劳而获，这是错误的。从逻辑和道德的角度来看，这是一个强有力的论点，但它失败了。然而，在失败之后，伯恩斯并没有加入委员会内那个极小的（通常由一两名成员组成）坚持对社会保险进行原则性反对的右翼共和党人群体。这一群体包括诸如伊利诺伊州的诺亚·梅森（Noah Mason）、加利福尼亚州的詹姆斯·B·阿特（James B. Utt）以及德克萨斯州的布鲁斯·阿尔杰（Bruce Alger）等人。相反，他成为了承担着推动该项目演进责任的两党多数派的一位领袖。米尔斯秉持共识模式，与他融洽合作，并赋予了他一部分领导权。
+
+在对社会保障的主人翁意识（或者用他们自己的话来说，是“受托人身份”）中，委员会成员获得了心理层面以及狭义上的政治层面的回报。在接近职业生涯尾声时，当被问及最自豪的是什么，米尔斯告诉采访者：“我喜欢从社会保障项目的发展角度来思考……我愿意把这看作我的主要成就。”他描述了该项目在其领导下的发展壮大，指出它使“数以百万计的受益人的生活变得稍微愉快了一些”。9 筹款委员会的一些观察家认为，通过社会保障来分配福利的机会之所以对该委员会极具吸引力，是因为其平时主导性的任务——征税——是极其不受欢迎且吃力不讨好的。在社会保障领域，它掌管着一项极受欢迎的计划——该计划赋予了委员会个别成员频繁发起放宽限制并以此邀功的机会，也为委员会作为一个整体提供了发起提高福利和其他普遍受整个国会欢迎的宽松化措施的机会。
+
+自豪感、占有欲以及对理论一致性的关注，在财政委员会中不如在筹款委员会中那般明显，这也随着时间推移帮助筹款委员会成为了两者中更具影响力的一方。（“我们送过去一个装满母鸡的鸡窝，众议院的协调委员们却还给我们一袋鸡毛，”路易斯安那州的拉塞尔·B·朗（Russell B. Long）在1960年抱怨道，对众议院在协调会议上的主导地位感到沮丧。） 除了拥有发起岁入法案（其中包括社会保障法案）这一宪法赋予的优势权利外，筹款委员会对该议题表现出了更深层、更持久的兴趣，并拥有更清晰的行动指南。财政委员会成为了这种共享的主人翁关系中的一名有限合伙人，但在通常情况下并非不和谐的伙伴。筹款委员会与财政委员会之间不存在深刻且持久的理论分歧，尽管在优先事项或推进速度上常有具体差异。财政委员会比筹款委员会更倾向于放宽退休资格测试（retirement test）；在20世纪50年代不太准备接受残疾保险；而在十年之后则更愿意大幅提高现金福利。它的立场随着其党派和意识形态构成的改变而改变；而在筹款委员会，意识形态被项目原则、共识模式以及米尔斯持久的个人影响力所缓和，使得其在社会保障问题上的立场具有更强的稳定性。
+
+这些“项目立法者”为社会保障政策制定所带来的特质，与项目行政官员的特质极为相似：专业性、连续性、自主性、凝聚力，以及对项目原则的坚持，并交织着实用主义。当然，结合立法机关决定立法内容的正式权利，这些特质赋予了国会议员在决策过程中的实质性作用。
+
+政策制定变得犹如一场漫长的交响乐，其中的各个乐章均由行政部门的“作曲家们”所构思。除了第二次世界大战造成的休止外，期间毫无间断。在1950年实现了福利和覆盖范围的大幅提升之后，行政领导层便将重心转向了残疾保险。残疾保险一经颁布，推动医疗保险的运动便随之展开。医疗保险刚一颁布，旨在将福利水平推向新高的下一乐章便立即开启。国会各委员会则以其独有的方式予以回应，时而暂时拒绝，时而日后接受，并进行筛选以契合它们的集体偏好，以及委员会所认知到的整个立法机关、相关利益集团和公众的偏好。延续这一隐喻，政策制定需要“和声”（或者用政治分析的术语来说，即构建共识）。国会议员自身也是作曲家，他们经常在行政部门的乐曲中修改或增添乐句，或是重新诠释某个主题。1950年之后，一个各方达成共识的主题，使得福利金大约每两年便根据物价和工资的变化进行同步调整。行政部门的宏大乐章、国会的乐句，以及两年一度的主题，必须汇聚成一部乐谱，这部乐谱将作为对社会保障政策的最终诠释，也是始于1935年的那部未完之作的一部分。国会诸委员会承担了这一使命，并以一种能让这部作品为观众——即美国选民——所悦纳的方式来完成。
+
+国会议员认识到这是他们的核心职能。来自田纳西州的杰尔·库珀（Jere Cooper）曾经评论道（在道顿和米尔斯之间，库珀曾短暂担任筹款委员会主席）：“在整个社会保障项目中，有一件非常重要的事情。人们在一开始就认识到了这一点，而且必须始终认识到这一点。你们必须建立在这样的基础上来解决问题，必须以这样的方式来推进，即必须顺应民意……一旦你失去了民心和公众的支持，你就会陷入严重的困境。”11
+
+### 影响力
+
+福利毫无悬念地受到欢迎，而国会行动的总体驱动力，便是将数量更庞大、发放更迅速的福利送达更多人的手中。这一点是显而易见的，例如在1939年的修正案中，既增加了福利规模，又提前了福利开始发放的日期；这些修正案虽然出自行政部门之手，但却极大地迎合了立法机关的口味。这一点在极具重要性的1950年修正案中再次显现：国会针对新纳入体系的工人，制定了比行政部门提议更为宽松的资格标准，从而促成了数百万受益人的激增。这一点同样体现在20世纪50年代和60年代，每一届国会会议上所提出的数百项社会保障法案中。
+
+增加福利的分配方式使国会极易将功劳归于自身。它们的颁布往往很频繁，其时间表与两年一度的选举时间表紧密贴合，且分布广泛。众议员巴伯·科纳布尔（Barber Conable）是筹款委员会中一位敏锐的资深成员，他曾描述过委员会如何在普遍提高福利与放宽退休资格测试之间做出抉择。科纳布尔认为，尽可能多地帮助民众是政治动物（political animal）的天性。
+
+在筹款委员会，针对劳动收入上限的问题，我们确实面临着权衡取舍，而且我们已经一次又一次地经历了这种抉择。摆在你面前的是一笔六亿美元意外之财的问题……你是把这六亿美元投入到为所有人全面提高5%的福利上，还是把它发给那些仍在工作且未领取社会保障金的少数人（因为他们的收入远远超出了劳动收入上限）？我们通常倾向于为受到影响的广大群众提供适度的福利，而不是为少数人提供巨额的福利。当我们面临那样的决策时，政治反应通常是在可能的情况下尽量帮助更多的人，而不是为少数人提供巨大的利益。无论这孰对孰错，政治动物通常就是这么做的。12
+
+诚如科纳布尔所描述的那样，普遍的福利增加使所有国会议员都能向大量选民邀功，但这并非国会行动的唯一模式。与普遍增加交织在一起的，是个别国会议员为特定群体的利益而发起的增加。国会议员各有专攻。一些人专注于放宽退休资格测试：用一位参议院同僚的话来说，对北达科他州的威廉·兰格（William Langer）而言，这是一场“圣战”。13 其他人（众议院的约翰·伯恩斯和参议院的温斯顿·L·普劳蒂/Winston L. Prouty）则对“全面覆盖（blanketing in）”感兴趣——即覆盖那些不符合既定资格标准的老年人。参议员万斯·哈特克（Vance Hartke）致力于放宽残疾保险计划，以造福盲人。其他人（包括普劳蒂）则努力提高最低福利水平。
+
+在筹款委员会内部，处理个别偏好提案（pet proposals）的原则是，最大限度地增加委员会成员个人邀功的可能性，而非最大限度地增加选民受益人的数量。相比于一项同样昂贵的提案，几项成本低廉的提案在总体上更有可能被采纳，因为这样可以满足更多议员的需求。委员会成员玛莎·W·格里菲思（Martha W. Griffiths）曾评论道：“这么多年来我们真正的处理方式是，每位议员找出他希望修正的问题，”然后大家努力去满足尽可能多的议员。14
+
+当然，困难的部分在于管理税收。国会有多喜欢发放福利，就有多讨厌为支付这些福利而增加岁入。国会通过屡次推迟预定的增税计划，以及抵制将该项目扩展至农民群体（它担心这会引发纳税人的反抗），展现了这一点。老年保险的最初规划者之一、长期通过咨询委员会参与政策制定的J·道格拉斯·布朗（J. Douglas Brown）认为，规避税收是国会的主导性冲动。他在接受采访时说道：
+
+> 来自农业州的参议员和众议员在意识到福利意味着什么之前，首先想到的是税收，因此他们更可能说：“我们希望被排除在外。”因此，政治影响更具排他性，而我们的利益诉求则是包容性的。我们竭尽全力将非营利组织及其他各类群体纳入其中，因为我们始终在思考最终的目标，即福利端；而国会议员们为了向家乡选民推销该项目，其自然反应则是关注税收端。时间偏好率（The time preference rate）：你会发现在所有这些事物的发展过程中，专业专家必须具备长远的眼光。而典型的政客眼光短浅。他希望在两年后获得连任。因此，在规划中总是存在着这种冲突。15
+
+也许立法委员会最重要的职能，便是调和立法机关相互冲突的冲动，并在福利与岁入之间达成平衡。为此，筹款委员会推行了一项“财政稳健（fiscal soundness）”的规范，这对于社会保障的政策制定处于绝对的核心地位。这一概念的核心是“自给自足（self-support）”的理念，委员会在1950年对此予以了确认。该项目完全依靠自身的税收——一种工薪税（payroll tax）——来提供资金。它不被允许出现赤字，也不允许动用财政部的一般性岁入。每当放宽限制的措施被颁布时，都要计算其未来成本的估算值，并附上一份足以支付估算成本的未来税率时间表。除非立法是“精算稳健的（actuarially sound）”——即它包含足以支付福利成本的工薪税条款（由社会保障署精算师计算得出）——否则委员会不会予以推荐。在此问题上，财政委员会效仿了筹款委员会的做法。
+
+正是在这里，岁入委员会的利益对项目实质内容的影响比在其他任何地方都表现得更为明显。一位见多识广的行政官员评论道：“他们喜欢这个项目，因为它自带资金。”如果他们必须用一般性岁入来为其提供资金，他们就不会如此喜欢它。事实证明，工薪税比所得税更容易被公众接受，这大概是因为纳税人被承诺了具体的回报；因此，负责筹集岁入的委员会喜欢工薪税，也喜欢包含该税种的项目。筹款委员会形成了一种惯例，即每当福利增加时就提高税收，以提醒公众福利是有代价的。米尔斯曾就此向卫生、教育及福利部（HEW）的一位新任部长进行说教：
+
+> 我想提请您注意委员会过去的运作方式，以及我认为在涉及[拟议]修正案时，委员会几乎有义务采取的运作方式，并想听听您的反应。……委员会遵循了一项规则，如果在可能避免的情况下，我不希望我们偏离这一规则，即不向项目下的受益人[提供]这些增加的付款……除非同时增加税收以承担这些增加支出的成本，并且增税的生效时间应当与福利本身的生效时间非常接近。……诚然，多年来……情况并非总是如此。自从我成为本委员会成员以来——但在我担任主席之后并未发生过——我们曾采纳过这样的条款，即福利立即生效，而税收直到1972年才生效。然而，我们做类似的事情已经是十或十五年前的事了。16
+
+诚然，委员会并未细致到在完全相同的时间实施这两项增长。福利的增加通常立即生效，通常在一个选举年内；而增税直到下一个日历年年初才生效，但这种时间差异可以基于行政理由予以合理化，尽管它显然隐含着政治上的优势。17
+
+筹款委员会对其展现出的财政责任感引以为豪。其他参与决策的人员亦是如此，例如咨询委员会的成员，他们在准备建议时也遵循了同样的财政稳健准则。筹款委员会对其自行设定的财政稳健标准的严格遵守，对立法的慷慨踩下了刹车，正如两院关系史所表明的那样。每当参议院无视财政委员会的建议，在未提供涵盖成本的税收的情况下颁布昂贵的新福利时，筹款委员会都会愤慨地做出反应。财政委员会主席拉塞尔·朗（Russell Long）在1969年告诉参议院：“众议院的协调委员们态度坚决，甚至到了有些无礼的地步，他们告诉我们，如果没有为某项福利提供支付的税收……他们根本就不会予以考虑。”18
+
+但这个标准究竟有多严格？事实是，财政稳健的规范并未阻止该项目的稳步扩张。与宣称的规范截然不同，国会行动的实际规范是渐进主义（incrementalism）——每次只迈出一小步。肯塔基州民主党人约翰·C·沃茨（John C. Watts）曾提醒他在筹款委员会的同僚，尽管大家都在谈论财政纪律，但福利和税收似乎都在不可阻挡地上升：
+
+> 主席先生，我赞同该报告的说法，即在……社会保障基金方面，我们能够使其保持更好的平衡……相比于我们的一般基金而言。但同时，我们也做了这样的事：我并未看到在增加福利，或者增加这个、那个以及其他东西上存在任何刹车，因为每次本委员会就社会保障议题开会时，我们都会增加某些人的福利，同时我们也会增税。……社会保障税年复一年地，或者每两年就在上涨，而一般税收并没有。我愿意承认，我们在保持收入和支出平衡方面做得好得多，但至于它是否阻止了我们花钱，这是存疑的。19
+
+实际做法是让税收通过小幅、频繁的步伐上升。这一点可以从对税率的考察中显现出来——税率平均每隔一年上升0.4个百分点；也可以通过仔细阅读米尔斯的演讲得出，例如在其中一次演讲中他告诉众议院，筹款委员会极力避免让社会保障税率“增长过快”。20
+
+综上所述，在实际应用中，财政稳健的规范代表了扩张性和限制性冲动之间的一种妥协。以保守的视角来看，它确实施加了短期限制。在任何特定场合，各委员会都会因为过于昂贵而拒绝批准许多扩张性提案；它们要么违背了“精算平衡”的要求，要么需要令人难以接受的高额增税。另一方面，从长远来看，税收确实有所上升，许多扩张也确实发生了，因为精算平衡的规范并不意味着固定的税率或固定规模的项目。实际做法是循序渐进地试探公众对工薪税的容忍度。
+
+### 行政与立法的关系
+
+项目行政官员非常清楚需要与国会密切合作，而他们之中的一位——无处不在、不知疲倦、不可抑制的威尔伯·科恩（Wilbur Cohen）——将其作为毕生的事业。他们认识到了妥协自身立场的必要性，并懂得为耐心地寻求能够促进国会委员会内部共识的立法成果贡献力量。科恩如此处于这一进程的中心，以至于描述这一进程的最好方式就是描述他及其工作。
+
+1934年，作为威斯康星大学的一名学生，科恩来到华盛顿，在经济安全委员会任职。他留了下来，并成为亚瑟·奥特迈耶（Arthur Altmeyer）的特别助理，随后短暂担任社会保障署（SSA）研究与统计司司长。在艾森豪威尔政府期间，他离开华盛顿前往密歇根大学担任教授，但他并未真正离开。他与社会保障署的朋友和前同事保持联系，并在很大程度上发挥了处于政治休假中的领导层成员的作用，在某些方面，由于免受约束，这种作用反而更加有效。肯尼迪当选后，他重返政府，首先担任卫生、教育及福利部负责立法事务的助理部长，接着担任副部长，最后在约翰逊政府行将结束之际担任了部长。1969年共和党重返执政时，他再次“退休”回到安娜堡（Ann Arbor），但同样没有完全退休。他继续写作、发表演讲、保持联系、频繁造访华盛顿，并为国会议员提供咨询。这是一段非凡的职业生涯，随着其发展变得愈发丰富多彩，然而建设社会保险计划始终处于其核心位置；而在科恩这一建设工作的核心，则是国会。他的毕生事业在于了解立法过程，以及那些负责社会保障的立法者。
+
+奥特迈耶在向采访者解释他为何恰巧选择科恩作为特别助理时，指出了使他适合在国会山工作的若干品质：
+
+> 我第一次注意到他，是在我就某事作证时他正好坐在我后面。当时我因为没有掌握事实数据而卡壳不知如何作答，他探过身来递给我一张纸条，上面提供了我回答该问题所需的信息。我当时便多看了这个小伙子一眼。……当然，接下来——我记不清我是怎么越来越了解他的了——但我意识到这是一个思维非常敏捷的人。此外，他的性格也不会引发对立或怨恨。他能够去找各个局的下属获取必要的信息，而局长们不会大呼小叫地说这些请求应该通过他们传达、他们理应知道正在发生什么。他就是那样的人。他可以无视官僚界限来收集材料。……此外，他还有能与国会山的助理们——与上面那些真正开展工作的重要政治人物——交流的诀窍。双向的交流一直在建立，而不会让任何人感到不快。参议员和众议员们并不担心他们的特权受到损害，因为工作人员之间正在相互协商。如果我跑去和他们的助理交谈，并让他们承诺某事，那将会引起轩然大波。他们会说：“你为什么不和我谈？”你必须拥有那种自由的流动。21
+
+奥特迈耶继续解释说，在国会山的工作并非科恩的正式任务——他自然而然地被吸引到了那里。他结识了那里的人，也被那里的人所了解。他结交的人脉也不局限于公务员同僚或国会工作人员。他认识所有重要人物，无论是在利益集团、咨询委员会还是其他任何地方。了解他们，并弄清能满足他们诉求的条件，成为了他的工作。
+
+也许了解科恩的最好权威就是科恩本人。他喜欢回忆在密尔沃基经营杂货店的父亲对他的教诲：要从购买商品的顾客的角度看待事物。这种商业隐喻反复出现在他描述其对待国会方式的叙述中，如下面一段采访摘录：
+
+> 其中的关键在于我有时所称的“从消费者立场看问题”的原则。当你在行政部门时……你就像任何商人一样，正在推销某种产品或服务。你要做的就是转换视角，从立法者（在这个意义上即消费者）的立场来看待问题，然后试着弄清楚他认为该产品哪里价格过高、哪里服务不够完善，或者他希望如何对其进行修改。……如果他能解决他的问题，你就能让立法获得通过。22
+
+他认识许多人——尤其是他认识并了解政客——这并不能完全解释科恩的成功。他还懂业务项目。他绝不仅仅是一个立法联络员，只负责将行政规划者的信息传递到国会山。他本人也是一位规划者，知识渊博且富于创见，只不过恰好也非常擅长人际关系和政治斡旋。在制定了1939年修正案的1937-1939年咨询委员会中，他承担了大量的幕后工作人员。他与I·S·福克（I. S. Falk）合作准备了第一批国家健康保险提案。他协助撰写了社会保障署的年度报告，其中概述了该署的立法计划。他在国会山推销的“商品”，正是他参与制造的“商品”。因为了解商品，他作为立法联络员能更容易地推销它们；作为项目规划者，他知道如何设计商品以提高销售成功的几率。
+
+正如他将立法联络与项目规划的职能融为一体，他也将技术专家的品质与政治执行官的品质集于一身。像科尔或米尔斯这样意志坚定且清楚自身诉求的立法者，可以向科恩寻求技术援助，并确信该援助将得到胜任的提供。一位不清楚自身立场、需要别人指点迷津的自由派民主党人，同样可以向科恩寻求政策和政治层面的指导。作为一个在1955年之后摆脱了文官制度约束、却又毫无疑问是一名技术专家的他，科恩能够为其在国会的“消费者”提供广泛的服务。
+
+最后，他很务实——他的批评者认为他过于务实了。在20世纪60年代围绕医疗保险的斗争中，他与国会委员会领导人的密切关系，使他受到了支持医疗保险联盟中激进分子的怀疑；而其他虽不持有这种怀疑态度的人则认为，他有些过于迷恋手腕技巧，对于任何能使法案通过的巧妙政治手段过于兴奋，并且过于急切地想要展示他随时愿意达成交易。
+
+然而有趣的是，科恩也是随着时间和经验的积累才获得了他的务实做派。在他年轻时认识他的人，认为他咄咄逼人且固执死板。也许这是因为当时他是奥特迈耶的代理人，而奥特迈耶是个固执的人。也许，正如他的密友费代莱·福里（Fedele Fauri）在以下回忆中所暗示的那样，是国会里的政客们教会了他：务实是进入他们委员会会议室的门票。福里在1949年曾担任筹款委员会的工作人员，当时该委员会正在审议重大的社会保障修正案，因此他处于观察科恩工作的有利位置：
+
+> 嗯，那时的威尔伯与今天（1966年）截然不同。我们中有些人会谈论此事。他自己也知道。那时，想让他在任何事情上妥协都是极其困难的。他会秉持白宫的立场，不断地推销、推销，仅此而已：我清楚地记得他被排除在执行会议之外的事情，我忘了具体是为了什么，但他逼得太紧了，或者是为了某种见鬼的事情。于是，以12票对13票的表决结果，他被告知不要再来了。然后，没过多久，又进行了一次投票，结果是13票对12票，仅仅是因为有人倒戈——我认为是威尔伯·米尔斯改变了立场——他才被重新请了回来。23
+
+如果说促进国会共识是科恩的独特职能。那么，使立法成果合法化则是项目行政官员中另一位领军人物的职能——罗伯特·迈尔斯（Robert Myers），他从1947年起担任首席精算师，直至1970年辞职。他整个职业生涯都与该项目紧密相连。在非常年轻的时候，他就为1935年法案编制了精算估计报告。最初的老年保险提案包含了许多备选项，标记为M-1、M-2、M-3，一直到M-9，其中包含了不同的福利和税收计划组合。J·道格拉斯·布朗回忆说，“M”代表迈尔斯。“M-9”是鲍勃·迈尔斯的“第九次尝试”。24
+
+迈尔斯的成本估算消除了通常会阻碍行动的不确定性。在社会保障项目中，不确定性的破坏力可能是极其致命的，因为计算未来后果的需求尤为迫切。行政和立法部门的决策者都认识到，该项目的全部效用将会经历漫长的延迟。参与者将分阶段达到退休年龄并获得福利资格。直到社会上几乎所有的老年成员都获得福利资格（连同任何其他可能被“投保”的群体），其全部影响才会开始显现出来；然而，行政手段使国会能够采取行动，就仿佛不确定性不存在一般。
+
+迈尔斯针对整个项目以及国会正在审议的任何具体提案，均提供了成本估算（通常以应税工薪总额的百分比来表示）。针对整个项目公布的估算报告通常都强调了谨慎的必要性——估算仅仅是估算，应被客观对待——然而，国会却将精算师的所有声明视为精确且完全可靠的。无论国会委员会成员多么频繁地提醒自己未来难以预见，精算过程本身就有一种助长确定性错觉的特质：那些数字比例是如此精细，当委员会成员询问项目中某一特定变更的成本时，精算师给出的答案又是如此迅速。如果首席精算师向国会保证该系统保持“精算平衡（actuarial balance）”——即他的估算表明预定税收和信托基金收入将足以履行义务——国会便总是认为采取行动是安全的，既安全又负责任。
+
+对国会而言，其对迈尔斯的信任进一步增强了精算职能的效用。众所周知，他是一位能力极其出众的人，因其专业技能而受到私人保险业同行的尊敬，并因其在运用这些技能时所表现出的严格的公正性而在华盛顿备受尊崇。多年来，他一直被视为中立的、技术专精型公务员的典范。国会议员们对他赞誉有加。25
+
+迈尔斯与国会各委员会之间发展出的关系是一种特殊的关系，这使他有别于社会保障署（SSA）的其他公务员。他被视为国会与行政部门共同的公仆，除了在政党之间保持传统的立场中立外，还在立法和行政分支之间保持中立。（尽管他由行政部门支付薪水，国会文件有时将他称为“委员会精算师”。）在政策和项目扩张问题上，他宣称自己是严格的不可知论者。 他对自己角色的理解，可由以下采访摘录予以概括：
+
+> 尽管我可能对主要提案的可取性或不可取性有自己的看法，但我并不认为表达赞成或反对是我的职能。……我感到非常幸运……我没有被一些人所谓的“官僚主义的重压”或官僚主义的繁文缛节所束缚，因为我被允许自由地与外部机构、国会议员以及国会委员会合作，对他们的具体提案提供精算成本估算，无论该部门（HEW）是否赞同这些提案。当然，这里始终涉及保密性问题，我不能也不会告诉这些人该部门的想法，或者该部门可能正在采取什么措施来击败委员会或国会中有影响力的议员……为自己正在制定的那些提案。同样地，在这些问题上，我也得到了这样的谅解：当委员会或委员会中有影响力的成员正在研究某些需要我协助的事务时，这是保密的，我不会将其转述回部门。因此，我试图以纯粹的专业和独立的身份行事。26
+
+尽管如此，促使国会如此严重地依赖迈尔斯估算的，并非仅仅是迈尔斯自身的品质或他与国会的特殊关系。国会议员们信任这些估算——如果他们想要就自身的政策选择达成一致并使其合理化，就必须信任它们。在减少通常伴随政策制定而来的不确定性的同时，迈尔斯的估算也极大地减少了冲突。国会委员会成员基于一套关于成本的单一假设进行审议，这套假设被两党成员同等接受。如果没有这些估算，想要达成典型的立法成果将困难得多；这种立法成果一方面扩大了项目，满足了选民和自由派利益集团的要求，另一方面又始终得到客观、受人尊敬的专家的认证，证明其符合精算平衡的财政标准。此外，由于精算师以非常具体的数字形式（作为应税工薪总额的分数或比例）来估算成本，这为政策制定者之间的妥协提供了便利。项目改进的一揽子方案（包括福利增加）可以从行政部门推荐的要素或由个别委员会成员发起的要素中组合而成，任何偏好上的差异都可以通过交换方案中的要素或调整其规模来予以通融。由于所有拟议要素的成本都已被量化，此类调整和交换安排起来相对容易。精算师的估算为政策制定者提供了一种“共同货币”，易于交易且可分割。有组织劳工（organized labor）中的社会保障专家认为迈尔斯的估算过于保守，曾考虑对其进行抨击，但随后决定放弃——因为这种批评可能会弄巧成拙。他们判定，这些估算的公信力对于所有立法而言都是不可或缺的，因此，为了试图获得更宽容政策的考量而危及这种公信力是不值得的。27
+
+### 项目专家的共享所有权
+
+社会保障政策的制定在国会各委员会的会议上达到了高潮，在这些会议上，立法专家与行政专家坐在一起，共同敲定法案的内容。这些是闭门会议。但即使局外人获准进入会议室，他们也几乎无法理解那里所说的大部分内容，因为专家们使用的是一种高度技术性的语言。1961年米尔斯与迈尔斯之间的以下对话颇具说明性。筹款委员会当时正在审议该项目中一些相对较小的变更，并在迈尔斯的协助下决定如何平衡成本：
+
+> 主席[米尔斯]：自我们上次会面以来，我开始思考如何将这些提案中的一部分进行压缩，以使其符合那个数额[工薪总额的0.22%，选择这个数字是因为它可以通过提高工资基数来提供资金，而无需提高税率]。那么，迈尔斯先生，该项目的成本会是多少呢？如果不向寡妇提供工人福利的85%，而是提供六分之五，对寡妇来说（成本）会是多少？
+> 
+> 迈尔斯先生：向寡妇支付相当于基本福利六分之五的均衡保费成本（level-premium cost）为工薪总额的0.19%。
+> 
+> 主席：您是否在这样一种基础上计算过，即对62岁男性的实际扣除可以避免对基金造成任何成本？
+> 
+> 迈尔斯先生：是的，主席先生，那可以做到。
+> 
+> 主席：如果我们提高最低标准，不是像法案中那样从33提高到43，而是仅仅提高5美元，比如说提高到38，成本会是多少？
+> 
+> 迈尔斯先生：那项变更的成本将是工薪总额的0.04%。
+> 
+> 主席：将比例从三分之一变为四分之一的成本是多少？[这里指的是一项旨在使工人更容易获得“受保身份”的提案]
+> 
+> 迈尔斯先生：那是工薪总额的0.02%。
+> 
+> 主席：残疾保险项目变更的成本是多少？
+> 
+> 迈尔斯先生：工薪总额的0.03%。
+> 
+> 主席：我匆匆看了一下，您列出的数字加起来是0.08。
+> 
+> 阿特先生（阿尔杰，德克萨斯州众议员）：工薪总额到底是指什么？
+> 
+> 主席：当我们说工薪总额时，换算成美元是多少？
+> 
+> 迈尔斯先生：在4800美元的收入基数下，目前的应税工薪总额略低于每年2200亿美元。如果将基数提高到5400美元，它将达到每年约2350亿美元。
+> 
+> 主席：鲍尔先生，让我问您和迈尔斯先生这样一个问题：如果您保持这个四分之一的比例，将最低标准提高到38（那是百分之六），取消残疾项目的这项变更，暂时不对62岁条款作出评判（因为这可以计算为不产生任何成本），我们如何才能将寡妇的福利（成本）降至16？我们需要提供什么条件才能使其成本从百分之十九降至百分之十六？
+> 
+> 鲍尔先生：您会得到一个相当奇怪的比例，主席先生，即82.5%。
+> 
+> 主席：那会给您一个不同寻常的比例。那会是什么呢？如果为了简化起见，以那个案例为例，将其定为80美元，也就是在那一点上增加5美元，那将是十分之八，或者五分之四，不是吗？而目前你们设定的比例是四分之三。那会花费您多少成本？
+> 
+> 迈尔斯先生：单单寡妇福利那一项的成本将是工薪总额的百分之一点二（twelve one-hundredths of 1 percent）。
+> 
+> 主席：百分之一点二？
+> 
+> 迈尔斯先生：是的，先生。28
+
+当然，外部影响也确实渗透到了委员会会议室中。国会议员在采取行动时，心中总是装着选民，而且往往是特定的选民。福里回忆起那位来自乔治亚州的筹款委员会成员支持残疾保险，“主要是因为过去在他乔治亚州家乡的律师事务所及其他办公室里做保洁的女工患上了癌症而无法工作。”29 在医疗保险这一极端案例中，委员会的会议是在经过多年的公众讨论和利益集团的广泛动员之后举行的。各委员会始终对其各自议院对它们的期望保持敏感。但最终，是一个非常小的官方群体——项目行政官员与“项目立法者”合作——敲定了法案的实质内容，并使他们的决定与项目理论保持一致。
+
+在频繁行动且总是致力于扩大项目的过程中，各委员会对来自其所属议院的巨大压力做出了回应，这些压力要求它们源源不断地制定可供议员邀功的福利；但它们拥有足够的程序性防御手段及其他资产（包括它们与行政部门技术专家的特殊关系），以避免被要求压垮并失去对其法案内容的控制。筹款委员会向众议院提交建议时，会保证委员会已对这些建议进行了长期且仔细的审议；而众议院也会首先顺从地同意在封闭规则下审议这些建议。在经历了一场对结果毫无影响的辩论之后，委员会的建议便会获得通过。
+
+在参议院，旨在放宽限制的修正案会在院会大厅（floor）上被提出。财政委员会负责该法案的管理者便会辩称：凭借其深思熟虑的智慧，并在卫生、教育及福利部（HEW）的社会保障技术专家的协助下，委员会已审议并拒绝了这些提案；它们将使该项目在精算上不再稳健；或者说，颁布众议院协调委员们不会同意的法案是毫无意义的。迈尔斯获准进入院会大厅，以协助委员会的法案管理者进行陈述，这种情况并不罕见。在其他种类立法的辩论中，行政人员几乎从未获准进入院会大厅，但在社会保障领域，行政专家和立法专家之间存在着非同寻常的共生关系。
+
+这段对国会的描述，开始勾勒出社会保障政策制定者的全貌。其呈现出的轮廓本质上是一幅亲密的家庭肖像画，而非一幅宏大复杂的画布。就像该项目的行政领导人一样，国会中的社会保障政策制定者人数寥寥无几，且在这一专业领域极为精通。权力不像通常那样碎片化，而是仅仅集中于两个委员会之中；同时，众议院委员会的权力因封闭规则这一程序性机制而得到加强，这限制了众议院普通议员的介入。这些委员会与项目行政官员密切合作，并对该项目抱有同样排他性的、“主人翁（proprietary）”般的态度。他们行事的方式，促进了行动的达成，却抑制了争论。
+
+引用
+1 John F. Manley, The Politics of Finance: The House Committee on Ways and Means (Little, Brown, 1970), pp. 72, 173, 220-33; Edwin E. Witte, The Development of the Social Security Act (University of Wisconsin Press, 1963), pp. 98 9
+2 Manley, Politics of Finance, pp. 44-53, 63-96. 
+3 Ibid., pp. 251-52.
+4 As a corollary, it is worth noting that the more restrictive procedures of the House sometimes helped program executives kill unwanted measures. Liberalizations of the retirement test, which limits the amount that a social security recipient may earn, were generally controlled in Ways and Means, which supported the SSA's view that money saved from applying the test could be better used for general benefit improvements. Mills took this position despite the fact that liberalization of the test was very popular in Congress; year in and year out, no issue connected with the program inspired so many members' bills.
+5 Frances Perkins, The Roosevelt I Knew (Viking Press, 1946), p. 296.
+6 Interview with Fedele Fauri, Oral History Collection, Columbia University(1966),p. 8.(Hereafter Fauri, OHC.)
+7 Interview with Arthur E. Hess, Oral History Collection, Columbia University(1966), pp. 30-31.
+8 Manley, Politics of Finance, p. 47.
+9 The interview was conducted by Paul Duke and shown on Agronsky at Large, WETA-TV, Washington, April 12, 1976. I am indebted to the station for arranging to play a tape for me.
+10 Quoted by Senator Stephen M. Young in Congressional Record (June 26, 1961), p. 11306
+11 Freezing the Social Security Tax Rate at 1 Percent, Hearings before the House Committee on Ways and Means, 78 Cong. 2 sess. (GPO, 1944; revised), p. 103
+12 Economic Problems of Women, Hearings before the Joint Economic Com-mittee, 93 Cong. 1 sess. (GPO, 1973), pt. 2, p. 330.
+13 Congressional Record (June 26, 1961), p. 11310.
+14 Economic Problems of Women, Hearings, pt. 2, p. 332.
+15 Interview with J. Douglas Brown, Oral History Collection, Columbia University (1965), p. 65. (Hereafter Brown, OHC.)
+16 Social Security Amendments of 1961, Executive Hearings before the House Committee on Ways and Means, 87 Cong. 1 sess. (GPO, 1961), pp. 101-02.
+17 Congressional Record (April 20, 1961), p. 6469. See also Edward R. Tufte, Political Control of the Economy (Princeton University Press, 1978), pp. 29-36.
+18 Congressional Record (December 5, 1969), p. 37233.
+19 Medical Care for the Aged, Executive Hearings before the House Commit-
+tee on Ways and Means, 89 Cong. 1 sess. (GPO, 1965), pt. 2, p. 804. 
+20 Congressional Record (April 20, 1961), p. 6466.
+21 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967), pp. 228-30.
+22 Interview with Wilbur J. Cohen by David G. McComb for the Lyndon B. Johnson Library (1968); copy in John F. Kennedy Library, Waltham, Mass.
+23 Fauri, OHC, p. 19. 
+24 Brown,OHC,p.18.
+25 "I have always thought, Mr. Myers, that you are one of the great unsung public heroes, really," Senator Paul H. Douglas once remarked in hearings. Senator Harry F. Byrd of Virginia, whose political opinions were very different from those of Douglas, a few minutes later proposed to ask a question "of Mr. Myers, who is the best expert on figures I think I have ever come in contact with." Finance Com-mittee Chairman Russell B. Long volunteered on the Senate floor that "most of us believe that Bob Myers is the most honest actuary and the most honest person to estimate the cost of something without fear or favor that we have in government. : I heard the Senator from Illinois [Mr. Douglas] . : . state that in his judgment the man I have named was the most honest actuary in the entire United States." Social Security Benefits and Eligibility, Hearings before the Senate Committee on Finance. 87 Cong. 1 sess. (GPO, 1961), pp. 73, 84; Congressional Record (July 8, 1965) p. 15909.
+26 Interview with Robert J. Myers, Oral History Collection, Columbia University (1967), pp. 2-3. People who worked with Myers, however, judged him to be a man with definite views and doubted that those views were ever fully concealed from political figures.
+27 Interview with Katherine Ellickson, Oral History Collection, Columbia University (1967), pp. 180-81.
+28 Social Security Amendments of 1961, Hearings, pp. 109-10, 115.
+29 Fai, OHC, p. 15.
+
+## 第三章 政治行政官员
+
+每隔几年，社会保障项目的许多奠基人、朋友和忠实追随者就会在密歇根州举行一次会议，该州成为了他们在美国中西部的前哨和避风港。威尔伯·科恩（Wilbur Cohen）在未担任联邦公职时常驻安娜堡（Ann Arbor），其他专家则在此期间被吸引至韦恩州立大学和密歇根大学任教。这种会议具有一种家庭聚会的性质，而最让这个“家庭”感到紧张的，莫过于共和党即将在华盛顿执政的前景。“我们要祈祷新一届政府能记住《圣经·罗马书》第十二章中的教诲：‘要持守善美（Hold fast to that which is good）。’”哥伦比亚大学的伊芙琳·M·伯恩斯（Eveline M. Burns）在1968年说道；她祈求尼克松政府不要撤换社会保障局局长（Commissioner of Social Security）罗伯特·M·鲍尔（Robert M. Ball）。拥有协和神学院（Union Theological Seminary）学位的美国劳联-产联（AFL-CIO）社会保障专家尼尔森·克鲁克香克（Nelson Cruikshank）也不甘示弱。他引用了《马太福音》中耶稣的话：“看哪，我差你们去，如同羊进入狼群。所以你们要灵巧像蛇，驯良像鸽子。” “那么，”克鲁克香克问道，“用现代的政治术语来说，这究竟意味着什么？他实际上是在说：‘小伙子们，共和党政府就要上台了。’”1
+
+共和党政府比共和党控制的国会更令人担忧，因为前者出现的频率更高：在1935年至1972年的38年中，共和党有12年掌控着总统职位；而且，在一个极大程度上依赖于行政领导的项目中，政治行政官员（political executives，即代表现任政党并负责界定和执行其政策的官员）的影响力似乎具有巨大的潜在意义。人们原本预料共和党政府的上台会中止该项目所期望的扩张进程。然而，这并没有发生。相反，将该项目带至目前高度发达状态的一些重大立法成果，正是在共和党籍总统任期内取得的。在1954年艾森豪威尔执政期间，项目覆盖的人口大幅扩大，福利也有所增加。将残疾人纳入保障范围的法案于1956年获得通过；医疗保险（Medicare）虽然未在艾森豪威尔任内通过，但在其政府执政末期获得了巨大的发展势头。在尼克松任内，大幅扩大该项目保护范围的福利增长法案获得了通过。综上，该项目的发展并没有因为共和党人担任总统而中断，甚至可以说并没有被严重推迟。
+
+### 政治监督的演进
+
+随着时间的推移，对项目业务官员（program executives）的政治监督层级日益增多。起初，作为社会保障委员会（Social Security Board）主席的阿瑟·奥特迈耶（Arthur Altmeyer）直接向总统汇报。随后在1939年，联邦安全局（Federal Security Agency, FSA）成立，社会保障委员会被置于该局局长的监督之下，而该局长由总统任命。七年后，该委员会被废除，其职能转移给了联邦安全局局长，局长随后又将其中大部分职能下放给了一位社会保障专员。这位新设立的专员显然是联邦安全局局长的下属，由后者任命并界定其职能。1953年，新成立的卫生、教育及福利部（Department of Health, Education, and Welfare, HEW）取代了联邦安全局，并由总统任命的部长担任负责人。在新组织架构下，社会保障局局长由总统在参议院的建议和同意下任命，并负责执行卫生、教育及福利部部长可能规定的职能。除了部长本人，其直属办公室中还有其他政治任命官员——一名副部长（under secretary）和若干名助理部长（assistant secretaries），且他们的数量逐年增加。特别是在该部成立后不久设立的负责立法事务的助理部长，成为了政治监督的一个潜在重要来源。他负责统筹该部门的立法计划。对于社会保障局而言，由于其财政独立，在很大程度上免受预算监督，且在推动新立法方面表现出极强的进取心，因此这种立法监督可能会产生相当大的约束力。
+
+无论采取何种组织形式，政治行政官员与项目业务官员之间精确的“界线”都是难以辨认的。我认为，政治行政官员主要关注的是推进其所在政党的政策并确保其连任，而项目业务官员则主要关注其机构所负责的特定政府职能的日常管理和演进。2 总统无疑是一名政治行政官员，但他也要分担管理其名义上监督的各个项目（包括社会保险）的责任。老年与遗属保险局（Bureau of Old Age and Survivors Insurance）局长无疑是一名项目业务官员，但在1953年，新上任的共和党政府罢免了原有的职业公务员并以一名共和党员取而代之时，这一职位也带上了政治色彩；而当威尔伯·科恩——他无疑曾是一名项目业务官员——在20世纪60年代步入政治职位（先后担任助理部长、副部长以及最终的卫生、教育及福利部部长）时，这些高级职位也染上了强烈的项目偏好色彩。
+
+因此，这条“界线”之所以模糊，至少有三个原因：首先，在高级职位中，政治义务和项目义务是混合在一起的；其次，由于不同的政府当局会决定特定职位是否具有“政治性”，并据此操纵公务员系统的分类和任命，这条假定界线的位置会发生改变；最后，特定符合业务官员分类的个人也会跨越界线进入政治领域，但这并没有显著改变他们对该项目的看法。究竟哪种角色占据主导地位是一个悬而未决的问题，需要通过观察特定的职位或任职者来厘清。在社会保障局局长这一职位上，这种角色模糊性达到了极点。奥特迈耶在担任局长时拥有公务员身份，但人们普遍认为他的工作具有高度政治性质。在1953年他离职的方式和时机问题上，他与艾森豪威尔政府的官员之间产生了紧张关系——礼仪成为了争议焦点，情绪也被激化——但除了美国劳工联合会（AFL）之外，没有人认为共和党政府对该职位进行党派政治任命在原则上是错误的。3 然而，很快，局长一职就成了一个项目业务官员在公务员体系中积累资历后很可能被晋升到的职位。威廉·米切尔（William Mitchell，1959-1962年）和罗伯特·鲍尔（1962-1973年）都是通过这种途径获得该职位的，而且两人都曾为两党的政府服务过。
+
+人们可以认为社会保障局局长一职要么主要是政治性的，要么主要是业务性的；同时也可以认为，对项目业务官员的政治监督要么始于该局长职位，要么存在于局长层级之上的卫生、教育及福利部部长办公室中。理论上，位于社会保障局之上及顶层的政治职位（如果将局长一职包括在内）对项目业务官员构成了一种约束。理论上，这些职位由通才（generalists）担任，他们为该项目带来了不同于项目专家（specialists）的价值观和视角。然而，我在此论证，项目专家主导了这种关系，并试图解释其中的原因；我将主要集中探讨共和党的政治行政官员，其假设前提是：政治行政官员实施通才监督的能力，在共和党执政期间受到了最清晰的检验。相比之下，民主党政府通常支持项目业务官员追求扩张性目标的做法。
+
+### 卫生、教育及福利部的政治行政官员
+
+除了民主党人中的威尔伯·科恩和共和党人中的马里恩·福尔瑟姆（Marion Folsom）这两个显眼的例外，两党的大多数政治行政官员在进入卫生、教育及福利部任职时，对社会保障事务而言都是新手，而且他们的任期如此短暂，以至于很难获得并保持必要的专业知识。在1953年至1973年间，卫生、教育及福利部共有九任部长、八任副部长和七任负责立法事务的助理部长。从一位资深项目业务官员的视角来看，与这些政治行政官员共事，就等同于举行一系列的简报会，目的是为他们在国会山那些知识渊博的委员会面前出席作证做准备。 首席精算师罗伯特·迈尔斯（Robert Myers）在1967年接受采访时表示：
+
+>“我们的部长通常都不是社会保障方面的学者，因此他们需要大量的简报。……有些部长意识到他们不可能在一天内学会所有东西，而且大多数问题将由威尔伯·科恩、鲍勃·鲍尔或我自己来处理；他们只需要回答那些宽泛的、宏观的问题。其他部长则会变得有些恐慌，他们认为自己应该掌握一切细节，因此理所当然会涉及更多的简报会，但结果都是一样的——他们无论如何都无法回答委员会向他们提出的问题，因为那是一个非常了解情况的委员会。……一位初来乍到的部长根本比不上这些家伙。”4
+
+同样，借用迈尔斯的话来说，部长也无法与社会保障局（SSA）里的那些同僚相抗衡。无论是民主党还是共和党，新上任的政治行政官员都必须向社会保障局里担任导师的专家们学习关于社会保障的专业课程，并不可避免地会受到他们的影响。即使这些专家克制自己不提出直接的政策处方和建议，政治行政官员也从项目业务官员那里习得了一套概念语言——即用于在政治和政策制定中解释社会保障的假设和词汇体系。政治行政官员对社会保障部门的行政领导者留下了极其深刻的印象，这不仅仅是因为他们的专业知识，还因为区分该组织的其他品质，包括对工作的奉献精神、高昂的士气和严明的内部纪律。“他们非常出色，而且他们甚至以为自己比实际还要出色，”一位在20世纪70年代曾在卫生、教育及福利部工作的共和党人如是评论道。另一位曾在70年代初于部长办公室任职的成员，满怀钦佩地回忆起鲍尔领导下的社会保障局在回应部长办公室常规下发的系列政策声明草案（如总统咨文等）时的应对手段是多么“巧妙”。卫生、教育及福利部的大多数下级单位会回复说他们没有足够的时间进行审阅，然后提供一些细枝末节的修改意见。少数单位会提出实质性的反对意见，但又拿不出替代方案。唯独社会保障局会送回一份经过全面修订的版本，使用了全新的表述，且其文风完全契合受众的需求。正如该消息人士所指出的，这“将你自行炮制出有别于他们希望你对社会保障所作表述的几率降到了最低。”5
+
+简而言之，社会保障局的领导层能力出众、手法圆滑，且从不把任何事情留给运气去决定。政治行政官员只是匆匆过客，对社会保障知之甚少，且需要处理无数其他事务——这些事务大多属于卫生、教育及福利部中那些看起来远不如社会保障局管理得当的部门——因此，他们无法避免对社会保障局的严重依赖。卫生、教育及福利部中的共和党被任命者，除了依赖项目业务官员之外，他们自身往往也足够自由派，能够富有同理心地接纳这些专家的建议。总体而言，只要卫生、教育及福利部的共和党高管确实是共和党人，他们就往往比国会中的共和党人自由派得多。而且，他们常常根本就是民主党人。一个引人注目的事实是：从来没有一位活跃的共和党人担任过社会保障局局长。艾森豪威尔政府的首位被任命者约翰·W·特拉姆堡（John W. Tramburg），据其副手米切尔所言，是“一种似是而非的共和党人”——“他简直就像我们中的许多人一样，是个非政治化的人物。”6 继任的查尔斯·肖特兰（Charles Schottland）是一位民主党人，曾服务于加利福尼亚州州长厄尔·沃伦（Earl Warren）领导的自由派共和党政府。1959年接替肖特兰的米切尔是一名职业公务员；退休后，他在接受采访时坦言，尽管他从未登记过党籍，但他一直是一名民主党人。7 1962年，民主党政府用罗伯特·鲍尔取代了米切尔；而1969年随理查德·尼克松上台的共和党政府直到1973年才替换鲍尔，随后任命了一位曾担任卫生、教育及福利部主计长（comptroller）的职业公务员。退休后，鲍尔甚至领导了民主党全国委员会的一个工作组，并在1976年为该党的纲领委员会和候选人吉米·卡特提供政策建议。
+
+在社会保障局局长之上的层级，卫生、教育及福利部中的共和党被任命者是相对更可靠的共和党人，但按照该党的标准，他们仍然相当倾向于自由派。奥维塔·卡尔普·霍比（Oveta Culp Hobby）作为一名转而支持艾森豪威尔的得克萨斯州民主党人，其政治立场很难被归类；但她的共和党继任者——马里恩·B·福尔瑟姆（1955-1958年）和阿瑟·S·弗莱明（Arthur S. Flemming，1958-1961年）——绝对属于该党的自由派阵营。担任副部长的纳尔逊·A·洛克菲勒（Nelson A. Rockefeller，1953-1954年）以及担任立法事务助理部长的罗斯威尔·B·珀金斯（Roswell B. Perkins，1954-1957年）和埃利奥特·L·理查森（Elliot L. Richardson，1957-1959年）也是如此。8 他们在根本上对社会保障计划抱有同情态度；而福尔瑟姆更是该计划创始团队的一员，曾连续在多个咨询委员会任职，并代表了商界对社会保障的支持。1969年至1972年的尼克松政府延续了任命自由派人士的惯例，先后由罗伯特·H·芬奇（Robert H. Finch，1969-1970年）和理查森（1970-1973年）担任部长，约翰·G·维尼曼（John G. Veneman，1969-1973年）担任副部长。共和党总统们的行事方式，就仿佛该部门“归属于”党内的自由派分支；这也许是因为只有自由派党员去寻求这些任命，或者是因为保守派未能积极争取，又或者是因为总统不希望通过空降完全缺乏同情心的政治上司来激怒卫生、教育及福利部的职业文官。
+
+考虑到共和党对该部门任命官员的性质，以及所有政治任命者对低于其级别的在职专家的信息依赖，我们有理由认为：共和党政治行政官员在很大程度上受到了社会保障局内那些名义上的下属的影响；而且，共和党政府之所以未能中止或推迟项目业务官员所规划的发展进程，是因为他们被说服去支持这些计划。然而，这种解释并不能完全说明那些亟待解释的历史事件。事实上，卫生、教育及福利部的共和党政治行政官员并不支持1956年增加残疾保障的决定，也不支持20世纪50年代末期发展起来的关于扩大社会保险以涵盖老年人住院费用的提议，更不支持1972年将现金福利增加20%的做法。他们比大多数其他共和党人更具自由派色彩，但这并不意味着他们赞同由项目业务官员所孵化出的项目扩张的类型或规模。他们的政策立场通常处于两极之间。与保守派共和党人相比，卫生、教育及福利部的共和党被任命者更愿意承认不利社会状况的存在以及政府采取干预行动的必要性；但即便如此，他们依然不愿意支持项目业务官员所偏好的全面、强制性措施。他们始终在寻求能够保留一定个人选择空间、保障私人组织行动领域或引入州政府参与的折中解决方案。他们本会在残疾或医疗保健问题上采取一些干预行动，但他们会做得更少，推进的步伐也会更慢，以便留出充足时间来评估这些相对温和措施的有效性。在1972年扩大社会保障的问题上，他们本愿意投入比保守派共和党人更多的资金，但绝不会像最终实际支出的那样多。在践行这条中间道路的过程中，他们很可能受到了项目业务官员的影响，正如他们也受到了来自党内更保守成员从另一侧施加的政治压力一样；但必须指出，他们绝非对项目业务官员俯首帖耳的俘虏。他们在与社会保障体系相关的议题上，拥有（或试图去拥有）一种独特的共和党立场。尽管如此，即使拥有行政职权上的优势，共和党政治行政官员也无法确保他们自己的提案在公共政策议程中获得优先权。
+
+### 党派控制的障碍
+
+卫生、教育及福利部的政治行政官员的权力不可能大过他们所代表的政党，而政党本身却是控制国家机器的一项低效工具。
+
+在权力宪制分立的政府体制中，行政权与立法权的分立选举意味着政党控制权可能出现分裂；而当共和党入主白宫时，这种情况通常确实发生了 。民主党控制的国会坐镇国会山，随时准备并往往热切地接收社会保障项目业务官员关于下一步行动的提案 。此外，无论该党对机构的控制范围如何 ，其效能都会因内部在社会福利政策上的分歧而大打折扣 。
+
+总体而言，国会中的共和党人比行政分支中的共和党人更为保守，但在国会和行政分支内部，党内都存在意识形态派系 。卫生、教育及福利部（HEW）中的共和党人通常属于自由派派系，他们在内部博弈中无法指望获得总统的稳定支持；即便总统支持他们，他们也无法确信国会中的共和党人会转而支持总统 。艾森豪威尔政府的共和党政治行政官员（包括总统本人）甚至无法说服党内的国会领袖去支持一份替代“福兰德法案”（Forand bill，项目业务官员所青睐的老年人住院保险措施，见第16章讨论）的方案 。正如部长办公室的一位成员后来分析的那样，共和党在该问题上分裂成了四个阵营 ：
+
+- 大量共和党人认为不应对老年医疗保健采取任何行动 。
+    
+- 一些人认为应该采取行动，但希望不要立即执行 。
+    
+- 一些人认为，提出一个能作为政党政治资本的提案是良好的策略 。
+    
+- 还有一些人认为必须采取行动，且政党应制定一个民主党也能接受的方案，作为解决这一难题的合理对策 。
+    
+
+这位参与分析的人士总结道，最后一组人在整个党内的力量对比中处于绝对劣势，遭到了主要国会议员的反对 。同样持反对态度的还有预算局（Bureau of the Budget）和财政部的政治行政官员 。1960年春，HEW部长弗莱明在白宫向共和党国会领袖会议简要介绍了一项计划 。尽管该计划是自愿性质的，要求参与者承担部分成本，并规定了州政府和私人保险公司的重要角色，但国会领袖们仍予以否决 。一周后，总统公开支持弗莱明，但众议院中没有一名共和党人愿意提出包含该计划的法案 。
+
+而在1956年，如果行政当局能获得共和党人的稳固支持，原本可以在反对残疾保障覆盖范围的斗争中获胜 。当时该修正案的投票结果为49比47，有六名共和党人投了赞成票，其中包括一名相当保守的议员——内华达州的乔治·马龙（George Malone），他显然是想借此与行政当局清算旧账，或者是被多数党领袖林登·约翰逊（Lyndon Johnson）以特殊恩惠承诺所收买 。尼克松政府在就职后不久也领教了同样的教训 。1969年，总统支持根据生活成本上涨比例将社会保障福利增加10% ；然而，筹款委员会（Ways and Means Committee）中的共和党人无视其党魁，转而与委员会中的民主党成员一道支持增加15% 。
+
+政府中分裂的政党控制权与共和党内部的派系主义相结合，为项目业务官员提供了政治斡旋的肥沃土壤 。他们很少从HEW的共和党行政官员那里获得明确指导，因为这些名义上的政党代表也无法说明政党究竟意欲何为 。相比之下，项目业务官员对自己的目标了然于胸，他们可以根据战略地位和潜在的接纳程度，有选择地挑选施加影响的目标 。他们向共和党政治行政官员提供源源不断的提案，后者则乐于接纳那些可能与政党意识形态协调一致并服务于政党利益的部分 。当共和党人表现出抵制且官方渠道受阻时，有组织的劳工团体或离任的项目业务官员（如1955年后的威尔伯·科恩）便会接手推动工作 。由于政治行政官员无法为其所属政党界定政策，他们同样无法阻止项目业务官员去孵化那些与共和党政府意图完全背道而驰的项目变革 。
+
+人们或许预期政治行政官员在领导其行政下属方面会比领导其政党更为成功，因为他们在行政分支内的权力是正式且层级化的 。国会议员独立于总统选举产生，属于宪制独立的政府分支，在任何意义上都不是总统的正式下属，因此他们往往不服从行政当局的领导也就不足为奇了 。相比之下，在行政分支内部，正式结构是有利于政治行政官员的，并辅以文官的非党派伦理——这种伦理要求他们公正地为不同政党的政治行政官员服务 。文官深知自己应服务并服从现任政府，尽管界定服从的适当范围是一项艰巨且微妙的工作，有时甚至涉及法律、伦理和道德的深刻问题，但普遍的忠诚预期仍赋予了政府某种优势 。
+
+然而，HEW的正式结构并不像这种简单的层级化意象所暗示的那样有利于政治行政官员的控制 。社会保障局局长仅向HEW部长一人汇报 ；各助理部长及部长参谋部门的其他成员对社会保障事务并无管辖权 。如果社会保障局局长与（例如）负责立法事务的助理部长意见相左，他没有义务向后者妥协，且完全有权直接向部长申诉 。这一点至关重要，因为比起事务繁忙的部长本人，部长的幕僚层往往表现出更强烈的监督冲动 。根据罗伯特·鲍尔的说法：“一旦部长就职，其主要愿望就是让事务运行顺畅，他没有动力去修理那些并不需要修理的东西” 。在运行的头几十年里，社会保障项目的表现异常卓越。鲍尔再次指出：“部长们一致且迅速地认为，继续维持强有力的授权，且不鼓励其幕僚助理干扰行政运作，才符合他们自身的利益” 。
+
+此外，社会保障行政官员对自身角色的认知也不利于现任党派官员的控制 。虽然他们能迅速回应政治行政官员的咨询和建议请求，但他们自身的项目规划并不局限于这些回应 。他们独立地推进项目规划，并不将计划局限于他们所知或能稳妥推测现任政府会批准的范围内 。尽管已知艾森豪威尔政府反对政府医疗保险计划，但在1956年后，老年与遗属保险局（BOASI）的覆盖与残疾规划处仍设立了一个全职单位专门负责规划医疗保险 。
+
+（但该单位并未使用此名称。医疗规划负责人后来告诉采访者：“在立法通过之前，‘医疗保险’在组织内部并不是任何事物的正式头衔。”） 这里的“中立”并不意味着消极被动 ，也不意味着等待现任政治行政官员的指令 。政治中立意味着在民主党和共和党政府下采取一致的行为模式，而这种行为模式是动态且扩张性的 。
+
+中立也不意味着咨询意见只能提供给现任的政治行政官员 。罗伯特·鲍尔向采访者解释道，社会保障局始终坚持为任何试图制定立法的人提供技术援助 。鲍尔补充说：“这是让政府运作的唯一途径” 。1956年，当国会中的民主党人顶着行政当局的反对通过残疾保险修正案时，鲍尔在HEW部长马里恩·福尔瑟姆的批准下，与民主党参议员罗伯特·克尔（Robert Kerr）合作，“处理制定最佳法案的技术性事务，随后（克尔）在参议院辩论中促成了该法案的采纳” 。部门外的咨询对象也不仅限于如克尔参议员那样直接参与立法过程的国会议员 。咨询意见也可能提供给完全不担任公职、但隶属于从事游说活动的私人利益集团的人员，例如社会保障局工作人员曾长期协助劳联-产联（AFL-CIO）制定“福兰德法案” 。或者，社会保障局工作人员也可能与担任国会议员或候选人助手的党派活动家合作 。因此，在20世纪60年代初，它向罗斯威尔·珀金斯提供了协助；珀金斯曾是50年代共和党政府的助理部长，当时已离职，正试图为肯尼迪政府的医疗保险法案准备一份自由派共和党的替代方案 。
+
+中立虽然规定了要公正地为政治行政官员服务，但并未要求“排他性地”为他们服务 。为每一位求助者提供帮助，似乎是一项足够公平的原则 。这确实是专家官僚机构构想“公正性”的一种方式 。职业文官体系中的项目行政官员可以对政治人物说：“告诉我们你们想做什么，我们将为您提供有效、明智且务实地完成任务所需的信息和建议” 。
+
+然而，这种做法并未让社会保障局在关于社会福利公共政策的持续斗争中保持中立 。项目行政官员关于中立行为的概念，对于那些希望维持现状、无所作为的群体毫无帮助 。社会保障局本身具有行动主义（activist）色彩，在项目规划与开发上投入巨大，它收到的援助请求大多来自其他行动主义者——即那些希望推动政府行动的政党、派系或利益集团 。对于那些想要有所作为、但未必想采取社会保障局规划者所偏好方式的政治人物来说，其建议和技术援助的作用十分有限 。20世纪50年代HEW的共和党行政官员就面临这种处境：他们正在寻找联邦政府协助老年人支付医疗费用的途径，但又不想走到社会保障体系下强制性医疗保险那一步 。
+
+社会保障局的技术援助对于那些目标与该局行政官员高度一致的政治人物——如国会中的自由派民主党人、劳联-产联的幕僚——价值最大，因为他们都希望通过扩大强制性社会保险项目来满足感知到的社会需求 。为了服务于这些援助消费者，社会保障局的工作人员可以迅速调整其研究和规划成果 。数据和草案随手可得。由于有预先准备，援助可以提供得相对迅速且详尽，并带有源于政治承诺的活力、独创性和机敏 。
+
+这些技术援助的消费者对此非常满意 。关于项目行政官员与有组织劳工及其他自由派“亲医疗保险”（pro-medicare）联盟成员的协作，必须追问这是否还是单纯的“技术援助” 。作为他人技术助手与作为追求自身目标的政治行为体，社会保障局在这两者之间的界限已变得极难划清 。例如，当覆盖与残疾规划处的副处长、社会保障局内HEW总法律顾问办公室的成员以及社会保障局聘用的秘书，于1959年在国会山的一个办公室里起草“麦克纳马拉法案”（McNamara bill，即1959-1960年医疗保险支持者团结一致支持的法案）时，这是否属于技术援助？ 当同一位副处长在1960年的一个深夜，将一份法案草案送往国会山的一家酒店房间，而威尔伯·科恩和劳工组织成员当时正在那里举行策略与起草会议时，这是否也属于技术援助？
+
+这些获得所谓“技术援助”的政治消费者确实拥有自己的想法，构成了某种指引 。关于医疗服务覆盖的广度、覆盖的人口类别、免赔额的大小、政府与私人医疗服务提供者之间的关系等问题，始终需要做出选择 。在这些问题上，原本同盟的各方也可能存在显著的意见分歧 。社会保障局的技术官僚并不是在提供一个在巴尔的摩预先封装好、再交给仅作为进取型官僚机构“前台”的政治人物的固定方案 。然而，同样不能说社会保障局的工作人员在这些接触中是中立的第三方 。技术助手的角色与政治盟友的角色已合二为一，无从分辨 。
+
+政治活动与技术援助之间界限的微妙与精细，使得政治任命官员很难对项目行政官员的行为作出评判。此外，级别最高的项目行政官员对政治领导人而言最为显眼，也最容易受到卷入政治的猜疑，因此他们的行事极为敏感和谨慎。例如，鲍尔（Ball）就没有参与社会保障局（SSA）与劳联-产联（AFL-CIO）官员就福兰德法案（Forand bill）举行的会议。当采访者问及他的角色时，他提到了自己作为公务员所受到的制约。他曾向政治行政官员明确表示，他支持类似福兰德法案的提案，但他无法公开谈论此事，因为他在一个反对该法案的政府中担任公务员。“因此，许多正在进行的旨在推动立法的活动，我根本没有参与其中，”他说。“我之所以了解这些事情，是因为我与许多致力于此事的人保持着联系，而不是因为我深度卷入了政治层面。”鲍尔让采访者去询问社会保障局中一位级别较低的公务员，正是此人负责处理与劳联-产联的讨论。16
+
+政治行政官员对其下属业务官员的影响力似乎随着距离的拉近而增强。保持政治上司的信任以及与他们维持密切工作关系的需要，可能对最高层的项目行政官员构成了制约，但对下层官员的影响则较小。在下层，公务员的中立规范更有可能被违反。另一方面，也应该指出，那些距离最近的政治行政官员——即任职于卫生、教育及福利部（HEW）的官员——通常被认为在私下里对项目行政官员的自身目标抱有同情。例如，项目行政官员满怀欣慰地注意到，马里恩·福尔瑟姆（Marion Folsom）在离职两年后，公开认可了解决医疗保健问题的保险路径。
+
+### 共和党的回应
+
+卫生、教育及福利部中的共和党任命的官员并非没有察觉到项目行政官员、国会民主党人以及有组织劳工之间的协作。17 在某种程度上，他们默许了这种协作。1956年，福尔瑟姆部长批准鲍尔与克尔（Kerr）参议员就残疾立法展开合作；而在1957年，肖特兰（Schottland）局长签署了一封致劳联-产联的信函，使该组织与社会保障局工作人员之间的交流合法化——这封信是社会保障局工作人员在开始对他们与劳工组织的积极协作的适当性感到担忧时安排的。一些共和党任命官员之所以给予此类批准，可能是出于对项目行政官员目标的潜在同情（肖特兰无疑同情这些目标），或者，在与国会议员协作的情况中，他们可能仅仅是向宪制与政治现实妥协。行政部门对社会保障局内职业项目行政官员的层级控制形式，仅仅流于形式。国会独立于行政首脑设立和选举，被公认有权独立获取公务员所掌握的专家建议和信息储备。而且，一旦这一权利得到承认，就不可能再控制项目行政官员与国会沟通的性质。政治行政官员永远无法确信（其中一位后来告诉本书作者），当鲍尔向国会提供“技术援助”时，他到底是在推销自己的目标，还是以中立的方式回应国会的求助，但在美国宪制体系下，他有权利也有义务向国会提供技术援助，这一点是不容置疑的。18
+
+这并不意味着所有共和党高官都会同等程度地批准职业项目行政官员与其利益集团盟友之间的沟通，因为这完全是另一回事。很难用宪法义务的伪装，甚至是服务公众的实用主义伪装，将对劳联-产联的援助与对国会议员的援助一并掩盖起来。虽然人们可以合理地争辩说，如果罗伯特·鲍尔能够自由地与克尔参议员讨论即将出台的立法，政府的运作会更加顺畅；但要争辩说政府的运作有赖于鲍尔的下属能够自由地为劳联-产联起草法案，就困难得多了。
+
+但是在这里，在技术援助与政治同盟相互交融的灰色地带，官方关系与私人关系以一种复杂的方式交织在一起。关于社会保障下一步行动的沟通网络，是通过私人熟识的纽带维系的。如果共和党的政治行政官员更加努力地尝试，他们或许能增加公务员与其利益集团盟友进行官方沟通的难度，但在一个自由社会中，没有办法阻止人们与他们的朋友交谈。
+
+那些决定社会保障项目下一步走向的人，彼此之间进行着持续不断的对话。这种对话在不同的场合发生。它在社会保障局内部进行。它在定期的咨询委员会会议上以及在密歇根的会议上进行。只要这个内部人“家庭”聚集在一起，无论是官方还是非官方场合，无论何时何地，对话都在进行。共和党政府的上台并没有终止这场对话，而是改变了它的模式和地点。社会保障局外部以及社会保障局与外部人士之间的交流增多了。当官方支持减弱时，维系该项目党派支持者之间沟通网络的非官方和社会支持变得更加重要。当科恩（Cohen）——这位曾在社会保障局内部担任提示者（cue-giver）和对话领袖的人——转入体制外时，这极大地改变了对话模式，但丝毫没有改变实际的参与者。作为提示者和游说者，科恩在体制外可以发挥与在体制内同样出色的作用——在共和党执政时期甚至更好。罗斯威尔·珀金斯（Roswell Perkins）怀疑，他离职正是为了摆脱公务员身份的束缚。他可以通过电话和信件，继续从现任的社会保障局官员那里获取信息（如成本估算等）。共和党行政官员无法阻止这种沟通，正如他们无法阻止社会保障局公务员和支持医疗保险（pro-medicare）联盟的其他成员在1960年参议院表决失利后举行的“同病相怜派对”（commiseration party）一样。（这种同病相怜中也夹杂着庆祝，因为该联盟正令人兴奋地接近其目标。）一位社会保障局的高级成员担任了东道主，联盟的主要成员都出席了，唯独缺少科恩，因为他当时正与克尔参议员共进晚餐，共同拟定替代方案，即“克尔-米尔斯法案”（Kerr-Mills bill）。19
+
+如果拟议中的社会保障倡议完全绕过他们，卫生、教育及福利部的共和党人可能会被彻底激怒，但社会保障局的提案会作为常规程序提交给他们。
+
+鲍尔在准备艾森豪威尔政府的立法计划时，与共和党行政官员进行了密切合作。
+
+当时担任负责立法事务助理部长的理查森（Richardson），在接受采访时对他与鲍尔的关系给予了高度评价：
+
+我与鲍勃·鲍尔有很多交道。每当他提出他认为必要的对《社会保障法》的修正案时，这些提案都会经过社会保障局局长，然后再经肖特兰呈交给我；
+我们总会在我的办公室开会，在这些提案得到更充分的阐述以及进行任何起草工作之前，讨论其总体构架，随后我们可能会举行后续会议，讨论草案中呈现的更具体的问题等等。我发现他是一个极其聪明、完全敬业且能干的人，判断力均衡，极其公平，待人诚实。在我看来，他是一位优秀的行政管理者，对他所管理的系统有着非常敏锐的认知。20
+
+即使在1970-1971年理查森担任卫生、教育及福利部部长，而鲍尔担任社会保障局局长期间再次合作后，理查森也没有改变这一评价。理查森就任部长时，决心保留鲍尔的局长职位，尽管尼克松的白宫有意摆脱他。“他是我共事过的最伟大的官僚，”理查森在1977年说。对于一个当时已经在公共服务领域度过几十年、并在联邦政府五个行政部门担任或接近首长职位的人来说，这绝非微不足道的赞扬。
+
+理查森补充说，他“喜欢那些为了自己的项目而足智多谋进行内部斗争的人”，而鲍尔无疑是其中之一。他精通所有的策略，”理查森评论道，而且“他在国会山有极广的人脉”，但是“在任何你质问他的事情上，他总是绝对诚实。如果你足够聪明，能提出正确的问题，他会给你诚实的答案。”那么，理查森是否确信，作为卫生、教育及福利部部长，他完全掌握了鲍尔的行动？“在一定限度内，”他回答说，并补充说他无法确定这些限度到底是什么。鉴于他们之间相互信任的关系，如果他有更多时间与鲍尔相处，他本可以对鲍尔的行动有更深的理解；但是，对部门首长的要求如此繁多，他们很少有时间进行这种深入理解的努力。21
+
+时间的缺乏始终是对政治行政官员的一项关键制约——甚至对像理查森这样非同寻常地愿意掌握政策实质、致力于发展政党立场并寻求项目行政官员合作的人来说也是如此。作为艾森豪威尔政府的助理部长，理查森曾着手准备一项采用社会保险方法但印有共和党原则烙印的医疗健康法案。他给职业专家提供了指导原则，要求将福利作为一项权利而非基于需求提供，引入个人选择的保障，并在实践中提供最大程度的商业保险载体参与。专家们基于行政管理的理由提出了反对意见，而理查森在将这项努力带入令人满意的结局之前就离开了该部门。他无法断定如何评估他们反对意见的价值：
+
+我经常在想，如果我坚持到底，把它争取下来并解决一些问题，沿着这些思路制定的计划是否可能在1960年由政府提出。我一直没有机会回过头来在这件事上花足够的时间，以自己判断部门人员提出的那些行政困难是否真的无法克服。我认为说他们提出困难是因为他们在心理上倾向于一个完全由政府主导的项目，这是不公平的。我觉得可以说的是，当我中断参与这个问题时，我并不确信这些困难真的无法克服。22
+
+### 总统
+
+总统承担着如此众多的其他职责（处理外交关系、统帅武装部队、领导政党、发布国内立法计划、作为国家的象征性领导者），且事务极其繁忙，以至于他们没有太多时间去监督所有名义上由其领导的行政机构。 某些部门比其他部门（如国务院、国防部、财政部）获得总统更多的关注，因为这些部门协助总统履行尤为紧迫的职责； 其他部门，包括大多数国内事务部门，往往只有在出事时才会引起总统的注意——比如威胁到总统声誉的行政失误，或者需要他干预才能调解的争端。 从历史上看，社会保障并没有引发过这类麻烦。 “你很少会听到投诉，”一位前社会保障局局长在回忆该项目的行政运作时说道。 “结果就是，社会保障局成了部门里的‘宠儿’，当然也是执政党的‘宠儿’，因为你每个月要发出1900万张支票。这总是非常讨喜的。”23
+
+如果社会保障不太可能为总统带来麻烦，那么它是否作为一种潜在的政治收益来源而存在于总统的考量中呢？ 它提供了一种向庞大且普遍具有吸引力的选民群体——老年人——提供福利的途径。 随着受益人数随时间增加，两党的总统都开始发现这一点的巨大吸引力，并赞助了一些自由化改革；但他们也必须权衡扩大福利的政治吸引力与提高税收的政治成本，并考量项目扩张的宏观经济效应。 在做出这些选择时，某些民主党人比其他人更致力于自由化（例如，林登·约翰逊与约翰·肯尼迪相比）；当然，民主党人总体上比共和党人更为积极。 事实上，人们原本预期共和党人会利用总统权力的特殊资源来遏制不合意的发展，例如1956年残疾保险的通过和1972年福利增加20%的举措。
+
+作为首席行政官，总统拥有独特的资产。 他拥有宪法赋予的否决国会法案的权力。 尽管卫生、教育及福利部（HEW）的共和党政治行政官员可能无法阻止威尔伯·科恩（Wilbur Cohen）离职去推动残疾法案，但总统可以拒绝签署最终结果。 此外，总统还有一支由职业文官组成的庞大幕僚团队提供协助——他们是通才，但知识渊博且经验丰富，并深受制度忠诚规范的熏陶。 成立于1921年的预算局（Bureau of the Budget）比联邦安全局（FSA）或HEW历史更悠久，且不受特定项目承诺的束缚。 预算局的存在是为了服务总统，无论其为何人，并代表总统执行中央幕僚职能。 在这些职能中包括立法许可（legislative clearance），即审查各部门的提案，以确保它们“符合总统的计划”。 至少，这构成了对项目行政官员行动的额外制衡，且可能正因为其超脱地位而比部门内部的检查更为有效。
+
+实际上，无论是总统的否决权还是总统的幕僚，对社会保障的发展都没有产生太大影响。 从未有共和党总统否决过扩大该项目的措施。 民主党控制的国会（这也是共和党总统几乎总是面对的国会）乐于向共和党总统递交耗资巨大的社会保障法案，使后者要么违背政党原则签署，要么违背政党利益否决。 共和党总统最终签署了这些法案。或许否决权的暗示有时能起到抑制作用。 例如在1958年，民主党参议员罗伯特·克尔（Robert Kerr）通过引用否决的前景，在议场上辩护财政委员会的福利提案，以抵御自由派民主党人的修正案。 “我不打算愚弄俄克拉荷马州的老年人，”克尔说。 “他们不会从否决中得到任何好处。他们不能吃掉否决。他们不能穿上否决。”24 但没有多少证据表明否决权的威胁始终是一种制约力量，或者共和党总统曾成功利用这一筹码讨价还价以减少不合意措施的影响。 相反，民主党国会与共和党总统之间对政治功劳的竞争，很可能导致该项目在政府分裂时期的增长速度，超过了行政与立法分支由同一政党（即便是民主党）控制时的速度。 在共和党执政期间，民主党国会的出价总是高于总统提出的福利增长幅度，要么迫使总统冒着巨大的政治风险行使否决权，要么通过将增长案附加在诸如最后一刻增加债务上限法案等“不可否决”的法案上，剥夺他行使否决权的机会。
+
+历史上唯一一次针对社会保障动用否决权的总统，其目的是为了保护该项目。 民主党人哈里·杜鲁门三次否决了共和党控制的第80届国会通过的法案，这些法案通过缩小《社会保障法》中“雇员”的定义并排除某些报刊摊贩来缩小覆盖范围。 （这些被否决的法案部分源于一种观点，即行政部门对“雇员”一词的解释超出了国会的原意；民主党人最终与共和党人联手推翻了杜鲁门三次否决中的两次。）
+
+否决权总是难以使用的，因为它是立法过程的最后一步。 从本质上讲，它挫败了一个已经形成并通过公开投票行为正式化的立法多数。 总统寻求更有效地行使权力，方法是提前介入并在立法的早期阶段表明政府立场。立法许可程序旨在确保向国会传达的信息准确表述了总统的观点。 然而，作为对社会保障的一种政治监督技术，预算局的立法许可在部门既有工作的基础上几乎没能增加什么内容。 预算局的审查严重依赖正式提交的材料，并聚焦于支出总额和跨机构协调。 该局的许可过程在很大程度上演变成了与其他行政机构（劳工部、财政部等）的协调，该局通常会将法案提交给这些机构征求意见。 这种监督并未深入到社会保障局（SSA）自身的立法规划中，也未能广泛介入与国会委员会的谈判。 国会委员会并不邀请总统幕僚代表参加通常决定立法内容的执行会议。
+
+预算局与社会保障立法之间的疏离感可以用1960年的一起事件来说明。 经过一场关于如何为老年人提供医疗服务的党派竞选前辩论，国会在夏末完成了综合修正案的行动。 HEW向艾森豪威尔总统提交了一份签署该法案时发表的声明草案，但预算局幕僚认为他不应使用该草案。 作为反对理由，他们援引了HEW拟议声明中的说法，即退休审查（retirement test）的变化是遵循该部门所开发路径的“重大改进”。 预算局幕僚写道：“事实是，行政当局反对放宽退休审查，且根据白宫指示，预算局并未给该部门关于此主题的任何建议提供许可。” 尽管如此，该部门仍向筹款委员会提交了一份报告，“且未获得预算局的许可或告知”。25
+
+这种SSA与预算局之间的紧张关系并不局限于共和党总统任期。在杜鲁门总统任内，该局幕僚同样对SSA未能就1950年《社会保障法》修正案保持沟通感到恼火，尽管当时毫无疑问总统总体上支持SSA的所作所为。26 最早的医疗保险倡议，即1943年演变为“瓦格纳-默里-丁格尔法案”（Wagner-Murray-Dingell bill）的提案，在未向总统幕僚正式申请许可的情况下就提交到了国会山。 阿瑟·奥特迈耶告诉采访者：
+
+“我们必须承担起向准备承担责任的国会议员提供技术援助的角色。 我作为主席与委员会的其他成员讨论了这件事，他们都同意由研究与统计处提供数据并起草法案。 我就该主题和项目作证支持，但我记得我从未具体背书该法案本身及其所有细节。 ……我认为我的公开演说背书了瓦格纳-默里-丁格尔法案中包含的所有内容。 但我并没有说我正在支持或者政府正在倡导通过该法案，因为我当时在官职上并不处于可以这样做的地位。 你看，你必须从预算局获得许可，而我们从未获得预算局的许可。 我记得我们从未催促过许可。”27
+
+经历许可程序本可以赋予SSA官员作为总统代理人发言的权利。 然而，奥特迈耶有理由相信许可无法获得。 他曾问过总统会支持哪种医疗立法，罗斯福说是一个由向各州提供补助金资助的有限医院建设项目——仅此而已。 根据奥特迈耶的回忆，罗斯福并不反对将该法案作为一种“试水球”引入以测试民意，但并不准备支持它。 缺乏许可并未迫使项目行政官员保持沉默。 在技术援助这一战略性便利的掩护下，项目行政官员可以独立于总统办公室开展行动；而在民主党政府中，与共和党政府不同的是，这样做可以基于一种政治行政官员默许其行为的自信推断。
+
+### 民主党执政时期
+
+如果说由共和党控制行政分支对项目行政官员而言并非如表面看起来那般不利，那么民主党人的执政也并非全然有利。 诚然，获得政治管理者对重大倡议的支持是有利的。 通过压力集团盟友能做到的事情是有极限的。 在共和党执政期间，医疗保险可以保持生命力并留在议程上，但如此重大的变革，涉及如此复杂的法律，最好——或许只能——通过全面动员职业官僚机构（包括总法律顾问办公室）来实现，而这需要行政当局的支持。
+
+随着1960年后民主党重返HEW，官方活动基地迅速扩大，但过程并不总是和谐的。 在某种程度上，项目行政官员与民主党管理者的关系中存在着比与共和党人之间更多的紧张和冲突，因为与民主党人保持距离更为困难。 当民主党执政时，伟大的事业可以被开启，但必须通过与政治官员的协作来开启。 随着合作负担的增加，冲突的发生率也随之增加。 在策略、战术和分工上产生了紧张关系。失败之后随之而来的是互相指责。 杜鲁门政府期间瓦格纳-默里-丁格尔法案失败后情况正是如此。 政治方与项目方每一方都断定另一方不懂政治。 杜鲁门任内的联邦安全局局长奥斯卡·R·尤因（Oscar R. Ewing）告诉采访者：
+
+“[I. S.] 弗兰克（与科恩同为法案起草者）在这个主题上是一个优秀的技术专家。…… 我对他唯一的批评是，在某种程度上，他对当时政治局势的直觉很弱。 在我看来，提交到国会的瓦格纳-默里-丁格尔法案不必要地激起了某些本不需要被激起的反对力量。 例如，它规定政府可以设定药品价格。 结果这导致整个制药行业都反对该法案，而这根本不是必需的。…… 弗兰克非常诚实地认为，一次性把所有反对意见都引出来并解决掉是明智的。 我本更倾向于渐进式路径。但这种模式在我上任之前就已经设定好了。”28
+
+根据尤因的说法，在法案失败后，是他的主意促成了采用最终获得成功的、覆盖范围较窄的路径。 而奥特迈耶的回忆与尤因截然相反。他回忆说，是他和科恩决定应当向尤因建议一个缩减后的提案，作为可以从废墟中挽救回来的东西。 根据他的说法，是尤因在医疗保险上推得太猛、要得太多：
+
+“当涉及立法时，他觉得他拥有权力和责任——他确实有；毫无疑问，他是对的。这意味着不再是由卫生局局长（surgeon general）和社会保障委员会主席开发一个项目并去国会山解释和推动它，而是由他来开发一个项目，确信他会说——依赖下属给他提供技术建议。 但他会做出关于立法内容的所有决定，他将是那个解释它的人，也将是推动它的人。 他觉得在那方面他远胜于任何下属，因为他是一个知道如何与政治家打交道的政治家，无论他是否懂行政，他确实了解关于政治行动的一切。……所以他真的干劲十足，而我们对医疗保险感到战战兢兢，因为我们觉得那里有很多暗礁，‘国之航船’必须小心操纵才能避开它们。”29
+
+类似的紧张关系在1961年至1965年间医疗保险最终成功但举步维艰的过程中再次出现（见第16章讨论）。 这一案例中的政治主角是伊万·A·内斯廷根（Ivan A. Nestingen），他曾是威斯康星州麦迪逊市市长，肯尼迪为了偿还政治债而任命他为HEW副部长。 内斯廷根着手主导政府的医疗保险运动，尽管这样做肯定会与当时担任立法事务助理部长的科恩产生冲突。 曾一度，白宫让内斯廷根而非科恩负责政府在国会听证会上的陈述。华盛顿的支持医疗保险活动家们分裂成了以内斯廷根为首的政治导向派，和以科恩为首的项目导向派。 在1962年的一次失败后，情况变得非常糟糕，以至于总统被劝说给这两组人做了一次鼓劲谈话，并呼吁他们合作。 敌意是如此强烈，以至于白宫会议上有些人不愿与科恩握手。就科恩而言， 他将内斯廷根及其追随者看作一群搞砸事情的闯入者。
+
+共和党政治行政官员与项目行政官员之间目标的不同，使得在项目扩张（尤其是医疗保险）的主导议题上无法合作；但当民主党执政时，共同的目标创造了一种合作可能的推定，而在合作的努力中，政治导向官员与项目导向官员之间的差异便显露了出来。 在构建项目的过程中，项目行政官员也建立了一个与其他决策者（最重要的是国会委员会）的关系网络，后者对该项目负有持续责任且拥有某种所有权利益。 政治行政官员作为部门的过客，对这个网络的存在并不特别敏感，没有融入其中，不理解其制定政策的规则，也不认为遵守规则有多重要。 （在科恩团队眼中，内斯廷根团队对成本的漠视显示了他们在社会保障政策上的天真。一位成员说：“内斯廷根的人想把这个加进去，把那个也加进去。……而一直在社会保障领域工作的人总是知道你必须覆盖成本；如果你不这样做，鲍勃·迈尔斯说它在精算上不可靠，你就永远无法取得进展。”）30 作为行政管理者，项目行政官员还必须对与医院、医生和保险公司的潜在工作关系保持敏感，而政治行政官员则不必。简而言之，项目行政官员是调和性的、非意识形态的，并且非常关注维持其项目所需的协作关系。 政治官员则更愿意接受冲突，寻求可以向大众选民宣传的党派与总统胜利。31 他们的立法路径是组织群众集会，而科恩团队的路径是计算筹款委员会中的选票，并询问自己可以通过对法案进行何种修改来赢取另一张选票——最终的大奖自然是主席米尔斯（Mills）的那一票。
+
+当法律最终在1965年写就时，正是作为内部战略家典范的科恩，与米尔斯及其筹款委员会坐在一起解决了所有问题。 科恩在选举后取代内斯廷根担任副部长，作为一个转为政治行政官员的项目行政官员，他为国会谈判带来了一种高度调和性的方法。 随着一名项目行政官员完全代表政府掌权，与政治行政官员的冲突便烟消云散了。 值得注意的是，即便在更庞大、更积极、人才济济的政党执掌政权的民主党政府中，一种鲜明的党派领导力并未主导行政部门对社会保障的政策制定。 情况正好相反：核心的项目行政官员进入了党派职位。 民主党任命了罗伯特·鲍尔为社会保障局局长，并开始依赖科恩来运作医疗保险立法的通过。
+
+在本书这一部分所构建的社会保障决策者画像中，政治行政官员并不占显著地位。 他们的影响力依赖于其作为政党领袖的地位，但政党作为关于社会保障的指导来源或工具几乎并不存在。 作为政府中的过客，由于在任时时间紧迫且通常并不专业，他们变得非常依赖职业项目行政官员提供建议、解释和提案。 他们也并未构成一种强有力的制约力量，因为他们顺应了那些赋予职业项目行政官员在与国会议员、压力集团、党派活动家及其他行政分支外人士交流时极大自由度的规范。 只要局限于“技术援助”，这种沟通就是可以接受的；而技术援助之所以被接受，是基于其政治中立的理论。 但在政策制定的实践中，它并不中立。 它最主要地帮助了那些与项目行政官员拥有共同项目目标的参与者。
+
+引用
+1 Proceedings of the Sixth Social Security Conference (Ann Arbor, Mich.: 1968 ), pp. 18, 40. 62
+2 The distinction is not equivalent to (and is only roughly parallel to) that between political appointees and civil servants. It is meant to apply to the dominant purposes or orientations of the individual in his job, not to a formal administrative status, source of official authority, or mode of qualification for the job. Most executives of the social security program were civil servants, and the leading program executives were all civil servants at some point in their careers. Arthur Altmeyer, Wiibur Cohen, and Robert Ball were variously civil servants, political appointees, and private citizens, and functioned as if they were program executives no matter which status they were in, although Altmeyer, in contrast to Cohen and Ball, was not highly active upon leaving office. I assume that to be a political appointee necessarily imparts to an incumbent some degree of political orientation, but that even “political" appointees may have a predominantly programmatic orientation. A safe generalization is that the higher the rank in the executive hierarchy, the greater the political content of the executive function. Particular programmatic responsibilities are progressively diluted, while responsibility for advancing party policies intensifies with the steps up the ladder from bureau chief to secretary, which successively increase distance from the career civil service and narrow distance from the presidency. For elaborate analyses of the relations between political officials and program specialists, see Hugh Heclo, "Political Executives and the Washington Bureaucracy," Political Science Quarterly, vol. 92 (Fall 1977), pp. 395-424, and Heclo, A Government of Strangers: Executive Politics in Washington (Brookings Institution 19)
+3 Nelson Cruikshank later remarked that "here was a civil servant in the best tradition and . . . we had hoped that social security . . . could be kept out of politics and that a good competent staff could be held intact and people could make a career of it. Now, we knew that a secretarial post had to be changed with the changing administrations. But people like Cohen and Altmeyer and Bob Ball and all those good, sound technical people should have been retained." (Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University [1967], p 108. [Hereafter, Cruikshank, OHC.]) Cohen and Ball were retained, though Cohen soon left of his own choice. The Republicans made Cohen director of research and statistics in place of I. S. Falk. He thereafter resented what he took to have beer pressure to leave. The job as research director, though a better title than he had had, entailed a cut in grade and salary.
+4 Interview with Robert J. Myers, Oral History Collection, Columbia University(1967), pp.23-26.
+5 Both sources requested anonymity.
+6 Interview with William L. Mitchell, Oral History Collection, Columbia University (1965), pp. 124-26. 
+7 Ibid, p. 127.
+8 Technically, Perkins was assistant secretary for program analysis. The title of the office was later changed to assistant secretary for legislation
+9 Interview with M. Allen Pond, Oral History Collection, Columbia University (1966), pp. 65-66.
+10 James L. Sundquist, Politics and Policy: The Eisenhower, Kennedy, and John-son Years (Brookings Institution, 1968), pp. 302-05.
+11 From tape-recorded comments by Robert M. Ball addressed to the author, May 6, 1978. (Hereafter Ball transcript. )
+12 Robert Ball, upon reading this passage, commented: "There is no way that an organization can fulfill its responsibility to be prepared for what may arise in the future if it waits each time for a new administration to lay out the areas in which it should do research and analyze alternative program developments. But a careful dis-tinction needs to be made between this activity and promotion of programs contrary to the position of a president. When Marion Folsom was in office, we talked several times about the possibility of the administration backing a disability insurance pro-gram beginning at age fifty-five, and then later we discussed one beginning at age sixty. One couldn't even have discussed such a possibility without there having been work done prior to an administration taking a position. I was for it and so was Folsom. but in the end he had to testify against any kind of a disability insurance program because that was the President's decision. He gave the task of writing the testimony jointly to Rod [Roswell] Perkins and me, with a staff writer of his to actually put the words down. The reason was that Perkins was wholeheartedly and personally opposed to disability insurance and I was wholeheartedly and personally in favor of it. And what Folsom wanted was a statement against it, but still one that did not cut off all possibilities for the future and dig a big hole which he could have never climbed out of. Incidentally, we worked on that testimony all night long the night before he was to give it, and handed it to him as he went to the Hill. We fought over almost every word in it. I was, of course, not trying to develop a statement in favor of dis-ability insurance, merely one that in opposing it didn't overdo the argument. At the time, of course, Perkins was a political appointee and I was a civil servant." Ibid.
+13 Interview with Irwin Wolkstein, Oral History Collection, Columbia University (1966), pp. 51-52.(Hereafter Wolkstein, OHC.)
+14 Interview with Robert M. Ball, Oral History Collection, Columbia University(1967-68), pp. 11-12. (Hereafter Ball, OHC. )
+15 Wolkstein, OHC, pp. 9, 9a, 32a, 32b, 45-46
+16 Ball, OHC, pp. 10-12, 46. Accounts of the SSA's assistance to the AFL-CIO in regard to the Forand bill may be found in oral history interviews with Katherine Ellickson, Leonard Lesser and Lisbeth Bamberger Schorr, Irwin Wolkstein, and Nelson Cruikshank.
+17 The recollections of Roswell B. Perkins for an interviewer are particularly pertinent:
+QUESTION: Do you know anything about the opposition [to the administration's position on disability coverage]--what they were doing in this?
+PERKINS: Not a great deal. I'm reasonably sure that it was being masterminded by Wilbur Cohen from behind the scenes. It would have been virtually inconceivable, with the dedication that he had to it, that he could avoid being drawn into the discussions by those who favored the bill. It was nominally Nelson Cruikshank who headed operations but with Wilbur's extraordinarily keen strategy and advice. Also, Bob Ball I'm sure must have been operating behind the scenes to put this thing over.
+QUESTION: Is this something that you suspect in retrospect or was this something that you probably knew at the time?
+PERKINS: I think I probably knew it at the time. QUESTION: But chose to overlook it.
+PERKINS: I can't reconstruct my thinking on it at the time. Of course Bob and Wilbur were sufficiently astute in the way that they handled themselves so that certain of their conferences could be classified as the necessary response of government officials to requests from the Hill for information. It would be impossible to close off all telephone calls and contacts from the Hill to members of the staff of the department. They were public servants, and the fact that the administration, including the head of the department, disagrees with the positions being taken by elected representatives on the Hill doesn't give the heads of the department the right to foreclose the quest of congressmen and senators for technical and other information from the staff members in the department. Also, their personal lives and associations I never felt we could enter into. : . . It would have had to be a gestapo-like operation. .
+QUESTION: So that you were fully aware of the fact that there were relationships continuing to exist between the AFL-CIO and people out at Social Security but had to overlook it.
+PERKINS : I think that's a fair summary of it. I didn't try to know the precise nature of the relationship, but I was sufficiently sophisticated to know that probably a day wasn't going by that Wilbur Cohen and Nelson Cruikshank weren't putting their heads together-[even] before [Cohen] left the department---in one way or another over the progress of the disability benefits bill. (Interview with Roswell B. Perkins, Oral History Collection, Columbia University [1968], pp. 31, 33.)
+18 Author's interview with Elliot Richardson, December 2, 1977.
+19 Cruikshank, OHC, p. 269.
+20 Interview with Elliot Richardson, Oral History Collection, Columbia University (1967), p. 53. (Hereafter Richardson, OHC.) 
+21 Interview with the author, December 2, 1977.
+22 Richardson, OHC, pp. 37-40. Robert Ball, upon reading this passage, commented: "I still think that Richardson's idea was unworkable. Essentially the problem was that he would have had people pay over their lifetime toward paid-up health insurance in old age, just as the final medicare program did. The problem, though, was that he wanted people to be able to elect into and out of the system so that some would reach age sixty-five having paid in for a few years and others having paid in for all their years of coverage. I still see no way to work this out, and not just because I'm a Democrat." Ball transcript.
+23 Interview with Charles I. Schottland, Oral History Collection, Columbia University (1965), p. 76. Social security also offered frequent opportunities for thoroughly benign symbolic gestures by the president, including the recognition of such milestones as the birthdays of extremely aged recipients or the mailing of a check to the x-millionth beneficiary. In 1965, for example, President Johnson sent greetings on her ninety-first birthday to Ida Fuller of Brattleboro, Vermont, whom the SSA had long honored as the “first” social security beneficiary, and explained to her that she would soon get an extra social security check as a result of his having signed a benefit increase into law. Milestone beneficiaries, to be honored if possible in White House ceremonies, were picked by the SSA with great care. In 1968, the SSA’s acting com missioner recommended as a 24-miHionth beneficiary “a dignified and respectable citizen” who was about to retire as superintendent of buildings and grounds at Johns Hopkins Hospital in Baltimore. His race, age, marital status, and job history were given, and he was described as “personable and photogenic.” (Letter, Lyndon Johnson to Ida Fuller, September 3, 1965, Gen WE 6 WHCF, Lyndon Baines John son Library, Austin, Texas; Memo, Arthur Hess to Wilbur Cohen, May 24, 1968, Gen WE 4 WHCF, LBJ Library; and Memo, Wilbur Cohen to Douglass Cater, May 27, 1968, Gen. WE 4 WHCF, LBJ Library.) Documents in the Johnson Library also show that the President was concerned with such administrative matters as the amount of employment in the SSA’s district office in Austin, Texas, and the choice of a manager for that office, but that degree of involvement in SSA operations was unusual among presidents. In the Johnson administration, relations between the White House and the SSA sometimes dealt with matters as minor as the assignment of a social security number to the newborn child of a White House aide
+24 Congressional Record (August 16, 1958), p. 17959.
+25 "Enrolled Bill H. R. 12580, Social Security Act Amendments of 1960," memo. Michael S. March, Labor and Welfare Division to P. S. Hughes, September 8, 1960 (File HR 12580-86 PL 778 R8-2/60.1 vol. III, National Archives)
+memo, I. M. Labovitz to the Director via
+26 “FSA Report on H. R. 6000,” memo, I. M. Labovitz to the Director via J. W. Jones, FSA Report, January 16, 1950 ( File Social Security Act Amendments of 1948 and 1949 —Public Welfare Act of 1949, R8-4/48.4 vol. II, National Archives )
+27 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967) pp. 36-37. (Hereafter Altmeyer, OHC.) I. S. Falk, director of re-search and statistics for the SSB, who, with Wilbur Cohen, was the principal author of the Wagner-Murray-Dingell bill, recalled nevertheless that the Bureau of the Budget and the White House staff had been consulted informally. "We were in each other's offices and in each other's hair, too," he told an interviewer. "We were working with global omnibus programs, and with fractional programs. We had scores of explorations of that kind going on. And very gingerly the board would decide what  it would put out in its annual report or in a speech that Altmeyer would make or someone else would make and try them out. And the White House and the Budget Bureau were watching the reactions to see what they would endorse and what they wouldn't. This wasn't any solo performance." Interview with I. S. Falk, Oral History Collection, Columbia University (1965-68), pp. 241-42.
+28 Interview with Oscar R. Ewing, Oral History Collection, Columbia University (1966), pp. 41-42.
+29 Altmeyer, OHC, pp. 131--32.
+30 Interview with Leonard Lesser and Lisbeth Bamberger Schorr, Oral History Collection, Columbia University (1967), pp. 57-58.
+31 Altmeyer speculated that Oscar Ewing in 1947-48 saw national health insurance as a political vehicle that would carry him to high office, perhaps even the presidency itself. Altmeyer, OHC, p. 133.
+
+## 第四章 咨询委员会
+
+鉴于前几章有关社会保障政策制定的论述，若发现一群局外人——在咨询委员会兼职的公民——发挥了举足轻重的作用，这将会令人感到惊讶 。目前显现出的模式是一种受限的参与模式 。政策制定的核心是一小撮高度专业的项目高管以及少数国会委员会成员，其中一些人随着时间的推移也成为了专家 。如果政府内部身居高位的政治执行官都无法在这个具有专属性的网络中占据一席之地，那么咨询委员会的任命成员能够跻身其中则会令人感到意外 。
+
+然而，他们确实做到了。社会保障政策制定的研究者很快就会了解到，项目高管和社会保障事务的密切观察者都期望他认真对待公民咨询委员会，将其视为做出重要决策的场所。自该项目启动以来，针对社会保障的公民咨询委员会就断断续续地成立，并于1956年由成文法予以规定 。与联邦行政部门的其他地方一样（1973年，联邦行政部门包含超过1200个此类委员会和理事会），它们是一种常见的组织形式 。也许在社会保障领域比在其他项目中更甚，它们被认为是具有重要意义的 。过去，其中最重要的委员会一直是政策制定不可或缺的一部分，它们的审议构成了在重大举措上达成共识的一个有用的、甚至是至关重要的阶段 。在1939年和1950年修正案出台之前，它们的运作非常像国会前的立法机构，即主要受影响利益集团在其中就重大政策提案达成协议的代议机构 。
+
+尽管如此，将这些委员会视为由成功划定了独立于其他政策制定者之外的政策制定角色的局外人组成，也是不准确的 。更准确地说，咨询委员会成为社会保障署（SSA）高管一种便利的“吸纳”（cooptation）机制——根据塞尔兹尼克（Selznick）的经典定义，即“将新元素吸收进一个组织的领导层或政策决定结构的过程，作为避免其稳定或生存受到威胁的一种手段。”2 尽管这些委员会是不连续的——每个委员会都是重新创建的——但它们的领导层却是连续的 。少数个人一次又一次地任职，培养了自己对该项目的强烈的主人翁意识，并被吸收进了政策制定结构中 。通过他们，并通过社会保障署领导层对委员会审议的影响，委员会作为一个整体也被吸收了 。
+
+### **起源与结构**
+
+项目高管最初并没有将咨询委员会设想为一种吸纳工具 。亚瑟·奥特迈耶（Arthur Altmeyer）作为社会保障委员会（Social Security Board, 简称SSB）主席，并不想创建第一个委员会 。1937年，该项目在国会山的主要共和党批评者、参议员亚瑟·H·范登堡（Arthur H. Vandenberg）将其强加给了他 。也许是对1934年经历的回忆让奥特迈耶保持警惕 。当时经济安全委员会（Committee on Economic Security, 简称CES）下设有一个咨询委员会，但其运作并不良好 。其规模相当庞大。部分成员固执己见 。经济安全委员会的工作人员如此专注于自己的工作，以至于他们不知道该如何处理一群顾问，而且该委员会组建得太晚——就在委员会向总统提交报告的最后期限前两周——甚至连维持有意义的咨询参与的假象都不可能 。成员们得出结论认为自己被利用了，于是他们进行了反抗 。
+
+总而言之，这不是奥特迈耶愿意重复的经历，但是当范登堡在财政委员会（Finance Committee）听证会上坚持要求成立一个外部小组时，奥特迈耶无法推脱 。退一步讲，范登堡提案所处的党派色彩和批判性背景也会让奥特迈耶感到勉强 。在保险业领导人的敦促下，范登堡正在开展一场反对积累庞大储备金的激烈运动，保守派担心这会助长政府的挥霍无度，并破坏私人投资机会 。他提出了一项参众两院共同决议（concurrent resolution），呼吁社会保障委员会准备一项放弃巨额储备金的计划，而财政委员会正在就该决议举行听证会 。奥特迈耶同意委员会将进行一项研究，但范登堡对此并不满意 。“出于对社会保障委员会的极大尊重，”他说，“我不愿意将调查完全交给他们，因为我认为它对现有体系存在偏袒。”3 他提议国会进行自己的研究 。
+
+就这样陷入了困境，奥特迈耶同意创建一个同时向财政委员会和社会保障委员会负责的咨询委员会 。该委员会的任命于5月份由财政委员会主席、参议员帕特·哈里森（Pat Harrison）和奥特迈耶共同宣布，但奥特迈耶仍不愿推进 。到了9月，该委员会仍然没有开会，奥特迈耶也不确定它是否应该开会 。他就此征求了罗斯福总统的建议，并被告知继续推进 。
+
+奥特迈耶本不必如此焦虑。没过多久，这二十 五人组成的委员会就同意了社会保障委员会几乎所有关于修改1935年法律的提案，包括向已故工人的未亡家属按月支付福利这一非常重要的建议 。委员会中的企业界代表之一马里昂·B·福尔索姆（Marion B. Folsom）回忆了这段经历：
+
+现在回想起来，如果在我们刚开始运作时就在这个委员会里进行投票，我敢打赌你会发现反对遗属福利的比例大约是二比一 。但在我们结束之前，我们都对它表示赞同。你看，我们与社会保障局的人会面了 。他们列席了我们所有的讨论，所以大家在这件事上最终达成了一致 。当我们结束时，我们在这个问题上几乎是一致的…… 。那个委员会确实是一个教育过程。4
+
+第二次且远为有利的咨询委员会经历向社会保障署的领导人表明，这种形式无需畏惧——事实上，它可能非常有用——因此在1947年，他们敦促参议院财政委员会再次设立一个委员会 。社会保障工薪税定于1948年从1%提高到2.5%（针对雇主和雇员），但社会保障署领导人确信国会会像以前一样推迟加税 。社会保障署高管及其在有组织劳工中的盟友没有试图阻止冻结税率，而是选择接受它，但同时要求财政委员会成立一个新的咨询委员会 。他们带着这个想法找到了参议员范登堡，该委员会的高级成员尤金·米利金（Eugene Millikin）参议员和沃尔特·F·乔治（Walter F. George）参议员提出了必要的决议，授权委员会创建一个咨询委员会来研究覆盖范围、福利、税收以及社会保障的所有其他方面 。当时国会由共和党控制，作为委员会的共和党领袖，米利金参议员在与乔治参议员协商后负责组建该委员会 。1947-48年的委员会是在共和党的赞助下创建的，当这个委员会同样支持社会保险计划并呼吁沿着传统路线进行扩大时，这增加了社会保障的党派批评者的挫败感 。
+
+1949年在众议院，众议员卡尔·T·柯蒂斯（Carl T. Curtis）在筹款委员会（Ways and Means Committee）提交了一份少数派报告，全面批评了社会保险，并以对咨询委员会的特别批评作为结论 。柯蒂斯说，因为他们是重要人物，所以成员们太忙了，无法进行独立研究，几乎不可避免地接受了社会保障署的提案 。柯蒂斯呼吁由能够全职工作几个月且完全独立于政府的有关人员进行研究。5
+
+这一系列咨询小组中的第三个惊动了社会保障署的领导层 。因为它是由共和党政府在总体政治环境比以往任何时候都更具威胁性的时候创建的 。在短暂的一段时间内，咨询小组本身似乎构成了一种威胁 。1952年秋，即艾森豪威尔总统当选后不久 。美国商会发布了一份政策宣言，社会保障署领导人认为这是对他们计划的根本性攻击 。它呼吁覆盖所有老年人并采用现收现付（pay-as-you-go）的融资方式。6 社会保障署将其解释为对基于缴费的、与工资相关的社会保险的否定 。项目高管担心，即将上任的共和党政府与共和党主导的国会相结合，可能会接受这一来自保守派的提议，而当新任联邦安全署（FSA）署长奥维塔·卡尔普·霍比（Oveta Culp Hobby）开始与一个由五名成员组成的咨询小组举行非正式会晤时，这种担忧瞬间加剧了，该小组中有三名成员曾是商会委员会或社会保障政策委员会的成员 。社会保障的坚定支持者将其称为“霍比游说团（Hobby Lobby）”。
+
+为了回应有组织劳工的批评，霍比夫人迅速将她的“游说团”扩大为一个具有传统代表性的群体 。增加了七名成员，其中包括两名来自有组织劳工的代表和两名来自有组织农业的代表，这个扩大后的委员会于1953年春季开会，步其前任的后尘，走上了对既定项目予以不加批判地支持的道路 。它拒绝审议商会的计划，这无异于反对它 。其自身的报告包括一系列关于扩大覆盖面的建议，这些是共和党人和民主党人、企业界和劳工界都能同意的举措 。那是保守派希望比自由派推进得更远、更快的唯一一种扩张 。这是很容易达成一致的事情，即使在政治动荡的时期也是如此 。
+
+再一次，参谋工作由社会保障署完成。罗斯韦尔·B·帕金斯（Roswell B. Perkins），一位年轻的共和党律师，带着处理社会保障事务的任务进入霍比政府，后来回忆说，顾问们的咨询报告是“一份纯粹的社会保障署报告……简直就是波尔（Ball）的手下炮制出来的。”7
+
+霍比夫人的顾问团是最后一个临时组建的咨询小组 。1956年的《社会保障法》修正案通过规定应定期成立委员会，使咨询委员会正式化 。第一个法定委员会定于1957年被任命，后续的委员会则应在每次预定的税收增加之前成立 。增加这一条款，似乎是应美国劳工联合会-产业工会联合会（AFL-CIO）的要求，该组织在经历了1953年的事件后很可能得出结论，将太多事情留给偶然性和卫生、教育及福利部（HEW）部长的自由裁量权是存在风险的 。法律规定，社会保障署署长应担任咨询委员会主席，其他十二名人员应以同等人数代表雇主和雇员，以及自雇人士和公众，这种组成结构本身就赋予了该计划的坚定支持者一种即使不是主导的、也是极具影响力的地位 。
+
+起初，劳联-产联对这一变化的结果并不完全满意 。1956年的法律规定该委员会只应研究融资问题，这与劳联-产联最初要求它也考虑福利充足性的请求背道而驰 。1958年，共和党政府采取的立场是，增加福利应等待1959年的咨询委员会报告，劳联-产联的纳尔逊·克鲁克香克（Nelson Cruikshank）称这一策略扭曲了委员会的目的 。“部长建议我们先按兵不动，什么都不做，直到这个委员会提交报告，在我看来这是逆势而行的，”他说，“因为咨询委员会一直建议扩大和改进项目、如何扩大、如何改进、如何扩大覆盖面，而这在我看来是把委员会用于如何阻碍该项目，这肯定违背了咨询委员会以往的经验。”8 事实上，国会在1958年没有听取咨询委员会的意见就增加了福利和税收 。并在1960年修改了法律，规定下一个（1963-65年）委员会除了研究项目的财务状况外，还应考虑扩大覆盖面、福利的充足性以及该项目的所有其他方面 。
+
+与其不太正式的前身一样，法定委员会对该项目表示赞赏，并证明了其财务稳健性 。1957-59年的委员会表示：“这项社会保险计划获得几乎普遍的接受是当之无愧的。委员会认为目前的融资方法…… ……对于该项目而言是稳健、实用且适当的。” 9 1963-65年的委员会支持将社会保险扩大到涵盖老年人和残疾人的医疗费用。1969-71年的委员会通过认可精算技术的变革，为1972年增加20%的福利奠定了基础 。
+
+这段简短的历史提出了一个明显的谜团。1937年至1971年间的六个咨询小组在起源上截然不同，而在结果上却惊人地相似。第一个是由国会启发的，尽管从技术上讲它是行政-立法联合的产物。第二个是由国会创建的，尽管幕后受到行政人员的启发。第三个是由行政部门单独创建的。最后三个是由行政部门（卫生、教育及福利部部长）根据法律规定任命的。第二、第三、第四和第六个委员会是在共和党的支持下启动的。如果将范登堡视为其发起人，第一个也是如此。只有一个——1963-65年的委员会——是明确由民主党政府创建的 。然而他们从根本上都批准了该项目。没有一个曾对其产生实质性、重大的批评 。大多数人都呼吁进行大规模扩张 。
+
+### **与社会保障署（SSA）的关系**
+
+罗伯特·迈尔斯（Robert Myers）作为社会保障署的首席精算师，总是与其他项目高管保持一定的距离，私下里并不完全认同这种信念，迈尔斯超然态度的一个标志就是他对咨询委员会的评估。“他们是有偏见的，”他在1967年告诉一位采访者，成员的组成“总是经过挑选，以确保你包括的大多数人都会按照你希望的方式思考。” 在迈尔斯看来，委员会应该包含“持有各种立场的人”，包括那些支持对老年人采取基于需求、经过家计调查（means-tested）的援助形式的一方。10
+
+委员会内部的意见当然并不完全一致，但分歧被限制在一个将社会保险视为援助受抚养人的普遍方法而予以接受的光谱之内。“长期以来，我一直是我们社会保障计划中所体现原则的坚定支持者，”保险公司高管莱因哈德·霍豪斯（Reinhard Hohaus）在1965年一份质疑医疗保险论点的独立声明中写道 。这是咨询委员会异议的典型代表；这是一种处于边缘的异议 。霍豪斯质疑的只是将其扩大到包括健康保险的提议，而不是基本原则。11
+
+委员会通常由三个群体组成——劳工代表、企业代表和“公众”代表。由于各种原因（将在第五章中分析），有组织劳工总体上不加批判地支持社会保障计划 。
+
+商界人士更有可能成为异见的来源，只不过在咨询委员会任职的商界人士通常以其相对的自由主义倾向而著称。他们是企业界的政治家，是有社会良知的商人，他们自己的公司（例如通用电气、伊士曼柯达）曾是制定养老金计划的领军者。公众成员通常是对比社会保险感兴趣的大学教授。在 1963-65 年，当健康保险议题被纳入考虑时，医学界的代表是国家医学协会（National Medical Association，一个由黑人医生组成的组织）的主席，而非对政府健康保险抱有持久敌意的美国医学会（American Medical Association）。
+
+即便在社会保障署高管并未如 1937 年那样直接参与组建委员会时，他们也会非正式地向国会或卫生、教育及福利部（HEW）部长办公室的任命机构建议人选。他们知道谁是他们的朋友，而他们的朋友也会识别出潜在的朋友。因此，例如在寻找在委员会任职的商界人士时，奥特迈耶咨询了福尔索姆（Folsom），一位可靠且具有同情心的企业高管，他对社会保障计划的认同可以追溯到其在 1935 年咨询委员会的任职。在没有社会保障署高管任何提示的情况下，有组织劳工也可以被指望坚持要求在咨询小组中占有成员席位。
+
+劳联-产联（AFL-CIO）的纳尔逊·克鲁克香克（Nelson Cruikshank）曾向一位采访者回忆，米利金参议员是如何通过一名曾任科罗拉多州（米利金的家乡）立法机构成员的管道工工会官员，被私下恳求将劳工代表纳入 1947-48 年的委员会。12 1953 年，劳工界公开向霍比夫人施压，要求扩大她的顾问团。当然，1956 年后，法律保障了劳工的代表权，劳工代表权本身就保障了咨询委员会内部对该计划的坚实支持。
+
+除 1947-48 年的委员会外，咨询委员会的职员（staffing）工作始终由社会保障署承担。奥特迈耶、科恩（Cohen）等人参加了 1937-39 年委员会的会议，总部组织准备了提案、支持性的技术数据和立法草案。“至关重要的是，”科恩后来写道，“必须为这样的委员会提供充足的技术援助，这不仅是为了让它能做好工作，也是为了防止它自行建立一套独立的职员体系。”13 社会保障署以其惯有的精力和能力服务于这些委员会。（在持异见的迈尔斯看来，其技巧在于“向他们投送大量他们根本不可能读完的材料，然后他们会因为没有读完而感到尴尬，以至于不敢多言，因为有人会说：‘噢，难道你没读过这个吗？’”）14 由于得到了社会保障署的充分服务，咨询委员会除非是为了寻求独立的专业知识，否则没有动力去别处寻求职员协助。15
+
+米利金参议员在 1947 年似乎曾寻求过独立的专业知识。1947-48 年委员会的章程授权其任免自己的职员，并向行政部门请求协助。米利金对由“局外人”服务的兴趣导致了罗伯特·波尔（Robert Ball）被聘为职员主任。到那时，波尔已经在社会保障署拥有七年的经验，但他于 1946 年离开该机构，在美利坚教育理事会（American Council on Education）的支持下，为州和联邦官员提供社会福利和公共行政方面的培训。他在 1947-48 年那一小批职员中的其他几名成员也有在社会保障署工作的经验，他的执行助理也是从该机构借调而来的。当众议员卡尔·柯蒂斯指责咨询委员会缺乏独立专业知识时，米利金回应说这不可能获得。“残酷的事实是，基础信息仅由社会保障署掌握，”他告诉柯蒂斯。“没有任何一家保险公司（包括最大的那家）的私人精算师能够为你提供关于这个课题的完整全貌。……我花了一个夏天的时间来研究那个问题，当我在华盛顿满头大汗地试图寻找这类人时，我还没聪明到留在参议院办公大楼里。最后——在私人企业人士的承认下——我不得不放弃，因为那些人并不存在。他们没有这样的人才。”16 通过无处不在的科恩，社会保障署随时掌握委员会的工作情况，并为劳工界成员提供职员协助。当一位商界成员准备一份支持维持工资基数上限的声明时，科恩为劳工界成员起草了一份支持大幅提高基数的声明。17 当同一位商界成员准备一份反对残疾保险计划的声明时，科恩为劳工界成员提供了一份支持该计划的声明。18 因此，即使社会保障署实际上并未主管委员会的职员工作，它也通过间接方式发挥了巨大的影响力。
+
+由于科恩是社会保障署与国会关系的核心人物，波尔多年来则是与咨询委员会关系的核心人物。查尔斯·肖特兰（Charles Schottland）曾钦佩地评论说，波尔是一位“了不起的老师”。19 在社会保险课题上，到 1947 年他也已经是一位非常有经验的人。他于 1939 年作为外勤代表进入社会保障委员会，两年后调往总部从事研究工作，不久后又调往培训办公室，在那里他向新员工传授社会保险原则。这很好地契合了他后来向卫生、教育及福利部部长、国会议员和咨询委员会传授社会保险知识的工作。他总是清晰、耐心、博学，非常擅长陈述各种备选方案并解释其含义。他也很克制，而不是固执己见或咄咄逼人——换句话说，他是那种能帮助学生得出自己结论的老师，或者至少让他们在离开教室时相信结论是自己得出的。
+
+观察过他在 1947-48 年以及后来在他担任养老金和医疗保险局（Bureau of Old Age and Social Insurance）副局长及随后的社会保障署署长期间的表现后，马里昂·福尔索姆告诉一位采访者：“他非常公正。他通常会说：‘这取决于你们。’他掌握了所有的事实和一切，但他不会试图把自己的观点强加于我们。”20 艾维琳·伯恩斯（Eveline Burns）是一位敏锐的观察者，她对波尔推崇备至，她在谈到波尔处理 1953 年霍比夫人顾问小组的表现时这样说道：
+
+> 他能做些什么，在 1953 年我们过去称为“霍比游说团”的那段时间里对我来说最为清晰，那个委员会为 1954 年的修正案奠定了基础。鲍勃在那时是委员会的职员秘书……他简直太卓越了。显然，他认为委员会的建议应该向某些方向发展，但他从未强行介入。对于一个职员来说，要扮演这种角色非常困难——他为每个人所熟知，我们都直呼其名——要留在幕后，听到某位成员说了一些你明明知道不真实的话却不跳出来干预。鲍勃的高明之处在于，他会安静而温柔地结合其他事情，在不涉及任何对抗的情况下，凭借他深厚的知识储备，把真实的情况呈现出来——温和地、亲切地。我所说的“知识”不仅仅指关于计划本身，还包括各种备选方案的含义。鲍勃是真正掌握所有知识的人。你总是可以向鲍勃请教，他能回答你所有的问题。他会巧妙地将事情推入那个委员会。这让我非常高兴，因为我也希望达成其中的一些事情。但是，委员会从未在任何时刻对他所做的产生怨言。……会议结束时，委员会一致通过了一份措辞极尽华美且充满感激的关于鲍勃贡献的声明。……然后我们在委员会内部进行了一场大讨论，争论这是否应该出现在我们将由部长出版的印刷报告中，或者如果我们保留它，它是否会被视为我们曾是行政部门手中的工具。所以，最后我们把它印在了一张非常特别的纸上，交给了部长，以便罗伯特·波尔能得到赞誉。他在委员会留下的印象令人震惊，而且那是一个组成相当复杂的委员会。……每个人都对波尔的正直、他对法案的了解、他的乐于助人以及他的自我克制印象深刻。21
+
+在咨询委员会中，就像在国会委员会中一样，还有艾维琳·伯恩斯所称的“另一个鲍勃”——提供成本估算的首席精算师迈尔斯。迈尔斯会告诉委员会，就像他告诉国会议员那样，改变计划的各种提案将花费多少成本，而委员会就像国会一样，在听取了一位称职的技术人员的意见后，在确信自己已经考虑到成本的情况下，心安理得地做出选择。
+
+由于担任委员会的职员，社会保障署官员处于可以影响其议程的位置。有时他们有兴趣缩小议程，例如在 1953 年，当时他们希望阻碍对美国商会和众议员卡尔·柯蒂斯提出的根本性批评的审议；有时他们则希望扩大议程，例如在 1937 年，当时范登堡想谈论维持低税率和减少储备金，而奥特迈耶则想谈论增加新型保障。1937-39 年委员会的议程在委员会成立的最初公告中就已经确定。咨询委员会要研究的内容，例如提前到 1942 年之前开始按月支付福利的可行性，以及将福利扩大到已故工人的遗属，最终证明是该小组将提出建议的相当可靠的指南。而研究的大纲则是由社会保障委员会（Social Security Board）勾勒的。
+
+如果委员会的成员仅限于总体上支持该计划的人，如果职员协助仅限于直接或间接出自社会保障署的人，如果委员会的议程仅限于社会保障署领导人认为适时的课题，那么这群局外人失控并产生不合心意的建议的风险就不大。社会保障署的影响技术将这类群体引入政策制定角色的相关风险降到了最低。此外，无论存在什么风险，随着时间的推移都在减小。一个兼职的公民群体，无论多么卓越或独立，都不太可能去质疑那些已经牢固确立并被广泛接受的事物。看着这些群体一个接一个地组建，社会保障署的高管们从未完全确定他们不会做出一些古怪的事情。“我必须说，我每次与任何委员会合作时，都会觉得它可能会产生一些前后矛盾且奇特的建议，从而走向极端，”罗伯特·波尔回忆道。21 但他们从未这样做过。
+
+### **委员会的功能**
+
+从一个经验极其丰富的内部人士的角度来看，咨询委员会发挥了两个主要功能。普林斯顿大学的 J·道格拉斯·布朗（J. Douglas Brown）参加了 1935 年至 1972 年间除霍比非正式顾问团以外的所有委员会，他将这些委员会视为一种行政-立法关系的工具，以及重大政策决定的独立合法化者。他认为，对于这样一个重要的计划，普通的行政陈述和国会听证过程是不够的。还需要一些额外的东西来补充国会委员会（这些委员会任务繁重）以及行政部门（局外人，包括国会，必然会怀疑其存在偏见）的审议。22 他还认为，委员会提高了审议的深度和客观性，这让公众感到安心，尤其是在项目的财政稳健性方面。
+
+“我会说……起作用的是一般结论的力量和声望，”他在接受采访时说。“一个由来自工业界、公众、劳工界以及所有其他阶层的人组成的团体，在经过数月的讨论并拥有了每一个可能的信息来源后，得出了这些结论……因此，普通的实业家、普通的劳工领袖、普通的公众成员会说：‘好吧，那些家伙在这上面花了该死的大量时间，我猜他们不会错得太离谱。’”23
+
+社会保障署（SSA）的领导人们，从他们不同但难言更加超然的视角出发，开始因为截然不同的原因而将这些委员会视为重要机构 。当被要求评估这些委员会时，奥特迈耶（Altmeyer）强调了它们的代表性作用。“它们确实为你提供了一个了解相关利益集团反应的机会。”24 罗伯特·波尔（Robert Ball）的解释与此相似。他指出，从历史上看，社会保障政策产生于企业界与劳工界达成共识的领域 。咨询委员会发现并界定了这些领域。25 因此，从项目高管的视角来看，这些委员会的有用性主要在于它们充当了与显著利益集团沟通的渠道，以及调和不同利益的媒介 。这些不同的解释仅仅表达了不同的侧重点。这三种角色——行政与立法部门之间的纽带、政策选择的独立合法化者、相互竞争利益的调和者——并非相互排斥的 。然而，我提出一种与上述任何一种都有所不同，但又融合了它们各自要素的关于委员会的解释 。在我看来，这些委员会演变成了一种独特的组织形式，非常适合以项目为导向的政策制定实践 。它们以具有代表性的方式组建，以便能够为各种利益代言，但其运作方式却旨在培养服务于该项目的态度与选择 。这些委员会确实起到了使社会保障政策合法化的作用，但它们并非严格意义上的独立合法化者，因为它们发展出了自身的团体自豪感和主人翁意识 。
+
+它们受到社会保障署的影响，这只是对其缺乏超然态度的一种部分解释 。除此之外，一种群体动力（group dynamic）也在发挥作用。由于拥有自身的生命力，这些委员会在维持和扩大社会保障项目中获得了其特定的利益攸关感 。“如你所见，我们是受托人（trustees），”布朗曾这样评价这些委员会 。他认为其功能是防止任何人（包括联邦政府）“胡乱干预这个系统（fooling with the system）”。26 这种遣词造句，就像同样自视为“受托人”的筹款委员会成员的用语一样，暗示了咨询委员会是如何构想其任务的 。
+
+在委员会中，“我们”由一群反复任职的核心领导成员组成——当然包括任职五次的布朗 ；来自有组织劳工的纳尔逊·克鲁克香克，他在六届委员会中任职四次；以及马里昂·福尔索姆 。他代表企业界，曾在三届委员会中任职，正式参与了霍比（Hobby）游说团，且仅因为当时担任卫生、教育及福利部（HEW）部长而未能于1957年任职 。大都会人寿保险公司（Metropolitan Life Insurance Company）的精算师莱因哈德·A·霍豪斯（Reinhard A. Hohaus）是另一位资深成员——他主持了霍比夫人的小组，此后又任职两次，在此之前还曾担任精算师办公室以及1937-39年委员会的顾问——但作为保险业的一员，他总是受到项目高管的些许怀疑，并没有成为完全相同意义上的内部人士 。
+
+布朗、克鲁克香克和福尔索姆组成的三巨头反映了委员会的三方构成——“公众”、劳工和企业——他们各自非正式地领导着自己的子群体，指导那些需要初步了解社会保障计划原则的新成员。27 这极大地减轻了社会保障署高管将委员会引向可接受方向的负担 。由于委员会中有可靠的领导人，社会保障署的官员可以将自己局限于职员职能，并将介入的风险降至最低 。布朗对此类事务绝非愤世嫉俗者，他察觉到了社会保障署让熟手掌舵的利益所在 。“我认为罗伯特·波尔和部长……是有意这样做的，”他评论道，以此来解释他本人及其他老手在1963-65年委员会中的存在。28
+
+在这些资深领导人中，布朗对委员会的运作最为重要 。作为一名既不依附于企业也不依附于劳工的“公众”成员，他在政治上被视为中立。每个人都信任他 。但是，如果说他在相互竞争的利益方面是中立的，那么他在对待该项目时则绝对不是中立的 。与任何社会保障署高管相比，他更有资格自称为该项目的创始人 。作为1934年经济安全委员会（Committee on Economic Security）的职员，他曾是规划老年保险的那个规模不大且不起眼的子小组的成员之一 。其他成员——加州大学法学教授芭芭拉·N·阿姆斯特朗（Barbara N. Armstrong），以及后来成为铁路退休委员会（Railroad Retirement Board）主席的经济学家默里·W·拉蒂默（Murray W. Latimer）——并没有在社会保障的内部大家庭中停留太久，而布朗却留了下来 。没有任何一位社会保障署的全职高管能比他对该项目有更深厚的承诺，也没有人能比他更坚定地确信该项目的独特性，以及在制定政策时将其作为一个独立实体来对待的必要性 。在委员会内部，布朗以一位立法政治家的方式行事，敦促他人以公共利益为导向，而对他来说，公共利益的内容是由社会保障计划的原则来定义的 。
+
+他抵制利益代表是委员会核心功能的观念 。委员会领导人通常渴望达成共识，而就他而言，这种渴望得到了一种认知的有力强化，即咨询委员会内部的共识将对社会保障计划有利 。他认为，如果要实现委员会安抚公众的目的，团结是必不可少的，因此他努力实现一致，并试图阻止或淡化异议 。就社会保障署而言，它在许多年里拒绝将注定是最具分歧性的议程项目——健康保险——提交给任何咨询委员会，从而为共识的形成做出了贡献 。奥特迈耶曾说过，如果咨询委员会审议该课题，那将会变成“一场大混战（a donnybrook fair）”。29 直到1963-65年，当国会对立法的审议已经取得长足进展时，才有一个委员会这样做了，除了霍豪斯提出了一份温和得多的异议外，该委员会支持了政府的法案。
+
+在布朗的领导下，并在社会保障署官员担任职员的情况下，咨询委员会成为了一种将利益集团代表拉入以项目为导向的政策制定中的手段 。通过这些委员会，利益集团领导人了解了社会保障计划主要特征的基本原理，参与了与之相关的决策（尽管是咨询性的，而非权威性的决策），并在某种程度上也成为了该项目的领导者 。举例来说，如果用一句话来概括克鲁克香克的职业生涯，很难知道是该称他为社会保障领域的领导者还是有组织劳工的领导者 ；他对该项目的认同感堪比对一个组织的认同感 。只要利益集团代表对该项目产生了忠诚，他们就会缓和与该项目原则相冲突的群体诉求 。来自其选民（constituencies）的压力被来自项目领导人同僚的压力所抵消，而在委员会的实际审议中，后者变得更具强制力 。企业界和劳工界领导人通过委员会这一媒介“学习”了项目原则后，进而有望将这些原则传达给他们的选民 ；此外，作为在其自身领域具有突出地位和影响力的个人，其中一些人也有望进入社会或政治领导岗位，在这些岗位上，他们所获得的社会保障专业知识将成为该项目的一项资产 。
+
+这种专业知识本身就可以构成任职的资格，对于福尔索姆来说就是如此，他是最杰出的委员会成员和项目支持者，后来成为了身居高位的官员 。在1955年至1958年间担任卫生、教育及福利部部长之前，福尔索姆曾在艾森豪威尔政府担任财政部副部长 。对社会保障完全是新手的霍比夫人向他寻求建议，而对即将上任的共和党人普遍缺乏信心、但对福尔索姆充满信心的社会保障署领导人则向他寻求支持 。在担任社会保障署署长的最后一天，奥特迈耶向福尔索姆道别，并敦促他参与艾森豪威尔政府关于社会保障的讨论。30 福尔索姆处于一种边缘位置——作为共和党政府的高级行政官员受到其他政治行政官员的信任，同时又是社会保障计划的党派支持者并受到项目高管的信任——这在一个潜在的麻烦时期对该项目是有利的，尽管这被证明对福尔索姆来说很难熬 。罗斯韦尔·帕金斯在向采访者回忆时提到，福尔索姆在担任部长期间，曾为了政府在残疾保障问题上的立场“折磨了自己好几个星期”，并且只是“在克服了相当大的情感困难后”，才决定他必须反对现金残疾福利。31
+
+委员会帮助向局外人灌输理念，这并不否认它们在将外部反应施加于社会保障署提议的下一步举措方面也是有用的 。沟通确实是双向进行的。在将基本项目视为既定事实的议程限制内，社会保障署征求建议和意见往往是足够真诚的 。通常在国会审议立法时出现的利益间的对话，被咨询委员会的审议所预期，并在一定程度上被先发制人地处理了 。然而，在委员会内部达成共识的程度上，它们的影响是限制而非扩大了政策制定领域。利益的相互博弈发生在一个狭窄的、相对受控的论坛内，而项目高管很容易就能接触到这个论坛 。咨询委员会被该项目的支持者 以及社会保障署的职员所主导，这意味着对于那些站在共识之外的人来说，在委员会中任职可能会令人感到沮丧 。大都会人寿保险公司董事会副主席查尔斯·A·西格弗里德（Charles A. Siegfried）发现1969-71年的咨询委员会是一次“令人沮丧的经历”，并提交了一份异议声明。32 他感觉到，曾任卫生、教育及福利部部长的委员会主席在波尔署长的支持下，正引导该小组走向预定的结果 。从这次及其他经历中，他得出结论，社会保障的政策制定高度集中在政府内部少数专家手中，而委员会巩固了内部群体的统治，而不是分散权力。33
+
+即使在有利于吸纳组织的条件下，吸纳局外人也可能会付出代价，社会保障署的官员并不总能从咨询委员会那里得到他们想要的一切 。1937-39年，他们曾希望委员会支持一项残疾计划，但该委员会只是在原则上同意残疾福利在社会上是可取的 。在1947-48年，绝大多数人赞成残疾福利，但这只是在对建议做出了极大妥协之后，导致科恩对这个结果感到非常沮丧 。克鲁克香克后来说，他从这次经历中认识到了过早妥协的危险。34 支持者一再让步，直到建议变得非常狭隘，然后两名异见者还是继续表达了异议 。1947-48年咨询委员会最重要的建议之一——在社会保障体系下，每工作一年的“增量（increment）”应从福利表中取消——曾遭到奥特迈耶和科恩的反对 。
+
+很难判断这种挫败对社会保障署来说代价有多大 。行政人员不受咨询委员会建议的约束。从社会保障署的观点来看，咨询委员会支持其自身的提案是非常可取的，但并非必不可少 。“即使……没有咨询委员会，我们也会提出完全相同的提案，”奥特迈耶在回顾1939年的立法时说道。35 而且，当咨询委员会确实与社会保障署领导层产生分歧时（正如1948年委员会提议取消增量那样），这在政治上并不一定对项目有害 。因为从长远来看，取消增量意味着降低成本，这使得在短期内大幅增加福利成为可能，这种交易使得咨询委员会能够提交一份几乎一致通过的报告，而且事实证明这在国会中非常受欢迎 。罗伯特·波尔担任该委员会主任，不仅没有使他与该项目的领导层产生严重分歧，反而标志着他作为其中一员的崛起 。
+
+当然，国会和政府一样，也不受咨询委员会建议的约束 。1948年委员会关于残疾保险计划的建议，虽然太弱而无法满足科恩的要求，但对于参议院财政委员会来说又太强了，该委员会拒绝了这项建议，转而赞成向各州提供用于救济残疾人的拨款补助（grants-in-aid） 。即使是对于早期由它自己创建的委员会，国会也没有不加批判地接受其建议，而它确实接受的许多建议显然是合其心意的 。这是要求在短期内更快、更广泛地支付福利的建议 。尽管如此，社会保障署的领导人认为，这些委员会在制定立法方面非常有用，特别是在1939年和1950年关键的修正案中 。通过在不同群体的代表之间达成共识，委员会为当时仍在对一个不熟悉的项目摸索前行的国会提供了一项有用的服务。36 因此，当一位持异议的委员会成员沃尔特·D·富勒（Walter D. Fuller）向筹款委员会（Ways and Means Committee）暗示，1937-39年的委员会妥协到如此地步，以至于其报告可能没有多大用处时，委员会成员杰尔·库珀（Jere Cooper）对这一观察结果持怀疑态度 。
+
+在国会议员看来，正是这些妥协赋予了该报告价值 ：
+
+富勒先生：……基于在社会保障咨询委员会一年半的经验…… 我个人的观点是，如果你们能有一个雇主委员会，比方说，一个代表劳工的委员会，也许还有第三个所谓的公众委员会，并让它们各自提交报告，你们各位绅士会得到更大的帮助 。我认为那样你们可能会得到一份更完整的声明，你们就可以进行判断了。…… 像这样一个（委员会）的困难在于你们必然要妥协自己的立场 。
+
+库珀先生：就这一点而言，从实际的立场来看，……假设我们遵循刚才提出的建议。…… 那么，与其整个委员会必须做出妥协并达到某种共同水平，他们不如就把做同样事情的责任转交给我们。 不是吗？
+
+富勒先生：确实如此，我认为责任就应该在那里。37
+
+此外，委员会的运作提供了一批高度可信的个人证人，即委员会的领导人，国会可以依赖他们获取见多识广、大概率是专业的建议 。1939年，布朗和福尔索姆都做了详细的作证。作为个人证人，成员们不一定支持委员会报告中的所有内容，但总的来说，他们证词的份量既支持了报告，也支持了政府的法案（这些法案与报告密切对应） 。随着国会议员加深对新项目的理解，他们对外来意见的依赖减少了 。1939年的不自信最终让位于威尔伯·米尔斯（Wilbur Mills）的精通与掌控 。也许随后的任何一个委员会都没有1937-39年的委员会重要，该委员会向一个在融资问题上感到困惑和分歧、且尚无法从最令人欣慰和最可信的证人——经验——中获得任何指导的国会提供了受邀的建议 。除了以米尔斯为代表发展其自身的专业知识外，筹款委员会还逐渐与社会保障署官员建立了密切的工作关系，在这些常规程序确定之后，咨询委员会就退居政策制定的外围了 。它们曾经是行政和立法机构之间的纽带，到了20世纪60年代初，它们更多地成为了一个附属品 。
+
+尽管如此，委员会对于项目高管仍然具有潜在的用途，它作为一个渠道，以一种国会议员无法轻易忽视并可自行决定加以利用的合法化形式，将项目置于立法议程之上 。通过支持精算和融资技术方面的重大变革，1969-71年的咨询委员会为1972年福利增加20%奠定了基础，这是现代社会保障计划的基石之一 。主动提议大幅增加福利的米尔斯，是在对委员会报告发布所造成的政治局势做出回应，该报告以一种新的方式界定了政治机会 。在为他对这种新局面的回应辩护时，米尔斯特别引用了咨询委员会的专家权威。38
+
+由“局外人”组成的咨询委员会加强了而非削弱了以项目为导向的政策制定特征 。当局外人被卷入委员会的审议中时，他们往往会变成内部人士 ；少数屡次任职的人实际上成为了具有专属性的内部大家庭的成员 。领导层、成员资格、职员配备以及议程的界定，所有这些结合在一起，排除了对与维持该项目相冲突的备选方案的考量，并确保了建议落在项目高管认为可以接受的范围之内 。通常，咨询委员会的报告为项目高管自身当时的建议铺平了道路。
+
+引用
+
+1 Federal Advisory Committees: Second Annual Report of the President Covering Calendar Year 1973 (GPO, 1974), pp. 1-3.
+2 Philip Selznick, TVA and the Grass Roots: A Study in the Sociology of Formal Organization (University of California Press, 1949), p. 13.
+3 Reserves under Federal Old-Age Benefit Plan--Social Security Act, Hearing before the Senate Committee on Finance, 75 Cong. 1 sess. (GPO, 1937), p. 22.
+4 Interview with Marion B. Folsom, Oral History Collection, Columbia Uni-Versity (1965-68 ), pp. 116-17, 205. (Hereafter Folsom, OHC. )
+5 Social Security Act Amendments of 1949, H. Rept. 1300, 81 Cong. 1 sess.(GPO, 1949),p.184.
+6. The Chamber of Commerce statement is discussed in chapter 6.
+7 Interview with Roswell B. Perkins, Oral History Collection, Columbia University (1968 ), pp. 139-41. (Hereafter Perkins, OHC.)
+8 Social Security Legislation, Hearings before the House Committee on Ways and Means, 85 Cong. 2 sess. (GPO, 1958), p. 768.
+9 Financing Old-Age, Survivors, and Disability Insurance: A Report of the Advisory Council on Social Security Financing (Washington, D.C.: the Council, 1959): po. 23
+10 Interview with Robert J. Meyers, Oral History Collection, Columbia University (1963),pp. 67-68.(Hereafter Myers, OHC.)
+11 The Status of the Social Security Program and Recommendations for Its Improvement: Report of the Advisory Council on Social Security (Washington, D.C.: the Council, 1965), pp. 93-94.
+12 Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University (1967), p. 39. (Hereafter Cruikshank, OHC.)
+13 Wilbur J. Cohen to M. S. Pitzele, August 28, 1941 (File o25 Federal Security Agency, R. G. 47, SSA Central Files 1935-1947, Box 15, National Archives).
+14 Myers, OHC, p. 62.
+15 See the comments of the chairman of the 1974-75 advisory council, W. Allen Wallis, in Financing the Social Security System, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 1 sess.(GPO, 1975), p. 104.
+16 Social Security Revision, Hearings before the Senate Committee on Finance, 81 Cong. 2 sess. (GPO, 1950), pt. 3, pp. 1953-54.
+17 A. J. Altmeyer to Nelson H. Cruikshank, February 19, 1948, and enclosure(File o25 Social Security, acc. no. 62A-82, R. G. 47, Box 26, Washington National Records Center, Suitland, Md.); and route slip, Wilbur J. Cohen to AJA [Arthur J. Altmeyer], no date [1948], and enclosure (File o25 Advisory Council 1948, acc. no. 56-A533, R. G. 47, Box 6, Washington National Records Center, Suitland, Md.).
+18 Interview with Charles I. Schottland, Oral History Collection, Columbia University (1965),p. 82.
+19 Folsom, OHC, p. 120.
+20 Interview with Eveline M. Burns, Oral History Collection, Columbia University (1965), pp. 99-100.
+21 From tape-recorded comments addressed to the author by Robert M. Ball, May 6, 1978. (Hereafter Ball transcript. )
+22 J. Douglas Brown, An American Philosophy of Social Security: Evolution and Issues (Princeton University Press, 1972), p. 44. Interview with J. Douglas Brown Oral History Collection, Columbia University (1965), p. 73. (Hereafter Brown, OHC
+23 Ibid., p. 147
+24 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967), p. 80. (Hereafter Altmeyer, OHC.) 
+25 Interview with the author, February 2, 1976.
+26 Brown, OHC, p. 89.
+27 Brown told an interviewer: May I just say this? It sounds awfully smug, but there were three of us who have sort of followed through: Marion Folsom, as an industrial member, . . . Nelson Cruikshank on the labor side, and myself. The three of us have ap peared repeatedly on advisory councils. So in a way it was fortunate that we were on three sides, so to speak. We’d each help educate our own side. Nelson time and again would have to explain to [Emil] Rieve of the textile workers why this would have to work the way it did or some other trade unionist. Marion would quietly in a very calm way explain to some industrial member why this wouldn’t work. Now, with the public members, since I was the old hand, they’d often listen to me. I had one public member this time who said, “Doug, whenever you are in favor of something, I’ll go along with you.” I said, “Don’t do it unless you really think it out.” “Oh, no. That’s all right. You’ve been at it longer.” ( Brown, OHC, pp. 81-82.)
+28 Ibid., p. 84.
+29 Altmeyer, OHC, p. 83. According to Robert Ball, the 1947-48 council decided on its own, after considerable discussion by the executive committee, not to take up health insurance. Ball transcript.
+30 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966), pp. 214-15.
+31 Perkins, OHC, p. 28. Ball commented as follows: "My belief is that Folsom was directed to oppose cash disability benefits. All during this period he was talking to me about possible entering-wedge type proposals, age sixty for the disabled and so on." Ball transcript.
+32 Both the business members and the labor members filed dissents to this report. The 1969-71 council was more than usually divided, perhaps because it was the first in which the business and labor representatives were nominated by business and labor organizations. Representative Thomas B. Curtis, an outspoken conservative Republican, had charged in 1963 that the newly named council was stacked by the ad-ministration and was just " window dressing' for things some of the Social Security staff want put into law." Two years later the law was changed to provide that members of the councils should represent organizations of employers and employees as well as the self-employed and the general public; in response, the secretary of HEW solicited nominations from leading business and labor organizations and made his selections from among them. Another change in the law eliminated the provision that the social security commissioner serve as council chairman. Close observers of the councils believe that these changes have increased their independence somewhat. They may also produce tension between the organizations that nominate council members and the secretaries of HEW who name them. For example, when the 1974-75 council was named, the Nixon administration's secretary of HEW, Caspar W. Weinberger, rejected some of the AFL-CIO's nominees, whereupon the AFL-CIO leadership boycotted the council. The only labor members whom the Nixon ad-ministration could induce to serve on the council were relatively obscure members of the building trades and teamsters unions. Curtis's criticisms appear in the Congres-sional Record (May 23, 1963), p. 9246, and Congressional Record (September 17, 1963), pp. 17309-11.
+33 Interview with the author, November 3, 1976; Society of Actuaries, Trans-
+actions, vol. 22, pt. 2 (1970), p. D508. 
+34 Cruikshank, OHC, p. 104.
+35 Altmeyer, OHC, p. 78.
+36 See chapter 11 for the council's discussion of financial issues in 1937-39.
+37 Social Security, Hearings before the House Committee on Ways and Means, 76 Cong. 1 sess. (GPO, 1939), vol. 3, pp. 2o83-84.
+38 Congressional Record (February 23, 1972), p. 5270.
+
+## 第五章 作为合作者的有组织劳工 
+
+在构建社会保障项目的过程中，有组织劳工无疑是社会保障署（SSA）最为重要的盟友 。它在各个咨询委员会内部支持社会保障署，并为该机构的立法提案进行游说和作证 。它在很大程度上领导并资助了争取联邦医疗保险（Medicare）的公众运动，其中包括在20世纪60年代致力于在关键国会选区组织支持联邦医疗保险的宣传活动 。它创立并协助资助了全国老年公民委员会（National Council of Senior Citizens），这是一个全国性的老年人组织，致力于游说通过联邦医疗保险及随后对该项目的扩充 。也许最重要的一点是，对于那些因缺乏政治上级批准而使得社会保障署官员无法自由推动的提案而言，劳工组织充当了一个非官方的发声渠道 。尽管提供了诸多且大概率极具价值的服务，有组织劳工却并未在该项目上留下任何显著的印记 。如果社会保障署为了换取劳工组织的支持而付出了某种代价，分析人士也很难察觉 。总体而言，在项目导向的决策制定中，劳工组织一直是社会保障署默从的合作伙伴 。它支持该项目的基本原则和特定的立法倡议 。项目执行官的议程同样也是劳工组织的议程，双方均未为了服务于这一压力集团盟友的特定目标或利益而寻求或做出让步 。用“联盟”来形容这种关系或许并不恰当，因为该词暗示了独立各方之间通过谈判达成的协议 。相反，有组织劳工与社会保障署是亲密的合作者 。他们之间几乎没有讨价还价，在社会保险问题上也鲜有相互妥协 。取而代之的是一种共鸣的纽带，一种将社会保险作为社会福利首选工具的共同承诺，以及对该项目在右翼的真实和假想敌人的共同反感 。
+
+### 合作的开端
+
+社会保障署与有组织劳工的合作在1935年之后的近十年时间里才得以发展成熟 。直到20世纪40年代中期，当《瓦格纳-默里-丁格尔法案》（Wagner-Murray-Dingell bill）首次出现在公共议程上时，这种合作关系才得以巩固 。其必要的先决条件是：传统上非政治化的美国劳工联合会（AFL，简称劳联）的政治化，以及作为美国劳工运动年轻异见者的激进且高度政治化的产业工会联合会（CIO，简称产联）的去激进化 。促成这一合作的事件正是该法案本身 。这项社会立法由社会保障委员会（Social Security Board, SSB）发起，并与瓦格纳参议员及其幕僚合作准备，它是一项能够让具有政治意识但在本质上持妥协态度的劳工运动满怀热情地予以支持的法案 。“自愿主义”（Voluntarism）——即美国劳联领导人认为雇佣条款应通过集体谈判解决，不受政府干预的信念——并没有随着罗斯福新政的到来而立即消失 。美国劳联需要时间来适应发生剧变的社会与政治议程，同时一场内部冲突也正在进行 。20世纪30年代末期与产业工会发生分裂，那是美国劳联的一段动荡时期；而在斗争的同时，美国劳联也在不断发展壮大 。凭借自身积极的组织努力，美国劳联的增长不仅弥补了因产联分离而造成的损失，甚至还有所超越 。1939年，其会员人数达到或接近历史最高水平，且人员构成比以往任何时候都更加多样化，除了传统的手工业工会外，还包括了卡车司机和机械师的大型组织，以及诸如纺织工人和橡胶工人等与产联相抗衡的产业工会组织。1 在此期间，美国劳联在社会保险问题上并没有非常明确或固定的立场。尽管它在1935年支持老年保险，但极少参与《社会保障法》的起草工作，其表现出的兴趣主要集中在失业保险上。2 1937年，三名美国劳联成员被任命为社会保障咨询委员会成员，但他们极少出席会议 。威尔伯·科恩（Wilbur Cohen）对此感到失望，他在给朋友的信中写道：“总体而言，劳工成员通常有太多的事情要做，却只有极少的时间，而且在技术层面几乎没有助手，因此他们往往缺席，或者无法做出任何贡献。”3
+
+变化发生在20世纪40年代初 。1941年，一位美国劳联高级官员在《美国联邦工会会员》（American Federationist）上发表文章，论证了健康与残疾保险的必要性。4 次年，美国劳联成为《艾略特法案》（Eliot bill，即第77届国会H.R. 7534号决议）的赞助者，这是一项鲜为人知的《瓦格纳-默里-丁格尔法案》的前身 。《艾略特法案》是由社会保障委员会内部起草的一项综合性社会保障立法，但由于缺乏总统的背书，它没有官方地位 。其国会发起人、马萨诸塞州民主党众议员托马斯·H·艾略特（Thomas H. Eliot），曾在1934年担任经济保障委员会总法律顾问，随后担任社会保障委员会总法律顾问 。当主席威廉·格林（William Green）在劳联大会上宣布该组织正在赞助这项法案时，他已经预料到了批评的声音 。他承认这看起来可能“有点革命性”，而一些劳联的附属机构也确实对此表示反对。5 自愿主义根深蒂固，但到了1943年，当《瓦格纳-默里-丁格尔法案》取代了《艾略特法案》（在此期间，社会保障委员会的官员们增加了健康保险，并在国会中吸引了更具声望的赞助人）时，内部反对的声音已不再明显 。格林主席指示所有中央劳工工会和州联合会呼吁其在国会的代表，陈述劳工在战后对充足社会保险的需求 。其近期目标是促使众议院筹款委员会（House Committee on Ways and Means）举行听证会 。仅仅在四年前还对为1939年《社会保障法》修正案作证准备不足的美国劳联，此刻正在集结其成员，为一项更加大胆且更具争议的立法进行游说 。就社会保险而言，从自愿主义向政府行动的过渡已经完成 。
+
+与此同时，产联（CIO）正在缓和其激进的政治立场 。与美国劳联不同，产联在20世纪30年代末对社会保险有着非常明确的立场，该立场远在社会保障委员会的左翼 。它反对将缴费型联邦老年保险与向贫困老年人发放州级公共援助金相结合的双轨制，因为它“未能以任何令人满意的方式照顾到我们的需求，也未能充分利用我们的资源极限” 。它呼吁建立一个单一项目，向所有60岁及以上的人士每月支付60美元（已婚夫妇为90美元），该费用由“对财富和收入总额征收的税款”来支付 。这无异于为汤森计划（Townsend plan，将在第8章中讨论）背书，是对当时政府的完全否定 。在经济保障的目标之外，产联还加入了经济平等的目标：该项目应当纠正“当前收入分配不均的问题”，这一激进目标在官方的话语体系中并无立足之地。6 1940年，产联反对增加社会保障工薪税，部分理由是这些资金“被用于补贴现在大部分流向军备的政府支出”。7
+
+产联在社会保险问题上的转变，如同美国劳联截然不同的转变一样，都可以追溯到20世纪40年代初；但劳联的左倾是为了回应其庞大成员构成的变化，而产联的右倾则是为了回应领导层的更迭 。脾气暴躁、好斗的约翰·L·刘易斯（John L. Lewis）在1940年罗斯福连任后被免去主席职务，取而代之的是对罗斯福和新政更具同情心的菲利普·默里（Philip Murray） 。在包含着无数左翼分子的产联内部，国际事件同样发挥着重要作用 。1941年夏希特勒入侵苏联，终结了美国共产主义者的孤立主义和和平主义；产联内部的共产主义派别与非共产主义派别迅速团结在其新任主席周围，以支持战争和罗斯福政府。8 产联大会由此停止通过关于社会保险的异议决议 。取而代之的是，1941年的大会注意到罗斯福总统即将提出几项关于社会保障体系的改革建议，并承诺将予以充分考虑 。1942年，大会对社会保险问题保持沉默：事实上，罗斯福并未采取行动，而政府法案则在艾略特众议员和美国劳联的赞助下出现 。随后在1943年，产联对《瓦格纳-默里-丁格尔法案》表示了背书 。劳工运动的两翼终于在社会保险项目上达成了共识 。他们不仅彼此趋同，也与社会保障委员会达成了共识 。
+
+就社会保障委员会的执行官而言，自项目启动以来，他们就一直在设法争取劳工组织的支持 。亚瑟·奥特迈耶（Arthur Altmeyer）每年都会在美国劳联大会上发表演讲（尽管未在产联大会上演讲），并频繁造访劳联总部 。委员会内部成立了一个“劳工信息部”以维持联络，例如向《美国联邦工会会员》提供资料； 该部门由一名电气工人工会的官员领导，他在政府中兼职工作 。在1936年的总统选举中，当该项目受到共和党候选人及部分工业雇主攻击时，社会保障委员会求助于美国劳联，以击退这些攻击 。就在选举前不久，该委员会的125名员工将名为《你晚年的保障》（Security in Your Old Age）的宣传册，每100份装入一个信封，共填装了33,000个信封，邮寄给全国各地的劳联地方工会 。该宣传册向纳税人保证，他们从政府那里获得的收益将永远超过他们缴纳的社会保障税。9 然而，尽管美国劳联接受了这种努力，但它仍然是一个被动的合作伙伴，主要作为传播官方宣传的渠道，而非主动出击 。
+
+随着劳工组织愈发倾向于合作，社会保障委员会也愈发需要一个合作者 。它正在规划的倡议需要政治上的支持与赞助，而当总统拒绝出面赞助时，自由派国会议员和有组织劳工接替了他的位置 。项目的扩大可以独立于总统政治而进行，尽管总统的支持无疑始终是一种助力 。
+
+作为《瓦格纳-默里-丁格尔法案》的共同起草方，社会保障委员会与公共卫生署（Public Health Service）的官员敦促他们新结识的盟友在立法运动中进行实质性投入 。瓦格纳本人以及其他官方支持者，恳求劳工领袖们为此目的成立一个专门委员会。10 美国劳联和产联一度考虑设立一个联合工作班底； 这种政策上的趋同几乎催生了组织上的形式。11 当这一尝试失败后，美国劳联在1944年秋天单方面推进，成立了一个社会保障部门 。科恩在1939年曾抱怨的真空状态已经被填补 。从此以后，当社会保障委员会向有组织劳工寻求合作时，它确信能够找到合作对象 。
+
+### 行动中的合作者：政党效应
+
+尽管《瓦格纳-默里-丁格尔法案》未能获得通过——或者更准确地说，正因为其未能通过——它为未来多年的社会保障立法设定了议程 。有组织劳工和社会保障署执行官作为在构建全面社会保险项目这一伟大任务中的伙伴，在随后的二十多年里继续致力于推动该法案的各个部分 。他们在处理与国会的关系以及在咨询委员会内部规划战略方面进行了合作 。双方都保护了对方在社会保障政策制定中的地位，而劳工组织始终准备好去执行那些只有私人压力集团才能自由开展的工作 。当艾森豪威尔政府免去几位主要项目官员的职务时，这些官员无法抗议——但劳工组织做到了 。当艾森豪威尔政府反对残疾保险和健康保险时，项目官员无法公开为之奔走呼号——但劳工组织可以 。劳工组织始终扮演着一个有用的角色，作为实际上由社会保障署发起的提案的代理赞助人 。纳尔逊·克鲁克香克（Nelson Cruikshank），有组织劳工中长期从事社会保障研究的专家（他领导美国劳联办公室及其后合并的劳联-产联办公室长达二十余年），曾在这个相对私密的社会保障“大家庭”中承认了劳工组织的这种代理职能 。在安娜堡（Ann Arbor）举行的一次社会保障会议上，克鲁克香克介绍了社会保障署负责项目评估和规划的助理专员阿尔文·戴维（Alvin David） 。“我知道，他对我们社会保障体系的规划和发展计划有着极大的贡献，”克鲁克香克说 。“我还知道一些没有写在我面前这张纸条上的事情，那就是他的头脑中充满了各种想法，以至于时不时地就会溢出来。当他拥有的想法超出了其所在行政部门的处理能力时，他就会打电话给劳工运动中的朋友们，说：‘你们为什么不找人来提议这件事呢？’我们此前从未听说过这个想法，但我们认为它棒极了。”12 这番话发表于1968年，在两届民主党政府执政之后 。对于社会保障署来说，20世纪60年代并不完全是被政治压抑的岁月，但无论哪个政党执政，对私人发声渠道的需求都依然存在 。然而，这种需求在共和党执政期间远大于民主党执政时期，因此，劳工组织参与社会保障事务的深度也随着行政部门党派构成的变化而发生波动 。在1957年至1960年间，许多支持联邦医疗保险的幕僚工作都是在劳联-产联（AFL-CIO）总部完成的 。在这里打出法案草案、梳理论据，并为国会中持同情态度的议员撰写演讲稿 。尤其是在1960年的大选年，当参议院首次就联邦医疗保险提案进行投票时，对于克鲁克香克的幕僚们来说，这是一段激动人心的时光。其中一位名叫丽丝贝斯·B·肖尔（Lisbeth B. Schorr）的成员后来回忆起那一刻：
+
+> 劳联-产联变成了一个类似指挥部的地方，至少为那些试图在老年人健康保险问题上有所作为的人们提供了后勤保障——包括办公桌和油印机。我还记得当我们聚集在IUD（产业工会部门）图书馆时的情景 。正在对一份法案进行剪贴修改……出于某种原因，我们当时非常匆忙，我记得在场的有威尔伯·科恩、伦纳德·莱瑟（Leonard Lesser，IUD工作人员）、纳尔逊·克鲁克香克和我，有人拿着订书机，有人拿着透明胶带。13
+
+但是，当肯尼迪当选，民主党重新掌权后，行动的重心突然转移回了行政分支，劳联-产联的生活也不再如此令人兴奋。丽丝贝斯·肖尔描述了这种变化：部分估算等工作（在1960年之前）实际上是由当时在健康教育福利部（HEW）工作的人员完成的，他们可能利用自己一半的私人时间和一半的办公时间来做这件事，但他们无法将其复制出来，所以他们会把材料送到劳联-产联去打字或进行其他处理 。而在一个至少致力于该原则的政府执政之后，所有这些当然都不再需要了 。但我认为有趣的是，像劳联-产联这样的组织能够发挥这样的作用；当然，当政府行政部门致力于做某件事时，这种情况就会彻底改变。14
+
+因此，当民主党执政时，与劳工组织的关系对于项目执行官而言价值最低，而正是在这种时候，最重要的行动才最有可能发生。对劳工组织而言，讽刺的是，当风险或利益筹码最低时，它反倒最能影响社会保险的议程 。在1957年至1960年间，当劳工组织作为健康保险法案的赞助人时，相比于1961年之后总统成为赞助人的时期，它在法案内容上拥有更大的发言权 。社会保障系统的主管们继续向劳工组织进行咨询，但这些咨询不太可能导致向劳工的观点做出妥协 。丽丝贝斯·肖尔作为一名敏锐的参与式观察者，长达七年之久 。她认为这些咨询在很大程度上是流于形式的：“在这项法案通过前的大约两年时间里，确实发生了很多咨询，但这些咨询大多是一种仪式、一种形式，或者说是为了让‘劳工兄弟们’开心，而并未产生任何具有实质性意义的结果。”15
+
+在民主党执政期间，项目执行官们的独立性有助于解释劳工组织对社会保障署表现出的顺从关系。免受官方约束曾是劳工组织独有的资产，但在当时不再具备巨大价值，而且也没有太多可以替代它的东西 。依靠在国会的影响力，原本可能使劳工组织能够与行政部门谈判以争取让步，或者确立独立的立场，但由于劳工组织接触筹款委员会和财政委员会的渠道不如项目执行官通畅，这一优势并未发挥作用 。产业工会部门的伦纳德·莱瑟曾与克鲁克香克合作，参与了大量劳工组织支持联邦医疗保险的幕僚工作。他在一次采访中回忆道：“如果是其他委员会，我们真的可以去跟委员们谈谈，告诉他们：‘听着，这太糟糕了。你们应该去推动这个、这个、还有这个。’我们甚至有可能争取到足够多的委员会成员来施加影响。但你在筹款委员会里根本无法做到这一点。”1 这之所以行不通，是因为委员会成员们听从于其主席威尔伯·米尔斯（Wilbur Mills）在技术和政治上的掌控权。16 即使是那些总体上对劳工组织的诉求抱有同情态度的人，也不具备维持独立立场所需的专业学科知识把控能力 。委员会成员将该项目的实质性问题留给米尔斯处理，而劳工组织方面则将其留给肯尼迪任命为健康教育福利部负责立法的助理部长科恩处理 。
+
+民主党的执政还在另一方面对劳工组织形成了制约 。有组织劳工不仅在一个项目联盟中与社会保障署捆绑在一起，还属于一个与民主党自由派（即该党的“总统派”部分）结成的党派联盟 。与项目联盟一样，这一党派联盟也始于20世纪40年代中期 。根据格林斯通（Greenstone）的说法，正是1944年的选举，标志着有组织劳工作为民主党的全国性竞选组织正式登上舞台。17 当劳工组织所支持的政党控制了总统职位时，劳工组织便不愿批评其政策和项目，因为它知道在下一次选举中，它将要负责动员该党的选民投票 。
+
+事实上，民主党执政的条件并不利于有组织劳工在社会保障政策制定中发挥独立的作用 。但由于不同的原因，共和党执政的条件同样也不利于此 。当共和党掌握行政大权时，社会保障署内部的项目支持者与有组织劳工之间的合作带有一定的防御性质 。促使两者紧密合作的动力是这样一种信念：在面临威胁（最坏情况）或进展机会有限（最好情况）时，团结是必不可少的 。这种防御姿态加深了他们之间的相互依赖，而不是鼓励劳工组织去主张独立性 。因此，无论民主党是在朝还是在野，有组织劳工都不愿与项目执行官产生分歧 。当民主党执政时，这无异于在进展似有希望之际，与劳工自己的政党决裂 。当民主党在野时，这样做则会冒着以牺牲项目为代价，让政敌占据危险优势的风险 。这些政敌被认为具有极大的威胁性且势力强大 。当与美国医学会（American Medical Association）、卡尔·柯蒂斯（Carl Curtis）、美国商会（U.S. Chamber of Commerce）或其他阻碍社会进步的敌人陷入斗争时，建立一条统一战线似乎是势在必行的 。
+
+### **劳工在社会保障中的利益攸关**
+
+劳工组织对社会保障项目的态度取决于其在该项目中的利益。有两点与社会保障的政治和决策制定密切相关。首先，在两个主要的全国性联合会中，矛盾的是，历史上更具政治色彩、更激进且更具反抗性的产联（CIO），对社会保障立法的兴趣反而较小。表现出更大兴趣的是美国劳联（AFL），它在政治上更为保守，且由于其自愿主义传统，更倾向于不加批评地赞同一个据称由工人自己买单的政府项目。
+
+其次，无论是在美国劳联还是产联，民选领导人都未对该议题给予强烈关注。这意味着社会保险领域的幕僚专家拥有极大的自由裁量权，而这些专家恰恰因为其专业性，发展出了一种强烈的项目导向。工会的存在是为了进行集体谈判，在政治上，其全国性联合会的首要任务是采取那些影响工会自我维持以及与雇主谈判能力的措施。正如詹姆斯·O·威尔逊（James O. Wilson）所指出的，作为一个阶级，工会比大多数组织更加全神贯注于组织的维持，因为它们必须将特定工厂或行业中的大部分或全部劳动力招募进来，才能使集体谈判取得成功。18
+
+因此，劳工领袖们更关心诸如《塔夫脱-哈特利法案》（Taft-Hartley Act）这类影响组织条件的立法，而非《社会保障法》（Social Security Act）的修正案。甚至可以说，他们对社会保障立法产生任何兴趣都是有悖常理的。退休、医疗和残疾福利可以通过公共或私人途径提供。如果工会通过私人行动（无论是直接通过工会赞助的计划，还是间接通过与雇主进行集体谈判）来提供这些福利，将成为吸引工人加入工会的诱因。然而，如果这些福利由政府提供（即使是在劳工组织的政治压力下），这种诱因便不复存在。这种认知，加之对政府的深深不信任，构成了美国劳联领导人历史悠久的自愿主义的基础。19
+
+随着时间的推移，在公共行动与私人行动之间做出选择，对产联而言比对美国劳联更像是一个两难的困境。凭借国家劳工关系委员会（National Labor Relations Board）的有利裁决（该裁决随后得到了联邦法院的支持），产业工会在20世纪40年代末开始成功地就养老金和其他附带福利进行谈判。钢铁、汽车、铝业和煤炭行业均取得了突破。产联大会的决议坚称，社会保障与围绕养老金展开的集体谈判之间并不冲突；而在1950年社会保障得以扩大和放宽时，产联迅速声称，正是其自身在集体谈判中取得的胜利促使国会采取了行动。然而，产联立场的模糊性是不可回避的。关于社会保障议题的大会决议显得相当矛盾。1948年的大会指出：“我们再次强调，集体谈判合同是且必须始终是工人抵御不安全感和剥削的主要堡垒。”20 次年，集体谈判的收益被描述为政府项目的“必要补充”；但当产联需要为悬而未决的社会保障立法作证时，默里（Murray）主席却嫌麻烦没有出席，而是将一篇描述集体谈判成果的报纸报道记入了国会记录。毫无疑问，如果产联没有在底特律、芝加哥和加里（Gary）取得如此巨大的成功，它在华盛顿的活动将会积极得多。
+
+美国劳联一旦转向支持社会保障，便未表现出任何类似的矛盾心理，这大概是因为其成员工会不如产业工会那样有能力通过集体谈判赢得养老金福利。克鲁克香克（Cruikshank）在面向学术听众的一次演讲中分析了其中原因。他表示，工会谈判若要成功，必须满足三个条件：必须存在稳定的雇员-雇主关系；工会必须处于强有力的谈判地位；以及行业必须有能力支付成本。他指出，例如建筑工人（这一群体当然是美国劳联的骨干力量）便无法满足第一个条件。水管工、电工、油漆工和木匠很可能会在一个城市与另一个城市、一个承包商与另一个承包商之间流动。克鲁克香克进而批评了工会谈判达成的保障计划，理由是这些计划固化了劳动力，威胁压低现有工人的工资，而且是不公平的：“不应要求部分消费者去为那些因雇佣性质的偶然性而无法为自己争取到保障的其他工人买单。”21 产联乐于居功的1950年修正案，并未让美国劳联在这些问题上完全安心。
+
+1951年的美国劳联大会指出：“必须强调这样一个事实，即工会通过集体谈判广泛促成的个别公司养老金计划，并不能消除对改善和扩大联邦‘老年和遗属保险体系’（Old Age and Survivors' Insurance system）的需求。产业养老金计划是提高部分工人群体安全感和生活水平的一种方法，但仍有必要建立一个覆盖面广的全面社会保险项目，以确保总人口中所有群体在晚年都能获得充足的收入。”22 尽管产联声称1950年的修正案是其在工业中心的集体谈判桌上赢来的，但美国劳联则将其归功于自身在华盛顿的努力。与默里形成鲜明对比的是，威廉·格林（William Green）主席亲自出席了筹款委员会（Ways and Means Committee）的听证会，并有21名来自美国劳联各工会和部门的代表陪同。此外，美国劳联和产联在社会保障职员的地位上也一直存在差异。美国劳联设立了一个独立的社会保障部门，而产联的社会保障事务则由研究部门的一名成员处理。1955年底合并发生时，美国劳联的社会保障主任几乎顺理成章地成为了合并后职员队伍的负责人；通过他，美国劳联对社会保险的影响力在这个统一的组织中得以延续。
+
+在全国性联合会内部，社会保障职员拥有极大的影响力。尽管克鲁克香克需要向一个社会保障委员会汇报工作，并通过该委员会向美国劳联或劳联-产联主席汇报，但决定组织在社会保障事务上的立场很大程度上取决于他个人。克鲁克香克的个人品质促成了这一点。由于他能力出众、谨慎且值得信赖，他赢得了联合会主席们的信任；对于在20世纪60年代初指责他出卖劳工利益的批评者，他自信地回击道，指控者应该去找乔治·米尼（George Meany）主席申诉。23 但如果说米尼准备信任克鲁克香克，不仅是因为克鲁克香克证明了自己的可靠，还因为社会保障并不是劳联-产联主席最关心的议题。“社会保障议题实际上是边缘性的，”丽丝贝斯·肖尔（Lisbeth Schorr）回忆道。“这意味着作为一个幕僚部门，我们拥有极大的自由……纳尔逊真的不需要向他的委员会请示……那对他根本构不成任何约束。”24 从截然不同的视角出发，亚瑟·奥特迈耶（Arthur Altmeyer）也给出了类似的回忆：“总的来说，是那些官僚——纳尔逊·克鲁克香克、伦纳德·莱瑟（Leonard Lesser）、基蒂·埃利克森（Kitty Ellickson）——不得不承担起推进工作的重任，而且他们总是抱怨无法让他们的主要领导真正对这些事热心起来。”25
+
+即使委员会成员确实有自己强烈的意见，克鲁克香克依然有空间行使自己的判断。例如，1957年，委员会中一些较为进步的成员——代表美国汽车工人联合会（UAW）和美国钢铁工人联合会（United Steelworkers of America）的成员——希望赞助一项为老年人提供全面医疗服务的法案。而克鲁克香克倾向于仅将其限于住院服务。其结果是一项妥协性提案，其中包含外科手术服务，但排除了所有一般医生的服务。随后，外科手术服务也被取消了。面对委员会成员的诉求，克鲁克香克权衡了自己的判断，即当时在该项目中增加什么内容才最具可行性。若超越住院福利的范畴，法案的通过将变得困难得多。这正是项目执行官们所做的那种战术算计，而克鲁克香克作为他们的亲密合作者也参与其中。他实际上已经成为了他们中的一员。
+
+克鲁克香克职业生涯的目标与回报，与科恩（Cohen）或其他社会保险的官方奠基人几乎难以区分。作为一名在20世纪30年代的社会主义者，克鲁克香克的观点如此超前，以至于循道宗（Methodist Church）很难容忍其一位牧师持有这样的观念。他致力于推动社会立法，特别是社会保险的工作。该项目成为了他的使命，而劳工运动则成为追求这一使命的载体。在1958年之后与克鲁克香克共事的肖尔看来，联邦医疗保险（Medicare）似乎就是最终的桂冠：
+
+> （联邦医疗保险）如此占据了该部门的兴趣和工作重心，以至于绝大多数其他事务都变得非常次要。我认为这部分是因为……其他事情没那么重要，其次也是因为纳尔逊·克鲁克香克在这个问题上具有非常强烈的个人认同感。我认为，这件事发生在他知道这可能是他在退休前参与的最后一场大型战斗的时期，这一点至关重要。在他的思想中，这种观念逐渐生长，以至于——至少我感觉如此——他将此视为检验其整个职业生涯意义与成功的一块试金石；也就是说，如果通过社会保障为老年人提供健康保险的立法获得通过，那么一切就都值得了。26
+
+当被要求评估其职业生涯的满足感时，克鲁克香克本人拒绝将联邦医疗保险单独挑出来。他说，他也对1950年的修正案和残疾保险感到自豪。但他最引以为傲的，是始终让劳工组织的目光聚焦于立法目标——即那些需要做且能够做成的事情上——而不是去参与那些让四分五裂的美国劳工运动深受其害的琐碎组织纷争。其他人也赞同他的这种评估，一致认为克鲁克香克将项目中体现的社会使命置于个人或组织利益之上。在这一点上，他就像那些他极为敬仰的官方项目执行官们一样，如奥特迈耶、科恩和鲍尔（Ball）。在个人层面上以及代表他能为其发声的有组织劳工层面上，克鲁克香克开始对该项目拥有了一种主导权。这种对社会保险主导权的宣示如此令人信服，以至于连共和党人也予以承认。
+
+纳尔逊·洛克菲勒（Nelson Rockefeller）在艾森豪威尔政府担任健康、教育及福利部（HEW）副部长时，实际上曾承诺社会保障署的最高级别任命将会是劳工组织可以接受的；此后前两任社会保障专员的任命都事先与克鲁克香克进行了沟通确认。27 当民主党在1961年重新执政时，曾有人试探过克鲁克香克本人是否有意出任专员。肯尼迪政府的成员想知道他是否对此感兴趣，但他表示拒绝。在共和党罢免奥特迈耶时，劳工组织曾反对将该职位视为党派政治任命，因此克鲁克香克认为推翻这一立场是不明智的。劳工组织更倾向于采取无党派色彩的做法，这等同于让一位职业的项目执行官来负责。在这种情况下，这个人选将是罗伯特·鲍尔（Robert Ball），反正他实际上已经负责多年，并且在克鲁克香克看来，他既当之无愧，又具备充分的资格来担任专员一职。在民主党执政期间，劳工组织要求获得这一任命并没有任何好处，因为该项目无论如何都会安全地掌握在亲密朋友和合作者的手中；而如果确立了党派任命的惯例，在共和党执政的年代里，劳工组织可能会失去很多。
+
+### **幕僚与社会保障署的关系**
+
+社会保障的决策制定结构具有一种吸引抱有同情态度的局外人并将其转化为内部人士的特征；这正是克鲁克香克经常被任命加入的咨询委员会的职能所在。在克鲁克香克的案例中，这种同化比其他一些局外人更容易，因为他所代表的组织的总体倾向是高度支持该项目及其扩张的。他不会像制造业代表马里恩·福尔瑟姆（Marion Folsom）或保险业代表莱因哈德·霍豪斯（Reinhard Hohaus）那样受到各方拉扯。在有组织劳工的具体案例中，体现在咨询委员会中的这种正式的吸纳方式，得到了个人层面与非正式工作关系的强有力支撑。劳工组织与社会保障署的合作根植于劳工组织的社会保障幕僚与社会保障署幕僚之间的沟通之中，特别是与威尔伯·科恩的沟通，他是关于立法策略的首要信号释放者。由此形成的个人关系进一步促进了组织间的合作。在这个个人关系网络中还有一位重要成员——伊丽莎白·威肯登（Elizabeth Wickenden），她虽然与有组织劳工和社会保障署都没有正式联系，却帮助确保了他们联盟的有效运行。
+
+从瓦萨学院（Vassar）毕业后，威肯登曾在多个新政机构（如紧急救济署、工程振兴署、全国青年总署）工作。1941年至1951年间，她担任美国公共福利协会（American Public Welfare Association，一个由公共援助管理者组成的组织）驻华盛顿的代表，并在20世纪50和60年代担任众多公共与私人福利组织的顾问和咨询专家，同时也是包括联邦医疗保险在内的福利事业的游说者。作为林登·约翰逊（Lyndon Johnson）和威尔伯·科恩两人的朋友，在约翰逊于参议院的权力不断上升之际，她促成了两人的结识，并在制定美国公共福利协会支持社会保险的立场方面发挥了重要作用。人们或许会预料，公共援助管理者会反对社会保障作为竞争性项目的发展；然而，该组织非但支持该项目，还敦促各州州长也予以支持，其理由是社会保障将减轻州政府的援助成本负担，这在一定程度上归功于伊丽莎白·威肯登的组织能力与论辩力。她还与劳工组织在社会保障方面的代表关系密切，当劳工运动严重分裂时，这为社会保障联盟提供了助力。她曾在接受采访时表示：“我可以说成为了那一时期（指作为APWA驻华盛顿代表的岁月里）社会保障游说团体的名义领袖，因为至少在初期，美国劳联和产联是两个独立的组织。除非有第三方将他们聚到一起，否则格林绝不允许劳联的男士们与产联的女士坐下来共同探讨社会保障问题。于是，我便成为了那个第三方。在那段时期，我们这群致力于社会保障工作的人联系非常紧密。”28
+
+有组织劳工的社会保障幕僚受雇于全国性联合会——即美国劳联、产联以及1955年之后的合并联合会——并驻扎在华盛顿。在联合会的组成单位中，只有少数全国性和国际性工会拥有社会保障的幕僚专家；即使有，如最典型的美国汽车工人联合会（United Auto Workers），其主要职责也是处理作为集体谈判标的的养老金协议。在产联内部，这些幕僚专家偶尔会在华盛顿开会，但合并后这些会议便中止了，而且无论如何，他们仅仅将社会保险视为众多议题中的一个。因此，作为项目专家，华盛顿的幕僚几乎拥有排他性的管辖权。他们向由民选工会官员组成的社会保障委员会负责，并且必须与立法代表（即游说专家）分担幕僚职能，但作为社会保险领域的幕僚专家，他们实际上是无可匹敌的。
+
+1942年之后，产联的幕僚专家是凯瑟琳·埃利克森（Katherine Ellickson），她毕业于瓦萨学院，于20世纪30年代中期开始工作，当时产联仍是美国劳联内部一个羽翼未丰的异见派别。她在1937年被解雇后，先后在国家劳工关系委员会和社会保障委员会的研究与统计司获得了工作，之后又回到了产联。在社会保障委员会，她经历了该机构通常的强化培训课程，随后协助编辑了《社会保障公报》（Social Security Bulletin）并参与编制了年度报告。当时她并不认识科恩本人，但像一名初级幕僚那样对他充满敬畏。当她重返产联时，该组织的激进主义已因内部变化以及战时美国与苏联结成的反法西斯同盟而受到抑制。曾起草社会保障决议的产联总部激进派律师李·普雷斯曼（Lee Pressman）不再撰写这些决议，尽管他仍留在产联的职员队伍中，直到1947至1949年间发生了针对共产党员成员的清洗。从此，这些决议将由凯瑟琳·埃利克森来执笔。
+
+作为该机构的前雇员，埃利克森轻松地融入了正在发展中的与社会保障署的合作模式。她在产联的最初任务之一，就是准备一份支持《瓦格纳-默里-丁格尔法案》的宣传册。在这项工作中，她与社会保障署的幕僚紧密合作，后者提供了详尽的编辑建议。29 随着两人职业距离的缩小，埃利克森对科恩的敬畏感有所减弱，但在处理立法事务时，她依然听从他的领导。“威尔伯会告诉我们（劳工组织的社会保障幕僚）应该怎么做，”她后来回忆道，“而我们则充当与游说人员之间的纽带。”30 当合并发生时，她留在幕僚队伍中担任克鲁克香克（她在美国劳联的同行，后来成为合并部门的主任）的助手。但在1960年后她离职了，正如她在接受采访时所言，这份工作已不再随着民主党重新掌权以及劳工组织失去对联邦医疗保险运动的领导地位而令人振奋。31 在美国劳联方面，克鲁克香克在1944年走上岗位时，对社会保险毫无经验，也不认识社会保障署的职员。他后来回忆道：“但我估计，如果有一个人，那么就有五十个人告诉我，我要做的第一件事就是去结识威尔伯·科恩。”32 经过在社会保障规划与行政管理领域十年的历练，科恩已然是专业知识的化身。而克鲁克香克则是个新手。虽然曾接受牧师培训，但他却成为了一名工会组织者，随后又在战争人力委员会（War Manpower Commission）工作。在美国劳联总部，几乎没有人能在社会保障方面给予他太多帮助。由于受雇致力于推动《瓦格纳-默里-丁格尔法案》的通过，在一个部分应社会保障署的敦促而设立的办公室里，他自然而然地转向社会保障署寻求指导——而首要的指导来源就是科恩。在未来的岁月里，情况始终如此。
+
+聪明且受过良好教育的克鲁克香克当然会随着经验的积累而加深理解，但他的幕僚团队非常小（起初他独自工作），除了老年保险外，还必须处理广泛的议题，包括失业补偿、工伤补偿以及公共援助。在这种情况下，由科恩或其他社会保障署官员来准备美国劳联关于社会保障的公开声明，以及当然还有劳工组织正式赞助的复杂法案，并非不寻常之事。“我们会来回讨论一下，然后我会说：‘把它写下来吧，’”克鲁克香克后来回忆道。他解释说，他缺乏时间，也缺乏处理此类事务所需的对专业技术术语的熟悉程度。33
+
+只要克鲁克香克在职，与社会保障署的亲密合作就一直持续着。社会保障署的官员们认识到他们可以依靠他的支持；而在建立起这种信任纽带后，他从未做过任何破坏它的事情。“为了避免与政府发生任何决裂或看似决裂的局面，纳尔逊做出了极大的退让，”丽丝贝斯·肖尔在总结联邦医疗保险运动时说道。“政府人员能够指望纳尔逊的支持，这一事实使他们极大程度上信任他，而他们绝不会以这种方式去信任一个更愿意冒险的人。”34 克鲁克香克熟悉华盛顿的决策环境，这为有组织劳工在很大程度上与社会保障署的项目领导层保持高度一致提供了最终的解释。国家首都统治共同体的成员们学会了相互妥协，同时也学会了为自己的选民发声。各种倡议的提出依赖于对共同体中其他人（尤其是国会）将作何反应的某种评估。因此，克鲁克香克学会了在劳工组织的诉求与最有可能获得通过的方案之间寻找平衡。项目执行官们从自身组织的视角出发，也进行了类似的算计；如果两者得出了相似的结论，这不仅仅是因为有组织劳工的幕僚对官方信号很敏感。这也是因为双方都对同一统治共同体中的舆论和权力关系十分敏感。他们始终对右翼的共同敌人，尤其是美国医学会（AMA）保持着同样的担忧。
+
+在有组织劳工内部，克鲁克香克与社会保障署官员的密切关系总体上是一种优势。劳工组织寻求官方认可并因此感到满足。当美国劳联在20世纪40年代终于对老年保险产生兴趣时，很大程度上是因为它想在决策制定中分一杯羹。克鲁克香克在咨询委员会的成员身份，以及他与社会保障署官员亲密的个人合作关系，为劳工组织提供了其所寻求的那种认可和入场券，同时也提升了克鲁克香克本人在美国劳联及劳联-产联内部的地位和影响力。劳工同僚和上级接受他作为社会保障专家的身份，因为他已经获得了社会保障署内部终极专家们的认可。直到1965年克鲁克香克退休，劳联-产联内部更为激进的分子（他们始终是潜在的异见者）才开始在社会保障问题上主张自己的立场。
+
+### 美国汽车工人联合会的倒戈
+
+1965年之后，劳工组织出现分裂。在沃尔特·P·鲁瑟（Walter P. Reuther）领导下的美国汽车工人联合会（UAW）这一异见派别，在社会保险问题上采取了比项目主流更加超前、更加自由派的立场。分析为何与社会保障署的联盟会以这种方式破裂，将有助于更容易地理解为何该联盟在之前的二十年里能够如此顺利地运作。从某种意义上说，20世纪60年代末是20世纪30年代的重演。通过退出劳联-产联，美国汽车工人联合会重申了其历史上的激进主义。根据鲁瑟的说法，分裂的焦点在于劳工运动是否致力于社会斗争与变革。（劳联-产联淡化了政策分歧，指责美国汽车工人联合会发起了一场诽谤运动，并列举了一系列纯粹组织层面上的分歧。）然而，在20世纪60年代已经变化的条件下，没有了共产党的催化影响以及充满暴力敌意的汽车行业的刺激，奠基那一代人身上真正的战斗精神已无法重现。鲁瑟领导下的美国汽车工人联合会也并没有提议扫除新政的遗产，即那些已经建立起来的福利国家的大部分机制。它对社会保险的批判，远不如三十年前李·普雷斯曼笔下所写的那么具有根本性。当时，产联反对缴费型社会保险，呼吁从一般税收中出资为老年人提供普遍的养老金。在1966至1967年间，美国汽车工人联合会接受了社会保险，但希望扩大其范围并使其更加平等。它宣称：“一个全面的社会保险体系应该成为为工人及其家属提供保障性收入的基本机制。”35 并且它希望这种改变立即发生。“我们需要提高眼界，停止这种对社会保障无休止的修修补补的做法；我们在这里修补一下，在那里修补一下，用一点铁丝固定一下，然后说，‘好了，我们修好了，直到下次问题再次找上门来，’”鲁瑟在作证时说。36 美国汽车工人联合会拒绝了那种已经成为社会保障既定决策方式的渐进主义。
+
+随着1965年联邦医疗保险的颁布实施，《瓦格纳-默里-丁格尔法案》所界定的议程已被消耗殆尽。并非每一个项目都完整地实现了（特别是健康保险还不完整），但基本结构现已确立，议程是开放的。对于该项目的拥护者而言，此时正是确立新方向的时刻。事物处于不断变动之中，而一如既往，指明方向的依然是威尔伯·科恩。《联邦医疗保险法》于7月30日成为法律；1965年10月，《美国联邦工会会员》发表了他的一篇文章，他在其中发出了争取更丰厚福利运动的信号。他指出，社会保险应当在抗击贫困中发挥更大的作用。提高老年人和残疾人的福利，可以使贫困人口减少四分之一到三分之一。37
+
+劳联-产联的响应热情可能让其在社会保障署的老朋友们都感到惊讶。1965年12月的大会呼吁将福利提高50%、大幅提高工资基数、引入一般税收资金、降低退休年龄，并放宽联邦医疗保险和残疾保障项目。除了他没有提及使用一般税收资金外，这与科恩所规划的方向是一致的，但这比官员们习惯于一步迈出的步伐迈得更远。克鲁克香克已于1965年秋退休，而美国汽车工人联合会（UAW），早先因他的存在而受到约束的UAW，此刻填补了这一真空。事情并没有因1965年12月的大会决议而尘埃落定。美国汽车工人联合会并不满足于仅仅影响了联合会的立场；它很快在罗伯特·F·肯尼迪（Robert F. Kennedy）参议员于1966年夏天提出的一项法案中，阐明了其在社会保障方面的独立立场，这距离约翰逊总统宣布他将在1967年提出社会保障提案后不久。肯尼迪的提案率先公布，而且规模更大；有时在两党之间围绕社会保障福利展开的竞争性出价，此刻正在民主党内部上演。在其兄长遇刺后于1964年当选为参议员的肯尼迪，正在广泛的议题上采取独立立场，为自己确立党内领导地位奠定基础。在与肯尼迪的合作中，美国汽车工人联合会并未与民主党决裂，而是与总统在党内领导权上的竞争对手结盟。存在这样一个地位显赫且咄咄逼人的竞争对手，是劳工左翼与社会保障署之间产生分裂的条件之一。党派通常对分裂施加的约束已经减弱。
+
+尽管肯尼迪在1967年再次提出，但肯尼迪-UAW法案从未付诸表决。与此同时，社会保障署的官员向国会提交了约翰逊总统的提案，要求增加20%的福利，并采取其他措施以提高社会保险作为反贫困项目的有效性——这些提案或许正是为了回应肯尼迪-UAW的压力而扩大了规模。劳联-产联支持了政府的提案，而美国汽车工人联合会则继续在两者左侧持有异见。全国老年公民委员会（National Council of Senior Citizens，劳工组织为老年人设立的附属组织）追随了联合会的立场，而非UAW的立场，这导致UAW撤回了对该委员会的资金支持。1967年，随着UAW公开表达异见并接近脱离联合会，米尼（Meany）在某种程度上从由UAW主导的1965年扩张性决议中退缩了。劳联-产联先前激进的立场给联盟造成的任何紧张局势都得到了缓解。显而易见，该联盟仍在运作，但已经出现了与其有组织劳工自身分裂相平行的相对轻微的裂痕。
+
+针对官方行为的种种制约意味着，项目执行官们需要一个私人的合作者，一个在政府之外不受约束的盟友。他们在有组织劳工中找到了这样一个盟友——主要是由纳尔逊·克鲁克香克多年来代表的美国劳联。这个外部盟友可以自由地做他们无法做到的事情：赞助现任政府反对的法案、公开进行游说和宣传竞争，并针对国会中的项目批评者发起竞选活动。然而，对官方行为的制约也从未僵化或严苛到阻止项目执行官与这个私人盟友进行非常紧密的合作，他们向该盟友提供了源源不断的政策暗示和有用的信息。如果没有这种官方支持和刺激的源源不断输入，这个私人盟友原本会显得不那么活跃，也不那么顺从。有了它，一种紧密且相互支持的关系得以形成。官方执行官对项目的主导权与有组织劳工的非官方主导权和谐地融合在一起，从而有利于他们在政策上共享的立场。
+
+引用
+
+1 Milton Derber, "Growth and Expansion," in Milton Derber and Edwin Young, eds., Labor and the New Deal (University of Wisconsin Press, 1961), pp. 1-44, especially pp. 12-18.
+2 Frances Perkins, The Roosevelt I Knew (Viking, 1946), p. 288; Edwin E. Witte, The Development of the Social Security Act (University of Wisconsin Press, 1963), pp. 87-88; Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966), pp. 32-33; Edwin E. Witte, "Organized Labor and Social Security," in Derber and Young, eds. Labor and the New Deal, pp. 241-55.
+3 Wilbur J. Cohen to M. S. Pitzele, August 28, 1941 (File 025 Federal Security Agency, R. G. 47, SSA Central Files 1935-1947, Box 15, National Archives ).
+4 Robert J. Watt, "The Next Frontier," American Federationist, vol. 48 (March 1941), pp. 16-17, 32. The author, a native of Scotland, was the AFL's representative to the International Labor Organization between 1936 and 1947 and a member of a commission appointed by President Roosevelt to study labor conditions in Britain and Sweden; this gave him considerable exposure to foreign examples, made him the AFL headquarters expert on social legislation, and put him in touch with officials of the Social Security Board.
+5 Report of Proceedings of the Sixty-second Annual Convention of the American Federation of Labor (Washington, D.C.: AFL, 1942), pp. 414, 608-09.
+6 Daily Proceedings of the Second Constitutional Convention of the Congress of Industrial Organizations (Washington, D.C.: CIO, 1939), p. 138.
+7 Daily Proceedings of the Third Constitutional Convention of the Congress of Industrial Organizations (Washington, D.C.: CIO, 1940), p. 98.
+8 Len De Caux, Labor Radical: From the Wobblies to the CIO (Beacon Press, 1970), chaps. 13-14. The deradicalization of the CIO was not completed until the expulsion of communist members in the late 1940s. See also Juanita Diffay Tate, “Philip Murray as a Labor Leader," Ph.D. dissertation, New York University (1962), p.75
+9 Charles McKinley and Robert W. Frase, Launching Social Security (University of Wisconsin Press, 1970 ), p. 358.
+10 Robert F. Wagner to William Green, March 3, 1944 (File 011.1, Social Security Board 1941-48, R. G. 47, Washington National Records Center, Suitland, M)
+11 Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University (1967), p. 29. (Hereafter Cruikshank, OHC.)
+12 "Income Maintenance and the Social Security System: Proceedings of the Sixth Social Security Conference" (University of Michigan, 1968), p. 55.
+13 Interview with Leonard Lesser and Lisbeth Bamberger Schorr, Oral History Collection, Columbia University (1967), pp. 3--5. (Hereafter Lesser-Schorr, OHC.)
+14 Ibid., Pp. 4-5. 
+15 Ibid., p. 75. 
+16 Ibid, p. 80.
+17 J. David Greenstone, Labor in American Politics (Vintage Books, 1969) D. 51
+18 James Q. Wilson, Political Organizations (Basic Books, 1973), chap. 7.
+19 Historically, the AFL opposed industrial pensions and employer welfare programs as well as government programs, believing that they were designed to dis-courage the formation of unions. Witte, "Organized Labor and Social Security," D. 20
+20 1948 Proceedings of the Tenth Constitutional Convention of the Congress of Industrial Organizations (Washington, D.C.: CIO, 1948), p. 333.
+21 Nelson H. Cruikshank, "Labor's Stake in Social Security," University of Illinois, Institute of Labor and Industrial Relations (1949-50).
+22 Report of Proceedings of the Seventieth Annual Convention of the American Federation of Labor (Washington, D.C.: AFL, 1951), pp. 174-75. Emphasis added. 
+23 Cruikshank, OHC, p. 92.
+24 Lesser-Schorr, OHC, p. 20.
+25 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967), p. 170.
+26 Lesser-Schorr, OHC, p. 18
+27 Cruikshank, OHC, pp. 128-33.
+28 Interview with Elizabeth Wickenden Goldschmidt, 1974, p. 23, Lyndon Baines Johnson Library, Austin, Texas. The inner core of the working coalition for social security, as Elizabeth Wickenden thought of it, consisted of Wilbur Cohen. Nelson Cruikshank, Fedele Fauri of the Library of Congress staff, Katherine Ellicksor of the CIO (see below ), and herself. They had no formal place or schedule for meetings, but had almost daily phone conversations while the 195o amendments were under consideration. Others who were more loosely attached to this working coalition, in Wickenden's view, were Ball, Altmeyer, and I. S. Falk within the SSA; several congressmen and their legislative assistants; and other labor representatives, particularly those connected with the autoworkers and steelworkers. Interview with Elizabeth Wickenden, Oral History Collection of Columbia University (1967), po. 2426.
+29 Investigation of the Participation of Federal Officials in the Formation and Operation of Health Workshops, Hearings before the Subcommittee on Publicity and Propaganda of the House Committee on Expenditures in the Executive Departments, 80 Cong. 1 sess. (GPO, 1947), pp. 99-100.
+30 Interview with the author, May 7, 1976.
+31 Interview with Katherine Ellickson, Oral History Collection, Columbia University (1967).
+32 Cruikshank, OHC, p. 31.
+33 Interview with the author, May 14, 1976. 
+34 Lesser-Schorr, OHC, pp. 24-25.
+35 President's Proposals for Revision in the Social Security System, Hearings be-fore the House Committee on Ways and Means, 9o Cong. 1 sess. (GPO, 1967 ), pt. 3, p. 1450.
+36 Ibid., p. 1422.
+37 Wilbur J. Cohen, "The Role of Social Insurance," American Federationist, vol. 71 (October 1965), pp. 2-6.
+
+## **第六章 保守派的阻力**
+
+笼统地谈论对社会保险的“反对”是会产生误导的。自1936年共和党总统候选人阿尔夫·兰登（Alf Landon）呼吁废除老年保险（old age insurance）并在选举中惨败以来，再未有任何重要的公职人员或私人组织主张终止该项目。然而另一方面，针对该项目稳步扩张的阻力却大量存在，这些阻力主要来自全国性的大型商业组织（全美制造商协会，尤其是美国商会）、保险业，以及抵触情绪最为强烈的美国医学会（American Medical Association）。
+
+总体而言，保守派利益集团既未试图废除已颁布的立法以恢复原状（status quo ante），也未提出替代性的公共措施来与社会保险相抗衡。相反，他们采取了一种条件反射式的策略，即无论当时的底线在哪里，都竭力坚守防线。这种保守派阻力的实际效果，通常是拖延或限制官方主导的扩张，而非彻底击败它——无论如何，这种阻挡都无法长期维持——以期转而支持一种根本不同的替代方案。
+
+如果社会保险项目惯性发展的模式要受到挑战，那么针对官方扩张提案的替代方案必定要出自某处；从逻辑上讲，保守派利益集团正是这些替代方案可能的来源之一。下文我将解释为何这种情况通常并未发生，以及为何保守派的行动反而陷入了一种在大多数决策参与者已逐渐接受并视为固定的框架之内，对零星进展进行零星抵抗（piecemeal resistance to piecemeal advances）的模式。
+
+在探讨了这种保守派抵抗模式为何形成之后，本文的分析将转向两个重要的例外情况。其一是1939年增加受抚养人与遗属福利（dependents and survivors benefits）时，保守派并未予以抵抗。一个反常且引人深思的事实是，推动这一关键法案的大部分动力源自保守派阵营，且支持该法案的部分概念性工作是在大都会人寿保险公司（Metropolitan Life Insurance Company）内部完成的。第二个重要例外是美国商会于1953年提出的一项提案，该提案主张立即将社会保险覆盖至所有老年人，而不论其是否缴纳了工薪税（，并终止联邦政府向州政府发放的用于贫困老年人的补助金（grants-in-aid）。这是一项来自保守派阵营且经过深思熟虑的倡议，它本可对社会保险项目做出重大改变，但最终却彻底失败了。它不仅远未被国会采纳，甚至未曾得到认真的审议。1
+
+### 抵抗的逻辑
+
+如果可以这样表述的话，抵抗是保守派利益集团“阻力最小的路径”。要采取积极的反对，而不仅仅是对变革予以抵抗，将需要内部共识以及庞大的组织动员；只有当保守派利益集团感到社会保险对其构成了根本性威胁时，这种共识和动员才可能实现。无论是采取主张逆转政策的消极反对形式，还是采取为公共行动提供保守派替代方案的更积极的形式——这些替代方案理论上会为自愿行动保留更大的空间，或者在设计上会更加关注对长期成本的控制——情况均是如此。
+
+随着兰登在1936年的败选，以及最高法院在1937年做出维持社会保险立法合宪性的裁决，消极的反对已经变得毫无意义，完全是白费力气。此后，企业界的反对者们不得不等待共和党政权的到来——而且他们等待了漫长的岁月。在等待的过程中，他们逐渐习惯了社会保险的理念及其制度现实，并停止了刺耳的反对声。（到了1953年，再也没有人会像美国律师协会和美国商会前主席西拉斯·斯特劳恩（Silas Strawn）在1935年所说的那样，声称《社会保障法》是“经济上荒谬且法律上站不住脚的”。）2 事实上，由于对企业利益的认知发生转变，一些人甚至转变成了支持者。随着产业工会联合会（CIO）的大型工会开始通过集体谈判要求获得养老金计划，通用汽车的查尔斯·E·威尔逊（Charles E. Wilson）等商界巨头对社会保险产生了积极的热情。3 在因养老金问题引发钢铁和汽车行业罢工之后，全美制造商协会正式修正了其长期以来反对该项目的历史立场。
+
+尽管绝大多数商界人士最初反对社会保险，担心其成本以及对工作态度和经济体系的影响，但从一开始就有一小批杰出的企业高管准备论证其社会必要性。这些人具有强烈的社会责任感，随时准备为公共服务效力；而罗斯福政府和社会保障委员会（Social Security Board）出于对商业支持的需求，也非常渴望将其纳入麾下。其中几位人士——包括通用电气公司总裁杰拉德·斯沃普（Gerard Swope）、利兹与诺斯鲁普公司（Leeds and Northrup）总裁莫里斯·E·利兹（Morris E. Leeds）、新泽西标准石油公司总裁沃尔特·S·蒂格尔（Walter S. Teagle）以及伊士曼柯达公司财务主管马里恩·B·福尔瑟姆（Marion B. Folsom）——在1934年担任了咨询委员会的成员，并随后组建了隶属于商务部的商业咨询委员会（Business Advisory Council）社会保障专门委员会。该咨询委员会是一个由对新政相对同情的企业界元老所组成的组织。作为该项目被吸纳的支持者，这些高管在早期对新政的强烈反对浪潮中，帮助抵消了来自商界的阻力，并最终为社会保险赢得了一定程度的商业认可。福尔瑟姆表现得尤为活跃，充当了与商界沟通的特使。在被拉入官方圈子后，他成为了该政府项目的一名专家。随后，作为一名专家，他在各大商业协会中担任职务。他同时担任了美国商会和全美制造商协会的社会保障委员会主席，并在促使这些组织转向“建设性”立场的过程中发挥了关键作用。
+
+正如矛盾心理和内部分歧抑制了消极的反抗一样，它们同样抑制了针对社会保险的保守派替代方案的形成。保守派利益集团从根本上对政府支持社会福利的行动抱有疑虑，他们缺乏独立的议程，也无法为碰巧从他们阵营中产生的零星立法构想凝聚支持。在围绕医疗保健立法的长期较量中，这一点表现得尤为明显。国会及艾森豪威尔政府中的共和党公职人员不时地四处寻找替代方案，他们试图借此转移争取政府保险的运动压力，同时为自己赢得选举资本。但他们没有得到保险业或美国医学会的支持，这些组织将任何政府行动都视为致命的楔子（entering wedge，意指突破口）。例如，保险业、美国医学会和美国商会都拒绝支持艾森豪威尔政府的一项提案。根据该提案，政府将与试图扩大医疗保健覆盖面的私营保险公司分担风险。5 政府的“再保险”（reinsurance）机制将为保险公司报销高达75%的损失。许多保守派与坚定的自由派阵营联手反对了这项法案。同样，在尼克松政府执政初期，保守派利益集团的代表拒绝支持根据生活成本增加而自动调整社会保障福利的提议，而共和党公职人员本希望以此减缓福利扩张的步伐，并剥夺民主党人因增加福利而获得的政治资本。
+
+面对进退两难的局面，保守派利益集团在“原地踏步”上达成了统一，除非是为了覆盖更多阶层的工人。实现全民覆盖但保持低福利（Universal coverage, but with low benefits），成为了保守派的目标。一旦老年保险颁布，他们便予以接受，但他们反对提高工资基数或福利，除非这些增长与生活成本的增加严格挂钩。他们反对增加残疾和医疗保健保险的覆盖。
+
+与独立于实际需求发放福利且由联邦政府管理的计划相比，公共援助替代方案（即将联邦支持局限于贫困人口，将其与经济状况审查相挂钩，并将行政管理权交由州和地方政府）总是更容易被保守派所接受。每当有人提议扩大保险范围时，公共援助总是保守派倡导的应对路径。但即使是这一替代方案，也并非保守派的独创。作为社会福利联邦行动的一种模式，它是新政的产物。新政在《社会保障法》中除了纳入更具争议性的老年保险和失业保险措施外，还纳入了支持贫困老人和受抚养儿童的联邦补助金。
+
+### 保险业的有限回应
+
+保险业本应是对社会保险作出最强烈反应的群体。与美国医学会（该协会感到受健康立法的严重威胁，但对针对老年人的现金支持漠不关心）相比，保险业在社会保险立法中拥有更持续的利益关切；且相较于组成美国商会和全美制造商协会的普通商业组织而言，保险业受社会保险的直接影响更大。作为雇主，普通企业通常被迫缴纳50%份额的社会保障工薪税，但实际成本却转嫁到了其他地方（例如以降低员工工资或提高消费者物价的形式表现出来），因此他们对社会保险的担忧，主要属于以营利为目的的企业家在面对政府干预经济时惯常产生的那种广泛且模糊的担忧。他们可能会担心法案对资本主义制度和工作态度的影响，但并不一定会具体担忧明年的利润。唯独保险业受到了政府竞争的直接威胁。然而，该行业从未因社会保险问题被充分激发出参与大量政治活动的动力。1935年2月，当《社会保障法》悬而未决时，领先的行业协会——人寿保险总裁协会（Association of Life Insurance Presidents）——决定不对其表明立场。最终，该行业也陷入了对扩张进行条件反射式抵抗的常见保守派模式之中。
+
+1935年时，保险公司高管们尚不清楚他们的业务将受到何种影响。很少有人对即将出台的法案表现出充分的了解或关注。在那些确实有所关注的人中，一些人感到忧虑，而另一些人则认为，政府项目将使公众更加意识到保险的必要性，从而更容易接受商业销售。社会保障法案中有一项提案建议政府销售保险，并通过一项自愿的个人年金计划来补充强制性计划，可以理解，这似乎引起了一些担忧；在康涅狄格州民主党参议员奥古斯丁·洛纳根（Augustine Lonergan）的倡议下，该条款从法案中被删除。据推测，他的举动是为了捍卫该行业的利益，因为当时和现在一样，康涅狄格州是保险公司高度集中的地区。但即使在这个看似敏感的问题上，行业内部的意见也存在分歧。作为行业巨头的大都会人寿保险公司（Metropolitan Life Insurance Company）的副总裁兼总法律顾问在1935年的一次公司经理大会上表示，如果政府销售个人年金，“大都会”不会对此表示反对。
+
+即使回溯历史，要评估政府项目对私营产业的影响也并非易事。一方面，该行业仍然是一个巨头；另一方面，人寿保险的私人投资增速远远未能跟上国民收入的增长步伐。标准普尔（Standard & Poor's）在20世纪70年代中期编制的一份行业调查报告指出，人寿保险业在过去的二十年里保持了良好的增长水平，但将近期通过社会保障、公司养老金与利润分享计划以及医疗保险所提供的老年保障的扩张视为一个负面因素。
+
+由于政府项目对私营产业的影响始终难以评估，行业内的不同子群体对其可能有不同的解读，而人寿保险本身就是一个存在分歧的行业。代理人与管理层之间存在分歧，而管理层内部也分裂为两派：一派是东海岸的巨头公司（其中大多为相互保险公司），另一派是南部、中西部和西部规模较小的公司（主要为股份制公司）。代理人组织了全美人寿承保人协会（National Association of Life Underwriters）。在1973年合并成立美国人寿保险协会（American Life Insurance Association）之前，管理层分为两派：一是美国人寿保险协会（Life Insurance Association of America, 简称LIAA），这是一个总部位于纽约的东部巨头组织；二是美国人寿保险公会（American Life Convention, 简称ALC），总部位于芝加哥，将偏远地区的小型公司聚集在一起。两者均成立于1906年，即纽约州立法机构的一个委员会对纽约的大型公司进行调查（阿姆斯特朗调查，Armstrong investigation）后不久。这两组公司在市场份额、影响其竞争地位的监管行动以及联邦所得税法对股份制公司和相互制公司的不同影响等问题上展开了角逐。尽管随着时间的推移，大多数东部公司加入了ALC，但事实证明，这两个行业协会的合并非常难以实现。对巨头公司的恐惧在ALC中持续存在，而对较小公司的蔑视也同样存在于LIAA中。10
+
+管理层担心，他们的代理人与政客及社会保障管理者一起，助长了公众对社会保险福利的胃口。较有进取心的代理人围绕“社会保险不足以满足需求且需要补充”这一论点来制定销售策略。公共计划逐步修订这一事实非但没有让他们无生意可做，反而不断为他们创造重新审查客户保险覆盖范围的机会：账面上增加的一项新法律，就意味着拥有了一块敲门砖。然而，如果说代理人比管理层更容易接受该计划，这种差异并没有体现在其行业协会的立场中，社会保障的高管们认为该协会的立场相对对立。11
+
+在管理层内部，东部巨头的领导者对社会保险的抵触情绪低于内陆地区较小公司的高管。这种分歧类似于共和党东部进步派与中西部保守派核心之间的分野。该行业的这两个群体都不欢迎政府进入保险领域，但据一位资深行业人士称，东部人属于“顺应潮流派”（roll-with-the-punch school），而中西部人则患上了某些东部人所说的“得寸进尺恐惧症”（foot-and-nose disease）——他们总是对“门槛里的一只脚”（foot-in-the-door）和“帐篷里的骆驼鼻子”（camel's-nose-under-the-tent，意指微小干预导致的全面入侵）深感痛心。他们的本能是绝对的反对。12 对社会保险政治和决策的发展具有重大意义的是，较为进步的东部人通常代表整个行业发声，并且在界定其立场方面具有更大的影响力。从1945年开始，保险业断断续续地发布了关于社会保障的政策声明，通常是通过ALC和LIAA采取联合行动。在其中的第一份声明中，该行业赞同将社会保险作为取代慈善和公共救济的一种手段，“因为它更加有序、有尊严且可靠”，但声明其应仅提供基本的、最低限度的保护。在政府提供的最低保障之上，安全保障应继续来源于“个人勤奋与节俭的践行”。13 几位核心的东部领袖规划了这条具有建设性但有保留的接受路径，中和了行业内其他群体中潜伏的消极情绪。其中两位人士的影响力尤为显著：费城普罗维登特相互人寿保险公司（Provident Mutual Life Insurance Company）总裁M·阿尔伯特·林顿（M. Albert Linton），以及在20世纪30年代担任大都会人寿保险公司助理精算师并最终成为该公司首席精算师兼高级副总裁的莱因哈德·A·霍豪斯（Reinhard A. Hohaus）。林顿担任了该行业首个社会保障委员会的主席，霍豪斯紧随其后。
+
+业内较为进步且具有社会意识的成员之所以占据主导地位，是因为他们在专业知识和人员资源方面压倒性地超越了小型公司的高管，因为他们相信社会行动，且同样重要的是，正是他们收到了参与社会保障决策的官方邀请。他们是理所当然的吸纳目标。林顿在1934年曾担任经济保障委员会（Committee on Economic Security）的精算顾问，并且是前两届咨询委员会的成员。霍豪斯曾在1937-1939年咨询委员会作证，在后来的两届委员会中任职，并主持了1953年的“霍比游说团”（Hobby lobby）。但是，尽管他们处于保险业外围的进步边缘，他们并不完全属于共享社会保险项目所有权的内部核心圈子。利益和意见的分歧太深，无法通过形式化手段甚至个人友谊来弥合（例如这种友谊将善良务实的霍豪斯与同样善良务实的威尔伯·科恩联系在了一起）。霍豪斯在1965年对咨询委员会关于医疗保险的建议提出了异议，尽管在J·道格拉斯·布朗（J. Douglas Brown）的温和劝导下，他一再缓和异议的措辞。在他之前的林顿和马里恩·福尔瑟姆一起，对咨询委员会关于残疾保险范围的建议也持有异议。林顿极为关注该计划的长期成本；而霍豪斯虽然在财政上的保守倾向较弱，且不像林顿那样能代表整个行业，但他同样对此感到担忧。私营产业的背景、财政意识以及对主要扩张措施的异议，不可避免地将他们与官方及半官方圈子区分开来，尽管他们展现出了浓厚的兴趣且长期参与其中。在他们的活动领域内，官方机构与私营产业存在交集，但相互之间的磨合仍然是不尽人意的。面对保险业，咨询委员会作为吸纳媒介只能取得部分的成功。
+
+无论是关于社会保障还是其他任何议题，该行业都不愿在国家政治中扮演引人注目的角色。对于占据主导地位的东部派别而言尤其如此。正如1906年纽约州的阿姆斯特朗调查（Armstrong investigation）以及20世纪30年代末国会临时国家经济委员会（Temporary National Economic Committee）的调查所显示的那样，该行业庞大的规模和财富使其成为政府调查的诱人目标。以资产衡量，大都会人寿保险公司在1937年是全国最大的企业，尽管随后它让位于另一家保险公司——美国保德信人寿保险公司（Prudential Insurance Company of America）。1972年，这两家公司的资产都超过了它们最接近的竞争对手新泽西标准石油公司和通用汽车公司100多亿美元。对于这样的庞然大物来说，推行一条极度追求自利的路线将给公共关系带来巨大的风险；而与石油或乳制品等行业相比，保险公司高管们一直引以为豪的是，他们没有在国家层面的政治活动中砸下重金。14
+
+寻求或接受联邦政府的优待都有招致干涉的风险；因此，该行业抵制了艾森豪威尔政府关于健康“再保险”（reinsurance）的提案，该提案本意为补贴部分医疗保险业务。另一方面，攻击联邦政策可能招致监管上的反击。针对保险业对医疗保险（medicare）提案的反对，威尔伯·科恩警告说，该行业正面临着“在华盛顿赢下战役却输掉整场战争”的危险。他表示，业界反对医疗保险的后果将是联邦实施控制，以确保私营保险公司按照公共利益行事。15 鉴于这些风险，该行业总体上倾向于在国家政府事务中保持低调。值得注意的是，尽管这两个大型行业协会维持着规模不大的华盛顿办事处，但在1973年合并之前，它们都没有在华盛顿设立总部。大部分游说工作是由公司高管完成的，他们前往华盛顿与行业协会官员一起出席公开听证会，然后留下来与委员会成员进行非正式的私下交谈。该行业从未发起过像美国医学会（AMA）在反对健康保险时所组织的那种大规模公众运动。
+
+最后，就该行业确实卷入社会保障政治和决策的程度而言，其部分领导人有意识地选择了一条务实的、妥协主义（accommodationist）路线，他们相信这将保障其参与重要决策的渠道。这在大都会人寿的高管（主要是霍豪斯）身上表现得尤为明显。为了确保能够接触到决策，必须赢得国会和行政部门中作为项目“所有者”的官方圈子的接受和尊重。没有这种接受，就不会有沟通渠道；而没有沟通渠道，就不会有影响力——影响力本身就是有价值的，因为保险业高管与其他人一样，也会为能成为重大事件的参与者而感到兴奋；此外，即使是最具同情心的行业高管也认为，要限制这个不断扩张的项目，影响力是必不可少的。这种妥协立场的一个标志是，在20世纪60年代初，当另一家纽约巨头美国公平人寿保险协会（Equitable Life Assurance Society of the United States）的副总裁兼副精算师雷·彼得森（Ray Peterson）开始撰写有关社会保障的争议性文章时，霍豪斯作出了愤怒的反应。大都会人寿的高管们认为，彼得森的战斗姿态将危及该行业在国会的信誉。值得注意的是，在访问国会山时，大都会人寿的高管通常会将他们的案卷呈递给众议院筹款委员会（Ways and Means）的民主党主席威尔伯·米尔斯（Wilbur Mills），而不是该委员会的共和党成员——这再次表明了高管们对政治现实的妥协，这也是约束他们行为的一个根源。16
+
+不确定的利益得失、内部分歧、对卷入国家层面政治的厌恶，以及纯粹的实用主义等多种因素结合在一起，抑制了保险业的行动。为保险的提供者创造一个公共领域的竞争对手，引发了许多担忧和一些积极的抵抗，但并未引发那种能使该行业深层次卷入社会保障决策的、有组织且激进的政治回应。
+
+### 作为行动主义者的保守派：1939年修正案
+
+保守派的消极被动与官方的积极热忱相互交织，构成了社会保障决策的基本模式，但这一模式中也出现了一些引人关注的反常现象，其中1939年对《社会保障法》的修正案便是首例。威尔伯·科恩（Wilbur Cohen）在其他方面对保险业的负面角色持批评态度，但他在1960年承认，行业代表在二十多年前制定将福利扩展至老年受抚养人及遗属的修正案时发挥了关键作用。1 尽管保险业对项目扩张的抵制最终持续了数十年，但在最初阶段却被推迟了。这种在回顾时令社会保障官员如此欢迎的1939年反常的行动主义（activism）源自何处？答案可以从1939年相关议题的性质以及该行业参与的性质中找到。
+
+1939年的关键议题并非扩张与否的问题；或者说，即使涉及扩张，它也因其他问题而变得彻底模糊、混乱和复杂，以至于根本无法将扩张的反对者与支持者区分开来。保险业高管攻击了社会保险的一个特征——即计划积累巨额准备金（reserve）——其主要理由是这将诱发不合理的扩张。通过这一举动，他们为对原项目进行即刻的、扩张性的重构奠定了基础。项目高管们无论如何也从未支持过如此庞大的准备金——那是1935年财政部的杰作，而非他们的本意——因此在融资问题上接受了大量批评意见，并以一项旨在更快地花掉更多资金的修订方案作为回应。保守派的批评为自由派的成果铺平了道路，这只是社会保险政策模糊性与适应性的众多例证之一，在这种政策制定过程中，人们往往很难分清阵营，也很难判断谁是赢家。
+
+尽管如此，1939年的修正案不仅仅是保守派出于其他目的进行批评所导致的有违本意的结果（perverse outcome）。1939年项目扩展的最有力论据之一来自霍豪斯（Hohaus）。在1937年向咨询委员会作证时，以及后来在一篇期刊文章中，他为社会保险项目中强调“充足性”（adequacy）提出了有力的论证。该文章成为了美国社会保险文献中的经典之作，并被社会保障委员会用来指导其员工。霍豪斯写道，必须将社会保险项目建立在“广泛的社会概念而非以个人为中心的推理之上”，并规划了朝着这一方向迈进的后续步骤。这是一项来自私人领域的对公共政策制定的卓越贡献。18
+
+但这显然是个人层面的贡献，或者充其量是一家超大型领军企业的贡献。多年来，大都会人寿（the Met）一直对社会政策保持关注，并向英国和欧洲大陆派出了包括霍豪斯在内的考察团队。这项开创性的研究已被该公司的精算师们在一系列专著中发表，他们所积累的专业知识如今被应用于美国项目计划中的修订工作。19 霍豪斯是一名天主教徒，他在晚年回忆说，其工作灵感来源于教皇通谕（papal encyclicals），这一源头在空间和精神上都与美国人寿保险公会（American Life Convention）的会议记录相去甚远。回想起来，他并未将自己视为保险业的代表。
+
+林顿（Linton）是听取霍豪斯证词的咨询委员会成员，毫无疑问，他坐在那里是作为行业代表的。作为一位在美国人寿保险协会（LIAA）中十分活跃的公司总裁，他无法令人信服地否认这一角色。然而，他将这一角色与其他角色——一位深切关注公共利益的公民，以及一位将专业知识应用于公共政策重要议题的专业精算师——密不可分地结合在了一起。（即使是对政治对手或私人利益代表向来不怎么宽容的阿瑟·奥特迈耶（Arthur Altmeyer），在接受采访时也强调了林顿的高尚品格。20 林顿是一位贵格会教徒，与霍豪斯一样，也是一个虔诚的人。）林顿比任何人都更有力地阐述了保守派反对全额准备金融资（full reserve financing）的论点。尽管保险公司高管们认可了他的论点，共和党政客们也向其中注入了党派情绪，但其充满智慧的构想和表述均出自他之手。
+
+抛开他们的个人特征和活动不谈，证明霍豪斯和林顿在1939年并未代表行业立场的最具说服力的证据在于，当时尚未存在这样一个统一的行业立场。直到20世纪40年代，各行业协会才成立了社会保障委员会，并在林顿的指导下开始起草政策声明。因此，这两位人士在1939年的活动必须被解读为高度的个人行为。据推测，这与他们所理解的行业利益并不矛盾，但它同样不受这些利益的决定性影响。
+
+### 作为行动主义者的保守派：美国商会1953年的提案
+
+第二个保守派行动主义的案例，即美国商会（Chamber of Commerce）在1953年提出并于次年由众议员卡尔·T·柯蒂斯（Carl T. Curtis）提交国会的提案，具有大得多的分析价值。这既因为该提案不能轻易地被视为个人行为的产物，也因为它出现的时机本应使来自保守派的倡议拥有很高的成功几率。它由美国商会的经济研究部（Economic Research Department）发布，获得了其社会立法委员会（Committee on Social Legislation）的批准，并在公投中得到了各地会员的压倒性支持。这份已发表的提案——一份篇幅宏大、信息翔实且论证严密的杰作——被广泛传阅，并且其发布时机经过了战略性的考量，旨在向共和党政府喊话——这是自《社会保障法》通过近二十年来的第一届共和党政府。21
+
+美国商会提案提出的时机表明，保守派利益集团早期的消极被动部分是对充满敌意的政治环境的回应。这不能仅仅用纯粹的消极主义、内部矛盾心理或官方的吸纳（cooptation）来解释。只要民主党控制着国家政府，该项目的保守派批评者就会陷入一种可以理解的失败主义（defeatism）情绪中。当既有项目的拥护者垄断了公职时，提出替代方案似乎是毫无希望的。因此，在1949年，当一位独立的批评者——社会保障署前精算师W·鲁伦·威廉姆森（W. Rulon Williamson）——向众议院筹款委员会（Ways and Means Committee）提出一项截然不同的替代方案（包括涵盖所有老年人、独立于需求之外的统一福利以及现收现付制融资（pay-as-you-go financing））时，他得到了众议员柯蒂斯充满同情却又带着怀疑的回应：
+
+> 柯蒂斯先生：您在华盛顿住了多久了？
+> 威廉姆森先生：从1936年开始。
+> 柯蒂斯先生：您曾是社会保障委员会的成员吗？
+> 威廉姆森先生：我不是社会保障委员会的成员；我是他们的精算师。
+> 柯蒂斯先生：那么，我在此提请注意，您对政治必然有所了解。除非现任政府通过其财政部、预算局（Bureau of the Budget）和联邦安全署（Federal Security Administration）参与进来，并牵头向美国人民推销该方案，同时指出我们现有体制的谬误，否则像您提议的如此彻底的变革能够被颁布成法吗？
+> 威廉姆森先生：我认为您指出的这一点非常重要。22
+
+鉴于这种观点，只有等到一个共和党政府的上台，才能激发保守派对1934-1935年启动的一系列官方行动作出切实的反击。
+
+在1946年中期选举之后，民主党失去了对国会的控制权，共和党政府的“一部分”由此到来。社会保障的政治和决策确实在此时发生了变化。在共和党人的掌握下，立法权站到了行政部门扩张性冲动的对立面；国会短暂地成为了保守派抵抗的中心。众议院一个负责行政部门公关与宣传事务的子委员会对社会保障署（SSA）的研究与统计局（Bureau of Research and Statistics）进行了一次充满敌意的调查，此后众议院将该局的拨款削减了一半以上。23（该局当时是争取国家健康保险运动的神经中枢。）众议院拨款委员会在罕见地展示其对该项目行政管理权力的举动中，大幅削减了奥特迈耶专员（Commissioner Altmeyer）办公室的预算，并指示将其承担的许多职能要么上移至联邦安全署（FSA）署长办公室，要么下放至各下属局。24 最终，国会通过了两项独立的决议，缩小了社会保障的覆盖范围。其中一项将特定的报纸和杂志摊贩排除在覆盖范围之外，杜鲁门总统曾在1947年成功否决了该法案。另一项决议影响了更多的人，它推翻了美国国内税务局（Bureau of Internal Revenue）基于1947年最高法院裁决所作出的规定。该规定扩大了《社会保障法》对“雇员”（employee）的定义，从而将大约625,000名在此前被视为独立承包商的人寿保险代理人、挨家挨户推销的销售员以及在自己家中受雇的人员纳入了保障范围。这两项措施均在推翻杜鲁门否决权的情况下获得通过，并得到了多数民主党人以及共和党人的支持。25 随着对政府的控制权被民主党总统和共和党国会分别掌控，社会保障政策陷入了僵局。在那几年里，该项目没有发生任何重大变化。
+
+1953年入主华盛顿的共和党政府对社会保障并没有既定或非常充分了解的观点。如果把民主党人的竞选言论当真，那么该项目正面临着来自德怀特·艾森豪威尔（Dwight Eisenhower）的致命威胁；但如果相信艾森豪威尔的答复，该项目将得到改善和扩展。正如竞选声明的一贯特征，这一切的具体含义模糊不清。这位共和党候选人从未有机会研究过这个课题；同样，他任命为联邦安全署（该机构不久后即成为新的卫生、教育和福利部）负责人的德克萨斯州民主党人、前战时女子陆军军团（Women's Army Corps）主管，也同样缺乏相关研究。奥维塔·卡尔普·霍比（Oveta Culp Hobby）在这份工作上感到孤立无援。下属们认为，在她看似疏远甚至有时冷漠的举止掩盖下，是她的不自信。在早期的一次新闻发布会上，她拒绝就社会保障问题发表评论。她说，这是她面临的最复杂的课题。26 相比之下，政府之外对社会保障持批评态度的保守派却准备充分。无论他们最终失败的原因为何，肯定不是因为对该课题的无知，他们中的一些人已经在这个领域深耕多年。起草美国商会报告的华盛顿律师伦纳德·J·卡尔霍恩（Leonard J. Calhoun）曾参与了参议院起草原始《社会保障法》的大量幕僚工作，担任过社会保障委员会的助理总法律顾问，并在1945-1946年领导了众议院筹款委员会对社会保障的一项技术研究。除了卡尔霍恩之外，商会的社会立法委员会还包括林顿和霍豪斯。
+
+随着1950年修正案的出台，保守派对该项目的不满日益加剧，但这种不满未能得到充分表达。尽管许多批评意见来自个人，但缺乏组织上的支持来使这些批评成型并发挥效力。保守派感到他们已经将阵地让给了官僚系统中的支持者。27 因此，1950年法案一经通过，保守派阵营便立即提出了一系列新的研究提案。他们似乎在传达这样一个信息：下一轮的提案不能再轻易放弃。而且，下一轮提案的出现几乎是必然的，因为该项目尚未完全成型：残疾和健康保险尚未加入，且大部分劳动人口仍未被覆盖。
+
+美国商会（the chamber）的计划在各个方面都旨在揭示赡养老人的实际成本。根据该计划，社会保险项目将立即扩大范围以覆盖（“一揽子纳入”，blanket in）所有老年人，无论他们是否缴纳了工薪税；同时，联邦政府向各州发放的用于老年援助的补助金（grants-in-aid）将被终止。社会保险的支付将从所有现行工人的工薪税中筹集，税率设定应足够高以满足当前的资金需求，但不会产生准备金（reserve）。所有现行工人都将被纳入覆盖范围。社会保险将清楚地表现为一个由现行工人赡养当前退休人员的项目。美国商会认为，展示这样做的成本，将有助于控制这些成本。该提案指出，“危险且不断膨胀的社会保障洪流”将被重新引导，“以降低其决堤失控的风险。”
+
+艾森豪威尔总统的第一份国情咨文（State of the Union message）并未给社会保障的批评者带来任何鼓励。该咨文既未包含对该项目的根本性批评，也未呼吁对其进行根本性审查。另一方面，这位新总统所提议的内容——大幅扩大覆盖范围——与保守派的议程完全一致。在总统于2月初发表讲话后，美国商会试图提出的问题仍可被视为处于开放讨论状态。事实上，卫生、教育和福利部（Department of Health, Education, and Welfare）在1953年的大部分时间里，通过两个不同阶段、采用截然不同的审议程序对社会保障政策进行了研究，但在任何一个阶段，该部门都未表现出对新的政策路径的接受。
+
+霍比夫人（Mrs. Hobby）上任后不久召集的一个由外部顾问组成的特设小组本应审议商会的计划——她在新闻发布会上表示该小组将会这么做，并且她也告诉咨询小组本身他们应该这么做——但最终该小组并未这样做。相反，它很快发布了一份简短、技术性强且没有争议的关于扩大覆盖范围的报告，然后就解散了。28 这个小组被社会保障的内部人士贬称为“霍比游说团”（the Hobby lobby），因为它包含了美国商会社会保障委员会的三名成员；但它还包含了另外九名成员，其中包括美国劳工联合会（AFL）、产业工会联合会（CIO）以及有组织的社会工作专业机构的代表。阿瑟·奥特迈耶（Arthur Altmeyer）认为，霍比夫人最初打算成立一个规模更小、更不正式、由企业界主导的小组，后来仅仅是因为有组织的劳工团体提出抱怨才加入了其他成员。29 代表性的扩大缩小了潜在的讨论范围，并抑制了保守派的创新。扩大覆盖范围是在社会保障政策上相互竞争的各方唯一能够达成共识的措施。也许正是因为这个原因，这也是这些势力的代表（被组织在一个小型咨询小组中）唯一谈论的措施。保守派原本准备坚持要求对该项目进行彻底审查，他们的论点由卡尔霍恩（Calhoun）在一年多的时间里精心准备，但他们并没有在一个表面上为征求建议而设立的官方论坛上推进这一论点。这样做只会引发一场争斗，而这将使政府——“他们的”政府，自1932年以来的第一届政府——感到难堪。正如在民主党执政期间，有组织的劳工团体因不愿给他们的朋友制造麻烦而受到约束一样，保守派在这个看似有利却转瞬即逝的时刻也受到了约束。30
+
+尽管“霍比游说团”因在当下的根本性问题上无所作为而解散，但在夏末向总统递交其建议时，霍比夫人承诺该项目将继续接受研究。至少在形式上，商会报告提出的问题仍可被视为悬而未决。
+
+作为由利益集团代表组成的委员会的替代，艾森豪威尔政府对社会保障政策的第二阶段审议由一位以分析技能见长的个人来主持。罗斯韦尔·B·珀金斯（Roswell B. Perkins）是一位来自纽约的年轻律师，于1953年秋季加入卫生、教育和福利部（HEW）。正如他回忆自己的角色时所说：“我的任务是参与进来并对这件事情进行真正的分析，以便（部门官员）能够准备好他们的立场并做好准备……并且，作为其中的一部分，制定一个积极的项目——而不仅仅是形成一个消极的姿态，而是在完成研究之后，拿出一个积极的项目。”31
+
+珀金斯以律师般的方式展开工作。他在脑海中塞满了事实，准备了两本概述了各种选择和论据的笔记本，并向担任辅导专家的罗伯特·鲍尔（Robert Ball）和威尔伯·科恩（Wilbur Cohen）提出了他自认为是尖锐且带有怀疑色彩的问题。与大多数咨询小组成员不同，他作为一名通才，对社会保障可谓是一张白纸；而咨询小组成员的立场是由长期的经验和组织义务共同固定的。珀金斯能够像一位初次接触该课题的独立分析师那样，自由地开展工作。这似乎是一种能够对广泛的选择进行客观评估的决策方法。
+
+珀金斯的笔记本确实对广泛的选择进行了仔细审查，但同时明确承认，其中一些选择之所以被纳入，仅仅是为了完成分析工作。从一般税收（general revenues）中支付全民统一养老金，以及将支付对象限制在贫困人口，这两项政策都被归入了被禁止的类别。它们无法从正式的选择清单中被遗漏，但仅仅因为它们在根本上不同于老年保险，它们被作为不切实际的方案而遭到驳回。
+
+因为美国商会要求将所有老年人一揽子纳入的提议不那么标新立异，并且它具有任何扩大福利的提案所固有的政治吸引力，该提案得到了仔细的考量。商会的计划可以被解释为老年保险项目的实现，而不是一个根本上不同的替代方案。它将保留工薪税和与工资相关的福利（那些新纳入保障但没有工资记录的人将获得最低福利）。将所有老年人一揽子纳入，将实现该项目的迅速成熟，同时保持其基本原则完好无损。
+
+但真的会这样吗？这成了问题的核心。一揽子纳入的后果难以预料。缴费原则（contributory principle）本来就已经因1950年的立法（该立法使得获得福利资格变得非常容易）而承受了严重的压力，它将会承受进一步的压力——而且这种压力如此显而易见，以至于公众可能会完全不再信任缴费的理念。如果福利不再基于缴费，那么依赖工薪税的论点也将不复存在。如果出现引入一般税收的要求（推测是来自自由派阵营），那将很难抵挡。而且，如果引入了一般税收，可能会出现进一步的要求（推测是来自保守派阵营），即把福利限制在贫困人口范围内。通过这样的一条逻辑链条和立法变更，一揽子纳入可能会摧毁该项目。
+
+艾森豪威尔政府中的共和党人不愿意冒这个风险，其原因在政治和意识形态上都是模糊的。在共和党人的选择中，“自由派的”、“保守派的”以及实用主义的动机交织在一起，这种交织方式突显了该项目本身的政治模糊性。
+
+作为自由派的共和党人，卫生、教育和福利部的官员们与一般的自由派有着共同的信念，即缴费原则保护了受助人的骄傲和自尊。珀金斯如此回忆纳尔逊·洛克菲勒（Nelson Rockefeller）对社会保障的态度（正是洛克菲勒作为副部长，在准备该部的立法项目中发挥了主导作用）：
+
+> 洛克菲勒州长从他的整体世界观和导向来看……具有一种我称之为对社会抱有普遍同情心的观点以及处理人民问题的方法。……因此，他一直在寻找政府能够增进人民福祉的途径，他对社会保障体系有着根本上的好感。……他坚信人们应该为自己未来的退休保障缴费这一理念，他觉得该体系的哲学基础是稳固的，即让每个人都觉得在为自己的未来预留一定数额的资金，不管税收流动是否真的意味着这笔钱确确实实存进了他的账户。他喜欢该体系的基本哲学。32
+
+珀金斯晚年还回忆说，他在1953年受到了亚瑟·拉森（Arthur Larson）的影响。拉森是艾森豪威尔政府中一位领先的自由派成员，也是社会保障政策的学者，他于1954年成为劳工部副部长。（作为一所法学院的教授，他曾专攻工人赔偿金问题。）在珀金斯进行分析的大约同一时期，拉森为在纽约阿登别墅（Arden House）举行的一次会议撰写了一篇关于社会保障的论文。这篇文章本可能出自威尔伯·科恩或阿瑟·奥特迈耶之手，它对缴费原则的辩护是如此地有力且雄辩。珀金斯认为它很有说服力。33
+
+作为致力于个人自立以及有限、节约型政府的共和党人，艾森豪威尔政府官员也找到了支持缴费原则的保守派理由。曾写道缴费项目保护了个人骄傲和尊严的拉森，也写道它避免了向人们传授那种虚假且腐蚀人心的教训，即在这个世界上可以不劳而获。此外，它防止了公众转变为一个“单一的、庞大的、向政府索取现金的单一集团（monolithic lobby）”。拉森写道：“现在我们与这种命运之间唯一的屏障，就是一个被广泛理解的命题，即如果要提高福利，保费也必须提高。一旦这个屏障消失，很难看出还有什么能阻挡这股洪流。”34 特别是如果引入了一般税收，纪律肯定会崩溃。对个人而言，成本将变得不可见，而公众对增加福利的胃口将是无法满足的。35 一般税收融资的前景在共和党官员心中成为了反对一揽子纳入的重要考量。
+
+支持一揽子纳入的保守派论点——即它可以通过揭示该项目的真实成本来抑制其增长——对共和党官员而言，似乎不如保留缴费原则重要。他们认为公众对工薪税的支持正是依赖于这项原则。此外，即使实行了一揽子纳入，该项目的最终成本也无法预测，因为人口中老年人比例的增加将不可阻挡地推高成本。
+
+最后，作为公职人员，共和党人有坚持缴费原则的实用主义理由。他们将不得不承担任何变革带来的政治和行政成本。美国劳工联合会（AFL）强烈反对一揽子纳入，尽管如果一揽子纳入由一般税收提供资金，可能可以收买劳工的反对，但这不是共和党政府想要支付的代价。美国劳工联合会准备将共和党人偏离既定演进路径的任何举动，无论真实还是想象的，都描绘成对社会保障的攻击。艾森豪威尔总统的国情咨文在社会保障问题上实际上是非常无害的，但在美国劳工联合会看来，它似乎“充满了潜在的危险”。36
+
+如果推进商会的计划，将会挑起一场与有组织的劳工团体的喧闹斗争；而不推进该计划，则不会挑起与任何人的斗争。总的来说，保守派利益集团并没有为通过该计划而积极奔走。其原因可能在于该计划的模糊性，这种模糊性反映了该项目潜在的复杂性与模糊性。对于非专家来说，很难理解为什么一揽子纳入是一项保守派措施。各地商会的官员们不明白为什么他们应该团结起来支持一个更大、更昂贵的项目。商会工作人员将该提案提交会员公投的原因，正是因为他们没有信心能赢得该组织董事会的支持。37 艾森豪威尔政府内部的保守派对其也不感兴趣；珀金斯回忆不起内阁中最具影响力的保守派、财政部长乔治·M·汉弗莱（George M. Humphrey）在这个问题上曾说过什么，但他若是听到一揽子纳入可能会导致一般税收融资的建议，肯定会感到震惊。保险业也没有站出来支持商会。只有一位非常保守且具有政治意识的高管——一家总部位于内布拉斯加州的保险公司的总裁E·J·福克纳（E. J. Faulkner）——给各保险公司高管写信，敦促他们支持商会的提案。行业内的各协会无动于衷。事实证明，除了起草该计划并认为美国商会是一个表达批评意见的合适渠道的少数专家批评者之外，没有多少人支持商会的计划。
+
+在采纳商会计划面临的压力极小、一旦采纳又面临被有组织的劳工指控“破坏社会保障”的威胁，且对其长期优点存疑的情况下，艾森豪威尔政府最终选择了在既有框架内向前迈出几步。它建议扩大覆盖范围并提高福利。保守党的新政府对各种替代方案进行了详尽的调查，最终得出的建议却是“换汤不换药”（more of the same）。在没有共和党行政官员支持的情况下，社会保障的保守派批评者不得不依赖国会中共和党多数派的支持；但在这里，1953-1954年的事件证实了1947-1948年的教训：国会并不擅长独立提出倡议。
+
+在共和党的控制下，众议院筹款委员会于1953年初成立了一个子委员会，对社会保障进行批判性的质询。在设立该子委员会时，来自纽约上州的保守派主席丹尼尔·里德（Daniel Reed）避开了“修修补补”（patchwork），似乎在呼吁进行根本性的变革。该子委员会的主席是来自内布拉斯加州的卡尔·T·柯蒂斯（Carl T. Curtis），他曾在1949年的一份尖锐的少数派报告中全面谴责了这个不断演进的项目；参谋长是卡尔·T·施洛特贝克（Karl T. Schlotterbeck），他是布鲁金斯学会1950年出版的一本书的合著者，该书通过对社会保险融资的批判性分析，为保守派的批评提供了弹药。38
+
+柯蒂斯的听证会未能激发国会内外的保守派采取行动。说来奇怪，它们的设计初衷并非如此。施洛特贝克将听证会设想为一次纯粹的寻找事实的演习。因此，委员会面前没有任何立法提案，也没有来自美国商会或任何其他利益集团的证人。听证会的目的是揭露其与私人保险类似说法的神话色彩——这是基于一种乐观的假设，即如果公众得到的是纯粹的真相而不是官方的宣传，他们将支持对该项目进行根本性的变革。大量的时间被花在了探讨保险的语义学上，试图证明个人福利将在未来许多年内大幅超过其缴费，并证明与官方声明通常给人留下的印象相反，该项目的长期成本非常难以预测。39
+
+事实上，公众并没有因为得知他们将获得的福利远超其缴费而感到兴奋，国会中的共和党政客也没有。柯蒂斯甚至在自己的子委员会内部也缺乏党派支持；其中一名成员，来自田纳西州的霍华德·贝克（Howard Baker, Sr.），正在暗中配合有组织的劳工团体，为维护既定项目进行辩护。最终，柯蒂斯子委员会甚至未能发布一份报告。一份工作人员报告以及来自民主党成员的回应是仅有的成果。40 柯蒂斯在1954年基于商会的建议提出了一项改革法案，但它未能获得听证。人们的注意力转而集中在政府的法案上。
+
+当保守派利益集团对他们的目标犹豫不决、分歧不断且感到不确定时，社会保障署（SSA）和美国劳工联合会（AFL）中该体系的捍卫者们在他们短暂面临危险的时刻被激怒了，并在其确凿的教条（doctrinal certitude）中感到安全：“缴费型”（contributory）项目必须得到保留。他们并没有将保守派的提案视为一个不完善、有争议项目的理性且可辩论的替代方案。他们将其视为对他们信仰的攻击，以及对他们所有权（proprietorship）的威胁。特别是柯蒂斯的质询中的某些东西激起了他们的情绪。甚至在质询开始之前，他们就将柯蒂斯和施洛特贝克视为敌人——柯蒂斯是因为他1949年的少数派报告，而施洛特贝克是因为那本布鲁金斯学会的书。由于它挑战了官方的声明，这项质询被认为是对他们诚信的攻击；当主题具有如此大的争议性且充满价值导向、几乎无法以一种客观的态度去探讨时，这种对“事实”清教徒般的投入，一定让他们觉得是虚伪的、自以为是的和伪善的。柯蒂斯和施洛特贝克提出聘请即将卸任的、备受尊崇的社会保障署专员阿瑟·奥特迈耶作为“顾问”，并解释说他们想要“全部的事实”，并且他必定比任何人对这些事实都更有把握；但这并没有带来任何帮助。敌方对其项目的这种攻击，竟然以客观和无私的面貌呈现给公众，这是无法容忍的；该项目的所有者们以谴责和揭露作为回应，并将这些信息通过美国劳工联合会输送给华盛顿的媒体。本应是一场关于社会保障政策的严肃辩论，结果却退化为一场围绕宣传符号——包括象征性的人物（一方是奥特迈耶，另一方是柯蒂斯和施洛特贝克）和词汇（到底是不是“保险”？）——的争夺战。
+
+一旦这场战争打响，一旦这场斗争被视为一场有社会保障的“敌人”参与的敌对冲突，既定体系的捍卫者实际上就已经赢得了关于政策的真实而严肃的潜在较量；因为无论是艾森豪威尔政府中进步的共和党人，还是商界中更具进步色彩的成员，都不想参与像“攻击社会保障”这样充满风险且声名狼藉的事情。进步的共和党人过分关注展现出积极以及真正具备总统风范的形象，这影响了他们对待社会保障政策的态度。他们渴望控制自己的政党，并与国会中掌握权力的保守派成员（如柯蒂斯）保持距离的愿望也产生了同样的影响。该项目的拥护者们精明地利用了共和党内部的分歧。在艾森豪威尔发表国情咨文后，美国劳工联合会表示，总统展现出顺从国会多数意见的倾向，而不是行使其自身的积极领导权。具有讽刺意味的是，通过拒绝保守派的批评并在社会保障方面“行使他自身的领导权”，一位共和党总统错失了一个本可尝试性倡导创新的转瞬即逝的良机，认可了项目高管们的偏好，并强化了一个既定项目逐步扩大的模式。
+
+柯蒂斯众议员在1954年向众议院介绍美国商会的提案时说：“我们正面临着使该项目变得健全的最后一次好机会。”41 这个机会就在连一场公开辩论的尊严都未能获得的境况中溜走了。要在严肃、可辩论的问题上展开一场辩论，保守派需要团结、力量和动力，因为变革的重担在他们身上。现存项目捍卫者所面临的要求——恰恰因为他们是捍卫者——要小得多；而他们的资产——包括清晰的目标、行政部门内的战略地位，以及威胁进行压力集团反击的能力——足以赢得一场事后看来几乎并未真正交锋的斗争。
+
+保守派利益集团在政治上的矛盾心理与该项目在政治上的模糊性结合在一起，在很大程度上解释了为什么保守的压力集团未能更积极地反对社会保险的稳步扩张。面对自身利益的不确定、内部分歧的困扰、对表现出自私或在经常充满敌意的环境中承担高度政治参与风险的抵触，他们陷入了一种反复出现但范围有限的抵制模式。42 当随着艾森豪威尔政府的上台，这种模式被打破，保守派最终尝试提出倡议时，它在失败与混乱中悄然收场。该项目复杂且模糊的特征，使得定义或识别出一条“保守的”行动路线变得困难。一些保守派认为，缴费型项目的运作方式掩盖了（从而也增加了）成本；而共和党政府的官员们，同样从保守派的前提推导，但在项目高管的指导下，却同样被说服了，认为该项目的运作方式突显了（从而也控制了）成本。
+
+项目高管能够充分利用这些情况。保守派利益集团之间以及内部的意见分歧，使得项目高管能够从相对同情的商界代表那里获取建议并让他们参与决策；而该项目模糊的内容，则使他们能够向保守派听众（包括共和党政治官员）强调那些最有可能引起保守派支持的项目属性。对他们而言，保守派内部的矛盾心理和该项目本身的模糊性，为他们创造了周旋和选择的空间。
+
+引用
+1 Though it fits the pattern of resistance to be described here, the activity of the American Medical Association in opposition to health insurance was so much more  intense than other conservative activity as to constitute a special case. For that reason, and because it was special also in being largely confined to health insurance, it is  analyzed separately in chapter 16 on the adoption of medicare.
+2 Proceedings of the Thirtieth Annual Meeting of the American Life Convention(Chicago: ALC, 1935), p. 130.
+3 See the excerpt from Wilson's speech of January 6, 195o, "Economic Factors of Collective Bargaining," before the Chicago Executives Club, in Neil W. Chamber-lain, Sourcebook on Labor (McGraw-Hill, 1958), pp. 999--1002.
+4 Interview with Marion B. Folsom, Oral History Collection, Columbia University(1965-68), pp. 60-61, 76.
+5 Proceedings of the Forty-ninth Annual Meeting of the American Life Convention (Chicago: ALC, 1954), pp. 27-28.
+6 Social Security Legislation, Hearings before the House Committee on Ways and Means, 85 Cong. 2 sess. (GPO, 1958), pp. 604-05
+7 R. Carlyle Buley, The American Life Convention, 19o6-1952: A Study in the History of Life Insurance (Appleton-Century-Crofts, 1953), vol. 2, p. 794; Leroy A. Lincoln, "The Economic Security Legislation as Viewed by a Life Insurance Company," an address before the Annual Convention of the Managers of the Metropolitan Life Insurance Company, February 2, 1935; M. Albert Linton, "The Federal Old Age Security Program," in Proceedings of the Thirtieth Annual Meeting of the American Life Convention (Chicago: ALC, 1935), pp. 109-27.
+8 Standard & Poor's Industry Surveys: Insurance Basic Analysis (January 17, 1974), sec. 2.
+9 Stock companies are owned by shareholders who elect a board to direct the company's management and have an equity in the company's earnings, some portion of which may be distributed to them in the form of dividends. Managements of mutual companies are elected by their policyholders. Mutual companies typically
+issue only participating policies on which the holder is entitled to receive dividends. There are about nine times as many stock companies as mutuals, but the mutuals accounted in 1972 for about two-thirds of the industry's $240 billion in assets and slightly more than half of its insurance in force. The giant companies are overwhelmingly concentrated in the Northeast (New York, New Jersey, Connecticut, Massachusetts). (Ibid., p. 16.) For an analysis from the 1930s, see David Lynch, The Concentration of Economic Power (Columbia University Press, 1946), pp. 118-25, which is based on hearings of the Temporary National Economic Commit-tee between 1938 and 1941.
+10 Interview with Albert Pike, retired official of the American Life Insurance Association, October 4, 1976; Buley, The American Life Convention, vol. 1, intro., chaps. 4 and 5.
+11 Charles W. Campbell, "The Field Man Looks Ahead," Proceedings of the Forty-fifth Annual Meeting of the American Life Convention (Chicago: ALC, 195o) pp. 189-90, and W. T. Grant, "Why Are YOU Here?" Proceedings of the Forty-ninth Annual Meeting of the American Life Convention (Chicago: ALC, 1954), p. 228; author's interview with Robert M. Ball, February 2, 1976.
+12 Interview with Albert Pike, October 4, 1976.
+13 "Social Security," a statement by the Social Security Committee of the American Life Convention, Life Insurance Association of America, and the National Association of Life Underwriters, February 1945, as quoted in E. J. Faulkner, "Social Security and Insurance--Some Relationships in Perspective," Journal of Insurance, vol. 30 ( June 1963), p. 200.
+14 For a historical explanation of the insurance companies' political reticence, see Morton Keller, The Life Insurance Enterprise, 1885-1910: A Study in the Limits of Corporate Power (Harvard University Press, 1963), part 6 of which deals explicitly with the companies' "disengagement from power.'
+15 Wilbur J. Cohen, "The Challenge of Aging to Insurance," Journal of Insurance, vol. 27 (December 1960), pp. 16--17.
+16 Interview with Charles A. Siegfried, November 3, 1976.
+17 Wilbur J. Cohen, "The Challenge of Aging to Insurance," p. 16.
+18 Reinhard A. Hohaus, "Equity, Adequacy, and Related Factors in Old Age Security," The Record, American Institute of Actuaries, vol. 27, pt. 1 (June 1938) pp. 76-114.
+19 On the social consciousness of the Met, see Marquis James, The Metropolitan Life: A Study in Business Growth (Viking, 1947).
+20 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967), p. 64.
+2i. Chamber of Commerce of the United States, Improving Social Security(Washington, D.C.: the Chamber, 1953).
+22 Social Security Act Amendments of 1949, Hearings before the House Com-mittee on Ways and Means, 81 Cong. 1 sess. (GPO, 1949), pt. 2, p. 1502.
+23 Investigation of the Participation of Federal Officials in the Formation and Operation of Health Workshops, Hearings before the Subcommittee on Publicity and Propaganda of the House Committee on Expenditures in the Executive Departments, 80 Cong. 1 sess. (GPO, 1947).
+24 The Supplemental Federal Security Agency Appropriation Bill, Fiscal Year 1949, H. Rept. 1821, 80 Cong. 2 sess. (GPO, 1948).
+25 Congressional Quarterly Almanac, vol. 3 (1947), pp. 439, 588, and ibid., vol. 4 (1948), pp. 143-45; H. Rept. 1821, 80 Cong. 2 sess.
+26 New York Times, April 28, 1953.
+27 In 1950, in an endorsement of a proposal to create a study commission, Calhoun wrote despairingly of the dominance of the "official philosophy":
+Perhaps the most important single function of the Commission . : . would be the formulation and publication of a social security philosophy. : . . Quite prob-ably, the actual end result of such an effort would be the formulation, by factions of the Commission, of two or more social security philosophies. I cannot believe it likely that any clear-cut philosophy could be developed to which all members would subscribe. However, if opposing philosophies are announced and spelled out by factions of the Commission, this would be a striking advance over the present situation.
+Today we have only a kind of an unacknowledged official philosophy concerning individual and state obligations. This official philosophy is evidenced by official viewpoints of the Federal Security Agency, .。. and these viewpoints coincide, for most practical purposes, with the viewpoints officially expressed by labor leaders. Both have issued an enormous amount of propaganda to support their conclusions.
+While a strong protest has been voiced to some specific recommendations that have been predicated on this unadmitted official philosophy, those disapproving, by and large, have not presented arguments derived from any clear-cut common philosophy. (American Economic Security, vol. 3 [June-July 1950], p. 24 American Economic Security was a periodical published by the Chamber of Commerce for twelve years beginning in 1944. )
+28 New York Times, April 28, 1953, p. 30; American Economic Security, vol. 10 (March-April 1953), p. 4; Consultants on Social Security, "A Report to the Secretary of Health, Education, and Welfare on Extension of Old-Age and Survivors Insurance to Additional Groups of Current Workers" (HEW, 1953).
+29 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966), pp. 213-15.
+30 The general point is well illustrated by the recollections of a Metropolitan Life Insurance Company executive, Charles A. Siegfried, albeit he was referring to tax policy rather than social insurance:
+My first experience with advisory groups dates back to 1954 in the early days of the Eisenhower administration. Tax reform on a broad front seemed to be under consideration. The field of pensions and employee benefits and group insurance presented some apparent tax anomalies, and it was thought by some that it would be desirable to bring together a group of people who had a broad exposure to these questions to see what could be done to bring about an improved situation.
+- We had a number of sessions which were informative although I believe  the possibilities for change diminished the more we talked. . .
+Prior to 1954, wage continuation payments made by an employer to an employee were being subjected to federal income tax. : : . On the other hand, accident and health insurance benefits provided by an employer under a group policy were specifically tax-exempt. This seemed like an appropriate state of affairs to me, and I was deeply concerned when I realized that I was a member of a group that might be influential in changing this situation adversely to insurance. Some of my company colleagues shared my concern, and we undertook to report to our chief executive, LeRoy A. Lincoln. Mr. Lincoln listened to my story, and after I finished he remained quiet and thoughtful for what seemed a long time. Then he said, "Charlie, we've waited for a Republican administration for sixteen [sic] years. If giving up this advantage we have had is a price we must pay, I think we should not resist" it." (Transactions, Society of Actuaries, vol. 22 [1970], pt. 2, p. D503.)
+31 Interview with Roswell B. Perkins, Oral History Collection, Columbia University.(1968), p. 143.(Hereafter Perkins, OHC.)
+32 Ibid, p. 6.
+33 Interview with the author, November 2, 1976.
+34 Arthur Larson, "Social Insurance Legislation: The American Pattern," in American Assembly, Economic Security for Americans (the Assembly, 1954), p. 56. 
+35 HEW's internal analysis took the view that if the contributory principle were abandoned, the public would divide politically into a pressure group of the aged against a pressure group of taxpayers, and it questioned whether this was "as healthy to our democratic system as restraints on the individual (i.e., am I willing to pay now for higher benefits for myself in the future?)." (Memo, "Blanketing in Present Aged," November 30, 1953.) I am indebted to Roswell Perkins for a copy of this memorandum. Perkins judged that the Republican position owed something to the "coaching of Messrs. Ball and Cohen." Perkins, OHC, p. 13.
+36 New York Times, February 4, 1953.
+37 Interview with President William J. Baroody, American Enterprise Institute for Public Policy Research, November 8, 1976.
+38 Lewis Meriam and Karl Schlotterbeck, The Cost and Financing of Social Security (Brookings Institution, 1950).
+39 Analysis of the Social Security System, Hearings before a Subcommittee of the House Committee on Ways and Means, 83 Cong. 1 sess. (GPO, 1954), pts. 1-6.
+40 Social Security after 18 Years, A Staff Report to Hon. Carl T. Curtis, Chairman, Subcommittee on Social Security, and Statement of the Democratic Members of the Subcommittee on Social Security, House Committee on Ways and Means, 83 Cong. 2 sess. (GPO, 1954).
+41 Congressional Record ( January 6, 1954 ), p. 29.
+42 Readers are again reminded that the singularly intense opposition of the American Medical Association to medical insurance is treated separately in chapter 16
+
+## 第七章 专家型批评者
+
+社会保障项目主管的一大核心优势在于，他们精通该项目看似深奥的专业内容——简而言之，即他们的专业知识（expertise）。结合其作为行政部门官员的战略地位，这赋予了他们相对于大多数其他潜在决策参与者的巨大优势。
+
+然而，至少在理论上，这种最宝贵的资产并非坚不可摧。人们通常会预期，它会受到政府内部竞争专家的挑战，这些专家的专业职能与社会保障项目存在竞争或相互牵制。人们同样会预期，它会因那些在社会保障领域同样具备专家资格的人士之间的意见与信念分歧而遭到削弱。拥有专业知识并不等同于在政策上达成共识：不同的价值观、利益诉求或组织角色，会导致高度专业的人士之间产生不同的立场。在一个教育发达的社会中，单一组织或志同道合的群体很难维持对专业知识的垄断；而在一个自由社会中，压制关于政策的意见分歧也是不可能的。专家之间发生冲突的倾向，往往能为通才型官员（generalists）提供大量在竞争的专家之间进行选择的机会，从而在政策制定中贯彻其自身的价值观与偏好。
+
+尽管如此，社会保障项目的主管们在面对竞争专家的挑战时，表现出了惊人的抵御能力，并因此能够在社会保障政策的制定中维持一种近乎垄断的专业地位。这并非因为不存在专家型批评者，而是因为这些批评者通常缺乏一个能够借以获取决策参与权的组织基础。在联邦行政部门内部，社会保障项目一直没有遇到持续的组织性竞争对手；而来自经济学和精算学等私营专业领域的个人批评者，也始终局限于“个人”的身份——他们提出的批评，很容易被政府内部庞大的正式组织予以化解或搁置。
+
+对于联邦社会保障署（Social Security Administration, SSA）而言，潜在最棘手的批评源头实则来自其内部。该系统的内部精算师存在一种异议模式。社会保障委员会（Social Security Board, SSB）的首任精算师 W. 鲁伦·威廉姆森（W. Rulon Williamson）及其继任者罗伯特·J. 迈尔斯（Robert J. Myers），在离职时都成为了公开且严厉的批评者，其批评对象要么是他们曾经服务过的体系，要么是负责管理该体系的官员。然而，这两次异议行为之间存在着漫长的间隔，在此期间，迈尔斯作为杰出专业精算师的服务，对当前项目的构建做出了至关重要的贡献。项目主管们之所以能够转移或无视许多外部批评，原因之一在于，他们成功地将源自独立专业领域的“外部”专业知识整合到了自身组织内部。
+
+### **行政系统内部竞争对手的缺位**
+
+社会保障项目主管们并未受到行政部门内部同级别组织的挑战。没有其他机构与他们争夺势力范围，因此，他们无需卷入那种会为通才型官员的干预创造机会（即便不是迫使通才干预）的官僚内部政治斗争。
+
+如果“公共援助”（Public assistance）——这项作为社会保险具体替代方案的经济状况调查项目（means-tested program）——拥有独立于社会保障体系的官僚机构存在，其设立时间不同于1935年，且隶属于社会保障委员会及其继任机构以外的其他机构，那么这两者极有可能成为争夺总统、国会、政党和利益集团支持的竞争对手。在最初面临政策选择时，公共援助正是美国保守派所偏好的项目。然而，现实情况是，这两者由同一项立法创立，并由同一个组织负责管理。尽管分别由不同的局（bureaus）负责，但这几个局在事实上并非平级。公共援助局（Bureau of Public Assistance）负责的是一个不受欢迎的项目，至少在理论上，社会保障委员会意图让该项目逐渐消亡；而老年与遗属保险局（Bureau of Old Age and Survivors Insurance）则负责一个备受青睐的项目，人们期望其不断发展，直至（同样在理论上）实质性地取代前者。就联邦行政部门内部关于这两个竞争性项目相对规模和重要性的决策而言，它们均由联邦社会保障署做出，而该署坦率且毫无保留地偏向社会保险。当针对老年人的公共援助在20世纪30年代末和40年代出现增长时，联邦社会保障署的回应是：必须扩大并放宽社会保险，以确立其优越性。由于这两个项目之间的竞争在联邦行政部门内找不到组织层面的宣泄出口，这种竞争变得完全有利于社会保险：它为扩张性行动提供了正当理由。最终（在1963年），公共援助项目被从其母体联邦社会保障署中剥离，但那时社会保险项目已然稳固。
+
+另一个原本可能引发官僚冲突但实际并未发生的阵地是财政部（Department of the Treasury）。财政部并非联邦社会保障署的直接竞争对手——它并不负责管理社会福利项目——但它在社会保障融资方面却拥有着超越常规的利害关系。财政部是负责筹集岁入的行政部门，而由于社会保障的庞大体量，它对政府的岁入筹集能力提出了非同寻常的要求。认识到这一点后，财政部在非常早期的阶段便介入了社会保障的决策过程。1935年，该部的保守派官员主张建立一个自给自足的项目，这与经济保障委员会（Committee on Economic Security）主张最终引入一般财政收入的计划形成了鲜明对比。也许是在财政部官员的敦促下，罗斯福总统下令该项目应完全由工薪税提供资金，随后正是财政部长亨利·摩根索（Henry Morgenthau）向国会提交了政府修改后的财务计划。当《社会保障法》的1939年修正案待决时，摩根索再次作证，矛盾的是，他这次却转而支持长期的基于一般财政收入的融资方案，而此时罗斯福对此并未提出异议。[2] 此后，财政部开始忽视该项目，除了一些不可避免的行政机制介入，例如岁入征收、社会保障信托基金（social security trust fund）的会计核算以及发放福利支票。当1950年修正案待决时，财政部长并未赴国会作证，尽管这些修正案对政府未来财政状况的重要性丝毫不亚于1939年修正案或最初的立法。
+
+当然，行政机制通常蕴含着引发更重要事务的种子，如果财政部有意为之，它本可以通过这一途径介入社会保障政策。在项目非常早期的阶段，根据法律规定，财政部有责任对该项目的精算状况提交年度报告。如果这种安排持续下去，财政部可能会对社会保障委员会的估算程序乃至项目原则发起严重挑战。如果在财政部长支持下，财政部内部存在一个持反对态度的政府精算师办公室（Office of the Government Actuary），那将是非常棘手的；官僚冲突的种子确已埋下。[3] 或许是认识到了这一点，社会保障委员会的官员们在按月支付福利实际启动之前，于1939年促成了一项法律修订，从而削弱了财政部的责任。随后，社会保障信托基金得以成立，并被置于一个由财政部长、劳工部长和社会保障委员会主席组成的三人委员会管理之下。由这个委员会，而非财政部长单独一人，负责发布关于该基金财务状况的年度报告。随着责任在形式上被分散，这一职能自然落到了实际负责该项目的机构头上。财务报告由社会保障精算师办公室编制，并在财政部进行敷衍的审查。1949年由布鲁金斯学会（Brookings Institution）撰写的一份胡佛委员会（Hoover Commission）特别工作组报告，反击了缺乏独立精算估算的现状，并主张精算职能应被安置在财政部、预算局或人口普查局，但这并未引起任何回音。[4]
+
+官方的专业知识并不一定局限于行政部门；国会同样可能成为专家，其途径要么是雇佣专门的工作人员，要么是通过议员自身较长的任期、勤奋努力以及委员会的专业化分工。国会在社会保障领域发展了自身的专业知识，但这种专业知识并未被用来与联邦社会保障署相抗衡或对其进行批评。立法机构与行政机构在制度视角上的差异得到了成功的调和，国会的各专门委员会与联邦社会保障署共同享有对该项目的掌控权（shared proprietorship），双方在根本上都致力于该项目的发展。在国会内部，只有当持异议的委员会成员发起时，专家型的批评才会浮出水面，而这种情况非常罕见。[5] 由于国会各委员会与项目主管在根本上意见一致，他们认为没有必要建立自己的专家团队。众议院筹款委员会（House Committee on Ways and Means）和参议院财政委员会（Senate Committee on Finance）偶尔会在社会保障问题上获得一两名来自国会图书馆立法参考服务处（Legislative Reference Service of the Library of Congress）工作人员的帮助，抑或是依赖其自身小规模的通才型员工，但主要还是依赖联邦社会保障署提供信息和建议。实际上，联邦社会保障署的工作人员也充当了这些委员会的工作人员，从而消除了这一潜在的专家型批评源头。
+
+### **私营专业领域**
+
+对于那些未曾将职业生涯奉献给社会保障项目建设的人来说，没有任何人能够完全匹敌该项目主要主管们的专业知识。没有其他人能够同等程度地精通其中的法律、财务和行政细节。但在另一方面，想要对该项目及其潜在替代方案构建出逻辑严密的分析，这种程度的精通并非必不可少。具备经济学或精算学的培训背景，结合对该项目运作原则的研究以及一些唾手可得的事实数据，便足以奠定提出具有胜任力的批评的基础。[6]
+
+在《社会保障法》通过之时，汇聚了相关专业知识的两大职业领域早已确立。美国经济学会（American Economic Association）和美国精算学会（Actuarial Society of America）均成立于19世纪80年代末，两者创立时间相差不过四年，并且在随后的几十年里一直举办专业会议并出版学术期刊。专业精算师很快便对这项新项目表现出兴趣。公共保险与私人商业保险之间的类比，引发了该行业中较具探究精神和好学之士的极大兴趣，一些私人精算师参与了1934年至1935年间的项目规划。那些参与其中的精算师在离开时深信：1935年的计划要求建立庞大的储备基金，是一个构思拙劣的想法。在20世纪30年代末期，精算学界产出了一些关于社会保险的极其深刻的论文和讨论，其质量之高甚至受到了外国来访者的赞扬。然而，在项目建立期之后，批判性的讨论却鲜有发生。除了定期接收由在行业事务中极为活跃的联邦社会保障署精算师迈尔斯提交的关于社会保障立法的报告外，精算界的惯例大会总体上不再对该主题倾注太多关注。经济学家们在项目创立初期撰写了几本关于社会保险的通识性书籍，以及一些探讨金融问题的文章；但直到20世纪60年代末期，当该项目发展得足够成熟、足以对收入分配产生显著影响时，才开始涌现出大量的经济分析。[7]
+
+由于私营专业领域对社会保险的兴趣只是偶发性的，其对官方政策的影响力便无法持久。作为专业群体，私营专业领域并未将维持对该项目的定期审查视为己任。他们组织起来的目的并非是为了监督公共政策；他们（松散地）组织起来是为了交流知识并强化专业共同体意识。其成员是否会就社会保障问题相互交流，很大程度上取决于偶然因素。这取决于该领域中是否恰好有人最近决定从事该主题的相关研究。
+
+如果说专业批评在时间上是断断续续的，那么其在内容上同样是不一致的。那些不认同联邦社会保障署（Social Security Administration）的专家型批评者，彼此之间也无法达成共识。在他们之中，有像米尔顿·弗里德曼（Milton Friedman）这样的自由意志主义者（libertarians），他们主张政府不能合法地强迫人们为自己的老年生活做准备；[8] 有凯恩斯主义者（Keynesians），他们认为该项目的设计应能灵活响应财政政策的需求；还有保守主义者（conservatives）——在精算师中占主导地位，而在经济学家中较少见——他们认为项目的设计应以最大化成本控制为目标。
+
+由于这些批评者的价值观和政策目标排序各异，他们提出了截然不同的政策处方，但他们的批评中也存在着一条共同的主线。这是一条纯粹主义（purism）的主线。批评者们都是理性主义者（rationalists）。无论保守派还是自由派，他们都试图剥离该项目的宣传色彩，并纠正公众的错误认知。（精算师们的座右铭借用了拉斯金（Ruskin）的名言：“科学的工作就是用事实代替表象，用论证代替印象。”）作为理性主义者，他们同样坚持不懈地批评该项目目标的内在不一致性。他们总是以追问其目的为起点，且总是得出其目标混杂且相互冲突的结论。他们的本能是用一种内部一致的设计来取代这种混乱，并确保社会保障与联邦政府的预算编制及其他活动相协调。他们希望对事务采取综合全面的视角，以促进构成理性选择基础的比较工作。最后，他们习惯于抽象思考。他们以模型和平均数来思考问题，而社会保障项目（正如一般的政府项目那样）是在回应政治现实，因此包含着各种旨在迎合某些隐秘的人口子集或特定利益的异常特征，这些特征在一个纯粹理性的项目中是没有容身之地的。在许多情况下，这些异常情况是国会在特定议员的授意下引入的。
+
+所有这一切使得专家型批评者与项目主管们陷入对立，而项目主管作为任职官员，表现得高度务实。威尔伯·科恩（Wilbur Cohen）经常断然拒绝专家分析人士的批评性论点，有时甚至似乎反感分析过程本身，并嘲笑分析人士所持的那些不切实际的（因为过于抽象且脱离政治）公共政策观。他认为经济学家的错误在于忽视了心理学以及政治学。在与弗里德曼的一场辩论中（弗里德曼曾将该项目描述为“富有想象力的包装和麦迪逊大道广告营销的胜利”），科恩通过对经济学家群体进行讽刺性抨击来予以回应：
+
+> 至于他[弗里德曼]不赞同它[社会保障体系]这一事实——好吧，他不是国会，也不是美国人民。他只是一名经济学家。
+> 
+> 弗里德曼先生把许多他不喜欢的关于社会保障的内容称为修辞（rhetoric）。这就引出了我想强调的一点。我的观点是，经济学家并不决定这个国家中盛行的所有选择、选项和态度。人们的确是靠修辞生活的。
+> 
+> 我相信修辞，因为它能让许多在经济学家看来可能难以接受的事物变得易于接受。……
+> 
+> 诚然，如果你是一名经济学家，你大可以将所有的政治问题排除在你的思考之外。但这样做并不符合现实。
+
+那些揭露他们眼中所谓“社会保障神话”的经济分析人士逐渐发现，他们会遭遇项目主管们迅速而猛烈的回击，尤其当这些批评者是自由派，从而可能（与弗里德曼不同）被视为该系统的“天然盟友”时。此时，他们会被指控为异端，并使其感到自己正在危及整个系统。1976年为《华盛顿邮报》撰写批评文章《社会保障：最大的福利项目》（"Social Security: The Largest Welfare Program"）的经济学家乔迪·艾伦（Jodie Allen）这样描述她所遭遇的回应：
+
+> 我被社会保障体系的守护者们打来的电话和寄来的信件淹没了——你知道的，从威尔伯·科恩往下数——他们说：“天哪，乔迪，我们一直都很喜欢你，你怎么能说出这种话呢？” 我表现得非常礼貌，我说：“那么，这有什么问题吗；难道这不是真的吗？” 他们回答说：“哦，是的，这是真的，但你一旦开始谈论这种事情，你就不知道最终会演变成什么样了。” 然后我开始意识到，社会保障不仅仅是一个项目；它是一种宗教。想要改革一种宗教是非常困难的。[10]
+
+倘若社会保险中存在某些神话成分，科恩并不会感到太多困扰；他认识到，成功的社会频繁地利用神话。如果该项目的目标存在不一致，他同样泰然自若。在科恩看来，人性充满了不一致，因此人类在现实世界中的造物亦是如此。在他眼中，该项目的美妙之处正是在于它可以服务于多种目的；模棱两可赋予了它灵活性、适应性以及广泛的吸引力。从项目主管们的角度来看，自主性（autonomy）当然是完全值得追求的——而且也是恰当的。所有共享该项目掌控权的人，无论是通过行政部门、国会还是咨询委员会，都准备论证社会保障的独特性——它不是一个普通的政府项目，而是一种包含对缴费者和受益人不可侵犯之义务的信托（trust），它不应当被用来服务于外生目的（exogenous purposes），其中就包括宏观经济政策的目的。
+
+专家型批评构成的威胁程度，以及由此引发项目主管们采取何种行动，在很大程度上取决于该批评是否与政治权力来源相挂钩。纯粹的私人辩论是一回事；精算学会年会上发表的言论，只要仅仅是学术环境中的发言，就不会产生太大的影响。然而，该项目的专家型批评者——主要是经济学家——总有办法出现在公共或半公共职位上，在这些职位上，他们的批评更容易进入关于公共政策的实际讨论之中，从而制造出不受欢迎的逆流。因此，例如在1939年，位于财政部的凯恩斯主义经济学家希望罗斯福总统考虑一项老年养老金项目，该项目将通过一般财政收入提供统一费率（flat payments）的资金支持，使所有老年人立即受益。他们向参议院财政委员会的一名成员植入批评性问题，并试图说服不仅是总统，还有有组织的劳工群体来支持这一立场；在一段时间内，他们成功争取到了产业工会联合会（CIO）的支持。[11]
+
+近三十年后，在林登·B. 约翰逊（Lyndon B. Johnson）总统任期中段，对福利项目抱有专门兴趣的经济分析人士，突然在活跃且不断扩张的行政部门的多个节点如雨后春笋般涌现。在新建的经济机会局（Office of Economic Opportunity）；在同样新设立的卫生、教育及福利部（Department of Health, Education, and Welfare, HEW）负责项目协调的助理部长办公室；在总统经济顾问委员会（President's Council of Economic Advisers）；在各种白宫特别工作组；以及在约翰逊于1968年初任命的总统收入维持计划委员会（President's Commission on Income Maintenance Programs，即海涅曼委员会 Heineman commission）中，都能找到他们的身影。他们中的许多人对社会保障项目的不合理性，以及其作为减贫手段的低效性持批评态度，而减贫正是当时国内政策的首要修辞目标。他们中的一些人支持实行负所得税（negative income tax）——这是一项专门旨在缓解贫困的措施，其在逻辑上意味着对社会保障进行实质性的修订。[12]
+
+社会保障项目主管们不得不即兴应对此类批评，因为他们无法预知这些批评将从何处袭来。反击个体批评者的临时性（ad hoc）批评，与同常任官僚机构内部竞争部门展开持续较量是截然不同的。阿瑟·奥特迈耶（Arthur Altmeyer）以几种不同的方式回应了凯恩斯主义批评者的活动。他邀请他们到家中讨论分歧，但结果并不令人满意。“根本没有达成任何妥协，”他回忆道。他促使罗斯福总统重组了经济保障委员会，以借此确立对政府内部政策讨论的控制权，但他和在这场策略中作为其盟友的劳工部长，都从未认为有必要真正启动该委员会。在1940年联邦安全局（Federal Security Agency, FSA）局长保罗·V. 麦克纳特（Paul V. McNutt）——一位公认的总统候选人——准备在纽约发表演讲倡导普遍老年养老金时，奥特迈耶还成功促使白宫进行了紧急干预。当然，总统的支持是至关重要的。在与奥特迈耶的一次会面中，罗斯福拒绝了凯恩斯主义者的一项提议，称其为“注定会长大的婴儿版汤森计划（Townsend Plan）”。[13]
+
+当20世纪60年代末的分析性挑战出现时，威尔伯·科恩在卫生、教育及福利部（HEW）身居高位，最初担任副部长，随后在约翰逊政府的最后几个月里担任部长。在这一职位上，仅仅通过拒绝提供支持，他便削弱了大部分的批评。据说，对于一份来自HEW内部并递交到他手中的批评性研究，他直接将其扔进垃圾桶予以处理。作者们不得不在可能出版之前将其重新打字排版。当他要向海涅曼委员会提供证词时，他向社会保障专员（Social Security Commissioner）罗伯特·鲍尔（Robert Ball）征求证词，而拒绝了项目协调办公室经济分析人士的意见。当白宫就缓解贫困的新立法征求提案时，科恩的回应是增加社会保障福利。[1] 项目主管们向政治家承诺，他们将在特定时间（通常是选举前）向特定群体提供熟悉形式的福利——这种政治语言使他们对分析人士具备了巨大的优势，后者的倾向是用理想的、抽象的术语进行思考，而这在政治上是一个致命的弱点。
+
+当不在自己的主场时——也就是说，当争议焦点不是其项目的性质、目的或运作机制时——社会保障主管们在专家型批评者面前显得更为脆弱。尽管在20世纪60年代末，收入支持政策的理性化改革者（rationalizers）无法以牺牲社会保障为代价赢得任何胜利，但联邦预算的理性化改革者却做到了。他们促成了一项“统一预算”（unified budget）的采用，其中包含了信托基金的交易。在1969年之前，将社会保障支出从联邦政府的“行政预算”（administrative budget，这是在三个预算中最受国会和新闻界关注的预算）中剔除，有助于使该项目免受通才型官员的审查。预算理性化改革者希望，这种整合将使得由信托基金资助的项目（其中包括公路建设以及社会保障）更容易通过预算分析受到评估和控制。[15] 这种变化对于社会保障项目主管来说是不受欢迎的，但他们无法阻止。这一决定是由总统独自做出的，并未诉诸立法程序，这是对由他任命的一个财政专家占主导地位的委员会的建议所作出的回应。
+
+统一预算的采用，加之1965年后卫生、教育及福利部（HEW）项目规划与评估办公室（Office of Program Planning and Evaluation）的稳步发展，意味着到了20世纪70年代初（换言之，即本书所叙述历史的晚期阶段），行政部门内部的竞争性专家开始或多或少地定期监督社会保障项目主管的工作。在行政管理和预算局（Office of Management and Budget）内部，财政专家们开始对社会保障融资产生兴趣，并质问社会保障项目中的盈余或赤字将对整体预算产生何种影响。[1]（_译者注：原文此处注号为1，结合上下文推测应为16_）在HEW部长的办公室内部，经济学家们开始对精算师的假设提出质疑，并敦促联邦社会保障署（SSA）以开放的心态审视根本性的政策问题，而不是被社会保险的象征主义以及既定项目的习惯性常规所引导。然而，并非所有外部专家都是持批评态度的。社会保障项目在私营专业领域的专家中也不乏盟友。一些专业经济学家完全同情该项目，例如哈佛大学的萨姆纳·斯利希特（Sumner Slichter）和普林斯顿大学的J. 道格拉斯·布朗（J. Douglas Brown）。来自精算专业领域的则有大都会人寿（Metropolitan）的莱因哈德·霍豪斯（Reinhard Hohaus）。与批评专家的那种临时的、不可预测的对抗，通过与具有同情心的专家之间深思熟虑的、持续的合作得到了平衡。当然，受邀参与政策制定的正是这些具有同情心的人——是大都会人寿的霍豪斯，而非公平人寿（Equitable）言辞尖刻的雷·彼得森（Ray Peterson）；是布朗或斯利希特，而非弗里德曼。尽管许多批评者同样具备不容置疑的专业资格，但这些盟友却被一次又一次地任命到咨询委员会中。因此，从整体来看，项目主管与来自私营专业领域的专家之间的关系，混合了对抗与合作。
+
+### **作为内部人的局外人：精算师办公室的角色**
+
+即使在最具凝聚力的组织中，也难免会偶尔出现持异议者，联邦社会保障署（SSA）也不例外。前文已经描述过伦纳德·J. 卡尔霍恩（Leonard J. Calhoun）的案例，这位南方律师最初担任社会保障委员会（SSB）的助理总法律顾问，但后来加入了保守派的抵抗阵营，并为之带去了令人敬畏的专业知识和强大的分析头脑。还有一个奇怪且非常引人注目的案例是玛乔丽·谢伦（Marjorie Shearon），她是研究与统计局（Bureau of Research and Statistics）的一名成员，后来成为由SSB提出的健康保险立法的狂热反对者，并对该立法的主要起草人I. S. 福尔克（I. S. Falk）和威尔伯·科恩（Wilbur Cohen）进行了狂热的个人攻击。她曾撰写过一份经济简报，副总检察长（solicitor general）办公室在最高法院为老年保险项目的合宪性进行辩护时使用了这份简报。她坚信SSB的官员们不公正地剥夺了她在此项工作中的功劳，并恶意压制了其出版，这显然是她极端不满的根源所在。
+
+在这两个案例或随后的事件中，没有任何迹象表明这些异议不是纯粹个人化的——前者的异议植根于政治哲学，后者则显然源于情绪上的困扰。没有任何证据表明，这些异议起源于组织的要求与履行特定职业角色之间的紧张关系。总的来说，社会保障委员会中的律师并没有成为异见者，研究与统计局的成员也没有。
+
+然而，对于早期的第三位异见者——社会保障委员会首任精算师 W. 鲁伦·威廉姆森（W. Rulon Williamson）——情况却有所不同。这并非是因为威廉姆森对SSB的核心领导者怀有敌意，尽管他后来确实对作为一个群体的他们提出了严厉的批评。（与玛乔丽·谢伦指名道姓的做法不同，威廉姆森的谴责是非针对个人的。）这也并不仅仅是因为威廉姆森不同意该项目的原则，尽管他确实对此持有强烈的反对态度。真正的原因在于，在威廉姆森的案例中，他的组织义务与其职业良知之间存在着紧张关系。甚至在离开该组织之前，他就发现履行组织期望他完成的任务是非常困难的；即使在他离开并由一位风格截然不同的人继任之后，精算师办公室与组织其他部门之间的紧张关系依然反复出现，并最终在1970年导致了第二次异见性离职。这个系统，似乎有排斥其内部精算师的倾向。原因何在？
+
+对于该专业领域之外的人而言，精算师的工作显得颇为深奥。这是一个规模很小的职业。（美国精算学会仅有6600名会员，相比之下，美国经济学会的会员则高达17900名。）要进入该领域，主要要求具备数学方面的能力和受过相关训练。人们至少有理由认为，被吸引到这个职业中的人，在气质上可能不适合在大型正式组织中扮演决策或行政角色。人们或许会假设，精算师擅长抽象思考和处理数据，但不擅长权衡相互冲突的无形价值（即决策），也不擅长在组织环境中领导和激励他人（即行政）。当被问及对威廉姆森（Williamson）的印象时，早期社会保障委员会（SSB）的元老们回忆称他“古怪”（eccentric）。引发这种评价的是他的性格，而非他在社会保险上的异见。他是一个孤僻的人。他的娱乐方式是爬山。在那些对社会充满热情的社会保障委员会工作人员看来，他显得是个怪人。
+
+那种认为精算师通常难以融入大型正式组织的观点颇具吸引力，但很可能过于牵强。绝大多数精算师受雇于私人保险公司，其中许多人成为了公司高管，更有相当比例的人晋升为负责通才型职能的高级管理人员。例如，长期关注社会保险的行业领袖 M. 阿尔伯特·林顿（M. Albert Linton），正是一位成为其所在公司（普罗维登特互助人寿，Provident Mutual）首席执行官的精算师。（有趣的是，林顿也喜欢爬山，而且也许比威廉姆森更胜一筹的是他还喜欢观鸟，这同样不是一项群居性的运动。）无论他人如何看待，精算师倾向于将自己视为极为务实的人。莱因哈德·霍豪斯（Reinhard Hohaus）曾向一位采访者提及苏格兰人对精算师的一个经典定义：“他不是数学家；他不是统计学家；他是一个具有数学天赋的商人。换言之，从根本上说，他并不适应学术界。他也不适应在高等数学领域进行大量的理论研究。他主要身处于商业世界之中。”[17]
+
+因此，联邦社会保障署（SSA）的精算师与其所在组织之间的紧张关系，似乎不太可能代表专业精算师与大型正式组织总体关系的典型特征。更可能的情况是：这种紧张关系的根源在于精算专业与威廉姆森，以及后来的迈尔斯（Myers），从该专业中选择去服务的特定公共组织（或特定保险项目）之间的关系。
+
+专业精算师是风险与概率的计算者。他通过评估保险人未来的负债与用于履行这些负债的金融资产是否充足来进行测算。保险业务的偿付能力取决于此类估算的可靠性。由于很大程度上依赖于精算判断，精算师往往倾向于保守：他们倾向于成为谨慎的计算者。正如美国最具思想深度的精算师之一多兰斯·布朗森（Dorrance Bronson）曾评论的那样：“尽管我们的技术必须适用于各种目的和问题……但我们中的大多数人都是‘准备金派’（reservists）。如果等式无法平衡，如果（实际的或隐含的）承诺负债未得到准备金支持，或者缺乏构建这种保障的审慎结构，我们就会感到不安。有时我会思考，在通常的精算哲学下，是否所有这些（负债）都能得到保障。”[18]
+
+对于社会保障署，精算师不仅被期望完成在私人保险公司承担的职责。最初的《社会保障法》确立了精算职能，该法案规定，每年向政府“老年准备金账户”（Old-Age Reserve Account）拨款的金额，应“根据公认的精算原则，以准备金为基础，并基于财政部长不时采用的死亡率表来确定”。[19] 该法案还规定，需就该账户的“精算状况”发布年度报告。
+
+然而，被社会保障委员会聘请来履行这一职责的威廉姆森，很早便对在社会保险项目中履行该职责的恰当性与可行性产生了怀疑。此外，他得出结论认为，美国正在实际发展的项目，在一个谨慎的人看来是不可接受的。他发起了反抗。“任何人都不应假装，”威廉姆森在1938年写道，“保险业务中相对简单问题的先例……能够允许（我们）为今天的我们老年福利项目确定任何准确的成本。”[20] 他认为，社会保险计划本质上存在高度的不确定性，而假装情况并非如此不仅是错误的，更是危险的。
+
+到了20世纪40年代中期，威廉姆森也开始对发展中系统的异常现象（anomalies）提出强烈批评，其中包括受保人员与未受保人员之间的不平等，以及同等缴费带来的差异化福利。他主张采用一种截然不同且在短期内成本更高的方案：一项全面的国家项目，该项目将向所有老年人、丧偶母亲及其子女，以及长期残疾人士——即那些可以被推定为需要公共支持的人口群体——提供统一的月度福利。威廉姆森倾向于通过对所有有收入者征税来为这些福利提供资金。[21]
+
+这项建议使威廉姆森与掌管社会保障的罗斯福新政自由派（New Deal liberals）产生了严重分歧。这些自由派致力于建立一个基于缴费、与工资挂钩且逐步成熟的项目，其全部成本在未来许多年内都不会显现。由于受到保险类比的束缚，他们决心表现得仿佛未来的成本是可以被计算出来的一样。“任何保险计划，无论是私营还是公共的，都不应在非精算的基础上运作，”奥特迈耶（Altmeyer）在1949年向国会作证时表示，“这意味着受过训练的精算师对未来成本做出的最佳估算。”[22] 为了证明社会保险项目的“精算稳健性”（actuarial soundness），奥特迈耶需要一位愿意配合达成这一目标的精算师。与威廉姆森的分道扬镳已不可避免，尽管其实际的离职过程处理得极为谨慎，以至于从公开记录中无法判断他究竟是自愿辞职，还是奥特迈耶不得不将他解雇。
+
+毫无疑问谁将接替威廉姆森的位置。当时三十多岁的罗伯特·迈尔斯（Robert Myers）在社会保险领域受过全面而深入的训练。作为一个刚从爱荷华大学精算学专业毕业的年轻人，他曾在1934年为经济保障委员会（Committee on Economic Security）编制过老年保险的成本估算，随后留下来为社会保障委员会工作。迈尔斯承担了许多威廉姆森不感兴趣的技术性工作。一位精算师同僚多年后推测，如果威廉姆森喜欢精算工作中那些“繁琐的细节”（nitty-gritty），他当初就绝不会辞去旅行者保险公司（Travelers Insurance Company）的工作来到华盛顿。[23] 他的主要兴趣始终在于更宏大的问题，即社会保险的社会哲学；而正是这一兴趣使他失去了工作，因为他的哲学被证明与项目领导层的哲学大相径庭。
+
+迈尔斯确实喜欢这些繁琐的技术细节，并且他非常擅长。他娴熟的技术不仅让国会议员们眼花缭乱，也让其他精算师印象深刻。而且，尽管迈尔斯对宏大问题并非漠不关心，但他以一种务实的精神来对待它们。在接替威廉姆森后不久，他所撰写的备忘录显示，他赞同后者对社会保险项目的批评，并且倾向于一种与其替代方案几乎完全相同的方案，但与威廉姆森不同的是，他愿意妥协。“我不认为当前的‘老年与遗属保险’（OASI）系统是糟糕的，”迈尔斯在1948年写道，“但我认为一个普遍性的系统会好得多。”[24]
+
+或许正是这两种品质——技术专长与实用主义——使迈尔斯能够从容不迫地完成威廉姆森断然拒绝的任务。威廉姆森拒绝回应项目主管们希望为该项目或其提议的扩张提供单一成本估算的要求——即介于两个假设极端之间的“最可能”成本或“中间”成本。到了后期，他甚至拒绝将他各种成本计算冠以“估算”之名。迈尔斯则提供了这类估算——并带着一种自信的姿态和精确表达的方式，这似乎是对不确定性的彻底否定。精算师的公式被用来得出精确的数学答案。如果人们相信这些公式所依据的假设，人们就可以相信这些答案。相比于威廉姆森对假设的苦思冥想，迈尔斯得出答案的速度则快如闪电。
+
+迈尔斯的表现极大地提升了该项目在政府官员以及专业精算师中的可接受度：官员们喜欢在决策过程中消除不确定性，并喜欢他们的行动得到“精算稳健性”的背书；而精算师们则喜欢联邦社会保障署内部有他们自己的人。他们对迈尔斯的专业操守和能力给予高度评价，因为人们普遍认为他不受党派或组织压力的影响。在精算学会以及国会中，迈尔斯的估算均被视为中立专家的成果。鉴于迈尔斯在行政系统内部令人安心的存在、其工作的公认完整性，以及随着时间推移社会保障日益获得普遍认可，精算行业倾向于暂停对该项目的批评。
+
+但这并未完全消除批评。尽管迈尔斯作为沟通两者的桥梁发挥了缓和作用，该项目与精算行业之间的紧张关系依然存在。对于官方利用保险术语和精算程序来博取公众信任的做法，行业内始终残留着不满情绪。在1959年提交给精算师学会（Society of Actuaries）的一份尖锐的分析报告中，公平人寿保险公司（Equitable）的雷·彼得森（Ray Peterson）指责，官方关于系统具有“精算平衡”（actuarial balance）的保证，已经“麻醉”（anesthetized）了公众，并让威尔伯·科恩（Wilbur Cohen）等项目主管“沉醉”（intoxicated）。彼得森警告称，精算计算的可靠性和重要性并不像它们表面上看起来的那么高。这些计算无法衡量公众未来纳税的意愿或能力，无法评判代际之间的不公平，也无法评估一项强制性保险项目对社会和经济产生的广泛影响。这一指控并非针对迈尔斯的估算是错误或有偏见的，而是指出人们对这些估算的依赖过度了。彼得森暗示迈尔斯未能充分强调这些估算的局限性。[25]
+
+迈尔斯对专业同僚此类批评的回应极为务实。他承认他的长期成本估算存在高度的不确定性，但他辩称，有了这些估算，国会的行为比没有它们时更为审慎；而且，即便这些估算无法可靠地说明任何特定提案的成本，它们也有助于对各种替代方案进行比较。迈尔斯暗示，如果没有他的估算，政客们可能根本不会停下来考虑长期成本，而一名专业精算师又怎能赞同那种做法呢？[26] 对迈尔斯的这一回应，（批评者们）无法提出有力的反驳。他在该项目中扮演着一个自相矛盾的角色。他使得该项目显得保守。凭借其存在本身、其专业权威的份量，以及他对保守估算技术的运用，他确实发挥了一种约束性的影响力。然而，通过赋予政策制定一种财政上公正严明的表象，他也帮助确保了该项目的被接受度，而许多财政保守主义者始终认为该项目在根本上是错误的——往好了说是明智不足，往坏了说是具有误导性的不道德之举。这些保守派认为，真正限制成本的唯一途径，是通过将所有老年人及其他受益群体纳入其中，从而立即向纳税公众揭示其全部成本。在他们看来，一位专业精算师的计算或许能提供一种克制的表象，但这仅仅是“麻醉剂”（anesthetic）——它麻痹了人们的头脑。真正的克制只能通过政治来实现，那就是当纳税人开始感受到这个逐步成熟的项目所带来的全部重担之时。
+
+1970年春，迈尔斯辞去了联邦社会保障署（SSA）的职务。时任局长鲍尔（Ball）在赞扬其技术能力的同时，向新闻界解释称，迈尔斯不再愿意担任一名技术性的、客观的公务员，而是希望成为一名政策代言人。在写给卫生、教育及福利部（HEW）部长罗伯特·H. 芬奇（Robert H. Finch）的辞职信中，迈尔斯谴责了SSA高层官员的“扩张主义”（expansionist）政策，称他们企图让社会保障取代私人养老金计划，并警告说这些人对共和党政府是不忠诚的。[27]
+
+迈尔斯始终是一个潜在的异见者。甚至早在1948年初他接替威廉姆森时，他就在私下批评SSA的上司们不愿考虑政策选择。他写道：“不幸的是，我想我们可以说，社会保障署内部几乎所有的思想……都倾向于认为当前的系统不仅是可能存在的最好系统，而且是唯一可能的系统。很少有人考虑各种替代方案，比如梅里亚姆（Meriam）的救济方法、汤森（Townsend）的慷慨方案，或者威廉姆森先生的社会预算基础，顺便说一句，我极其赞同后者。”[28] 他已与该项目达成了妥协；尽管他不认为那是最佳的政策选择，但这毕竟是国会做出的选择，因此他接受了它——甚至将自己的职业生涯投入其中。然而，即使在政府部门任职期间，他也在精算师同僚中保持了专业地位，并且他对保险业及广大财政保守主义者对该项目的担忧保持敏感（在某种程度上也感同身受）。他与国会保持着独立的关系，并且至少在共和党执政期间，他在HEW内部与政治任命官员也培养了独立的关系。“鲍勃·迈尔斯（Bob Myers）总是在我耳边低语，”一位此类官员回忆道。在迈尔斯充满反对意见的视野中，有太多值得低语的事情：他确信SSA内部的其他人对共和党政府是不忠诚的。
+
+迈尔斯的异见之所以公开化，究竟是因为如鲍尔所暗示的那样他本人发生了转变，还是因为正如迈尔斯在公开演讲中所言，“扩张主义者”正带着该项目走向失控，这是一个难以定论的问题。迈尔斯确实在1969年放弃了他的技术员角色，转而寻求被任命为社会保障专员，或者至少是试图将鲍尔免职。然而，如果不是1965年医疗保险（medicare）的颁布以及随后SSA对大幅扩张的现金福利项目的追求对其务实精神构成了严峻考验，他不太可能会采取这些行动。他曾能够像保守派利益集团那样，接受一个为老年人提供“保护底线”（floor of protection）并随生活成本上升而提高的现金福利项目。但是，当在医疗保险之上，SSA领导层开始推动一个规模更为庞大的现金福利项目——一个他认为最终会取代私人保险和养老金计划的项目时，迈尔斯开始公开抗议这种对私营部门的威胁。[29] 因此，他的辞职可以被解释为一名保守派对SSA领导层发起的政策变革所作出的回应，而非个人野心膨胀的产物。
+
+1968年总统选举后联邦行政部门政党控制权的更迭，有助于解释迈尔斯的倒戈，并提升了其重要性。在共和党上台后不久，他便开始发表批评社会保障政策的演讲；显然，他相信，在SSA高层两种相互竞争的政策观点之间，共和党政府会支持他的一方：它会支持保守派异见者，而不是现任的自由派局长鲍尔。他错了；当尼克松政府拒绝免去鲍尔职务时，迈尔斯除了辞职别无选择。他致HEW部长的辞职信值得大段引用，因为它涉及到了项目主管（program executives）与政治主管（political executives）之间关系这一至关重要的问题。
+
+> 我此前已与您谈论过我强烈的个人信念，并向您提供了大量佐证以支持我的观点——即社会保障署的某些最高决策官员（他们是约翰逊政府的留任者）坚信公共部门有必要——甚至必须——接管针对全体人口的几乎所有经济保障供给，从而消除该领域的私人努力。在我看来，这种观点与尼克松政府的理念是格格不入的。
+> 
+> 此外，同样重要的是，正如我过去曾多次向您表达的那样，我深信这些社会保障署的官员没有——并且也不会——忠诚而积极地为尼克松政府服务。相反，他们将倾尽全力，通过援助和支持任何持有这种扩张主义信念的个人和组织，尽可能地扩张社会保障项目。这种不合时宜的行动在艾森豪威尔政府时期就曾广泛发生过——且违背了当时的政治观点。这种与尼克松政府目标背道而驰的运作在过去一年中已经发生，目前仍在继续，尽管迄今为止其范围还有所限制。……
+> 
+> 显然，人们对于我个人向您所述的内容，或者我在这个问题上向您提供的其他证据并不予以采信，而此事对社会保障项目的未来有着极为重要的影响。因此，出于良知和个人诚信，我必须辞职。不得不采取这一行动令我感到尤为沮丧，因为我本希望不仅能以能力和诚信为尼克松政府服务——正如我试图服务于历届政府那样——而且能以极大的热情为其服务，因为我坚信其哲学与目标。[30]
+
+迈尔斯的异议，正如威廉姆森的异议一样，随着异见者离开SSA而告终。SSA内部高层专家之间的政策分歧，并没有让辩论在组织内部持续存活，也没有为来自外部的通才型官员频繁干预打开机会之门。考虑到威廉姆森的异议发生在民主党执政期间，且这位持异议的专家在组织外部并未获得多少支持，其异议以此种方式收场并不令人惊讶。威廉姆森并不知名。另一方面，迈尔斯则是联邦公务员高层的重要人物，备受国会及其专业同僚的钦佩，曾因卓越的专业服务屡获殊荣——并且有充分的理由认为现任政府赞同他的政策观点。然而，他的异议却未能生效，这要令人费解得多，也意义深远得多。
+
+在分析层面，将迈尔斯的异议与1952-1953年间美国商会（Chamber of Commerce）的政策提案进行比较，要比将其与前任的离职进行比较更合乎逻辑。两者都发生在共和党接管行政部门之际，并且两者尽管方式迥异，都向新上任的共和党人提出了供其考虑的保守派替代方案。两者的结局也如出一辙——替代方案被拒绝。正如艾森豪威尔政府拒绝了商会计划一样，尼克松政府拒绝了迈尔斯并留任了鲍尔。
+
+总体而言，这两个事件有着相同的解释。与1953年一样，新的共和党政府不愿承担变革的成本，并对变革的必要性感到矛盾。虽然确实有总统班底成员想要罢免鲍尔，但卫生、教育及福利部（HEW）的高层共和党人，特别是副部长约翰·G. 维尼曼（John G. Veneman），坚持要留用他。维尼曼后来表示，如果免去鲍尔职务，“那将向外界释放一个信号，即尼克松政府将政治置于能力之上——而新闻界绝对会这么写。”[31] 预算局（Bureau of the Budget）的高层共和党人也认为鲍尔应该留下。负责人力资源项目的助理局长理查德·P. 内森（Richard P. Nathan）向局长罗伯特·P. 梅奥（Robert P. Mayo）建议，尽管有来自私营部门的抱怨称鲍尔是一个“扩张主义者”，但他仍应留任。内森认为鲍尔是“一个公平的……参与者——一个稳健的击球手，而不是一个‘扩张主义者’……一个出色且易于共事的人。”[32] 鲍尔在社会保障署及更广泛的首都圈内备受推崇，将其免职势必会引发强烈的批评声浪。与此同时，领导HEW的自由派共和党人并不太担心留用他所固有的政策风险。“他们想要扩大社会保障，”一位大失所望的私营保险业高管得出如此结论，他也是敦促芬奇部长替换鲍尔的群体中的一员。[33]
+
+与1953年一样，身处私营组织中的保守派批评者（迈尔斯将加入他们的异议阵营）与新一届政府之间存在着巨大的态度分歧；这届政府名义上是保守的，但实际上混合了不同的意识形态，并将所有意识形态与实用主义交织在一起。尼克松政府，如同艾森豪威尔政府一样，需要一个立法计划；也同样如艾森豪威尔政府一样，它提出了一项与项目主管的目标高度一致的社会保障方案。除了将福利增加与生活成本上涨自动挂钩（这一想法是由国会中的保守派共和党人提出的）之外，政府还提议放宽对残疾人和鳏寡人员的福利限制。
+
+1969-1970年间，摆在共和党人面前的选择的形式，使得他们可以否认政策赌注的存在。鲍尔对新闻界表示，他与迈尔斯之间不存在重大的哲学分歧。据维尼曼称，核心问题在于迈尔斯的不服从。华盛顿的政治圈习惯将问题个人化并专注于职位的分配，他们将迈尔斯的异议视为试图谋取鲍尔职位的企图。在这种解读下，他的辞职便毫无意义。这仅仅成为一个人在围绕社会保障专员职位的狭隘竞争中的落败。可以设想，如果在1969年除了迈尔斯之外，还有更具说服力的候选人，尼克松政府或许会替换掉鲍尔；但即使是迈尔斯技术专长最热烈的仰慕者，也对他作为行政管理者的适合度表示怀疑。那些呼吁政府罢免鲍尔的私人保险公司高管们，也提不出任何人选来接替他。然而，即使迈尔斯的候选资格在实质上很弱，他的政策异议也未必就是无效的。它确实提供了一个选择：即使不任命迈尔斯本人，政府本可以寻找一位具有保守派气质的能人，而不是继续让一位整个职业生涯都在致力于项目扩张、且在民主党手下担任了六年局长的社会保障主管继续任职。一位专家的异议创造了变革的契机，但缺乏利用这一契机的政治意愿。[34] 离开公职后，威廉姆森和迈尔斯都在继续表达他们的异议，但两人风格上的差异影响了听众的接受度。两人都曾在美国国会的委员会前作证，委员会无法理解威廉姆森含糊且冗长的证词，但对迈尔斯标志性的直接而清晰的陈述表示欢迎。两人也都在行业事务中保持活跃，威廉姆森像先知耶利米（jeremiah）一样对社会保障猛烈抨击，而迈尔斯则荣获了精算师学会主席的荣誉。迈尔斯（而非威廉姆森）被美国人寿保险协会（American Life Insurance Association）和全国制造商协会（National Association of Manufacturers）等行业协会聘为顾问和国会证人。然而，由于失去了官职，即便是迈尔斯也无法对事件的进程保持持续的影响力。1972年，官方精算技术发生了他极力反对的变革，使得他希望阻止的福利大幅增加成为可能（见第17章）。国会也未表现出要在总体上讨论其辞职所引发问题的意愿，即如何划定社会保障与私人收入保护措施之间的界限。毫无疑问，他的辞职是社会保障决策历史上的一个重要事件，但并非一个戏剧性的事件。它对公共或政治话语几乎没有产生影响，也几乎没有引起新闻界的注意。[35]
+
+在社会保障的政策制定过程中，专家型批评者并未发挥重要作用；而专家批评即使存在于社会保障署内部，也未能迫使人们去考虑首选项目的主要替代方案。项目主管之所以能够拒绝这类批评，是因为这种批评是偶发的、不一致的，且通常缺乏组织基础；也是因为项目主管对行政职位的掌控使他们能够影响流向政治主管的信息流，并能够在外部专家中挑选最“同情”该项目的人作为政策制定的参与者。
+
+与此同时，通过SSA的精算师办公室整合“外部”专业知识，对政策制定的共识模式（consensual mode）起到了至关重要的作用。它平息了来自精算行业和保险业的批评。它也获得了国会议员以及其他关注此事的个体（如咨询委员会成员）的支持，这些人对专家关于“精算平衡”的保证印象深刻，或至少表现得像是印象深刻。
+
+引用
+1 In the field of unemployment insurance, in contrast to old age insurance, bureaucratic competition did exist. In a reorganization plan in 1949, President Tru-man transferred the administration of the unemployment insurance program from the Social Security Administration to the Department of Labor. Commissioner Altmeyer was deeply distressed. See Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966), pp. 175-78.
+2 Morgenthau's position probably changed because in the interim conservative interests expressed vigorous opposition to the original financing plan, under which a large reserve fund would have been created. Liberals and conservatives came together between 1935 and 1939 in opposing this plan, thus laying the basis for the 1939 amendments (see chapter 11). Within the Treasury Department in the 1930s,l the social security program had critics from the right and the left. According to Edwin Witte: "There were two groups among the Treasury Department officials neither of whom cared very much for the social security program: one a group of conservatives, who were anxious to keep down expenditures and to avoid alarming business; the other a group of radicals who felt that the measures proposed by the[Committee on Economic Security] had little value." The Development of the Social Security Act (University of Wisconsin Press, 1963), pp. 72-73.
+3 For example, see the comments by R. R. Reagh, the government actuary, Department of the Treasury, on Robert J. Myers's paper, "Cost Estimates for the Old Age Insurance System of the Social Security Act," in The Record, American Institute of Actuaries, vol. 28 (1939), pp. 337-43, and the testimony, of W. Rulon Williamson in Social Security Act Amendments of 1949, Hearings before the House Committee on Ways and Means, 81 Cong. 1 sess. (GPO, 1949), pt. 2, p. 1485, in which Williamson urges the committee to consult government actuaries outside the Social Security Administration.
+4 Task Force Report on Public Welfare [Appendix P], prepared for the Com-mission on Organization of the Executive Branch of the Government by the Brookings Institution (GPO, 1949), pp. 490-91.
+5 The outstanding example is Representative Carl T. Curtis's minority report in Social Security Act Amendments of 1949, H. Rept. 1300, 81 Cong. 1 sess. (GPO, 1949,pp.173-84
+6 Nor was it absolutely essential to be an economist or an actuary, as the work  of Leonard Calhoun, a lawyer who developed the Chamber of Commerce proposal, showed. SSA officials would argue that the advisory councils provided Congress with a source of independent expertise, but the advisory councils were never critical, for the reasons explored in chapter 4.
+7 Sherwin Rosen dates the start of "fundamental economic analysis" of social security from the appearance of Paul Samuelson's article, "An Exact Consumption-Loan Model of Interest with or without the Social Contrivance of Money," Journal of Political Economy, vol. 66 (December 1958), pp. 467-82. (Sherwin Rosen, "Social Security and the Economy," in Michael J. Boskin, ed., The Crisis in Social Security: Problems and Prospects [Institute for Contemporary Studies, 1977], pp 87-1o6.) I know of no comprehensive bibliography of the economic literature on social security, but for an introduction, see Joseph A. Pechman, Henry J. Aaron, and Michael K. Taussig, Social Security: Perspectives for Reform (Brookings Institution, 1968), pp. 328-40, and the citations in The Crisis in Social Security. For a long time the most prolific academic writer on social security was a social economist, Eveline M. Burns, who taught at Columbia University for more than thirty-five years, the last twenty-one of them (194667) at the School of Social Work. Burns wrote several books on social security, including Toward Social Security: An Ex-planation of the Social Security Act and a Survey of the Larger Issues (London: Whittlesey House; New York: McGraw-Hill, 1936); The American Social Security System (Houghton-Mifflin, 1949); and Social Security and Public Policy (McGraw-Hill, 1956). Among her many articles, two are particularly significant for their analysis of the principles of the American social insurance program: "Social Insurance in Evolution," American Economic Review, Supplement, vol. 34 (March 1944), Pp. 199-211, and "Social Security in Evolution--Toward What?" Social Service Review, vol. 39 ( June 1965), pp. 129-40. A complete list of Eveline Burns's publications through 1968 is contained in Shirley Jenkins, ed., Social Security in International Perspective: Essays in Honor of Eveline M. Burns (Columbia University Press, 1969), pp. 229-41.
+8 .Milton Friedman, Capitalism and Freedom (University of Chicago Press, 1962), pp. 18289.
+9 Wilbur J. Cohen and Milton Friedman, Social Security: Universal or Selective?(Washington, D.C.: American Enterprise Institute for Public Policy Research, 1972 ), pp. 26, 69, 54-55.
+10: "Opting Out of Social Security--Is It Smart and Is It Fiar?," SSA, Office of Management and Administration, OHR/DPTO Pub. No. 134 (5-77), p. 13.
+11 Altmeyer, The Formative Years of Social Security, pp. 107-o8; interview with Murray W. Latimer, September 16, 1977.
+12 Daniel P. Moynihan, The Politics of a Guaranteed Income: The Nixon Ad-ministration and the Family Assistance Plan (Random House, 1973), Pp. 124-36; Vincent J. and Vee Burke, Nixon's Good Deed (Columbia University Press, 1974), Pp. 14-39.
+13 Altmeyer, The Formative Years of Social Security, pp. 107-08, 114-15, 122-23. The Townsend plan originated with Dr. Francis E. Townsend in 1934. It was a widely popular proposal to give monthly income grants of about $200 to all citizens sixty years old or older. For a full discussion, see chapter 8.
+14 Nixon's Good Deed, pp. 15--16, 36-39.
+15 Report of the President's Commission on Budget Concepts (GPO, 1967) pp.2627
+16 Eventually, this led to proposals for reducing certain elements of the pro-gram, principally student benefits. Social security benefits paid on account of a dependent child normally end on the child's eighteenth birthday, but if the child  is unmarried and a full-time student they continue until age twenty-two. This feature was enacted in 1965. In the 1976-77 school year, it accounted for $1.2 billion in social security expenditures and benefited over 700,ooo students, the dependents of dead, disabled, or retired workers. Because other federal programs have since developed to aid college students and are better designed to do so in an equitable fashion, budget analysts have begun to suggest that student benefits under social security should be cut. The fiscal 1978 budget of the Ford administration proposed that they be eliminated, and the Carter administration proposed that they be limited to the amount payable under the basic educational opportunity grant program for students ($1,400 in fiscal 1978). Such proposals show why program executives want to keep social security out of the unified budget. The unified budget, Ball recently wrote, "is leading to confusion about just how separate from other government programs social security really is. Recommendations to change social security benefit provisions in ways that are completely unacceptable in terms of social security policy are often made by the Executive Branch solely to conform to short-term budget policy." The conceptual issue is fundamental. Outside of the social security proprietorship, other official's persist in supposing that social security should be analyzed and managed as if it were a government program like any other, whereas social security officials insist that it is unique and inviolable. See Robert M. Ball Social Security: Today and Tomorrow (Columbia University Press, 1978), p. 459. For analyses of social security student benefits, see Congressional Budget Office Social Security Benefits for Students (GPO, May 1977), and Chester E. Finn, Jr. Scholars, Dollars, and Bureaucrats (Brookings Institution, 1978), pp. 73-74.
+17 Interview with Reinhard A. Hohaus, Oral History Collection, Columbia University (1965), p. 89.
+18 Dorrance C. Bronson, "Pensions--1949," in Society of Actuaries, Transactions, vol. I (1949), p. 239. 
+19 49 Stat. 622.
+20 W. R. Williamson, "Cost Factors in Old-Age Insurance," Social Security Bulletin, vol. 1 (July 1938), p.15.
+21 American Institute of Actuaries, The Record, vol. 34 (1945), pp. 336-38; Social Security Act Amendments of 1949, Hearings before the House Committee on Ways and Means (GPO, 1949), pt. 2, pp. 1484 ff.
+22 Social Security Act Amendments of 1949, Hearings, pt. 2, p. 1316. 
+23 Interview with Charles A. Siegfried, November 3, 1976.
+24 Memo, "Mr. Immerwahr's Memorandum to the Advisory Council," March 4. 1948 (File o25 Social Security, acc. no. 62A-82, R. G. 47, Box 26, Washington National Records Center, Suitland, Md. ).
+25 "Misconceptions and Missing Perceptions of Our Social Security System(Actuarial Anesthesia)," Society of Actuaries, Transactions, vol. 9 (1959), pp. 812-51. See also the ensuing discussion and Peterson's reply, pp. 852-919.
+26 Society of Actuaries, Transactions, vol. 3 (195i), pp. 502-03.
+27 Congressional Record (June 3, 1970), pp. 18059-60, and ibid. (June 10, 1970), p. 19348.
+28 Myers to A. J. McAndless, January 23, 1948 (File 025 Actuarial, acc. no 62A-82, R.G. 47, Box 26, Washington National Records Center, Suitland, Md. ).
+29 See, for example, his Expansionism in Social Insurance (London: Institute of Economic Affairs, 1970); "Government and Pensions," in Private Pensions and the Public Interest (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1970); and "The Future of Social Security--Is It in Conflict with Private Pension Plans?" an article from Pension and Welfare News that appears in Medicare and Medicaid, Hearings before the Senate Committee on Finance, 91 Cong. 2 sess. (GPO, 1970), pt. 1, pp. 37-43.
+30 Congressional Record (June 3, 1970), p. 18059.
+31 Interview with the author, December 7, 1976.
+32 Memo, Nathan to Director, January 27, 1970, Nathan's personal files. How-ever, after more experience in office Nathan came very definitely to the conclusion that immediately upon taking office a president should appoint cabinet and sub-cabinet officials who share his own policy goals. In retrospect, he believed that the Nixon administration erred in not removing Ball in 1969. Richard P. Nathan, "The 'Administrative Presidency,'" The Public Interest (Summer 1976), p. 53, and interview with the author, October 13, 1978.
+33 Interview with Charles A. Siegfried, November 3, 1976.
+34 According to a contemporary account of the Nixon administration by two Washington journalists, Rowland Evans, Jr., and Robert D. Novak, Secretary Finch agreed to replace Ball but backed off when Wilbur Mills threatened retaliation. They interpret this as but one instance of a general failure of the first Nixon administration to secure control of the executive branch through the use of appointments. Nixon in the White House: The Frustration of Power (Random House, 1971), pp. 66-74
+35 The New York Times, on May 27, 1970, reported Myers's resignation at the bottom of page 47, the obituary page, in three paragraphs taken from the Associated Press wire.
+
+## 第八章 公众舆论
+
+社会保障政策制定最显著的特征之一，是政策制定者对公众心理的极度关注。他们对公众对该项目的认知与主观体验给予了极大的关心。尽管如此，直接表达的公众舆论对政策的影响却微乎其微。政党、群众运动以及拥有庞大会员规模的有组织的压力集团——这些通常作为公众舆论表达渠道的实体——很少提出政策制定者必须予以考虑的诉求；而且，即使在极少数情况下他们提出了此类诉求（如20世纪30年代的汤森运动，Townsend movement），政策制定者的回应也是消极的。公众舆论对该项目的影响虽然真实存在，但却是间接体现的，即政策制定者会预期公众的反应，并针对他们所认为的公众偏好采取行动；甚至在此时，这种影响也是双向的。政策制定者在呈现该项目时，也会刻意引导以期获得有利的大众反响。
+
+### 总统选举
+
+每四年举行一次的总统竞选等全国性政治运动，可以作为一种媒介，竞争中的政党通过它提出政策选择，并由投票公众予以定夺。以赢得公职为组织目标的政党，将提出政策立场作为满足那些主要出于意识形态动机而参与的成员的一种方式，同时也将其作为相互竞争以争取民众选票的一种手段。以这种方式表达的立场，至少在理论上使投票公众能够在政策制定中发挥核心作用。某种形式的大众选择（即使不是针对议题，也是针对候选人和政党）是民主制度的内在属性，在这种制度中，公职人员通过在竞争性选举中获胜来获得权威与合法性。
+
+另一方面，也有人认为，全国性选举活动并非做出政策或项目选择的实用媒介。首先，政党有时很难区分。选举竞争的动力通常会驱使他们走向中间立场，以至于他们的立场可能难以辨别；即使可以辨别，这些立场也过于笼统，因此全国性选举中的大众选择很难为那些在接下来的四年中制定政策和设计政府项目的人提供具体的指导。根据这种解释，公众做出的选择适用于政府行动的总体方向或步伐，但不适用于具体的立法细节。公职人员被留有很大的自由裁量权。
+
+关于社会保障的真实情况，比这两种截然相反的总体陈述所暗示的要复杂得多。一些全国性选举在社会保障方面的相关性远高于其他选举。在1932年以来的大多数选举中，政党纲领和候选人在社会保障方面都鲜有论述，政党之间的差异也是程度上的差异而非原则上的差异。但在少数几次选举中——1936年、1960年和1964年——各方的立场异常详尽；分歧被鲜明地勾勒出来，并延伸到了根本层面。因此，选举结果很容易被解释为（无论正确与否）表达了公众在这一特定政策领域的选择——即对一种特定备选方案的认可，以及对另一种方案的拒绝。
+
+尽管严格来说，社会保险制度并非民主党人的创造，但它是在民主党的支持下发展起来的。一位民主党总统提出了它，一届民主党控制的国会通过了它，而1936年的民主党政党纲领以非常笼统的方式将此归功于自己。此后，民主党纲领断断续续地呼吁扩展社会保险原则。民主党支持这一特定的项目，该项目通过不诉诸经济状况调查（means test）的方式，以作为“缴费”（contributions）回报的“权利”来发放福利，从而保护老年人、病患和残疾人。如果任何政党要提出替代方案，那必然是共和党。
+
+共和党毫不迟疑地采取了行动。在1936年的总统竞选中，当《社会保障法》（Social Security Act）出台仅一年且社会保险条款尚未生效（征税直到1937年才开始）时，共和党人对社会保险发起了正面攻击。任何认为政党纲领只讲空话、回避细节的人，都应当审视一下1936年共和党关于社会保障主题的纲领条款：
+
+> 只有当我们的生产能力足以确保所有美国家庭获得体面的生活水平，并能为未来的需求和意外情况提供结余时，真正的保障才有可能实现。为了实现这一最终目标，我们寄希望于我国人民的活力、自立和品格，以及我们的自由企业制度。
+> 
+> 社会有义务通过提供某种程度的保护以应对非自愿失业和老年受抚养状态，从而促进人民的保障。“新政”（The New Deal）政策表面上声称提供社会保障，实际上却危及了它。
+> 
+> 我们提议建立一个基于以下原则的老年保障体系：
+> 
+> 1. 我们赞成“现收现付”（pay-as-you-go）政策，该政策要求每一代人赡养老年人，并确定何为公正和充足的标准。
+>     
+> 2. 每位65岁以上的美国公民都应获得必要的补充支付，以提供足以保护其免于匮乏的最低收入。
+>     
+> 3. 每个州和领地在遵守简单且一般的最低标准的基础上，应从联邦政府获得与其自身贡献成比例的递增补助金（graduated contribution），直至固定的最高限额。
+>     
+> 4. 为了使该项目符合稳健的财政政策，用于此目的的联邦收入必须通过广泛分布的直接税收益来提供。所有人都将受益，所有人都应做出贡献。
+>     
+> 
+> 现行《社会保障法》中关于失业保险和老年年金的条款是行不通的，它拒绝向大约三分之二的成年人口（包括专业人员以及所有从事农业、家政服务和自雇的人员）提供福利，同时对所有人施加了沉重的税收负担。据估计用于老年保险的470亿美元所谓储备基金根本不是储备，因为该基金除了政府的支付承诺外一无所有，而以保费名义征收的税款将被政府挥霍在鲁莽且奢侈的政治图谋上。
+
+此外，该党候选人阿尔夫·M·兰登（Alf M. Landon）发表了关于社会保障的重要演讲，在演讲中他抨击该法律“不公正、行不通、起草愚蠢且融资浪费”。他批评老年保险项目立即对薪资总额征税，从而增加了雇佣成本，同时又将福利发放推迟了五年（根据最初的项目规定，按月发放的福利直到1942年才会开始）。“我认为它强加给我国工人的储蓄是一场残酷的骗局，”他说道，历史学家和该项目的拥护者发现这句话极具引用价值。与政党纲领相一致，兰登提议废除强制性保险计划，代之以向各州提供联邦补助金（grants-in-aid），以确保贫困老年人获得充足的最低收入。
+
+共和党的这种反对立场并没有持续下去。1940年的纲领几乎没有提及老年保险，而1944年的纲领则通过呼吁将覆盖范围扩大到所有尚未被覆盖的雇员而对其表示了认可。直到1960年，才出现了另一个原则性争议议题。在此期间，民主党纲领不同程度地承诺扩大社会保险，共和党纲领同样如此，尽管其措辞要简短和狭隘得多。如果共和党人反对民主党人提出的建议，他们也没有公开表明。他们与民主党人的区别在于他们拒绝承诺的内容。
+
+在1960年的大选中，围绕为老年人提供医疗保险的议题，两党之间再次出现了原则性的分歧。民主党的竞选纲领明确呼吁“通过共同缴费的社会保险制度（contributory social insurance system），为老年人提供医疗护理”。相比之下，共和党则主张建立一个由联邦和州政府共同资助的、针对贫困老人的医疗项目，并明确拒绝了“强制性的医疗保险”（compulsory health insurance）。这一分歧在约翰·F·肯尼迪（John F. Kennedy）与理查德·尼克松（Richard Nixon）的竞选辩论中得到了进一步的放大，尼克松强调了自愿性与针对性福利的优势，而肯尼迪则倡导社会保险所赋予的普遍性与“权利”感。
+
+1964年的选举则呈现了更为激烈的意识形态对立。共和党总统候选人巴里·戈德华特（Barry Goldwater）在竞选初期暗示，应当允许个人选择是否退出社会保障体系，使其变为“自愿参与”。这一言论立刻引起了政治上的轩然大波，并被民主党人紧紧抓住，作为共和党意图摧毁社会保障制度安全网的铁证。尽管戈德华特及其竞选团队随后试图澄清，强调他们并非要废除现行系统，但政治损害已经造成。林登·约翰逊（Lyndon B. Johnson）总统在竞选中反复重申民主党对社会保障的坚定承诺，并成功地将共和党描绘成对老年人基本经济安全的直接威胁。1964年民主党的压倒性胜利，被政策制定者广泛解读为公众对社会保障制度（以及即将于1965年出台的医疗保险项目，即 Medicare）的一次决定性的全民公投（referendum）。
+
+在1964年的选举之后，共和党人深刻地认识到，对社会保障制度的根基发起正面挑战无异于政治自杀。此后，他们大体上回到了“我也一样”（me-too）的政治立场，接受了该项目作为美国福利国家（welfare state）既定基石的现实。他们在随后的政治周期中对该项目的批评，开始严格局限于对其成本控制、精算稳健性或特定行政细节的关注，而不再质疑其强制性的基本原则。因此，1964年的大选在很大程度上平息了关于社会保障体系合法性与强制性特征的根本争议。
+
+### 公众舆论的间接影响
+
+如果说全国性选举偶尔为政策制定者提供了某种宏观层面的政策指令（mandate），那么在两次选举之间的日常政策制定中，公众舆论的作用则更为微妙且是间接行使的。社会保障的行政官员们构建了一种关于“公众渴望什么”和“公众能够接受什么”的复杂感知系统。这种预期（anticipation）主要基于三个信息渠道的反馈：一是国会议员转交的选民信件；二是各类有组织的利益集团（interest groups）的诉求；三是针对该项目所进行的民意调查（public opinion polls）数据。
+
+特别值得注意的是，政策执行者极为关注公众对福利作为一种“权利”这一概念的接受度。他们投入了巨大的行政资源进行公共教育（public education），旨在向美国民众灌输这样一种观念：社会保障福利绝非基于经济状况调查的施舍（charity），而是通过劳动者自身的工薪扣款（payroll deductions）所赚取的（earned）。这种刻意塑造的公众认知，反过来又成为政策扩张的强大内生动力。因为一旦公众普遍内化了这种“既得权利”（earned right）的逻辑，他们便自然而然地期望福利水平能够随着经济增长或生活成本的上升而相应提高。
+
+此外，由于社会保障采取了专款专用的工薪税（payroll tax）融资模式，政策制定者对公众对税收容忍度的边际变化保持着高度的警惕。在很长一段时间内，工薪税税率微小且循序渐进的增长，由于被成功地包装为社会保险的“保费”（premiums），并未引起大规模的政治反弹。这种对大众政治心理的精确把握，使得社会保障系统在免受剧烈政治震荡的情况下，实现了长达数十年的稳定扩张。
+
+### 拥有大众成员的组织化集团
+
+很大程度上由于汤森运动（Townsend movement）的影响，社会保障项目的执行官们需要一个大众支持的来源。1936年大选的结果对他们帮助极大，但这并未平息汤森运动，也未能满足他们对其政策推行获得持续、可靠的公众支持表达的需求。他们认为，寻求此类支持的最佳对象是有组织的劳工。
+
+老年人似乎是社会保障项目天然的选民基础（constituency），但正如汤森运动所表明的那样，他们极易受到“万灵药”式诉求的蛊惑。此外，基于纯粹理性的考量，很难指望他们在20世纪30年代对一个直到1942年才承诺支付福利、且仅向纳税人支付的项目产生多大兴趣。难怪老年人会蜂拥加入汤森运动，因为该运动承诺立即为每一位六十岁以上的人提供乌托邦式的福利。即使老年人有着更为常规的组织形式，去除了汤森运动那种弥赛亚主义（messianism）和短暂性，他们对福利的迫切利益诉求以及对税收负担的相对漠视，也会使他们成为一个要求极高、难以抵抗或约束的支持群体。他们利益的明显失衡以及诉求的自私性，会削弱其信誉与合法性。
+
+有组织的劳工群体作为该项目的大众支持基础，并不存在这些缺陷。尽管具有反叛色彩的产业工会联合会（CIO）带有某种运动式的弥赛亚狂热，但美国劳工联合会（AFL）的各个分支机构及其全国性联合会本身都是庞大且持久的组织，即便它们有时处于动荡状态。虽然其成员是老年保险的潜在受益者，但更直接地，他们将成为纳税人。通过工薪税（payroll tax），他们将承担该项目的大部分成本。因此，这是一个必须去争取的庞大选民群体——并且，一旦争取成功，凭借其规模、组织的稳定性、政治的合法性，以及其成员在社会保险中直接而平衡的利益关联（最初作为工薪税纳税人，之后作为受益者），他们就能有效地充当该项目的大众基础。
+
+有组织的劳工与社会保障项目执行官结成联盟的步骤在第五章中有所描述。在这一演变过程中，1936年的竞选活动意义重大，因为它未能引发产业工人对工薪税的抵制。一些工业雇主（从历史记载中尚不清楚具体数量）与共和党领导人联手，通过攻击工薪税来向工人阶级喊话。工资袋中被塞入了宣传信息，工厂里也张贴了标语，警告称即将征收一项强制性税款（“在你的整个职业生涯中，你将被判处每周减薪”），并且无法保证有任何回报（“你可能会拿回这笔钱……但这只有在国会决定为此目的拨款时才可能发生。没有任何保证”）。社会保障理事会（Social Security Board）参与了这场宣传战，通过美国劳联（AFL）下属工会分发了一本小册子，承诺工人得到的回报总是会多于他们缴纳的税款。很难确切知晓这阵宣传攻势对选举产生了什么影响，但显然，没有出现足够激烈或广泛的工人阶级反抗，来阻止那一年大批选民向民主党倒戈。在下一次的美国劳联大会上，阿瑟·阿特迈尔（Arthur Altmeyer）感谢了劳联协助击退这种“卑鄙的攻击”。“我可以如实地告诉你们，社会保障理事会在这项服务上欠了有组织劳工很大的人情，”他说道。
+
+然而，直到20世纪40年代，有组织劳工的领导层才被完全争取过来，全心全意地支持社会保险项目，也直到那时，项目的领导者们才开始对拥有他们所寻求的大众基础感到安心。在此后的岁月里，他们可以在推行其所有措施时指望获得劳工的支持。工会成员默许了其领导层对社会保障的承诺——在大多数情况下是消极被动的，但有时也是积极主动的，例如在20世纪40年代末，当项目执行官们试图阻止历届国会推迟原定的增税计划时，他们通过了呼吁国会提高工薪税的决议。随着有组织劳工在政治上变得更加活跃、更加团结、与民主党结合得更紧密，并被更广泛地承认为一股强大而合法的政治力量，这种大众基础的价值也随之增加。
+
+有组织的劳工如此致力于构建社会保险项目，以至于最终在推动医疗保险的过程中，它接手了大部分的宣传和公共关系工作。正是美国劳工联合会-产业工会联合会（AFL-CIO）在基层为制定老年人医疗保险建立了民意支持。（劳工影响力的分布不均，很可能在一定程度上解释了希尔茨 [Schiltz] 的发现，即城市地区对医疗保险 [medicare] 的支持率远高于农村地区。希尔茨合情合理地推测，人们对公共补贴的老年医疗护理需求的认知，随着医疗护理设施的普及性和先进性而增加，而这种普及性和先进性反过来又与居住地的规模有关。有组织劳工对公众舆论的影响力可能也随着居住地规模的扩大而增加。）同样是在医疗保险运动的过程中，劳工作为先锋，最终组织起了社会保障项目的“天然”支持群体。在劳工资金的支持下，20世纪60年代初成立了全国老年公民理事会（National Council of Senior Citizens, NCSC），这是一个由地方工会脱胎而来的老年公民俱乐部联合会。纳尔逊·克鲁克香克（Nelson Cruikshank）从AFL-CIO社会保障主任的职位上退休后，当选为全国老年公民理事会的主席。与其母组织一样，全国老年公民理事会成为了既有项目以及项目执行官认定为与之一致的扩张计划的忠实、无条件（uncritical）的支持者。
+
+社会保障项目执行官对劳工的支持表现得极为感激。他们经常赞扬美国工人自愿缴纳工薪税的意愿。他们认为，劳工的支持对其项目的建设至关重要。然而，他们并没有完全依赖这个有组织的私人中介机构来管理他们的公共关系。
+
+### 影响公众
+
+由于该组织自身的客户群体涵盖了数量巨大且比例不断增加的公民，社会保障项目执行官们可以通过许多直接手段来影响公众舆论，并为其项目争取大众支持。
+
+社会保障署（SSA）的领导者努力提供可靠、高效、以客户为导向的服务，阿瑟·阿特迈尔（Arthur Altmeyer）声称，他们在这方面的成功是该项目广受欢迎的原因。由于《社会保障法》的颁布（1935年）与按月发放福利的正式启动（通过1939年修正案设定为1940年）之间存在时间差，因此有充足的时间进行行政准备。“这让我们有机会真正深入钻研，并建立一个有效且全面的项目，”阿特迈尔在接受采访时表示，“我认为毫无疑问，这便是社会保障制度如此受欢迎的主要原因。当时几乎没有发生行政管理不善之类的问题。但更重要的是，那些与公众接触的工作人员在服务态度上受过极其严格的训练。”20
+
+然而，社会保障署的公共关系并不仅仅局限于地方办事处的日常行政接触。这些公关活动不仅包括在那里为公众做了什么，还包括在所有场合对公众说了什么——体现在法律文本、官方演说、新闻发布会、国会证词，以及分发给社会保障纳税人和受益人的说明手册中。“保险”（Insurance）是所有这些信息传递的核心符号，它被反复强调恰恰是因为政策制定者期望借此获得公众的认同。因为保险意味着对劳动和投资的回报，从而维护了受益人的自尊；因为它意味着回报与投资成正比，从而满足了人们普遍持有的公平理念；且因为它意味着契约的存在，从而显得稳健而确定。（保险业的高管们私下抱怨说，社会保障的领导者对他们的行业抱有敌意，但却急于利用其良好的名声来实现自己的目的。）
+
+出于宪政原因，这个术语的使用曾有所推迟。它暗示了1935年《社会保障法》中关于税收的条款（第八章）与关于福利的条款（第二章）之间的联系，而起草者最初为了降低宪法层面的法律挑战风险，刻意将这两者分开了。但是，一旦在1937年通过了合宪性审查，社会保障项目执行官们便迅速宣告税收和福利的统一性，并宣称其结果就是“保险”。威尔伯·科恩（Wilbur Cohen）曾回顾了那个时刻：
+
+> 我记得与温南特（Winant）先生和阿特迈尔先生一同走下最高法院大楼的台阶，心中充满狂喜。我们曾为这一天满怀希望并祈祷，然而当它真正到来时，对我们而言仍显得不可思议。当我回到办公室后，我获得了阿特迈尔先生的批准，向工作人员发送了一份备忘录，声明鉴于这项裁决，我们现在可以将老年福利项目称为“老年保险”（old age insurance）。……美国公众过去是，现在仍然是具有保险意识的，并且反对社会救济（welfare）、“救济金”（the dole）以及“施舍”（hand-outs）。21
+
+此后，这一类比被进一步阐释并被坚持使用。税款变成了“保费”（premiums）或“缴费”（contributions）。工人们在巴尔的摩拥有了“老年保险账户”。他们正在“为自己的保障付款，为自己的晚年积累保险”。挑战这种保险类比或拒绝使用这些术语，就等同于表明自己是该项目的敌人。与保守派批评者在语义上的争吵持续了数年，正如1961年科恩与两位共和党参议员之间这段具有政治启示意义的交流所显示的：
+
+> [华莱士·F·]本内特参议员（Senator WALLACE F. BENNETT）：我理解的缴费是我自己从口袋里拿出来交给别人的东西。这并不适用于别人从我口袋里拿走的东西，我认为这是一种税……
+> 
+> 科恩先生：那您必须修改法律了，因为法律规定这是《联邦保险缴费法案》（Federal Insurance Contributions Act）。
+> 
+> 卡尔·T·柯蒂斯参议员（Senator CARL T. CURTIS）：那是谁让我们这么做的，威尔伯？我记得这件事发生的那天。
+> 
+> 科恩先生：我认为这是一个好主意，柯蒂斯先生。
+> 
+> 柯蒂斯参议员：好吧，它发生在筹款委员会（Ways and Means Committee），当时我也在场。22
+
+很难判断这种官方术语产生了什么实质影响。合理的推断是，保险类比给公众留下了深刻的印象。23 国会与项目执行官们共同推动了这种类比，它深深地嵌入了法定术语以及社会保障署的宣传册中。除了极少数保守派异见者（主要是柯蒂斯）之外，所有官方政策制定者都在鼓励公众将该项目视为一种保险。从他们自己的公开声明来看，他们相信公众确实是这样认为的。而在他们自己对政策与项目变更的选择以及语言表达上，他们的行事方式似乎也表明，维持公众的这种认知至关重要。因此，他们避开了一些可能破坏公众认知的行动方案，例如立即将所有老年人纳入覆盖范围，或严重依赖一般税收收入进行融资。在政策制定者所感受到的约束中——即他们所拒绝的行动方案中——我们可以看到公众舆论对该项目的影响：这并非直接表达的公众舆论，而是政策制定者在自身努力塑造它之后所预设的公众舆论。
+
+即使公众完全相信这种对商业私营保险的暗含类比，也很难评估这对其针对该项目的政治行为产生了何种影响。公众对该项目的普遍接受，在多大程度上是因为将其认知为保险呢？这里的实际问题——政策制定者脑海中永远盘旋的问题——是公众能容忍多高的税率。争取公众舆论的努力，其根本上是为了引导公众默许税收。担任政治公职的人经常表现得仿佛社会保障税收数额存在某个公众所能忍受的绝对上限，并警告称雇员税率正处于或接近公众容忍的极限。24 这种警告多年来一直出自共和党人之口，伴随着每一次税率的提高。稍微出人意料的是，民主党籍的卫生、教育及福利部（HEW）部长们也容易受到同样焦虑的影响，正如亚伯拉罕·鲁比科夫（Abraham Ribicoff）在肯尼迪政府中所表现的那样。1961年在参议院财政委员会作证时，他主张雇员-雇主合并税率不应被允许超过10%，比当时的水平高出1%。25 在很短的一段时间内，这个10%的数字被严肃对待；内部人士称之为“鲁比科夫的卢比孔河（底线）”（Ribicoff's rubicon）。然而，如果审视政策制定者的实际行动而非他们的言辞，存在税收绝对上限这一概念似乎是成问题的。1971年，“鲁比科夫的卢比孔河”被跨越了，就像以前跨越其他“卢比孔河”一样（6%曾长期被视为绝对上限，可能是因为那是1935年法案设定的平台期）。政策制定者的行事逻辑似乎表明，如果税率增长幅度较小且伴随着福利的增加，公众就会予以接受。
+
+在这里，我们再次可以察觉到公众舆论的间接影响。对公众不良反应的恐惧限制了增税的幅度，并使其以提供额外福利为条件。另一方面，人们一直担忧纳税人反抗但其从未真正发生，这一事实引发了关于公众舆论的内容与政治效能的有趣却难以估量的问题。公众没有抵制不断增加的税收，是因为他们相信自己交的钱获得了公平且有价值的回报（这种信念大概是由保险类比所鼓励的）吗？没有抵制是因为税率虽然在上升，但并未变得绝对难以忍受吗？（那么，假设在某一点会达到容忍的极限，障碍又在哪里呢？）还是说公众没有反抗是因为他们缺乏反抗的能力？社会保障纳税人构成了对项目扩张的主要潜在阻力源。但他们是一个缺乏组织且无法被组织起来的大众群体，囊括了几乎所有被雇佣的美国成年人。这是一个如此庞大、异质且松散的群体，以至于无法就单个政府项目的单一层面形成直接的意见表达。这意味着，它的影响只能在政策制定者对公众反应的预期中被间接感受到。但是，未组织起来的公众对特定增税作出实际反应的能力有限，这就引出了一个问题：公众舆论将如何以及是否（以及在何种税收水平上）会对该项目的持续扩张施加有效的阻碍。26
+
+由于整体纳税公众没有组织起来——而且在实践中也无法被组织起来——这一事实增加了在社会保障议题上现存的有组织的大众意见表达的重要性。有组织的劳工虽然只代表了一部分公众，但往往被项目执行官们视为整体纳税公众的代理人。不存在可与之相比拟的其他代理人。鉴于这一事实，有组织劳工对该项目高度同情的支持就变得更加重要。如果可以说有组织的劳工总体代表了社会保障纳税人，而不仅仅代表劳工，那么可以说一般的社会保障纳税人都支持该项目的建设。
+
+无论作何解释，纳税公众未能对增税形成阻碍，意味着政策制定者获得了许多反复扩张的机会，这些机会超越了经济增长无论如何都会赋予他们的空间。每一次这样的扩张都反过来产生了对作为项目受益人的公众的新义务。而“作为受益人的公众”（the public-as-beneficiary）在决策过程中极具影响力，它们再次扮演了一个潜在的（latent）、隐性的行为体角色——即那些活跃的政策制定者会去预期其反应的主体——而非其自身已经组织起来或积极主动介入。
+
+在《社会保障法》第1104节中，国会明确保留了“修改、修正或废除本法任何条款的权利”（美国联邦法规大全，第49卷第648页）。但这只是一句空话。亚伯拉罕·鲁比科夫在担任卫生、教育及福利部部长时曾暗示，公众不会容忍高于10%的合并税率；后来，作为来自康涅狄格州的参议员，他宣称如果社会保障项目遭到篡改，公众将会发动一场革命。他表示，日落法（sunset laws，即自动终止政府项目以强制对其进行重新审查的法律）也不能应用于社会保障项目。他反问道：“人们几十年来一直带着收回资金的期望向一个退休项目缴费，你打算如何终止它？”27
+
+对公众反应的预期，使得社会保障政策制定者不敢认真考虑，更不用说采纳那种会导致任何一部分选民公众的福利遭到削减的社会保障项目变更了。一旦授予了福利或特权便很难撤回，这在政府的任何项目中都极其困难，而在社会保险项目中更是具有独一无二的难度，因为政府承诺中暗含了契约性质（contractual content）。在这里，与保险相关的公众心理变得非常重要。公众理应相信——因为政策制定者一直鼓励他们相信——法律授权的福利作为缴费的公正回报，是通过既定权利（by right）属于他们的。政府若要扣留或修改其中任何福利，即违反了隐含的道德契约（moral contract），即使其不属于法律契约。随着该项目特有的道德与心理利害关系（stakes）的引入，伴随撤回福利而来的常见政治风险被大大加剧了。被置于危险之中的不仅是现任公职人员的胜选机会，更是政府自身的信誉（integrity）。
+
+这种义务的纽带在社会保障署与作为其项目受益人的公众之间建立了一种特殊的关系，并倾向于阻断那些可能希望改变社会保险内容或提出某种程度上的替代方案的人的机会。作为道德契约的一方，“作为受益人的公众”有助于维持现行项目，无论项目处于何种发展阶段。公众无需任何组织或动员就能有效地做到这一点。因此，公众这种隐性的、间接的影响带来的实际效果是限制，而非拓宽政策选择。凡是已存在的事物，公众都在其中享有利益关联。
+
+公众舆论对社会保障政策的影响是充满悖论的（paradoxical）。在隐性形式下，它限制了项目扩张的规模，阻止了对那些可能打破现行项目中隐含承诺的替代方案的认真考虑，并抑制了可能削弱公众对“保险”项目预设接受度的言行。因此，隐性舆论在确立沿着熟悉路径进行渐进式变革（incremental change）的决策模式中发挥了重要影响。当公众舆论以积极、直接的形式表达出来时（如在汤森运动中），它对政策的影响反而是最小的；其引发的结果是激起了项目执行官们强烈而教条的抵制。
+
+但无论以何种方式表达，公众舆论都给处于政府中心的政策制定者留下了大量的自由裁量权与主动权。通过政党和选举表达的舆论，似乎支持了项目执行官的偏好（尽管民调数据让公众的真实偏好仍存在很大疑问）。在自发的大众运动（汤森运动）中表达的公众舆论过于乌托邦，以至于没有对政策产生真实且实质性的影响。通过拥有大众基础的私人有组织压力集团（劳工）表达的公众舆论则容易遭到体制的收编（cooptation）。尽管隐性的、无组织的公众舆论对官方行为施加了限制，但随着政策制定者不断进行试探并发现公众具有极强的适应性和响应性，这些限制也发生了频繁的变化。最重要的是，事实证明，公众愿意接受税率小幅且稳步的增长。
+
+引用
+1 For a summary of political science literature stating this view and a critique of it, see James L. Sundquist, Dynamics of the Party System: Alignment and Re-alignment of Political Parties in the United States (Brookings Institution, 1973), chap. 14
+2 John J. Corson and John W. McConnell, Economic Needs of Older People(New York: Twentieth Century Fund, 1956), pp. 133-34. See pages 133-36 for a comparison of all the Democratic and Republican party planks on social security from 1932 through 1952.
+3 Vital Speeches, vol.3 (October 15, 1936), pp. 26-29.
+4 John P. Bradley, "Party Platforms and Party Performance Concerning Social Security," Polity, vol. 1 (Spring 1969), pp. 337-58, compares platform statements and subsequent actions. I have relied on this article for platform data from 1956 through 1964. The standard source is Kirk H. Porter and Donald B. Johnson, National Party Platforms, 1840-1968 (University of Illinois Press, 1970).
+5 Making of the President, 1964 (Atheneum, 1965), pp. 302-03.
+6 For rigorous analyses, see V. O. Key, Public Opinion and American Democracy(Knopf, 196), chap. 18, and Angus Campbell, Philip E. Converse, Warren E. Miller, and Donald E. Stokes, The American Voter (Wiley, 196o), chap. 8.
+7 Michael E. Schiltz, Public Attitudes toward Social Security 1935-1965, U.S. Department of Health, Education, and Welfare, Social Security Administration,
+Office of Research and Statistics, Research Report 33 (GPO, 1970), p. 29. 
+8 Ibid., p. 37.
+9 Ibid, p. 53 
+10 Ibid., p. 147.
+11 John W. Kingdon, "Dynamics of Agenda Formation in Congress," in James E. Anderson, ed., Cases in Public Policy-Making (Praeger, 1976), pp. 35-49.
+12 How important defeat is depends on the stage of program development and on the margin of defeat, which is important not just in itself but because of its long-term effect on the party composition of the government. The defeat of Landon's proposal of 1936 was conclusive because it confirmed a program that was already enacted, because the Republican loss was numerically devastating, and because it coincided with a party realignment that favored the Democrats. The defeat of the Republican position in 1960 was inconclusive because action on medical care was prospective and the margin of the electoral outcome was narrow. The Republicans did not abandon their position in 1964; they reaffirmed it. The election of 1964 was conclusive because it brought in a big enough Democratic majority to pass the Democrats' proposal. In their 1968 platform statements regarding medicare, the parties reverted to a familiar pattern in social insurance. Republicans acquiesced silently in what the Democrats had done, neither calling for repeal of medicare nor proposing to enlarge it. The Democrats proposed to enlarge it in two significant ways: medical care should be extended to disabled beneficiaries in the same way it had been extended to the aged, and medical care for the aged should be expanded to include the cost of prescription drugs.
+13 Paul T. David, Ralph M. Goldman, and Richard C. Bain, The Politics of National Party Conventions (Brookings Institution, 1960), p. 498. For discussion of platforms, see pp. 407-09, 497-98.
+14 See Wilbur J. Cohen, Retirement Policies under Social Security (University of California Press, 1957), 77n, where Cohen cites several instances in which party actions in Congress diverged from party platforms; and, for a contrasting argument See Bradley, "Party Platforms and Party Performance Concerning Social Security."
+15 But see Hugh Heclo, Modern Social Politics in Britain and Sweden: From Relief to Income Maintenance (Yale University Press, 1974), pp. 293-97, for an argument that this has not occurred in those two countries.
+16 Abraham Holtzman, The Townsend Movement: A Political Study (Book. man Associates, 1963); Committee on Old Age Security of the Twentieth Century Fund, The Townsend Crusade (New York: the Fund, 1936 ) ; Corson and McConneli, Economic Needs of Older People, pp. 117-18, 406-08.
+17 Ibid., pp. 407-08.
+18 Arthur M. Schlesinger, Jr., The Age of Roosevelt, vol. 3, The Politics of Upheaval (Houghton Mifflin, 1960), pp. 635-38.
+19 American Federationist, vol. 44 (November 1937), p. 1208.
+20 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967).
+21 Congressional Record (September 16, 1957), p. 28874.
+22 Social Security Benefits and Eligibility, Hearings before the Senate Committee on Finance, 87 Cong. 1 sess. (GPO, 196i), p. 1o2. Curtis's statement is puzzling in one respect. The Federal Insurance Contributions Act was enacted in 1939. Although he was a member of Congress then, having been elected in 1938, Curtis did not become a member of the Ways and Means Committee until 1945
+23 There are very few data on public attitudes toward social security, but clues may be found in the results of a small pilot survey directed by a social psychologist, Leonard Goodwin, in the summer of 1974, and reported in the American Psychologist. Questionnaires were administered to 615 persons in three cities (Balti-more, Cincinnati, and Denver) stratified by age, sex, income level, and employment status. Goodwin found a high level of support for social security. Respondents generally showed a high willingness to pay into a mandatory system. He also found support for the founders' assumption that linking benefits to contributions enhances public acceptance. Oddly enough, given the very favorable benefit-cost ratios in the early program, Goodwin's respondents on the average did not believe that they were getting a good return on their investment. There was a slight tendency for them to agree with statements that the money paid into social security would be better invested elsewhere. Leonard Goodwin and Joseph Tu, "The Social Psychological Basis for Public Acceptance of the Social Security System," American Psychologist. vol. 30 (September 1975), pp. 875-83. I also benefited from correspondence with Goodwin.
+24 For example, see the remarks of Wilbur Mills in Medical Care for the Aged Executive Hearings before the House Committee on Ways and Means, 89 Cong. 1 sess. (GPO, 1965), pt. 1, p. 29.
+25 Social Security Benefits and Eligibility, Hearings, pp. 78-79. In 1976, a member of the House Committee on Ways and Means harked back to the 1o percent standard. James Burke of Massachusetts observed that "I support the Ribicoff rule that was designed by the Senator when he was Secretary of Health, Education, and Welfare. He said the social security tax should never go above 10 percent but now it is going above 12 percent--that extra 2 percent is raising cain with industry in this country." Robert Ball, who was the witness before the committee, replied that he had as commissioner "reinterpreted the Ribicoff Rule to 1o percent for cash bene-fits." President's Social Security Proposals, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 2 sess. (GPO, 1976), p. 147
+26 Several critics viewed this passage about the inefficacy of public opinion very skeptically. They argued that the American political system is sensitive even to murmurs of public discontent and that to protest the cost of social security effectively and block expansion taxpayers would only have to write their congressmen or com plain to them during members’ visits home. In fact, such protests seemed to occur early in 1978, following passage of the Social Security Amendments of 1977, which raised social security taxes beginning in 1979. They formed part of a growing pro test against tax burdens that was finding an outlet chiefly in actions limiting the amounts that state governments could collect or spend. I continue to doubt that the present social security program will be curbed by taxpayer protest even as the cost of sustaining it grows with increases in the retired portion of the population. When taxpayer revolts do occur, as in the late 1970s, they find their most efficacious outlets at the level of state and local governments, where mechanisms of direct democracy are much more readily available than at the national level and where it is constitutionally feasible to impose spending and taxing limits. In recent years, property taxes have been falling as a percentage of gross national product, whereas the social security payroll tax has been rising. I doubt that this is simply because the social security tax is more popular than property taxes or the social security program more popular than the local services that are financed with property taxes. I believe it is partly because opposition is easier to organize and express effectively at the local level. Even if strong opposition to social security costs does develop, the most likely response in the short run will be to shift some of the burden to general revenues(mainly the income tax) because the income tax is less visible than the payroll tax. Reduction in expenditures is even less likely in social security than in other government programs because the benefits provided for in law are widely interpreted as solemn, unbreachable promises on the government's part (see the discussion later in this chapter and in chapter 2o). Proposed legislative additions to social security can be expected to suffer when taxpayers are in revolt; partly for that reason, national health insurance for all members of the population has been stymied in the late 1970s. But I would argue that even in a situation of intense and widespread citizen pressure for retrenchment, social security would be the last public program to suffer cuts.
+27 Welfare Reform: Why? (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1976 ), p. 41.
+
+## 第九章 政策制定系统：总结性分析
+
+前几章已强调了该项目行政领导层在发起和推动过程中所发挥的积极作用。这些领导人对美国社会保险的发展抱有坚定的信念，并深信假以时日，美国必将效法其他工业化国家此前的举措。他们是制度形成过程中的催化剂——作为行动者，他们的影响力与政治洞察力被用于将社会保障的制度化条款与特定国家的政治系统相契合。尽管地位举足轻重，他们却无法单凭一己之力创设一项社会保障项目。他们缺乏民选职位所赋予的权威——在民主体制中，这种决策权属于那些通过竞争性选举赢得宪法职位（constitutional offices）的人。他们中的一些人有时甚至完全没有任何公职（如Wilbur Cohen 在1956年至1960年间，以及1968年之后），并且他们所担任的各类职务本身也始终存在着某种程度的内在约束。无论是作为政治任命官员还是文官（civil servants），他们都不能公开且公然地推行未获总统批准的行动路线。如果他们想要建立其认为国家所需的社会保护架构，就必须在不牺牲核心目标的前提下适应其所处的政治环境，并且必须在不危及自身合法性的情况下对该环境加以运作。他们通过鼓励和促进他人的行动来发挥其影响力。
+
+他们对外部环境的适应采取了多种形式，其中渐进模式（incremental mode）或许是最为重要的。他们学会了不奢求一蹴而就。他们一次只提出部分诉求，随后再对这些部分进行修剪与调整。他们放弃了那些非紧急或无法立即实现的目标，例如引入一般预算收入（general revenues）。他们吸收了国会所看重的项目变更，甚至不惜以牺牲教条层面的一致性为代价。尽管表面上看似教条，但他们独具匠心且善于妥协，并愿意努力寻找能够在国会相关委员会中赢得边际选票（marginal vote）的特定方案。
+
+对环境的运作主要表现为说服（persuasion）。行政领导层构思政策提案，并以一种能提高普通公众、民意代表以及各种私人利益集团接受度的方式进行展示。他们所追求的福利目标，主要被致力于扩大公共部门的自由派利益集团所看重；然而，他们却用保守派的话语对其进行了包装（cast them in conservative terms），意在迎合一个推崇个人努力与牺牲的社会。在创立一项社会制度的同时，他们很大程度上使用了个人主义的话语体系来为其进行合法性辩护，并至少在暗示层面上将其与商业保险业进行了类比。
+
+政策制定的常规程序（Policymaking routines）是适应与运作的微妙结合。项目高管们将咨询委员会培育为一个政治论坛，在这里，项目的合法性可以得到定期的确认，特定提案在被引入国会这一关键政治竞技场之前，其可接受度也能得到检验。财政稳健性这一规范在国会委员会的报告中被惯例性地援引，并通过社会保障署（SSA）的精算技术得以制度化，从而向咨询委员会和国会委员会保证了其政策选择的稳健性。在社会保障项目高管们通常的政治实践中，政治并不主要表现为对盟友的动员（尽管他们确实尽己所能地鼓励劳工群体参与其中）。它主要体现在通过预判他人的偏好来避免冲突，并为那些相对少数的政治参与者——他们要么坚持介入政策制定过程，要么受邀介入，要么因拥有职权而必然卷入——将行动成本降至最低。项目高管在狭义和显而易见的层面上降低了成本，即他们设计的提案初始税率较低（这一点在后续章节中有更详细的探讨）；但他们所最小化的成本不仅限于那些立即且直接落在纳税人头上、随后可能以一种抑制性的方式转化为对现任官员怨恨的成本。他们还最小化了通常与公共政策制定相关的其他类型的成本，特别包括与创新、不确定性和分歧相关的心理与政治成本。他们的提案无一例外都是对人们所熟悉之项目的延伸；精算师的技术似乎消除了关于财务成本的所有不确定性；并且，分歧尽可能地在早期阶段（主要通过咨询委员会这一媒介）得到解决。
+
+事实上，通常只有少数政治行为体卷入政策制定过程。国会是其中迄今为止最重要的行为体，因为它确实拥有决定政策问题的权威，但总体而言，国会听从于其专门委员会（specialized committees）；在众议院，甚至接受了一项将这种听从制度化的程序——封闭规则（closed rule）。国会中少数的专家（特别是在众议院）随着时间的推移，与项目高管就如何制定政策以及应以何种教条为指导达成了一致的共识。作为行政部门内社会保障领导层层级上级的总统，是一位事务繁忙的通才，他基本无意去干涉任何不给他添麻烦的国内部门的任何部分；这一点对卫生、教育和福利部部长而言同样适用。社会保障署（SSA）——或许是因为其领导层的胜任能力，或许是因为其任务性质温和且易于常规化——并没有惹出任何麻烦。国会和行政部门的通才们还因该项目在财务上的自主性而被进一步转移了注意力；由于被排除在预算程序之外，社会保障项目也因此脱离了预算和拨款政治（politics of budgeting and appropriations）的漩涡。
+
+私人压力集团（Private pressure groups）并未持续要求参与这一进程。劳工群体是在社会保障署领导层的敦促下才介入的，且即便介入之后，社会保障对于劳工界领导层的利益而言依然处于边缘地位。劳工群体在社会保障方面的活动几乎完全由其在该领域的专家负责管理，这意味着劳工的参与并未大幅拓展利益诉求的范围，也未显著增加政策制定舞台内的多样性。它仅仅意味着一位劳工代表加入了政策制定者的专有核心圈（proprietary core）。商业利益集团则过于分散，对自身的利益所在缺乏把握，并在日益增强的国家政府权力和长期占据多数的民主党面前显得底气不足（diffident），因此不敢贸然采取激进的行动，也不敢强求获得超出咨询委员会所赋予角色之外的更大作用。唯一一次明确试图掌握主动权的努力——即美国商会（Chamber of Commerce）在1952至1953年间提出的方案——甚至未能动员起商业利益集团，更不用说在公职人员中赢得支持了。政党并未作为永久的、正式的组织在此出现；此外，除了Francis Townsend领导的短暂运动之外，公众舆论也未以任何能够直接冲击政策制定的方式被组织起来。
+
+在行政部门内部，并不存在社会保障署的官僚系统竞争对手；财政部在20世纪30年代末之后便选择了不加干预。对专家的听从（Deferral to specialists）不仅存在于国会，在行政部门也同样盛行。专家之间的分歧产生了一些冲突，并可能扩大社会保障的政治范畴，但作为持异见精算师的 W. Rulon Williamson是一个过于堂吉诃德式（quixotic，指脱离现实）的人物，难以引起足够的重视。而Robert J. Myers则是在几十年过去、该项目已十分稳固之后才转变为异见者的。因此，尽管他是一个比其前任更有影响力的人物，他的异见同样徒劳无功。官僚体系内部的较量，即使发生在级别较高且相对重要的官僚之间（迈尔斯和鲍尔皆属此类），也并不一定会动员起官僚体系外部的竞争利益集团。外部人士可能会关注，也可能根本不予理会。
+
+即使外部人士试图介入，他们也往往发现自己缺乏有效挑战社会保障署（SSA）既定政策的体制性渠道（institutional channels）。该项目的技术复杂性——交织着精算预测、税率结构和复杂的福利给付公式——构筑了一道天然的认知壁垒（cognitive barrier）。这使得非专业人士（non-specialists）在面对项目高管时处于固有的劣势。行政领导层不仅垄断了关键的数据和信息，还牢牢掌控了政策评估的分析框架。通过将本质上属于资源分配的政治决策转化为关于“财务稳健性”（financial soundness）的技术辩论，他们成功地限制了政策选择的范围，并将潜在的系统性重构（systemic restructuring）排除在议程之外。
+
+在这个相对封闭且由内部人主导的政策系统中，咨询委员会（advisory councils）进一步强化了行政精英的控制力。尽管表面上旨在反映劳工、商业界和公众等多元利益，但这些委员会的议程设置与最终报告往往受到社会保障署高管的密切引导。项目领导层通过控制信息流、提供技术支持以及精心构思妥协方案，确保了委员会的建议能够与 SSA 的长期扩张目标保持高度一致。政策提案在提交给国会这一正式的政治竞技场（political arena）之前，就已经披上了一层由“独立”专家和主要利益攸关方（stakeholders）达成共识的外衣，从而极大地削弱了潜在的政治反对力。
+
+总而言之，美国社会保障制度在这一时期的稳步扩张，并非源于广泛的公众动员（mass mobilization）或激烈的党派竞争，而是由一个高度专业化、内部凝聚力极强的行政精英群体在相对绝缘的制度环境中推动的。这种官僚主导的渐进主义（bureaucratic-led incrementalism）不仅塑造了早期的福利国家架构，更成功地维持了政策的连贯性与系统的财务稳定。然而，它同时也固化了一种规避根本性争论的政治文化。随着后来人口结构的深刻变迁与宏观经济环境的恶化，这种缺乏广泛公共辩论的决策模式，最终将显露出其在应对结构性危机时的局限性。
+
+项目高管在一个通常更侧重于听从专家（deference to specialists）而非对利益群体进行广泛且持续动员的制度环境中发挥作用。他们渴望避免冲突，并且也没有遭遇由强有力的反对派和竞争对手，或是由一个充满对抗性能量（combative energy）的政治系统所强加给他们的冲突。特别是，他们非常幸运地与立法机构——具体而言是众议院——中的一套制度安排相绑定，这套安排堪称共识性决策（consensual decision making）的典范。在Wilbur Mills担任主席期间，甚至在一定程度上追溯到他上任之前，众议院筹款委员会（House Committee on Ways and Means）已成功学会在内部解决问题，有效地遏制了党派之争（partisanship），并能够预判众议院所能接受的方案。考虑到封闭规则的效应，这种模式几乎没有留给众议院辩论的空间，也没有留下任何可供其选择的余地。
+
+另一方面，避免冲突只是项目高管们一个附带的战术性目标，其价值仅在于它有助于实现他们的社会目标。为了实现这些目标，必须采取行动；而在一个将共识作为行动前提条件的政治系统中，行动往往难以达成。认识到这一点后，项目高管在处理其制度建设任务时，既保持了极大的耐心，又运用了旨在将行动成本维持在较低水平的战术。
+
+在美国政治系统中，向前推进的步伐是缓慢的，但至少在此案例中，存在着某种不可阻挡的趋势。项目高管能够从容不迫，因为他们确信耐心终将得到回报；他们这种自信既源于其他国家社会保障发展的先例，也源于对美国政治系统的深刻理解。美国的政治制度尽管行动迟缓，但仍结合了采取行动的强大意愿。该系统潜在的动力源泉，大概正如David Mayhew所称的“选举联系”（the electoral connection），即政治家们对于确保当选和连任的渴望。1 这种渴望驱使总统去推进立法项目（共和党人在这方面丝毫不亚于民主党人），并驱使国会颁布总统所提议的部分内容（尽管往往以经过大幅修改的形式呈现）。民选公职人员希望为选民提供那些可以归功于自己的福利（benefits）。此外，公职人员在本质上往往是行动主义者（activists）。虽然有些人获取权力可能仅仅是出于对权力的热爱或谋取私利，但大多数人可能是希望为集体做些什么。事实上，这是他们的宪法职能；用道德层面的话来说，这也是他们的责任。公职的内在必然性使得他们几乎无法避免去采取行动。
+
+潜在的行动意愿意味着，当提案通过政治可接受性测试时，行动便会发生。为了获得能够通过这一测试的提案供给，政治公职人员极其依赖他人；通才型的政治家虽然拥有行动的意愿，但发起行动提案的能力却很有限。这为社会保障项目的高管提供了参与政策制定的契机。行政局（executive bureaus）中的项目专家，是那些正在寻找施政构想的政治家们的主要（提案）供给来源之一。就社会保障而言，在长达几十年的时间里，他们几乎是唯一的供给来源。由于社会保障领域的项目高管目标明确且手腕灵活，他们能够善加利用政治系统中潜藏的机会，但人们很容易将过多的功劳归结于他们的聪明才智和操作技巧。如果说该项目在没有遇到严重反对的情况下不断发展壮大，这不仅仅是因为其领导人是杰出的战术家和“推销员”。这也是因为他们拥有非常吸引人的东西可以“兜售”。如果国会各委员会与他们一道致力于项目的维持，这不仅仅是因为制定替代性选择存在制度上的障碍。这更是因为社会保障对民选公职人员以及选举他们的人民而言，具有强大的内在吸引力。
+
+第二部分回顾了该项目中与政治最为密切相关的特征。它描述了根植于社会保障项目中的主要政策选择，并分析了这些选择是如何达成的。
+
+引用
+1 David R. Mayhew, Congress: The Electoral Connection (Yale University Press, 1974).
+
+# **第二部分 项目**
+
+## **第十章 公平性与充足性之间的平衡**
+
+与社会保险相关的核心政策选择在于其旨在服务的目标，这决定了（或取决于）福利分配的原则。根本的选择在于：是根据需求提供福利，还是按个人纳税比例提供福利；在美国的社会保险项目中，决策者将这种选择表述为“充足性”（adequacy）与“公平性”（equity）之间的权衡。在实践中，这两种目标总是混合存在的，但这种混合状态随着时间的推移发生了实质性的变化。公平性在并未完全消失的情况下，向充足性作出了让步。
+
+这种目标的混合是许多专家对该项目提出批评的根本原因。米尔顿·弗里德曼（Milton Friedman）曾评论道：“它落入了两头不讨好的境地（falls between two stools）。”“它过多地关注需求，以至于无法作为已纳税款的回报来证明其合理性；同时，它又过多地关注已纳税款，以至于无法证明其与需求存在充分的联系。”1 许多经济分析师更倾向于政策的连贯性。另一方面，项目主管们出于实用主义而非理性主义的考量，并不认为不一致和模糊性本质上是件坏事，而是认为该项目由此产生的附带特性——灵活性、适应性以及广泛的吸引力——本质上是非常有益的。
+
+### **向充足性倾斜**
+
+根据国会于1935年颁布的项目，自1942年起，政府将向在商业和工业部门工作且已向政府缴纳工薪税（payroll tax）的退休工人按月支付福利金。福利金数额将与已纳税的累计工资挂钩；其效果是将福利与总纳税额联系起来。2 如果一个人缴纳的税款不足以获得福利资格，他将在退休时根据其总纳税工资按比例获得一笔一次性返还款（lump sum）。如果他去世，这笔一次性款项将支付给他的遗产。通过规定最低月度福利金（10美元）和累进福利公式（按比例而言，福利金随着总工资的增加而下降），这第一部法律在很大程度上承认了充足性原则，但在这一初始设计中，已纳税款与福利之间的关联要比后来在实际运行的项目中表现得强劲得多。
+
+在开始按月支付福利金之前，这一初始计划于1939年进行了大幅修改。在修订后的项目中，按月发放福利金的起始时间被提前了两年至1940年，且支付标准不再基于工资总额，而是基于平均月工资。受益人的受抚养人（dependents）也被纳入资格范围。例如，如果受益人有年迈的妻子或需抚养的子女，则会增加相当于基本福利一半的补充福利。如果受益人去世，政府授权向其特定的幸存亲属（六十五岁以上的寡妇、带有子女的寡妇、孤儿、六十五岁以上需抚养的父母）按月支付福利金。福利公式的累进性也得到了提高。最初在发生死亡时提供的大额“资金返还（money-back）”被大幅削减，并且针对那些因纳税时间过短而无法获得福利资格的人，取消了一次性支付。总体而言，税收与福利之间的联系被大幅削弱了。
+
+1950年的下一轮重大修正案进一步削弱了这种联系。现有的受益人获得了福利增长，以补偿生活成本的上升，而这与他们缴纳的税款无关。一千万名新增工人——包括许多最初因行政管理原因被排除在外的自雇人士、农业和家政工人——被纳入该法案的覆盖范围，并获得了“新起点（new start）”的优势，这使他们能够迅速获得福利资格（要求在参保就业中至少有六个日历季度的记录）。一项根据工人在参保就业中度过的年数来奖励他们的年度“增量（increment）”规定被取消。
+
+与此同时，税率一直保持在很低的水平。根据最初的法案，雇主和雇员的税率各被设定为1%，该规定于1937年生效，并计划每三年以0.5%的幅度递增，直到1949年达到3%的稳定水平。然而，提高至1.5%的最初步骤被一再推迟，直到1950年才生效。
+
+这些立法进展以及随后的其他措施，使“老年与遗属保险”（old age and survivors insurance）成为一个极其混合和令人困惑的项目。无论基于何种潜在原则，它都充满了反常现象（anomalies）。它并未根据需求分配福利。很长一段时间内，许多老年人被完全排除在外，因为他们没有加入劳动力队伍，或没有进入受保领域的范围，或者参保的时间不够长而无法获得资格，抑或是没有与具备资格的人结婚。在这些人中，有很大一部分不得不转而依赖公共救助（public assistance）。那些确实获得了福利的人，无论其是否面临实际需求都能获得；而那些理应最需要福利的人——平均月工资较低的工人——得到的月度金额最小，尽管他们从税收中获得的回报率高于高薪工人。另一方面，这也并非是一个将福利与纳税紧密联系的项目。低薪工人比高薪工人获得了更高的资金回报，短期参与者比长期参与者获得了更多回报；但无论工资或纳税额多少，所有在早期退休的人，获得的保障都要比他们所缴税款能“买”到的多得多。福利支付的实际依据是一项极其令人困惑的事务，没有人能将其合理化，即使是顶尖专家也只能试图去理解它。
+
+尽管结果参差不齐，但变革的方向依然清晰。虽然充足性从未成为唯一的指导原则，但它在与公平性的相对关系中持续获得优势。这一变化背后有两个驱动力：项目主管实现福利目标的意愿，以及国会议员通过即时满足纳税人以确保连任的意愿。正是项目主管发起了提高福利和扩大覆盖人群类别的措施，而国会则希望尽量减轻当前的税收负担。根据经验，亚瑟·奥特迈耶（Arthur Altmeyer）曾评论道：“如果有什么事是国会喜欢做的，那就是避免征收新税或提高税收。”3 在九年的时间里，尽管项目主管发出了最强烈的恳求，国会仍七次拒绝让社会保障税上涨。这也加剧了已纳税款的价值与所获福利之间的差异。
+
+很难说是项目主管还是国会议员更愿意为了各自的目标而在福利与税收的关联上妥协。尽管项目主管主要负责发起变革，但在某些方面，他们比国会更忠实于最初的理念。奥特迈耶和科恩（Cohen）（但不包括鲍尔 [Ball]）在1949-1950年间主张保留“增量”，这将根据参与参保就业的时长对社会保障受益人进行奖励。（鲍尔作为1947-1948年咨询委员会的员工主管，为了在短期内增加福利并促成委员会内部劳资双方达成一致，愿意牺牲该项目的这一特征。）项目主管们在降低新受保工人的资格要求方面，不会像国会在1950年那样走得那么远。他们主张提高税收，部分理由是这将维护税收与福利之间的关系。他们坚决抵制将完全没有纳税的老年人一律纳入其中的提议。然而，即使在他们捍卫“公平性”时，也很难分辨他们是珍视其本身，还是仅仅认为这服务于维持公众将该项目视为一种保险的战略目的。
+
+### **变革的约束**
+
+尽管发生了变化，社会保障仍然保留了缴费性质（contributory）；它由工薪税提供资金。受益者是那些已经纳税或依赖于纳税者的人。4 工资与福利之间仍然存在关联，随之而来的是已纳税款与福利之间存在一种粗略且遥远的联系。如果从各自截然不同的视角出发，项目主管和国会都有意愿将最初的社会保险项目转变为其他形式，人们不禁要问，为什么他们没有彻底改造它，或者为什么他们没有在一开始就选择一条不同的路径。如果项目主管想帮助有需要的人，他们为什么不将公共资金集中用于穷人？或者，如果这样做不可取，他们为什么不选择在老年人中平均分配用于养老支持的公共资金，而是去负责一个充满反常现象的项目？至于国会，如果它想以优惠的条件迅速发放福利，为什么它批准了一个在1937年开始征税但将福利支付推迟到1942年的项目？毫无疑问，没有什么比这更与国会利益不相容的了。
+
+#### **项目主管对替代方案的拒绝**
+
+项目主管奉行的一句格言是：“针对穷人的项目就是糟糕的项目（a program for the poor is a poor program）。”他们的意思是，这会贬低受益人，并且会缺乏足够的公众支持以获取大规模的公共资源。他们假设美国的穷人既自卑也被他人鄙视，而一项专为他们利益设计的政府项目也将同样受到鄙视。因此，理想的养老保障项目应该惠及所有人，无论是穷人还是非穷人。通过惠及所有阶层，它将获得所有阶层的支持，并避免通过“家计调查（means test）”给受益人贴上污名化标签。
+
+创立者对家计调查项目的厌恶如此强烈，以至于人们不得不问：为什么他们依然选择在若干年内依赖这样的项目？老年保险起步缓慢，因此必须由一个针对穷人的项目来补充。为此，《社会保障法》（Social Security Act）纳入了联邦政府为各州政府提供“老年救助（old age assistance, OAA）”的补助金（grants-in-aid）。《社会保障法》通过后，OAA接受者的数量急剧上升，而保险福利直到1940年才开始发放，且起初增长非常缓慢。直到1950年修正案颁布后，保险接受者的人数才超过了OAA接受者。一位敏锐的批评家在1949年写道：“目前项目的拥护者……声称相较于救助，他们更偏好保险支付，相较于非缴费型项目，他们更偏好缴费型项目。然而，他们提出的方案恰恰与上述宣称的偏好相反。他们支持这样一个项目：使大量有需要的人只能依靠家计调查的救助，同时却让其他人享有事实上属于非缴费型的保险福利。”5
+
+相较于缓慢起步的老年保险与进行家计调查的公共救助相结合，项目主管本可以选择支持向所有老年人发放不计需求的均等福利金（flat payments），并从一般税收（general revenues）中支付。在老年保险项目创立的二十年间（1935-1954），提出了许多此类提议，它们的来源极其多样，包括汤森运动（Townsend movement）、产业工会联合会（CIO）、财政部的凯恩斯主义经济学家、布鲁金斯学会的保守派经济学家，以及社会保障署内持不同意见的精算师。社会保障项目主管拒绝了所有这些提议。
+
+他们对普遍均等养老金的抵制如此僵化，且其理由在公众面前极少阐明，以至于其逻辑内涵难以概括。他们甚至不愿考虑此类提议，但在二战爆发前夕的某个时刻，当国会和政府内部对均等养老金的兴趣似乎正在上升时，他们极不情愿地准备了一个两层计划（two-decker plan），该计划将在均等养老金之上叠加与工资挂钩的福利。罗斯福总统在1940年秋季对卡车司机工会的演讲中纳入了这一想法，但令项目主管松了一口气的是，他最终并未采纳它。奥特迈耶后来解释说，他们担心“政治压力”会迫使均等支付的金额不断增加，直到它取代了与工资挂钩的保险这一上层建筑；此外，向所有人提供均等支付将剥夺农民等被豁免职业群体接受保险覆盖的任何动机。6
+
+项目主管认为，均等养老金会加剧养老支持的政治化。老年人的运动——正如汤森现象（Townsend phenomenon）所证明的那样——将对立法机构中的民选政治家施加不可抗拒的压力。面对这些压力，养老金的规模将会变得“过于庞大”。支出将会失控，并扰乱经济与社会。相比之下，由专用的工薪税提供资金的缴费型项目将实施其自身的纪律，将支出限制在缴纳工薪税的纳税人所能容忍的范围之内。公众将吸取有益的教训，认识到福利的支付取决于来自“缴款（contributions）”的岁入。
+
+没过多久，保守派批评家就颠倒了这一论点。他们认为，正是这个缴费型项目在财政上是不负责任的，因为它在早期纳税人与受益人比例被人为抬高时，造成了一种具有误导性的岁入盈余。在他们看来，约束支出冲动的唯一方法是通过颁布普遍覆盖政策来凸显成本。老年人要求在养老金上投入更多的压力，将遭到纳税人的反压力。在正常的政治进程中，将会发展出一种制衡机制。
+
+无论是政治的喧嚣会产生“过于庞大”的统一养老金（这在汤森运动鼎盛时期似乎极有可能），还是如他们后来所判断的“过于微小”的养老金，项目主管不仅害怕特定的结果，也害怕这种政治较量本身。正常的政治进程正是他们希望避免的。政治辩论意味着不确定性——对受益人而言是不确定性，其养老金的规模将取决于较量的结果；对项目主管而言也是不确定性，他们将被卷入这场冲突，而无法保持专用的工薪税独立融资所带来的那种自主立场。
+
+在项目主管看来，缴费型项目的巨大价值在于它对担任公职的民选官员形成了约束。它增加了按承诺支付福利的可能性。更准确地说，它创造了一个承诺——政府方面的义务，以作为对纳税人缴费的回报。
+
+#### **国会的偏好**
+
+1935年时，国会对老年保险毫无热情。众议院筹款委员会（House Committee on Ways and Means）和参议院财政委员会（Senate Committee on Finance）都险些投票否决该法案；法案中没有任何其他部分面临如此大的危险。弗朗西丝·珀金斯（Frances Perkins）在1962年回忆道，参议院财政委员会主席、参议员帕特·哈里森（Pat Harrison）“对这项法案一无所知”，而他在筹款委员会的同僚罗伯特·道顿（Robert Doughton）“对此了解得更少，因为他耳聋，听不见别人对他说的话”。7 如果任由民主党多数派自行其是，他们会颁布其他法案。其最终批准老年保险，归功于行政部门的影响力。
+
+1935年初，行政部门通过一份总统咨文将老年保险不可回避地列入了国会议程。该提案由隶属于经济安全委员会（Committee on Economic Security）的一小批工作人员起草，该委员会是罗斯福总统在珀金斯部长的敦促下于1934年任命的内阁级委员会，旨在提出立法建议。罗斯福接受了该提案以及该委员会的其他建议，包括失业保险项目，以及向各州提供老年救助和未成年子女家庭援助（aid to dependent children）的补助金。筹款委员会的主要成员曾向他试探省略老年保险的可能性，却被坚决告知必须保留。参议院的反应与此类似。尽管不太喜欢这项提案，哈里森还是忠诚地致力于代表总统促成其颁布。仅仅是他巧妙的策略才在财政委员会内部挽救了老年保险。到了投票的时候，他掌握了三名民主党人以及一名因病重住院的资深共和党人的代理投票权（proxies）。
+
+国会显然更倾向于立即开始向老年人支付福利。如果在1935年由国会议员自行决定，他们可能只会选择老年救助（OAA）补助金。当时已经引入了许多关于此类补助金的法案，但没有任何关于保险的法案，其中一项——迪尔-康纳利法案（Dill-Connery bill）——已于1934年在众议院获得通过。若非与这个高度可接受的项目挂钩，老年保险对立法机构来说肯定是不可接受的。罗斯福总统的关键战术贡献在于坚持维持这种联系。（行政部门构想的一个较小的战术举措是将OAA补助金作为法案的第一章[Title I]，以利用国会对其的支持。行政起草者预期国会议员即使什么都不读，也会阅读第一章，从而被说服。）国会议员普遍不认同项目主管对需经家计调查的公共救助那种深刻的、原则性的厌恶。后来，他们会选择以这种方式开始对残疾人的援助，然后是对需要医疗护理的老年人的援助。
+
+在20世纪30年代末，国会普通议员对汤森计划（Townsend plan）给予了大量支持；迟至1953-1954年，仍有160名国会议员签署了一份院会请愿书（discharge petition），以将一项由汤森支持的法案提交众议院全院表决。但这种支持并未延伸到立法领导层。奥特迈耶几年后解释道：
+
+> 举例来说，国会议员们被这些老年养老金团体所困扰，而且他们中的许多人都作出了承诺。他们中的许多人签署了院会请愿书，以推出从一般基金中支付均等养老金的法案。你无法说服很大一部分人相信保险是个好主意。从政治角度来看，他们被这些团体纠缠不休。这些团体代表了重要的选票阵营，无论缴费型保险从长远来看多么令人向往，他们依然必须对眼前的压力作出回应。但是，你总能发现一些处于关键职位的领导人认识到了普惠性养老金（general pension）方法的危险，并且认识到可以说，你必须拥有某种自我调节的机制；从而使收入能够进来以满足支出。嗯，我们很幸运，我们必须打交道的委员会都是具有理财意识的委员会。否则我们就会有一个统一的普惠养老金。这是毫无疑问的。因此，我发现很容易说服关键的立法委员会——筹款委员会和参议院财政委员会——让他们相信缴费型社会保险是我们能够采取的唯一安全的制度。10
+
+如果一项经过精心制定、出自负责且可信来源（而非出自汤森运动）的普遍均等支付计划被提交给国会领导层，很难说他们会作何反应。由于从未被行政部门的倡议迫使去面对这个被项目主管视为异端的想法，国会领导人显然对其缺乏极大热情，也从未鼓励任何负责任的提议者去完善他们的计划。
+
+1940年后，当老年保险福利开始按月支付时，国会面临的选择将是：作为老年保险假想替代方案的均等养老金，与当时实际运行的福利项目之间的选择。11 值得牢记的是，当时并非只有一个福利项目，而是两个，因为联邦政府在1947年花费了近5亿美元的老年救助（OAA）项目也必须考虑在内。因此，问题不在于普遍均等支付如何与一个刚刚起步的保险项目相比较，而在于它如何与一个小规模但具有巨大未来潜力的保险项目，以及一个大规模的、原本预期最终会被保险取代但实际上也在不断扩张的OAA项目两者的结合体相比较。
+
+一个普遍性项目在短期内会耗费多得多的成本，因为它会覆盖更多的人。1947年，美国大约有1030万名65岁或以上的老年人，其中不到一半的人获得了保险或OAA支付。如果向他们每人每月支付20美元——这一数额大致相当于1947年老年保险和OAA支付中联邦份额的水平——联邦支出总额将达到25亿美元，而实际支出仅为9.06亿美元。成本不仅会更高，而且会更加显性化。被划分在两个项目中的支出将被合并为一个预算项目，并且有必要放弃官方所宣扬的虚构说法：即通过“信托基金（trust fund）”处理的保险支出根本不是真正的政府支出，而是个人储蓄，联邦政府仅仅是一个为收集和管理这些储蓄提供便利的代理人。12
+
+当然，福利也会更加显性化和被更广泛地分配，尽管这可能受到国会普通政客的欢迎，却引起了对该项目负有责任的立法领导人的担忧。像项目主管一样，尽管出于相当不同的原因，他们依然担心均等养老金的政治化。这并非因为他们希望约束未来的政客，而是因为他们希望将选区压力从现在的政客身上转移开。社会保障署（SSA）那位持不同意见的精算师——无疑是一位财政保守派——的一项提案“非常像汤森计划”，这足以让威尔伯·米尔斯（Wilbur Mills）对其非常警惕，尽管该提案要求的月支付额要小得多。13 即使在群众运动现象消散之后，对汤森运动的记忆依然存在。
+
+### **混合体的政治属性**
+
+实际出现的福利项目是一个混合体（hybrid）：在目的上是混合的，因为它在公平性与充足性之间取得了平衡；在平衡立法和行政部门主要决策者的目标和制度需求（institutional imperatives）方面，它也是混合的。
+
+在选择保险时，项目主管不得不在短期内牺牲他们所追求的一些福利目标。保险无法立即完成他们希望它做的所有事情。不过，他们可以妥协，因为他们有长远的时间规划。他们预见到了它最终会变成什么样。正如他们的保守派批评者一样，他们认识到其最初的不完整性从长远来看可以服务于他们的目标。通过起初做得较少，保险在成熟时会做得更多，因为人为压低的初始成本将培育宽容度（liberalizations），而其全部负担在许多年内都不会被感觉到。
+
+相比之下，国会议员的时间规划较短。他们中的一些人本会在短期内最大化福利分配；另一些人则寻求最小化短期成本，总体而言，后者占据了上风。正如社会保险缓慢起步的性质服务于项目主管实现福利目标的长期利益一样，它也服务于立法者保持低水平个人税率的短期利益。不同的时间视角本来可能成为两个部门之间紧张关系的根源，反倒通过该项目的属性得到了调和。在这个调和过程中被牺牲的，是福利与纳税之间的紧密关联。
+
+在共同培育这个混合体的过程中，项目主管与委员会中的“项目”立法者与其说是在某个目的上达成了一致，不如说是在一个符号（“保险”）以及一种决策过程——渐进过程（incremental process）——上达成了一致。他们同意这样一个项目：其本质是它将逐步成长，并且可以由他们自行决定以小碎步的方式频繁扩大。成本和福利都将悄然向公众施加；随着成本和福利的逐步增长，公众可以逐步适应它们，而决策者可以在此过程中判断公众的反应。
+
+主要决策者暗中同意了这种方法，他们表现出明显不愿像其批评者所希望的那样去辩论基本前提和目的。这些批评者希望回到第一性原理（first principles），以揭示发展中项目的不一致和不公正之处。1948年威尔伯·科恩（Wilbur Cohen）与曾在老年和遗属保险局（Bureau of Old Age and Survivors Insurance）工作的精算师乔治·伊默瓦尔（George Immerwahr）之间的一组通信，很好地体现了项目主管对此的反应。当时正在考虑重大修正案，1947-1948年的咨询委员会也正准备发布其报告。伊默瓦尔敦促委员会推迟发布报告，以留出足够时间分析该项目的哲学，并考虑根本不同的替代方案，包括均等养老金或双层计划。他将自己声明的副本发给了科恩，并附上了一封热情且措辞委婉的附信。全部回复如下：
+
+> 非常感谢您将提交给咨询委员会的声明副本发给我。我非常感谢您的周到。
+> 
+> 我很遗憾地说，我不赞同您关于委员会推迟发布老年和遗属保险报告以进行更根本性重新审查的观点。我一直是个“制度主义者（institutionalist）”。我相信，为了切实可行，我们必须始终从我们现在所处的起点出发，而不是从我们希望到达的地方出发。
+> 
+> 尽管我相信老年和遗属保险制度会在岁月流逝中发生变化，但我认为这只可能以进化的方式发生，而非在此时进行根本性的变革。致以最美好的祝愿。14
+
+那些不赞同渐进主义的人，要么是具有民粹主义气质、不排斥汤森计划激进含义的人；要么是坚持原则的财政保守派，他们认为成本的大幅、即时和公开增加能够唤起纪律。因此，在这些早期关于老年人收入支持的辩论中，保守的共和党国会议员和专业精算师矛盾地与汤森派结盟，呼吁立即实现普遍覆盖，尽管双方对支付规模的想法各不相同。
+
+### **符号与现实**
+
+随着纳税与福利之间的联系变得越来越微弱，该项目变得越来越不像保险；而它越不像保险，其行政领导人就越是坚称它就是保险。15 在1935年，为了避免增加其面临违宪审查的脆弱性，他们没有使用这个名称。当时是持异议的共和党人坚持使用保险的术语：“根据第八章（Title VIII）征收的税根本不是税，”筹款委员会的资深共和党人坚持认为，“而是针对老年年金强制征收的保险费。”16 1939年，在合宪性挑战被克服后，随着其实质内容开始被移除，保险的话语开始被写入法律中。到了1950年，随着差异变得巨大，共和党内头脑最清晰、直言不讳的人开始激烈抗议。“我认为社会保险事实上并不是保险，”参议员罗伯特·A·塔夫脱（Robert A. Taft）说。“它根本不是别的什么，而是向人们征税，以向其他人提供免费服务……它不是保险，而且，至少到目前为止，这个制度也并不十分‘社会’，因为它只覆盖了65岁以上总人口中极小的一部分。”17 在众议院，威斯康星州的约翰·W·伯恩斯（John W. Byrnes）抱怨这种“所谓的保险”、这种“虚构的保险”。他说他不反对提高福利。“但是，当你们试图让美国人民和所有其他人都觉得，他们所获得的是自己花钱买来的时候，我确实要抱怨。这很不诚实，这是在拿这个国家的老年人玩弄政治。”18
+
+由于无法将项目主管拉入关于第一性原理的辩论，20世纪40年代末和50年代初的批评者肆意质疑他们的诚信。同样确信该项目的构想错误且其公众展示虚假，批评者们变得尖刻起来；在他们声明的理性外表之下，隐藏着政治上的挫败感和道德上的义愤。“尽管政府以各种方式压制私人和组织的虚假广告，但似乎没有任何机构能阻止政府自身提供误导性信息或隐瞒重要事实，”胡佛委员会（Hoover commission）1949年的一份工作组报告指出。19 该报告质疑社会保障署（SSA）使用公共资金推广其项目扩展的伦理和合法性，并指责SSA的领导人隐瞒有关其项目长期成本的信息，同时大肆宣扬福利和扩大覆盖面的必要性。
+
+那些困扰或激怒专家批评者的项目反常现象，广大公众并不知晓；甚至如果被知晓，可能也不会引起太大反应。所有受益人都获得了巨额的意外之财（windfalls），这并不是一个会引发反叛的情况，即便有些意外之财比其他的更大。许多老年人被完全排除在外，这对于华盛顿许多理解没人真正为其福利买单的专家分析师来说似乎是不公正的；但是对于那些被鼓励相信福利是对缴费回报的公众来说，排除未缴费者似乎是合理的。
+
+仅在一个方面，公众显然很难将其对该项目的理解与其经验相调和。这就是关于退休或“收入”测试（retirement or "earnings" test），它限制了社会保险接收者可以赚取的金额。公众推理认为，一个人为之付钱的东西，在他达到符合资格的年龄时就应该得到。项目主管说不——该项目提供的是针对收入损失的保险，而不是给老年人的年金。这一直是国会议员及其选民与社会保障署（SSA）之间持续存在的紧张根源。1949年纽约州众议员沃尔特·A·林奇（Walter A. Lynch）与奥特迈耶局长（Commissioner Altmeyer）之间的以下交流非常典型：
+
+> 林奇先生：您认为普通的美国工人知道他正在投保以防范工资损失吗？还是您认为普通的美国人在向老年和遗属保险（OASI）缴费时觉得，作为一项权利，当他达到65岁或从工作中退休时，他将获得年金？
+> 
+> 奥特迈耶博士：我认为大多数工人都明白，他们必须退休才能领取这项老年退休福利。
+> 
+> 林奇先生：当他们试图获取福利时，他们确实明白了；他们意识到了这一点。但是，我的意思是，在那之前，您觉得他们知道自己必须退休吗？
+> 
+> 奥特迈耶博士：是的；我认为知道。
+> 
+> 林奇先生：根据我在自己选区的经验，我可以坦率地告诉您。在申请保险之前，他们根本没有这种想法。20
+
+老年保险的任何其他方面都没有如此激起国会议员的情绪。那些在其他方面对该项目表现出相对较少兴趣的议员会发起法案，以废除收入测试。如果筹款委员会的领导层没有同意行政部门保留该测试的意见，国会肯定已经废除它了。
+
+在其实际运作中，老年保险是一个复杂、令人困惑的项目。以福利作为对缴费回报的承诺暗示了两者之间的紧密关联。在项目的初始设计中，存在着适度紧密的关联，但随着项目的变更，这种关联减弱了。这些变更反映了行政人员在扩大福利方面的压倒性利益，以及立法机关在最小化当前税收负担方面的压倒性利益。
+
+一个提供福利以换取缴费的项目，与针对老年人的普遍性项目不同之处在于，它是从小规模开始并逐步发展的。因此，成本是逐渐显现出来的。此外，一个以福利换取缴费的项目可以貌似合理地被说成是“依法”（by right）提供福利；而在一个由一般税收资助的项目中，权利（entitlements）将更容易受到争议。
+
+令人困惑的目标与福利原则混合体、具有广泛吸引力的保险符号、较低的初始成本，以及作为一项免受争议的权利所提供的福利保证，这一切都有助于解释老年保险项目的受欢迎程度。在选择一个基于缴费而非其他类型的项目时，行政创立者的意图在于避免冲突性的政治（politics as conflict）。这是他们相比于其他替代方案更偏好这一选项的主要原因之一。
+
+引用
+
+1 Wilbur J. Cohen and Milton Friedman, Social Security: Universal or Selective?(Washington, D.C.: American Enterprise Institute for Public Policy Research, 1972), p. 36.
+2 Basing benefits straightforwardly on taxes might have been more logical, but its drafters believed that the Social Security Act would be less vulnerable to constitutional challenge if the two were sharply separated. See Helvering v. Davis (3o1 U.S 61 ), in which the Supreme Court held that payment of old age benefits by the fed-eral government did not violate the rights of the states defined by the Tenth Amend-ment of the Constitution and was legitimate under the general welfare clause. Op-ponents did not question Congress's power to impose the payroll tax, but argued that the tax was plainly meant to support a purpose--old age benefits---that was unconstitutional.
+3 Arthur J. Altmeyer, Oral History Collection, Columbia University (1967), p. 66. (Hereafter Altmeyer, OHC.)
+4 There was a brief, limited exception in the late 196os. The Prouty amendment to the Tax Adjustment Act of 1966 provided monthly payments of $35 (plus $17.50 for a spouse) beginning October 1, 1966, for all persons seventy-two or over who were not otherwise eligible for social security, but after January 1, 1968, eligibility was limited to persons who had paid payroll taxes and had acquired at least three quarters of coverage for each year between 1966 and the year in which they became seventy-two. Also, these payments were reduced by the amount of payments received under government programs such as veterans' or civil service pensions and were not to be paid to persons receiving public assistance.
+5 Social Security Act Amendments of 1949, H. Rept. 1300, 81 Cong. 1 sess.(GPO, 1949), p. 181.
+6 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966 ), pp. 126, 205-06.
+7 Edwin E. Witte, The Development of the Social Security Act (University of Wisconsin Press, 1963), pp. 93-94, 102-03; "The Development of the Social Security Act: An Interview with Dr. Edwin E. Witte" (Wilbur J. Cohen was the interviewer), SSA, Office of Administration, OMA-TCD Pub. No. 083-75 (3-75), p. 6.
+8 Frances Perkins, "The Roots of Social Security," SSA, Office of Administration. OA-DTC Pub. No. 88-72 (11-72),p. 18.
+9 Altmeyer, The Formative Years of Social Security, p. 243. 
+10 Altmeyer, OHC, pp. 122--23.
+11 Altmeyer later judged that flat pensions would have been approved had it not been for the 1939 amendments, which got old age insurance off the ground in a y
+12 The politics, logic, and propaganda associated with use of the payroll tax are explored more fully in chapter 11
+13 Social Security Act Amendments of 1949, Hearings before the House Committee on Ways and Means, 81 Cong. 1 sess. (GPO, 1949), pt. 2, p. 1499.
+14 Letter from Wilbur J. Cohen to George E. Immerwahr, March 24, 1948(File o25 Advisory Council 1948, acc. no. 56-A533, R. G. 47, Box 6, Washington National Records Center, Suitland, Md.).
+15 Not all forms of private insurance make the amount of protection depend directly on the amount of premiums paid. Insurance purchased by an individual works that way, but group insurance, arranged by employers for employees as a class (with or without employee contributions), does not. Program executives there-fore reject the suggestion that social security is not "insurance" because it does not relate benefits closely to taxes. In their view, it is a means of pooling the costs of risk--and that is the essence of "insurance." Whether the program is "like insurance" is a highly debatable point, if only because private insurance takes a variety of forms, but there can be little doubt that to the average person the term "insurance" has conveyed the idea that he would get from social security what he had paid for.
+16 Congressional Record (April 12, 1935), p. 5530. 
+17 Congressional Record (June 14, 195o), p. 8586. 
+18 Congressional Record (October 5, 1949), p. 13939.
+19 Task Force Report on Public Welfare [Appendix P], prepared for the Com-mission on Organization of the Executive Branch of the Government by the Brookings Institution (GPO, 1949), p. 491.
+20 Social Security Act Amendments of 1949, Hearings, pt. 2, p. 1214.
+
+## 第十一章 融资
+
+当决策者思考如何支付社会保障的成本时，他们所面临的绝不仅仅是一个融资方式的问题。该项目的整体理念及其公共关系的心理基础，均建立在这样一个命题之上：福利是通过个体工人的“缴费”（contributions）所挣得的。融资不只是达成目的的手段，它更是核心所在。
+
+当然，理解为何会如此，以及决策者为何致力于将工资税（payroll tax）作为唯一收入来源，显得尤为重要。令人费解的是，一个由新政自由派创立并领导、且得到劳工组织支持的项目，竟然要通过一种累退税（regressive tax）来进行融资。1
+
+除了对税源的选择之外，理解决策者对税率的选择同样重要。在这一点上，他们最初拥有很大的自由裁量权。他们既可以选择设定一个相当高的税率，并建立庞大的储备金（reserve fund）以应对未来的成本；也可以基于初期较低的当前成本，将税率降至最低。他们的选择更倾向于后者，而这一选择对社会保障的政治运作产生了极其深远的影响。
+
+### 工资税的选择
+
+在行政部门内部负责规划老年保险的经济安全委员会（Committee on Economic Security）幕僚们，并未提议完全依赖工资税。他们认为，合并工资税率（即雇员税与雇主匹配缴纳的部分）不应超过5%，并且当达到这一税率时（预计在1965年），应当引入政府的一般性财政收入（general funds）。他们论证道，高于2.5%的税率可能会损害工人的生活水平，而雇主缴纳的2.5%份额实际上最终也可能转嫁到工人身上。鉴于这些风险，他们不愿支持过度使用该税种。尽管在短期内（诚然，这个短期长达近三十年）排他性地使用工资税，但该项目的坦诚基础则是基于这样一个假设：有朝一日它将不再能够实现财务自立（self-supporting）。2
+
+正是罗斯福总统在1935年使政府致力于采取毫不妥协的工资税融资政策。Arthur Altmeyer怀疑财政部的保守派官员是总统这一决定背后的推手，然而奥特迈耶也在其回忆录中证实，从规划老年保障的最初阶段起，罗斯福就偏好一种缴费型项目（contributory program），而非通过一般性预算收入融资的项目。罗斯福承认，短期内可能需要动用一般性财政收入来援助那些已经年迈且无法积累必要缴费额的人群，但从长远来看，他倾向于工资税融资。当他发现经济安全委员会向他提交了其他方案时，他坚持要求修改。这发生在1935年委员会规划的最后时刻，以至于在法案提交国会后，行政部门的规划者们仍不得不继续制定新的融资条款。为了顺应总统的命令，委员会幕僚与财政部达成一致，同意实行阶段性递增的工资税，直到1949年达到6%，预计当这笔税收与极其庞大的储备金利息相结合时，将足以无限期地维持该项目的运转。3
+
+Altmeyer认为，总统之所以偏好缴费体系，既是因为它在财务上更安全，也是因为这能使该保障成为一种挣得的权利（earned right），但罗斯福本人后来在面对一位抱怨该税具有累退性质的访客时，强调了第二点：
+
+> 我想你在经济学上是对的，但这些税收从来就不是经济学问题。它们彻头彻尾都是政治问题。我们把那些工资缴费放在那里，是为了赋予缴费者合法、道德以及政治上的权利去领取他们的养老金……有了那些税收在里面，任何该死的政客都永远别想废除我的社会保障项目。4
+
+就像1934-35年的行政部门规划者以及随后的项目主管们一样，总统偏好工资税是因为它能确保福利的支付。这会使政府处于负有义务的状态。1935年的行政决策者们并未主张——或许他们也不相信——社会有义务赡养其老年成员，无论后者在处于生产力旺盛的岁月里是否为此目的进行过税收“缴费”。他们当然也不认为国会或多数公众会相信这一点。他们假定，美国人会欣然同意仅仅向那些通过工作和牺牲“挣得”此类福利“权利”的人发放福利。
+
+关于使用工资税将使福利更具确定性的论点，也成为了美国劳工联合会（American Federation of Labor）的论点，因为该组织在20世纪40年代被拉入了与项目主管们的密切合作之中；但劳联同时告诉其成员，在缴费型计划下福利会更高（如果用一般性财政收入融资，福利将“不可抗拒地被拉低至救济标准”），而且劳工的政治影响力也会更大。“当钱直接从我们的工资中扣除时，”一份劳联公报写道，“人们会意识到这是我们自己的保险，我们可以对保险系统的运作方式拥有强大的建言权。我们试图建立的社会保障保护网越庞大，我们就越难获得它并确保其正常运转，除非账本上清清楚楚地显示出我们正在支付属于自己的份额。”5
+
+最后，支持工资税的还有心理学层面的论点，项目主管及其在劳联的盟友对此非常看重。鉴于美国社会自由放任、个人主义的精神气质（ethos），公民很难在不感到内疚的情况下接受政府的援助。工资税融资免除了他的内疚感。他被告知，他所获得的是来自自己“储蓄”的回报。
+
+尽管劳联的社会保障幕僚并非对该税种的累退性质漠不关心，但他们认为无形的收益值得付出这些有形的成本。Nelson Cruikshank对此感触极深。他告诉一位采访者：
+
+> 现在，劳工运动致力于［缴费型社会保险］在很大程度上是因为，一路追溯到我们在工伤赔偿（workmen's compensation）方面的经验，我们感到在此拥有一种将福利资格作为法定权利的体系，对于人类尊严和自尊而言具有巨大的价值……就在昨天和今天早上，我接到了我的一位老同事打来的长电话，出于我不便细说的原因，……他的妻子没有资格领取残疾保险（disability insurance）。他是一位资深的劳工业务代理人。昨天和今天早上，他简直要哭出来了。他说：“纳尔逊，你根本不知道你让我经历了什么。你完全不知道这些人会问你关于个人生活的什么问题，以及诸如此类的东西，那些我必须透露但我从未……”但是人们确实知道这一点。穷人知道这一点。因此，当工人同意缴纳工资税时，他买到的不仅是医疗福利，他买到的更是他的尊严和自尊，这对他们来说是非常真实的，并且绝对值这个钱。6
+
+所谓社会保障接受者并非在获取政府福利的观念，与其孪生的另一种观念相伴而生，即社会保障的支出并非政府支出。项目主管们的说辞仿佛在表明，由工资税融资并在独立基金中做账的社会保障支出，是联邦政府“节省”下来的钱；因为如果没有社会保险，这些支出将不得不由一般性预算收入融资并按惯例计入联邦预算。在始于1935年并随后在工资税基础上被不断充实的这一神话建构中，社会保障是一项庞大的自助事业，而政府的参与几乎是偶然的。“该系统从未花过联邦政府一分钱（a red penny），”一位南卡罗来纳州参议员在1956年宣称。“该系统的每一笔成本，从行政管理到退休发放，均由参与者的缴费支付。数百万人参与了社会保障；数百万人通过社会保障退休；数百万人从社会保障中受益，还有数以百万计的人将继续出于自愿、自掏腰包地这样做。”7
+
+否认社会保障是一项政府项目，并断言工资税是保险费（insurance premium）而非一种税，使得它看起来不再具有累退性。这也成为有组织的劳工接受它的理论依据之一。正如Cruikshank向一位采访者解释的那样，假设年龄和身体状况相同，一位低收入工人购买一份价值5000美元的私人人寿保险，所缴纳的保费将与他极其富有的老板完全相同；但在社会保障体系下，这位低收入工人缴纳的税款反而会更少。“因此，作为一种保险，它是美国累退性最弱的保险费，”Cruikshank总结道。8
+
+这就是构成该项目建立基础的工资税逻辑。
+
+### 早期辩论
+
+为满足总统指示而于1935年临时拼凑的融资计划，很快引发了党派争议；尽管兰登（Landon）的败选在华盛顿被视为民众对社会保险的决定性支持，但1936年的大选并未能平息这一争议。1937年遭到共和党攻击的，并非自收自支项目（self-supporting program）的原则，而是其预期结果——即计划到1980年积累高达470亿美元的储备金。参议院财政委员会（Finance Committee）的共和党籍议员阿瑟·H·范登堡（Arthur H. Vandenberg）宣称，这是“所能想象到的最荒谬、最站不住脚的目标”。他指出：“在民主国家里，理性的人竟然会提议在一个地方积累如此庞大且难以管理的资金，这简直令人难以置信。”9 共和党对储备金计划的批评，促使各方在1937至1939年间对融资问题进行了激烈的探讨。
+
+储备金之所以会积累，是因为该项目早期的工资税收入将远远超过支出。其目的是为项目产生未来收入。这些资金将投资于联邦政府债券，其产生的利息最终将构成工资税收入极其重要的补充。预计该项目成熟时的成本将接近工资总额的10%。其中，6%将来自工资税，其余则来自储备金利息。
+
+对储备金的保守派攻击由费城公积金人寿保险公司（Provident Mutual Life Insurance Company of Philadelphia）总裁M·阿尔伯特·林顿（M. Albert Linton）领导，他曾于1934年担任经济安全委员会的顾问（见第六章）。作为一名活跃的共和党人，他经常且有力地向《纽约时报》撰文，并在《大西洋月刊》以及精算学会的论文集上发表文章。因此，他的批评产生了广泛的影响。社会保障委员会（Social Security Board, 简称SSB）官员认定，范登堡的建议便出自林顿。
+
+尽管林顿并不认为真的会建立起一个如此庞大的基金，但他依然担忧试图建立此类基金所带来的政治与经济后果。他认为，国会要么会无视社会保障委员会提交的精算报告，而不将超额收入拨入该基金；要么会将超额收入作为放宽福利标准的借口。他告诉美国精算学会（Actuarial Society of America），核心问题在于政治，而非精算。“在养老金领域已经积累了足够的经验，足以表明：政客们根本不理解储备金的意义，也不懂得放弃花费当前收入转而进行投资以造福未来选民的必要性。”10 林顿的攻击通过范登堡获得了政治层面的发声渠道，这促成了1937-1939年咨询委员会（advisory council）的成立，而融资问题正是在该委员会中成为了辩论交锋的焦点。
+
+在这场辩论中，核心的委员会成员包括：林顿；曾任经济安全委员会幕僚长的威斯康星大学经济学教授埃德温·E·威特（Edwin E. Witte）；以及哈佛大学的凯恩斯主义经济学家阿尔文·H·汉森（Alvin H. Hansen）。有组织的劳工代表因当时对老年保险尚无兴趣而鲜有参与。委员会主席是J·道格拉斯·布朗（J. Douglas Brown）教授，他是1934年规划该项目的3名CES幕僚之一，而相关行政人员配置则由社会保障委员会提供。
+
+这场辩论的参与者都认识到，巨额储备金当时仍是个虚构的产物，它仅仅是表面上的争议根源。真正需要决定的是如何分配福利、如何征税，以及如何将两者联系起来——简而言之，就是想要建立一个怎样的项目。简单来说，问题在于：是像其最初相对纯粹的形式那样保持缴税与福利之间的联系，还是为了福利目标而进一步对此妥协。参与者们还认识到该项目的一个对政治极为重要且突出的特征：从长远来看，其成本将急剧上升。1939年的另一个议题是，如何以负责任的方式应对这一事实。未来的项目规模应该有多大？这应该由谁来决定——是现在的决策者，还是未来的决策者？
+
+在咨询委员会和SSB的领导层中，除威特外，每个人都愿意在短期内增加福利。各方普遍同意，福利的支付可以早于1942年，并可扩展至受保工人的家属及遗属。对于像芝加哥大学的保罗·H·道格拉斯（Paul H. Douglas）这样的自由派委员会成员以及SSB官员来说，这种立场很容易理解。这与他们的福利目标是一致的。反倒是保守派委员会成员的支持令人费解。这并不是说他们对公共政策的福利目标漠不关心；毕竟，咨询委员会中的“保守派”成员，其实是商界中非常“开明（liberal）”的代表。林顿、马里昂·福尔瑟姆（Marion Folsom）、杰拉德·斯沃普（Gerard Swope）以及咨询委员会中的其他商人，都真诚地相信政府有必要向老年人提供财政援助。要不是有这种信念，他们永远不会被任命为委员会成员。尽管如此，这仍不足以解释他们为何支持在老年保险项目中扩大并加速福利的支付。只有理解了他们对长期成本的担忧，才能理解这种立场。
+
+林顿告诉咨询委员会，他对社会保障研究得越深，就越害怕给后代造成过度且难以承受的负担的危险。他指出，该项目最终预计将耗费应税工资总额的10%；如果像奥特迈耶公开演讲所暗示的那样加上遗属和残疾福利，这一比例可能会达到20%。“我们这一代人，”林顿告诫道，“不打算拿出如此高比例的收入来提供《社会保障法》下的现行福利，但我们却漫不经心地假定，我们的子孙后代能够在不对国家经济生活造成严重干扰的情况下做到这一点。整个这套理念都需要重新审视。”他主张，每一代人必然要赡养同时代的老年人，因此不可能真正让遥远的后代承诺提供特定水平的老年赡养。11
+
+林顿的逻辑暗示了一种非缴费型项目（noncontributory program）——要么是向贫困者提供公共援助，要么是向所有老年人发放统一标准的养老金，但他并未明确提出这一论点。这第一届咨询委员会与其所有继任者一样，将基础项目视为既定事实，未曾考虑根本性的替代方案。相反，林顿提议对保险计划进行改革，以期在短期和长期成本之间取得更好的平衡。
+
+威特和林顿一样，对未来的经济抱有强烈的担忧。但是，汉森最担心的是早年过度征税带来的通货紧缩后果，而威特则与汉森相反；威特低估了庞大储备金造成的财政损害，认为该储备金发挥了一项至关重要的功能，即提醒国家其未来债务的规模。他拒绝接受林顿关于巨额储备金将刺激福利需求的论点。他认为增加福利的压力将完全独立于储备金的规模而存在，“特别是如果我们采取这样一种融资方式：仅仅筹集足够的资金来满足当前的支出，而完全无视未来的负债。”12 林顿希望为后代保留开放的选择权，而威特则希望向后代就其将面临的处境发出明确的警告。
+
+其他委员会成员比威特和林顿更倾向于“车到山前必有路”（等到了长远期再去担心）。“我死后，哪管洪水滔天！”（Apres nous le deluge!），布朗主席在威特的一次发言中曾如此打趣。可以肯定地说，威特和林顿对此并不觉得有趣。汉森预期经济增长将在长远内减轻保险负担。和威特一样，他强烈反对林顿关于降低最终福利的提议。在委员会内部，只有柯蒂斯出版公司（Curtis Publishing Company）总裁沃尔特·富勒（Walter Fuller）在这一点上支持林顿。咨询委员会在他们能达成一致的问题上拍板定案，并以务实的作风将其余问题搁置。他们同意尽快增加福利支出。这解决了一个迫在眉睫的问题——实际上是个伪命题——即关于庞大储备金的积累问题。该系统的总估计成本将保持不变；福利只是在不同时期和社会单元之间进行了重新分配（早期退休者以牺牲后期退休者为代价获益，有家室者以牺牲单身人士为代价获益）。反对建立大额储备金的保守派批评者被安抚了，希望增加福利支出的自由派批评者同样被安抚了，但融资计划的基本前提尚未达成一致。咨询委员会建议，法案中的税收时间表应在日后结合经验再予考虑。委员会表示，如果且当该时间表被修订时，应引入将系统最终成本进行三方分摊的原则——三分之一来自雇主税，三分之一来自雇员税，三分之一来自一般性财政收入。既然整个国家都将受益，那么使用联邦政府的一般性财政收入是恰当的。13 威特和林顿均未对此表示反对，尽管林顿后来改变了主意，而威特则警告说，对未来某个时候引入一般性财政收入的“愿望或希望”，不应成为在短期内降低工资税规模或储备账户规模的借口；如果要引入一般性财政收入，就应该立即引入，而不应损害全额融资原则。14
+
+国会批准了咨询委员会有关福利的建议（这也是行政部门的建议），但如同提早印证了威特的担忧一般，国会选择取消原定于1940年进行的0.5%的工资税率上调。因此，通过1939年修正案，国会得以在短期内增加福利并降低税收，这或许可以解释为什么两个委员会（众议院筹款委员会与参议院财政委员会）和参众两院都能以压倒性多数通过该法案。与1935年不同，众议院筹款委员会（Ways and Means）的共和党人并未提出异议，而是提交了补充意见，将放弃庞大储备金和推迟预定增税归功于自己，对长期成本发出警告，并质疑那些对单身人士不利的变更之公平性。15
+
+几年后，威尔伯·科恩（Wilbur Cohen）在向SSB员工发表讲话时，以一种简练且发人深省的方式总结了1939年的政治与决策过程。他说，没有人反对遗属保险，而且除了咨询委员会之外也没有人支持它。当时有许多言论称应该对该系统进行改革，“以避免产生470亿美元储备金这种骗人的把戏（hocus-pocus）”，而“我们提出了一个关于改变它的绝妙主意”。科恩观察到，1939年人们并未充分认识到社会保障的问题，这给委员会（SSB）和咨询委员会提供了一个提出建议的机会。“国会想做点什么”，而“我们给了他们一些东西”。科恩认为，这种情况不太可能再次发生。16
+
+### 冻结税率
+
+1940年，老年保险开始按月支付；两年后，美国加入第二次世界大战，致使精算预测化为泡影。在该项目实施的最初几年里，福利支出低于1939年任何人的预期，而工资税收入则远超预期。国会的应对方式是反复推迟原定的工资税增长，导致整个战争期间及战后的数年内，雇主和雇员的税率均维持在各自1%的水平。参议员范登堡再次主导了立法层面的批评，同样也再次得到了林顿的鼓励与专家建议，但推迟工资税增长的投票却得到了两党（bipartisan）的共同支持。不论党派或意识形态如何，如果无法证明当前的必要性，民选代表们根本不愿意主张增加一项专款专用税（earmarked tax）。
+
+奥特迈耶试图论证该项目的长期需求。战争期间高就业率和低退休率正在降低系统的短期成本，但却增加了其长期负债。1944年，奥特迈耶估计系统的赤字——即长期债务超过信托基金（trust fund）资产的部分——高达165亿美元。17 他承认，无论短期内有多少资金注入信托基金，未来的工人都将不得不通过工资税或其他税收，来支付赡养未来退休人员的成本。没有任何办法可以减轻后代的负担，但他主张，充实信托基金将使未来的福利支付更加确定。他暗示（虽未明言），这种融资方法将可靠地确立该项目对未来筹资能力的索取权；因为该项目的收入将主要来自信托基金的利息，这是一项可以指望政府去履行的义务；相比之下，国会直接向项目提供一般性财政收入的意愿则要成问题得多。因此，信托基金必须被视为一种使该项目“去政治化”（depoliticize）的机制，一种避免未来资金争夺的方式。针对林顿关于不断增长的储备金将构成对过度放宽福利之持续诱惑的论点，奥特迈耶反驳称，未能提高税率反倒会掩盖该项目的真实成本，进而助长对福利的放宽。
+
+尽管提供了反复且论证严密的证词，奥特迈耶仍无法说服国会相信：为了使遥远未来的老年保险福利支付更具确定性，应该立即提高税率并充实信托基金。他唯一的胜利是确保通过了一项修正案，该修正案承诺，如果证明工资税不足以履行福利义务——这是一个遥远的前景——将动用一般性财政收入。这项修正案由社会保障委员会起草，在获得范登堡的同意后，由其盟友之一——蒙大拿州参议员詹姆斯·默里（James Murray）在参议院提出。它被包含在《1943年税收法案》（Revenue Act of 1943）中。无论是众议院筹款委员会还是参议院财政委员会，均未对其进行正式审议。这种尽早对一般性财政收入的授权，更多是对行政部门的一种战术妥协，而非一项深思熟虑的政策。18
+
+### 国会的选择：自收自支项目
+
+当国会颁布1950年修正案并大幅增加社会保障福利时，融资问题已无可回避。1935年留给行政部门规划者、1939年又被咨询委员会（advisory council）巧妙回避的问题，如今必须由立法机关来面对。尽管做决定的过程十分缓慢，但国会最终做出的选择却是坚定而明确的。该项目必须是自收自支的（self-supporting）。它将完全依靠工资税融资，且该税率将在一个较长的时期内分阶段上调。社会保障委员会（Social Security Board）以及两届咨询委员会（1947-48年届与1937-39年届）关于引入政府一般性财政收入（general revenues）的建议均遭到了拒绝。
+
+最初做出这一选择的众议院筹款委员会（Ways and Means Committee）并未解释其逻辑。委员会成员在听证会和全院辩论（on the floor）中提出了反对使用一般性财政收入的几项理由：这对未被纳入该系统的人不公平；这将导致实施经济状况调查（means test），而这是不可取的；而且这将消除对支出的所有约束。只有认识到负责社会保障立法的委员会同时也是国会的税收委员会这一事实，或许才能理解该委员会的选择。正因如此，他们有几个理由青睐社会保障项目将福利与税收挂钩的做法。这种联系使得增税变得更容易，因为公众能看到他们的钱换来了实实在在的回报。这种联系还约束了对福利的需求，因为可以告诫国会议员及其选民，他们必须承担成本；这反过来又免除了委员会的压力，使其既不必为该项目筹集一般性财政收入（这是一项相对不受欢迎的举措），也不必为国家债务的增加承担责任。在项目发展的早期阶段就认识到了这些优势，相关委员会便毫不含糊地致力于工资税。19
+
+对税率的选择在一定程度上取决于对税种的选择。如果要完全依靠工资税来维持该项目，其税率就必须高于计划直接使用一般性财政收入的税率。（1947-48年咨询委员会与行政部门的建议是，允许工资税对雇主和雇员分别上升至2%，当该税率不足以维持项目运转时，再引入一般性财政收入。）众议院筹款委员会拒绝了“均衡保费”（level-premium）税率——即如果从一开始就征收，能够覆盖项目全部成本的单一税率。据1949年估计约为6%，该税率会导致积累起规模大得荒谬的储备金。没有人赞成这样做。相反，委员会选择了一种递增的税率时间表，从1950年的1.5%起步，到1970年升至3.25%。这是一个改良版的现收现付（pay-as-you-go）计划。由于在项目早期，该税收将产生足以维持项目的充裕收入，预计将会形成一个可观的信托基金（1960年估计为350亿美元），其产生的利息最终将构成工资税收入的重要补充。20 在这一点上，与在税源选择上一样，国会再次拒绝了行政部门的建议。在听证会上，一位众议院筹款委员会成员问奥特迈耶，在假设不使用一般性财政收入的情况下，税率应设为多少。奥特迈耶建议设为3%，并在1956年1月1日达到该水平。尽管他希望在六年内达到理论峰值，国会却更倾向于用二十年时间，并将最终税率定得更高。21 国会的选择接近罗伯特·鲍尔（Robert Ball）在《社会保障公报》（Social Security Bulletin）一篇文章中所鄙视的模式。“在老年退休项目中，完全依赖工资缴费的现收现付制几乎毫无意义，”鲍尔曾写道。“从在该项目下度过整个工作生涯的人的角度来看，先是对雇主和雇员合计征收仅1.0%或1.5%的税率，然后逐渐将该税率提高到可能是11%之多，这似乎有些荒谬。对于社会保险而言，就像私人年金一样，在整个工作生涯中维持一个或多或少稳定的费率，对工人和雇主来说都要容易得多。”他建议采用一个相当低的税率，并辅以一般性财政收入。22
+
+然而，社会保障署（SSA）的官员们并没有为自己的融资计划进行太多抗争。一方面是因为使用一般性财政收入的需求在时间上还很遥远（他们猜测是1965年或1970年），另一方面是因为对他们来说，扩大覆盖面和福利基数比融资方法更重要，因此他们并未将引入一般性财政收入视为一项紧迫目标。多年后，威尔伯·科恩（Wilbur Cohen）回忆说，在1949-50年间，他曾与威尔伯·米尔斯（Wilbur Mills）合作，删除了默里修正案（Murray amendment），即1943年加入的、授权在工资税不足时使用一般性财政收入的特别条款。23
+
+在主要决策者中，对国会选择的唯一异议来自众议院的少数保守派共和党人。来自内布拉斯加州的众议院筹款委员会成员卡尔·T·柯蒂斯（Carl T. Curtis）在一份由威斯康星州的约翰·W·伯恩斯（John W. Byrnes）和伊利诺伊州的诺亚·梅森（Noah Mason）联署的单独少数派声明中，对该融资计划的含义进行了长篇分析。柯蒂斯的声明是后世乐于称之为政策分析（policy analysis）的一个杰出范例。那是迄今为止发表过的对社会保险项目最为深刻有力的简短批评。柯蒂斯的声明论证道，由于初期受益人与缴费者的比例被人为压低，因此无法找到一种合适的社会保险融资方法。要求国会设定“均衡精算型”（level actuarial type）缴费在政治上是不可能的，即使能够做到，也是不可取的，因为在项目早期，从经济中抽走的资金将远远多于以福利形式返还的资金。另一方面，不要求均衡精算型缴费，则意味着早期加入者所支付的费用将远低于其福利价值，从而导致公众无法察觉该项目的真实成本。柯蒂斯敦促建立一个现实的项目，其中受益人数量应大致相当于未来几年可预期的数量。也就是说，应该对老年人实行普遍覆盖（universal coverage）。成本应该在当期支付，而且鉴于工资税具有累退性质，这些成本应该由所得税来支付。24
+
+在众议院全体会议上，主导批评的是柯蒂斯的同僚伯恩斯。尽管他只是众议院筹款委员会共和党少数派中的资历较浅者（junior member），且仅是第三届担任众议员，但伯恩斯已经赢得了广泛的尊重。他清晰地提出了核心问题，并将其上升到道德层面：
+
+> 比任何其他事情都更重要的一点是，我们要试着回答这个问题，我认为这是我们都应该问自己的一个问题……如果我们今天被要求征收真正足以支付该法案将赋予的福利所必需的6.5%工资税，我们还会投票支持这项法案吗？如果我们不愿意这么做，如果我们不愿意为了支付这些福利而在我们自己和当代人身上施加必要的税收，我们又怎么能投票把它强加给下一代呢？然而，投票支持这项法案，我们正在做的正是这件事。我们等于在说，我们将向这一代人仅征收1%、2%或3%的税，但对下一代——而且没有退路，这不是那种你可以今天加入明天就退出的事情——我们将征收6.5%的税。……这是我必须考虑的一点。正如我一开始所说，投票支持这项法案是世界上最容易的事情，因为你等于是把东西白送给那些已经在名单上和未来20到25年内将进入名单的受益人；但你不是在向子孙后代白送东西。那些子孙后代将为你今天白送的东西买单。我就是不相信，在这个基础上把重担压在我的孩子或你的孩子身上是诚实或合理的。请记住，我们在把他们绑上的战车上，没有给他们留下任何发言权。25
+
+下一位发言者赞扬了伯恩斯的声明，然后转而要求他澄清法律对雇员的定义，特别是在木材和造纸行业。伯恩斯提出的问题并不是众议院想要讨论的。作为一个整体，共和党在1949-50年间并没有提出与委员会提案有根本性不同的替代方案。在众议院，筹款委员会的大多数少数党成员投票同意将委员会法案提交全院，随后提出了一项本质相似但成本较低的共和党替代方案。在参议院，除一人（内布拉斯加州的休·巴特勒，Hugh Butler）外，财政委员会的所有共和党成员都支持这项旨在放宽并扩大保险项目，并在未来较长时期内以逐步提高的工资税为其融资的法案。在众议院，只有12名共和党人投票反对委员会法案。甚至当众议院筹款委员会的民主党人在全体会议上向柯蒂斯发起挑战时，未能为其少数派声明做有力辩护的柯蒂斯也不在这12人之中。（伯恩斯和梅森都投了反对票。）在参议院，法案以81票对2票获得通过。只有华盛顿州的哈里·P·凯恩（Harry P. Cain）与巴特勒作为少数派投了反对票。党内的财政保守派继续对社会保险感到不安。他们本来更倾向于建立一个全民覆盖的现收现付制系统，理由是这除了更公平之外，还能为公众提供更清晰的成本指引；但到了1949年，显然他们将不得不转而接受社会保险。他们的领袖通过引用覆盖面和福利水平的改善来为接受1950年立法进行辩护。“我觉得这项法案兑现了两党做出的普遍承诺，”罗伯特·A·塔夫脱（Robert A. Taft）在参议院说。（共和党曾在1948年承诺扩大覆盖面并提供更符合实际的福利。）“关于这项法案，我唯一不喜欢的一点是，它仍然坚持所谓的社会保险项目。我不认为那是保险，并且我认为，如果我们能越早认识到人民期望的是建立在现收现付基础上、全民覆盖的养老金，我们的情况就会越好。”26
+
+有组织的劳工并未对国会支持工资税融资的决定提出抗议。按照他们现在的习惯，劳联（AFL）和产联（CIO）在与社会保障署的合作下，均在1949年作证称最终应使用一般性财政收入。在1940年代初关于瓦格纳-默里-丁格尔法案（Wagner-Murray-Dingell bill）的讨论中，这两个组织都曾支持三方融资（雇主工资税加上雇员工资税加上一般性财政收入）。然而，威尔伯·米尔斯精明地引导劳联主席威廉·格林（William Green）放弃了这一立场：
+
+> 米尔斯先生：我们将得到您这一伟大组织的支持，采取这样一种立场：未来颁布的任何福利都必须被支付。
+> 
+> 格林先生：哦，是的。那是我们伟大组织坚定不移的立场。
+> 
+> 米尔斯先生：但是当有人向委员会建议可以从一般性财政收入中拨款用于社会保障项目时，这可能会引起一些人对社会保障项目下的税收能否支付这些福利和成本的怀疑。现在，您在提交给委员会的书面声明的第四页做出了这样的陈述，即联邦政府或许很适合为该基金出资。正是这样的陈述，导致国会中的某些人担心我刚才提出的论点是否有效。
+> 
+> 格林先生：我能理解这一点。那会引起严重的担忧。
+> 
+> 米尔斯先生：国会在未来应当非常慎重，不是吗，在从一般性财政收入中为老年遗属保险（OASI）提供资金时；而且另一方面，应当试图维持一个能支付成本的雇主和雇员的税率。
+> 
+> 格林先生：是的；那是我们的目的；那是我们的目标。那是我们所支持的。
+> 
+> 米尔斯先生：我们可以期望您的组织会继续坚持这个目的吗？
+> 
+> 格林先生：您可以相信这一点。27
+
+自收自支具有了教条的性质。这是国会对项目学说做出的贡献，而项目主管们屈从了。正如国会从行政部门那里“学到了”凭权利获得的福利和与工资挂钩的福利的神圣性一样，项目主管们也从国会那里“学到了”自收自支项目的神圣性。即便工资税率远远超过了他们最初判定为合适的2%或2.5%，他们也没有再次提出使用一般性财政收入的建议。和国会各委员会一样，行政官员们也开始像问题已一劳永逸地解决那般对待融资问题。国会在1949-50年间做出决定的那种似乎具有最终效力的态势是具有误导性的。第八十一届国会无法约束其继任者。只要政客们认为工资税“过高”，随时仍然可以引入一般性财政收入。但通过委员会报告中强调性的语言、删除默里修正案的决定，以及从劳联获取支持性承诺的考虑，这届国会——在此事中由米尔斯领导——毫不掩饰其意图。就像社会保障项目的主管们在这些早年间设法封死未来政客的选择空间并迫使他们支付承诺的福利一样，米尔斯在1949年也进行了操作，以迫使未来的政客们用工资税来支付这些福利。由于社会保障的巨大影响在于未来，政策制定不仅包括当前竞争者之间的讨价还价，还包括计算未来竞争者的负担，预见他们的反应，并为他们设置约束条件。
+
+### 实践中的自收自支 
+
+尽管实际的和预期的税率几乎随着每一项新的社会保障立法而变化，但国会始终坚持自收自支的政策。当前的税率保持在足以支付当前支出的水平（在大多数年份还会多出一点以补充信托基金），并且法律中包含了一个旨在涵盖未来不断上升的成本的税率递增时间表。在一句充满象征意义、自我吹嘘的短语中，国会习惯性地称其为“财政稳健” 或 “精算稳健”（actuarial soundness）政策。精算师的预测为国会设定未来税率提供了依据，保护国会免遭“只顾眼前”的指责。对那些指责国会只盯着下一次选举的人，国会可以回应说，它拥有一位能看见永远的精算师。精算估算一直延伸到遥远的未来（perpetuity）。28
+
+国会可以说它在仔细考量成本；但事实却是，税收的理论峰值始终停留在地平线上，距离当下还有6到21年不等，具体取决于国会的最新计划，这意味着该项目的当期成本总是具有误导性地偏低。公众最终是否愿意支付这些成本，必然是个未知数。该项目到底有多“稳健”，只有时间能证明。此外，即使假设精算师的估算是准确的（国会对其所谓“精算稳健”的宣称完全依赖于此），任何给定的税率时间表都无法很好地指示未来纳税人将被要求支付多少，因为在扩大项目的过程中，国会不断提高当前和未来的税率。表 11-1 比较了1950年法律中预定的增幅与实际发生的增幅。税率并没有像预期的那样每隔五年左右上调一个可观的比例（如0.5%），而是随着项目保护范围的放宽，每隔一两年就小幅上调。众议院筹款委员会将福利和税收增长挂钩视为一种美德。作为主席的米尔斯经常说，应该教育公众：福利必然带来更高的成本。然而，将两者挂钩的作用掩盖了另一个本来也有助于公众理解该项目的教训。并非每一次税率上调都是由福利增加引起的。即使福利没有增加，税率也是会上涨的。将两者与不断上升的福利联系起来，大概有助于赢得公众对不断上升的税率的接受，并掩盖税率上升是该项目固有属性这一事实。从一种观点看，这种挂钩是财政负责任的表现；从另一种观点看，这是政治上的权宜之计。
+
+**表 11-1. 1950年《社会保障法》修正案计划的 OASDHI 税率与实际税率，1951-73年**[^a]（单位：百分比）
+
+| **年份** | **1950年计划税率** | **实际税率** |
+| ------ | ------------- | -------- |
+| 1951   | 1.5           | 1.5      |
+| 1954   | 2.0           | 2.0      |
+| 1957   | ...           | 2.25     |
+| 1959   | ...           | 2.5      |
+| 1960   | 2.5           | 3.0      |
+| 1962   | ...           | 3.125    |
+| 1963   | ...           | 3.625    |
+| 1965   | 3.0           | ...      |
+| 1966   | ...           | 4.2      |
+| 1967   | ...           | 4.4      |
+| 1969   | ...           | 4.8      |
+| 1970   | 3.25          | ...      |
+| 1971   | ...           | 5.2      |
+| 1973   | ...           | 5.85     |
+来源：罗伯特·J·迈尔斯（Robert J. Myers），《社会保障》（Social Security）（麦卡汉基金会，1975年），第116-27页。
+a. 雇主和雇员均按所示税率缴纳。
+
+随着医疗保险的通过，自收自支政策出现了一个重大缺口。国会当时决定，利用一般性财政收入为未能通过其他方式获得社会保障覆盖的老年人支付医疗保健成本，并按同等比例匹配自愿部分（B部分，涵盖医生服务成本）参与者缴纳的保费。29 米尔斯曾在20世纪60年代初告诉一位采访者，他反对老年医疗保险的理由是它可能会导致一般性财政收入的使用，但在紧要关头，当米尔斯于1965年接受医疗保险立法时，他也接受了相当大程度的一般性财政收入融资。不过，这一重大缺口仍然局限于该项目这个新的、独立的部分，而在医疗保险立法通过两年后，米尔斯依然像往常一样坚决反对使用一般性财政收入来为老年保险的基础项目融资。30
+
+就目前而言，米尔斯无需担忧。1967年的一次短暂考验表明，决策者支持工资税融资的共识依然坚定。在参议院关于社会保障立法的辩论中，佛蒙特州的温斯顿·L·普劳提（Winston L. Prouty）提出了一项修正案，旨在停止提高工资税，并开始引入一般性财政收入融资。在财政委员会主席拉塞尔·B·朗（Russell B. Long）发表反对演讲后，参议院以62对6的巨大差距投了反对票。此时，社会保障项目的高管们也没有回应自由派经济学家要求减少对工资税依赖的日益高涨的呼声，这些经济学家担忧工资税的累退性质。
+
+这种表面上顽固的教条主义实际上有着战略基础。一位社会保障高管在1966年为布鲁金斯学会（Brookings）会议准备的背景文件中指出，不使用一般性财政收入的最重要原因是“制度性的”。换言之，这些原因并非植根于原则，而是出于维持和扩大项目的需要。根据这份异常坦率的分析：
+
+> 将老年遗属保险（OASI）打造成一个由工资税融资的独立系统的决定，在很大程度上使得挣得权利的概念、免除经济状况调查以及该系统的广泛可接受性成为可能。……对社会保障系统制度特征不以为然的经济学家，通常会将该系统的缴费性质称为“神话”（myth），或嘲弄受益人已建立起权利的观念，抑或贬低该系统的保险特征。但几乎不容争议的是，将工资税指定专项用于老年遗属和残疾保险（OASDI），减少了对低收入者征税的阻力，使得在原本可能无法增税的时候提高税率成为可能，并赋予了信托基金项目一种半脱离于政府其他部分的特权地位。制度主义者预见到这些优势将成为把新项目植入社会结构的方法。31
+
+这种对工资税融资政治意义的评估值得仔细推敲。
+
+### 对政治与决策的后果
+
+完全依赖工资税并强制实行自动递增税率的决定属于政策“结果”（outcomes）。然而，像所有结果一样，它们反过来又对决策产生了影响。它们促成了社会保障的去政治化（depoliticization）——也就是平息了通常伴随如此庞大政府项目的争议和辩论。它们使得社会保障在制度上对国会极具吸引力。通过向多数人征收轻微税款，国会向所有纳税人承诺了未来的福利，并向数百万老年人发放了远超其所缴社会保障税款的当期福利。与此同时，凭借自收自支的政策，国会彻底摒弃了债务的概念。在修辞上，国会将财政责任提升为该项目的首要原则，而在实践中却产生了庞大、无法估量且在很大程度上未被承认的未来债务。一旦威特关于全额储备融资的难以维持的想法被抛弃，不断累积的债务绝对规模便淡出视线。
+
+普通民众显然相信了官方的说法，即他们通过缴纳工资税在挣得自己的退休福利，并且毫无怨言地接受了这些税收，因为他们相信自己付出的最终都会得到回报。32 许多证据表明，这种观点在国会的主要决策者中占据了主导地位，同时也不乏玩世不恭（cynicism）。例如，米尔斯在1949年向众议院介绍老年保险时。他对该项目是走向“福利国家”之举的指责嗤之以鼻。他说，不顾需求地提供统一的养老金可能会带来福利国家：
+
+> 但是，当我们要求个人在生产力旺盛的岁月里，以缴费的形式，从他的工资和收入中留出一笔钱，使政府机构能够在他年满65岁后为他提供福利时……怎么能说我们是在免费为那个人提供某种东西呢？当然，他至少有权说他是在购买并支付老年的保障以防匮乏。33
+
+约翰·伯恩斯敏锐地指出，当前的纳税人远远谈不上购买并支付了他们的需求保障。当然，米尔斯在声称纳税人“有权说”他已购买并支付了其福利——而不是说他实际已经这么做了——时，就已经做出了很大的让步。再比如，1950年参议院听证会上俄克拉荷马州的罗伯特·科尔（Robert Kerr）与一位来自美国商会（U.S. Chamber of Commerce）的证人之间的一段发人深省的对话。该证人建议立即让社会保障成熟化，以此作为揭示成本的一种方法。科尔指出，这将需要放弃人们自己为自己福利买单的观念：
+
+> 科尔参议员。现在，根据您刚才提出的建议，他［纳税人］会意识到他正在为一个造福他人的养老金系统缴费，而且其中没有任何一部分被保留下来用于造福他自己的系统。……
+> 
+> 马歇尔先生。当然，参议员，我认识到了这个问题。这在很大程度上是个呈现方式的问题。
+> 
+> 科尔参议员。玫瑰换个名字难道闻起来还能一样香，或者更香吗？34
+
+并非所有国会议员都因为公众似乎喜欢社会保障就喜欢它。对于保守派罗伯特·塔夫脱来说，公众如此热衷于保险反而是一个缺点。他预见到其他福利措施将通过冠以该名称而在政治上获益。但即便是塔夫脱，也不会将保守原则贯彻到约翰·伯恩斯那种地步，在面对1950年修正案时真的投下反对票。务实精神在两党内部占据了主导。
+
+尽管完全依赖工资税违背了他们早期的判断，但由于国会和公众接受了这种税，项目高管们也开始喜欢上它。它促进了项目的维持与扩大。“社会保障的融资，”阿瑟·奥特迈耶曾对社会保障委员会员工说，“尽管很重要，但也只是次要的……如果所有人都被覆盖了，自然就会找到融资的途径来提供足够的保障。”35 有组织劳工长期支持工资税，其部分原因也是出于战略考虑。“我们劳联-产联多年来一直顺应这一做法，”主席乔治·米尼（George Meany）在1967年向众议院筹款委员会作证时说，“为了我们知道你们也认同的更伟大目标。”36 换言之，有组织劳工认为最初通过工资税实现自收自支是必要的，但米尼警告说，现在项目已站稳脚跟，劳工的观点正在修正。1969年，劳联-产联提议引入一般性财政收入以支付项目三分之一的成本，这曾是项目高管们最初（1950年前）的立场。
+
+在公开场合，项目高管将工资税解释为一种实施财政纪律的手段。当一位共和党参议员对项目扩张表示担忧时，威尔伯·科恩回应道：“参议员，这就是为什么强调这是一个缴费型项目的好处。您防范所有这些潜在风险的终极保障，就是在这个将总收入与总支出挂钩的项目中，雇主和雇员必须分担成本。”37 这种看似合理的理论是：当被指定专项用途的工资税变得“太”高时，公众的抵触情绪将限制其扩张，这为保守派接受该项目提供了重要的理论依据。由于早期税率依然存在误导性地偏低，而未来的承诺却正在不断累积；同时因为如果真的出现了对该税种的强烈反对，国会可以随时引入一般性财政收入，所以该税种并非必然如此运作——这是一个需要洞察力才能领会，并且需要极大勇气才能在公众面前揭示的事实。无论是在民主党还是共和党，无论是在行政部门还是在立法机关，公职人员总体上都没有经受住这一双重考验。
+
+完全由工资税（除信托基金利息外）为社会保障融资，并将该税率保持在较低（近乎现收现付制）水平的决定，对社会保障的政治运作产生了重要影响。这些主要属于国会的决定，反映了负责税收的各个委员会以及整个国会对于增加一般性税收或在非绝对必要支付当期社会保障支出的情况下增加工资税收入的深切反感。没有任何重要的决策参与者坚持反对这些选择。有组织的劳工本可能被预料到会以工资税具有累退性为由提出反对，但他们还是凭借其优点（主要优点在于它保证了无需通过经济状况调查即凭权利获得的福利）和战略原因（它有助于该项目的建立）接受了工资税。本应反对现收现付制融资、并倾向于积累庞大储备金作为财政纪律措施的保守派利益集团，反而认为任何此类储备金只会助长挥霍无度。它积累得有多快，被挥霍得就有多快。
+
+项目高管确实倾向于在早期设定较高的税率，以确保该项目对公共资源的占用，而且他们也更青睐一种更为累进的融资计划（比如通过引入一般性财政收入来实现），但他们将确立项目并扩大其福利的范围与规模置于首要地位。在他们看来，无论融资安排如何，都是实现这一目的工具，而事实证明，国会偏好的安排非常出色地服务于这一目的。毕竟，国会的本性就是偏好受欢迎的事物。
+
+引用
+1 For discussion of the regressivity of the tax, see Joseph A. Pechman, Henry J. Aaron, and Michael K. Taussig, Social Security: Perspectives for Reform (Brookings Institution, 1968), pp. 178-83; Dorothy S. Projector, "Should the Payroll Tax Finance Higher Benefits under OASDI? A Review of the Issues," Journal of Human Resources, vol. 4 (Winter 1969), pp. 6o-75; Benjamin A. Okner, "The Social Security Payroll Tax: Some Alternatives for Reform," Journal of Finance, vol. 30 (May 1975), pp. 567-78; and John A. Brittain, The Payroll Tax for Social Security (Brookings Institution, 1972), esp. chap. 4.
+2 Social Security in America: The Factual Background of the Social Security Act as Summarized from Staff Reports to the Committee on Economic Security(GPO, 1937), pp. 204-06.
+3 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966), pp. 11, 29; Edwin E. Witte, The Development of the Social Security Act (University of Wisconsin Press, 1963), pp. 72-75, 147-51; Arthur M. Schlesinger, Jr., The Age of Roosevelt, vol. 2, The Coming of the New Deal (Hough-ton Mifflin, 1959), pp. 309-10.
+4 Schlesinger, The Coming of The New Deal, pp. 308-09
+5 Cited in Raymond E. Manning, Financing Social Security, Public Affairs Bul-letin No. 46 (Washington, D.C.: Legislative Reference Service of the Library of Congress, 1946), pp. 10-11.
+6 Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University (1967), pp. 188, 393. (Hereafter Cruikshank, OHC.)
+7 Congressional Record (July 17, 1956), p. 13041. 
+8 Cruikshank, OHC, p. 394.
+9 Congressional Record (March 17, 1937), p. 2324
+10 "Reserve Provisions of the Federal Old Age Security Program," Transactions of the Actuarial Society of America, vol. 36 (1935), pp. 363-80.
+11 Theron F. Schlabach, Edwin E. Witte: Cautious Reformer (State Historical Society of Wisconsin, 1969), p. 165; M. A. Linton, "Observations on the Old Age Security Program Embodied in the Social Security Act," November 5, 1937 (File 025 Advisory Council, R. G. 47, Box 137, National Archives).
+12 Edwin E. Witte, "Thoughts Relating to the Old-Age Insurance Titles of the Social Security Act and Proposed Changes Therein" (1938), p. 16 (File 025 Advisory Council on Social Security, R. G. 47, National Archives ) .
+13 Advisory Council on Social Security, Final Report, S. Doc. 4, 76 Cong. 1 Ses. (GPO, 1939).
+14 Social Security Act Amendments of 1949, Hearings before the House Committee on Ways and Means, 81 Cong. 1 sess. (GPO, 1949), pt. 2, p. 1387; Witte, "Thoughts Relating to the Old-Age Insurance Titles," p. 27.
+15 Social Security Act Amendments of 1939, H. Rept. 728, 76 Cong. 1 sess.(GPO, 1939) pp. 113-21.
+16 Analysis of the Social Security System, Hearings before a Subcommittee of the House Committee on Ways and Means, 83 Cong. 1 sess. (GPO, 1954), app. 2, pp. 1417-18.
+17 Freezing the Social Security Tax Rate at 1 Percent, Hearings before the House Committee on Ways and Means, 78 Cong. 2 sess. (GPO, 1944 ), p. 2.
+18 Congressional Record (January 19, 1944), p. 374.
+19 The committee reports in 1949-50 affirmed the principle of self-support with-out elaborating the rationale. See Social Security Act Amendments of 1949, H. Rept. 1300, 81 Cong. 1 sess. (GPO, 1949), p. 31; Social Security Act Amendments of 1950, S. Rept. 1669, 81 Cong. 2 sess. (GPO, 1950), pp. 33-34. For a recent statement of the rationale, see the remarks of Senator Russell B. Long, Finance Committee chair-man, in Social Security Financing Proposals, Hearings before the Subcommittee on Social Security of the Senate Committee on Finance, 95 Cong. 1 sess. (GPO, 1977), p. 223
+20 Social Security Act Amendments of 1949, H. Rept. 1300, pp. 32, 35. 
+21 Social Security Act Amendments of 1949, Hearings, pt. 2, p. 1316.
+22 Robert M. Ball, "What Contribution Rate for Old-Age and Survivors Insurance?" Social Security Bulletin, vol. 12 (July 1949), pp. 3-9. Ball was out of office when he wrote this article.
+23 Financing the Social Security System, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 1 sess. (GPO, 1975), p. 625.
+24 Social Security Act Amendments of 1949, H. Rept. 1300, pp. 173-84.
+25 Congressional Record (October 5, 1949), p. 13940.
+26 Congressional Record (June 14, 1950), p. 8586.
+27 Social Security Act Amendments of 1949, Hearings, pt. 2, pp. 1994-95.
+28 Had the system not had a suitable actuary---one in whom Congress had confidence and who had confidence in his own estimates--the financing method chosen  by Congress would have been much less feasible. The departure in 1947 of the dissident W. Rulon Williamson, who had said that highly reliable estimates could not be made, followed by his replacement with Robert Myers, was the necessary pre-condition to the policymaking routine that the program legislators in Congress and the program executives in the SSA together settled on in 1949-50. (See chaps. 2 and 7.)
+29 Congress has also made general revenues available for certain limited and specific purposes: to pay for wage credits granted for active service in the armed forces between 1940 and 1956; to pay for wage credits granted to Japanese Ameri-cans who were interned during World War II; and to pay the cost of special bene-fits to persons seventy-two and over to whom Congress in 1966 granted benefits of a flat amount if they were not otherwise eligible. These exceptions do not add up to very much. In fiscal 1975, out of OASDI trust fund income of $50.4 billion, $447 million came from general revenues, not counting interest payments. Social Security Administration officials maintain that interest payments should not be counted as income from general revenues. Such interest payments, they reason, are not for the purpose of paying social security benefits. Rather, they represent the cost of the government's borrowing to pay for general expenses; if the interest did not go to the trust fund, it would go to other (presumably private) investors.
+30 Dan Cordtz, "Social Security: Drifting Off Course," Fortune, December 1967, p. 21o; Mills's views on health insurance were obtained in 'an interview with Gary L. Filerman on August 1o, 1962, when the latter was a graduate student at the University of Minnesota. For a copy of the interview protocol, I am indebted to my Brookings colleague James L. Sundquist, to whom Filerman gave copies of this and many other interviews on medicare.
+31 John J. Carroll, for the Social Security Administration, Office of Research and Statistics, "Social Security Financing Revisited," a background paper for the Conference on Social Security Financing held at the Brookings Institution, June 17, 1966, pp. 26-27.
+32 One cannot be sure just which properties of the program best account for the public's liking it. The favorable early benefit-cost ratios presumably were important, even though the public was probably not conscious of them. It is quite safe to suppose that if the reverse had been true---if, that is, individual benefit-cost ratios had been highly unfavorable--the program would have been unpopular.
+33 Congressional Record (October 5, 1949), p. 13905.
+34 Social Security Revision, Hearings before the Senate Committee on Finance 81 Cong. 2 sess. (GPO, 1950), pt. 3, p. 1485.
+35 Analysis of the Social Security System, Hearings, app. 2, p. 1407.
+36 President's Proposals for Revision in the Social Security System, Hearings before the House Committee on Ways and Means, 9o Cong. 1 sess. (GPO, 1967), pt. 2, p. 576. Several years before, Nelson Cruikshank had told an interviewer that organized labor had accepted the financing plan in the 1950 amendments "as a practical move to get the benefits we wanted." Robert M. Clark, Economic Security for the Aged in the United States and Canada: A Report Prepared for the Government of Canada, vol. 1 (Ottawa, 1960), p. 154.
+37 Social Security Benefits and Eligibility, Hearings before the Senate Committee on Finance, 87 Cong. 1 sess. (GPO, 1961), p. 102.
+
+## **第十二章 谁赢，谁输**
+
+分配选择——简而言之，即关于谁赢谁输的决策——嵌入在每一项政府计划之中。政策制定者无法回避这些选择，然而，社会保障领域的政策制定过程，其特征却并非体现为潜在或实际的赢家与输家之间激烈的竞争。虽然社会保障制度产生了严重的分配偏差——尤其是参与者与非参与者之间、早期加入者与晚期加入者之间——但这些偏差是该制度的产物，并无持久的社会差异基础。因此，在制度运行的早期，这些偏差并未引发冲突。只有当制度中真实存在或被指称的偏差，与既有的政治裂痕或社会分歧基础（如社会阶级、性别、年龄或婚姻状况）相吻合时，冲突才会产生。然而，这类冲突十分罕见，因为制度中的妥协与模糊性淡化了矛盾，且并非所有受影响或潜在活跃的群体都为了政治目的而实际组织起来。分配偏差要么通过利益的妥协与平衡被消除；要么被官方修辞以及该制度复杂、高度技术性的特征所掩盖；或者由于受害者的冷漠与消极而在政治上变得无关紧要。
+
+### **政策制定者的公开立场** 
+
+通过研究行政部门或国会中主要政策制定者的言论，人们几乎无法察觉分配选择的存在。他们的概念语言中并不包含群体冲突的术语，而这种术语的使用很可能影响了政治现实。话语和符号影响感知，而政治活动受感知的启发程度不亚于受现实的启发。在他们力所能及的范围内，主要政策制定者鼓励以一种非政治（Apolitical）的视角来看待该计划。例如，罗伯特·鲍尔（Robert Ball）曾指出，“退休后的收入保障并不是一个群体——处于工作年龄的人——帮助另一个群体——退休人员——的问题。而是每个人都在为生命晚年的持续收入做规划。”1 当年轻的参议员、马萨诸塞州的约翰·F·肯尼迪（John F. Kennedy）在辩论中观察到社会保障对许多群体不公——特别提到了对高收入者的歧视——时，财政委员会主席尤金·米利金（Eugene Millikin）回答说，他对此“有一些无法公开表达的看法”。2 将社会保障本质上视为一种个人活动体系，而非群体事务，并拒绝在公开场合谈论群体偏差，这抽干了其政治意义；而官方断言个人参与者总能从参与中获益，则进一步抽干了其政治内容。计划执行官员反复宣称，每个人从社会保障中获得的都比投入的多。这里没有赢家和输家，因为每个人都是赢家。
+
+从表面上看，这构成了一个政治谜题。每个人怎么可能都获益？如果有些人的获益多于投入，难道其他人不必然获益较少吗？官方对此的回答是否定的，因为用于再分配或“社会”目的的资金来自雇主缴纳的薪工税（Payroll Tax），而非个人雇员的部分。这暗示了一种比实际情况精确得多的会计核算，并忽视了许多学术分析家的观点，即雇主税实际上是由雇员承担的。即使接受官方陈述的表面意思，即使每个人都是赢家（这在早期确实是事实，尽管并非出于官方给出的理由），3 分配问题仍未得到圆满解决，因为人们仍须追问：是否有些人是更大的赢家？虽然计划执行官员并未强调这一点，但他们在国会证词中经常承认收益表具有累进性：低工资工人相对于其税款支付，获得的收益比高工资工人更多。特别是在1939年的立法变更后，他们从未标榜该制度是严格按照个人公平原则运行的。而且，一旦承认个人获得的收益并不完全与支付成比例，就很难逃避那个根本性的政治问题：成本和收益是如何分配的？
+
+以下分析探讨了该计划对不同类别人口产生的差异化影响。其中一些类别（基于社会阶级、年龄、性别和婚姻状况的差异）在社会分析中很常见。另一些则是社会保障计划特有的（参与者与非参与者、早期加入者与晚期加入者）。
+
+### **社会阶级** 
+
+从公开记录来看，社会保障政策制定者很少考虑到阶级裂痕——即由于收入和财产分配不均而产生的社会分歧。即便是在1935年经济极度困难的时期，尽管他们对社会福利立法的公开辩解有时会委婉地提到阶级冲突的可能性，但他们仍然以“保障”而非“平等”来表述立法目标。其目标是提供针对不幸的保护——“生活中某些特定风险和变迁”，如萧条伴随的失业——而不是减少在繁荣与萧条时期始终存在的收入不平等。总统的声明及其经济保障委员会的声明中都没有阶级冲突的意识形态。* 十年后，阿瑟·奥特迈耶（Arthur Altmeyer）在1945年社会保障委员会官员会议上提到，虽然社会阶级之间的收入再分配是一件好事，但这并不是社会保障的目的。他说，“那个问题必须通过累进税进行正面且坦诚的解决。”5 然而，即使是最迟钝的政治分析家也能从其实际行为中推断出，社会保障政策制定者在设计计划时并非对阶级裂痕视而不见。社会保障将累退税与累进的收益表相结合。当因税收的累退性受到批评时，计划执行官员回答说，收益表的累进性补偿了这一点；虽然他们没有因为收益的累进性而受到公开批评。人们怀疑，税收的累退性被理解为接受这种累进性的一个政治条件。这里似乎存在一种利益交换（quid pro quo），一种处于计划核心的大型交易，由主要政策制定者安排，旨在调和境况较好和较差的参与者之间相互冲突的利益。
+
+然而，这种解释使社会保障的潜在政治显得比实际情况更简单、更直接、更透明。防止公开的、与阶级相关的竞争的妥协与调适，比这笔显而易见的交易更为深厚，因为并不仅仅是薪工税与累进收益的结合使它们变得可以接受。每个要素本身在政治上都是模糊的，因此被证明可以被那些本可能产生对立的利益集团所接受。本可能被预期反对薪工税的有组织劳工接受了它，因为缴费原则被认为保护了获益权，维护了领取者的尊严，并服务于一系列战略目标，包括劳工参与政策制定的机会（见第五章和第十一章）。而且，正如薪工税的某些属性使其被进步势力所接受一样，收益表也具有一些属性，赢得了境况较好者的支持，而这些人本应反对收入阶级间的再分配。尽管收益表具有累进性，但它是与工资挂钩的：低收入者相对于其薪工税而言获得比例较高的收益，但在绝对值上获得的仍然较少。6
+
+与工资挂钩收益的意识形态具有强大的号召力。计划执行官员向公众展示差异化收益——且显然深信不疑——认为这是美国式的道路，与以个人企业为动力的经济系统相一致。由于收益与工资挂钩，被社会保障覆盖的工人将永远有动力工作并赚取更多。支撑美国资本主义的经济激励体系将得以保留。这一论点得到了广泛接受和呼应，因为在社会保障创立初期，承认拒绝工作伦理的美国人寥寥无几。 多兰斯·布朗森（Dorrance Bronson）是一位曾在社会保障委员会工作的精算师，也是该制度最敏锐的批评者之一，当他在国会证词中建议固定收益并不比挂钩工资的收益更具社会主义色彩时，一位民主党委员会成员简直不敢相信： 布朗森先生：如果我们从头再来，我会支持固定制度、固定收益、固定缴费。卡罗尔先生：但固定制度是社会主义制度，不是吗？ 布朗森先生：我正试图指出，我觉得现行制度更具社会主义色彩…… 卡罗尔先生：你是说缴费制比固定制更具社会主义色彩吗？……基于每个工人个人能力和收入的（收益）没有任何社会主义成分。7
+
+政策制定者对与工资挂钩的现实性与象征意义同样敏感。他们通常将最高支付额与最低支付额的比例保持在4:1左右。“让我们尽可能保持其与工资挂钩，”威尔伯·米尔斯（Wilbur Mills）在20世纪60年代后期告诫威尔伯·科恩（Wilbur Cohen），并警告说否则将失去公众支持。8 科恩很难反驳这一点。就在几年前，他在国会证词中提到，“如果你没有……国家认为的最低限额和最高限额之间足够的利差，那么人们对与工资挂钩的缴费制度的热情就会减弱。”9 在他看来，这种差异“应该大到足以确保获得大多数纳税人和受益人的心理及财政支持。”10
+
+正如在该计划设计的其他方面一样，政策制定者全神贯注于对公众认可的需求，这是计划维持与增长必不可少的条件。科恩在与米尔顿·弗里德曼（Milton Friedman）讨论社会保障的阶级偏差时，很快承认了这一点。弗里德曼曾说社会保障惠及中产阶级。“事实上，我认为他对此可能是正确的，”科恩回答道。“但是，这是该制度政治智慧的一部分。由于美国大多数人都处于中等收入、中产阶级范围内，社会保障是一项吸引他们的计划。”11
+
+这场交流中唯一可靠的信息是政治性的，而非经济性的。事实是，没有人确切知道社会保障如何影响收入分配。尽管经济学家对该计划进行了许多复杂的分析工作，但对于其阶级影响并无共识。佩奇曼（Pechman）、艾伦（Aaron）和陶西格（Taussig）在进行仔细分析后，拒绝对此做出评判。12
+
+如果分析家们不确定，利益集团也是如此，而这种不确定性抑制了政治行动。提出一个问题需要指出计划中的某个元素是不公正的，就像学术经济学家在批评薪工税时所做的那样。然而，政策过程的演变方式使得有组织的劳工等积极参与者很难做到这一点。 该计划的创始人坚持认为它是一个有机整体——用J·道格拉斯·布朗（J. Douglas Brown）的话说，是一个“整合的社会机制”。计划的要素（如税收）应根据其对整体运行的贡献来评估，而非根据外部标准。13 利益集团领导人接受社会保障计划中体现的妥协，正是因为它们是妥协——即政策制定者坚持认为的一个独特且内部整合的体系中的互补要素。
+
+### **年龄** 
+
+基于年龄的偏差是社会保障制度固有的，因为这是其社会功能的基础。成本由在职工人承担，而收益流向老年非劳动者。没有什么比这看起来更可能的了：社会保障的政治应该演变为要求更多收益的老年受益人与抵制高税收的在职工人之间的对抗，然而，这种情况并未发生。
+
+诚然，这种假定的代际冲突可能因在职一代的道德义务感而得到缓解。活跃的年轻人无论在公共还是私人领域都承担着赡养老人的责任。在职工人可能会认为，公共计划并非创造了一项新的、不受欢迎的负担，而只是转移了迄今为止由私人承担的责任，从这个角度看，这值得他们的支持。此外，代际冲突也可以通过年龄不可避免的动态变化而缓解。虽然抽象的年龄类别是固定的，但真实的个人会不可阻挡地进入老年类别。因此，尽管美国劳工联合会主席威廉·格林在1934年坚持要求雇主承担失业保险的全部费用（因为是雇主解雇了员工），但他告诉一位养老保险规划者，美国劳工运动将接受该计划中“五五开”的缴费方式，“因为每个人都会变老”。14 这种常识性的感知倾向于削弱代际冲突。个人认识到，时间将改变他们在社会保障体系中的位置。
+
+尽管如此，即使考虑到了这些缓解因素，该计划没有陷入代际政治仍是令人瞩目的——尽管在计划创立时，老年人的政治活跃度正处于巅峰，受到大萧条时期激烈政治中涌现的各种民粹煽动者和群众运动的激发。冲突未发展的核心原因之一是，政策制定者设计的计划在原则上否认了冲突存在的基础。养老保险向公众展示的方式，是个人为自己的未来储蓄资金的一种手段。当在国会证词中受到逼问时，计划执行官员会承认这种观念不太符合财政现实，但他们几乎从未受到逼问，因为国会议员们对这种观念的喜爱程度就好像这是他们自己想出来的一样。
+
+同样重要的是，社会保障计划从小规模起步，初始受益人数量有限，并分阶段发展。老年人并没有立即集体成为该计划的客户群体。虽然政府计划通常具有动员客户、在原本缺乏或没有活跃政治利益集团的地方创建利益集团的效果，但社会保障可能产生了相反的效果；通过在短期内仅向部分而非全部老年人提供收益，它可能有助于瓦解汤森运动（Townsend movement）。在社会保障启动后，即便老年人仍保持政治活跃，他们也将注意力集中在短期内规模更大的计划——老年援助（Old Age Assistance）——上，并试图影响主要负责决定该收益规模的州政府。在马萨诸塞州、路易斯安那州、俄克拉何马州、加利福尼亚州、俄勒冈州和华盛顿州等一些州，老年人在多年间是一支强大且有效的政治力量，而在其他州，其影响则微乎其微。因此，联邦体制下政府的分散性，结合《社会保障法》最初对老年收入支持计划的分散处理，抑制了全国性老年人政治组织的形成和维持。
+
+如果老年人通过社会保障立法被动员到全国规模，一支由在职工人组成的反对力量也可能被动员起来；政治往往就是这样运行的，力量会引发反作用力。现实中，在职工人通过AFL和CIO成为了该计划的主要组织化支持来源。20世纪40年代，这些组织的基层分会反常地通过决议，要求国会允许薪工税上涨。在这里，我们再次看到了计划执行官员成功吸纳有组织劳工的政治意义。本极易成为反对养老收益的主要组织化抵抗源泉的力量，却成了该计划忠实的推动者。当20世纪60年代初全国资深公民委员会成立以争取医疗保险时，有组织劳工是其资助者。在职工人与老年赡养者之间潜在的裂痕竟然变得如此无关紧要。
+
+### **性别与婚姻状况** 
+
+政策制定者表现出最少敏感性的社会区分是性别与婚姻状况，这推测是因为它们在政治上几乎没有相关性。除了妇女选举权运动之外，性别和婚姻状况都未被证明是政治意识的来源。唯独在这里，政策制定者为了福利目标，在没有明显政治后果担忧的情况下，有意识地在该计划中引入了可以避免的偏差。通过引入受赡养者和遗属收益，1939年的修正案给予了已婚工人巨大的优势，实际上减少了向高收入单身工人承诺的长期收益——这是极少数削减收益的案例之一。像往常一样，官方声明承诺每个工人，无论单身还是已婚，从其资金中获得的收益都比私人购买的更多（“除了极少数极端案例中的”单身人士）；15 但他们并未掩饰已婚人士获得相对优势的事实。经济分析家最终得出结论，这种优势可能是不公平的。佩奇曼、艾伦和陶西格在60年代后期发现，已婚夫妇与单身人士之间替代收入的差异，远大于由夫妇需要更多收入这一理由所能解释的程度。16 “在社会保障受益人中，”罗伯特·鲍尔在离任局长后观察到，“境况最差的是未婚者。”17 然而，单身人士在人口中只占一小部分且政治上不活跃——他们只是一个统计类别，而非一个有组织的利益集团——因此，该计划对他们的偏差并未转化为政治议题。
+
+另一方面，尽管事实依据相对薄弱，计划中的性别偏差最终还是成为了一个政治议题。当60年代末和70年代初的妇女运动审查社会保障时，一些反常现象浮出水面。例如，社会保障法为寡妇提供遗属收益，但除非鳏夫能证明其受赡养地位，否则不予提供。同样，受保男性工人的老年妻子每月自动领取收益，无需证明受赡养地位，而老年丈夫则需要此类证明。但是，尽管歧视的事实很清楚，谁是被歧视者却不明确。负担是落在那些被剥夺收益的男性身上，还是落在那些通过纳税为其丈夫购买的保护少于男性为妻子购买的保护的女性身上？一些针对性别的明显差异待遇在法庭上遭到抨击并被废除。与一般女性相比，职业女性更有理由抱怨这一制度。不公源于1939年的决定，即向受保工人的老年配偶（通常为妻子）支付收益，后者在达到特定年龄后有权获得退休工人（通常为丈夫）月度收益的一半。典型的职业女性会获得其丈夫收益的一半，或者是其自身工作赋予她的金额，以较高者为准。已婚职业女性理直气壮地抱怨她们交的税并没有换来多少收益。通过工作和纳税获得的额外收益通常微乎其微，随着女性更多地加入劳动力队伍，这种不满情绪也随之蔓延。在这里，妇女运动也揭示了歧视，即使这种歧视是针对受雇女性而非所有女性（且在技术上并不是针对女性，因为男性配偶受到的待遇与女性配偶相同）。18
+
+计划执行官员对这类问题的本能反应是通过调整计划来缓解冲突。“我认为时候到了，”罗伯特·鲍尔在1973年作证时说，“从计划健康运行的角度来看，关注纠正不公比将资金花在普遍提高收益水平上更为重要。”19 为了缓解对单身人士的偏差以及对工作配偶的反常待遇，他提议将无工作配偶的收益从工人收益的二分之一降至三分之一，但同时将工人的收益提高14%。这本可以在确保没有夫妇收益减少的情况下，实质性地改善单身工人和双职工家庭相对于单职工家庭的地位。但这也会大大增加系统的成本。20
+
+### **参与者与非参与者** 
+
+除了独立于该计划之外存在的社会区分，该计划的运行还在其自身内部创造了一些区分：参与者与非参与者之间，以及早期加入者与晚期加入者之间。这里产生了最严重的偏差，但因为这些偏差仅基于计划本身，它们引发冲突的潜力非常有限。社会保障为那些在通常职业中未被覆盖的工人类别提供了巨大优势。只有覆盖所有人，计划才能对每个人都公平。未被常规覆盖的工人可以通过进入受覆盖岗位足够长时间以获得资格，从而获得巨额意外收益。由于收益表的累进性赋予了受覆盖收入较低的人不成比例的收益，这些人可能会从有限的税收“投资”中获得极大的回报。
+
+全劳动力覆盖一直是计划执行官员的目标，但他们必须分阶段推进。最初的法律仅覆盖商业和工业工人。经济保障委员会曾建议覆盖除受《铁路退休法》覆盖之外的所有私人雇佣的工资和薪金领取者，但在听到财政部长摩根索关于为农业工人和家政服务人员征收薪工税不可行的意见后，国会排除了这些人。埃德温·维特认为，在这种情况下国会完全是在遵循惯例。农业和家政服务通常被排除在所有类型的监管雇佣条件的法律之外。在收到一些代表的反对意见后，众议院筹款委员会还豁免了教会、大学、医院和慈善机构等非营利组织。21 此后，追回这些初始损失并触及个体经营者和公职部门劳动力，成为了计划执行官员的核心目标。
+
+面对利益集团的抵制口袋和国会对扩大或增加税收的根深蒂固的抵触，他们取得了缓慢但稳定的进展。一个障碍是筹款委员会主席罗伯特·L·多顿，他曾告诉奥特迈耶，只有当“第一个鞋上沾着粪便的农民来找我要求被覆盖时”，他才会考虑农民的覆盖问题。22 曾经有一段时间，一个更强大的障碍是佐治亚州的参议员沃尔特·F·乔治，他是财政委员会成员，在20世纪50年代初因认为个体经营者应自食其力而成为强制覆盖该群体的死硬反对者。乔治认定覆盖他们是“蠕行中的社会主义”。23 奥特迈耶认为，最后一个障碍是该国农民的“个人主义、反动主义、独立性——随你怎么称呼”。当国会在1950年同意覆盖固定雇佣的农场和家政工人时，奥特迈耶觉得“我们终于翻过了那座大山”。24 此后，在接下来的二十年里，每隔几年就会发生一次扩张，直到几乎所有职业群体都被覆盖，只有联邦文职人员除外。州和地方政府及非营利组织仍保持自愿参与，但它们稳步加入系统，到70年代初，系统覆盖了90%的非营利组织雇员和70%的州及地方政府雇员。（然而，在数量上，剩余30%的州及地方雇员与联邦雇员一样是重要的例外。）这一结果具有巨大的讽刺意味。在这个最大的联邦政府计划中，唯独联邦政府自己的雇员保持了豁免。然而，其中许多人以个人身份参与了。1972年，58%的联邦文职退休人员也在领取社会保障收益，这推测是由于持有兼职或在政府退休后从事受覆盖工作的结果。25 通过结合文职退休金体系收益与社会保障收益，他们能够获得比仅受一个体系覆盖，或者文职退休金被设计为社会保障补充体系时更高的退休金。26
+
+联邦文职人员留在社会保障体系之外，并非因为缺乏相关的合并建议。历届咨询委员会、研究联邦人员退休政策的总统特别委员会（卡普兰委员会），以及社会保障局（其中文职服务委员会在此有时是勉强的合作者）的研究，都反复建议要么直接覆盖，要么采用信用转移方案以改善协调性。27 艾森豪威尔政府在50年代中期特别努力寻求覆盖联邦雇员。所有这些努力都因文职工会的反对而破裂，工会认为其成员留在系统外比加入能获得更优厚的退休收益。文职退休系统在多个方面优于社会保障，而且持续的分离当然也保留了重叠覆盖并在社会保障下获得意外收益的可能性。
+
+联邦文职人员的非参与并未激发群体冲突。社会保障的参与者由几乎所有联邦政府以外的受雇工人组成，这个群体庞大且分散，针对非参与者进行反向组织并不可行。此外，其中的利益关系是模糊的。参与者几乎不可能知道联邦雇员的非参与会将不公平的成本转嫁给他们。对于大多数人来说，他们在社会保障体系中的相对位置在政治活动中并不显著。
+
+### **早期加入者与晚期加入者** 
+
+只有当社会保障体系完全成熟，并覆盖了每个人从进入劳动力市场到退休、残疾或死亡的整个过程时，它才可能对每个人公平。即便到那时，成本和收益也可能在代际间分布不均，这取决于连续几代人的相对规模（需要多少工人支持多少退休者）以及国家经济状况，特别是经济增长的维持；但此类差异可被视为“意外”——人口和经济事件的偶然结果——而非社会保障体系的本质偏差。相比之下，一个不成熟的体系不可避免地存在偏差，除非政策制定者愿意给一些参与者极少的收益，并以远高于维持体系所需的速度向其他参与者征税。也就是说，从收益与成本的关系被扭曲的角度来看，它是有偏差的；早期加入者的收益-成本比高于后期加入者。
+
+一个年轻的社会保障体系对那些在体系启动时相对年长的工人有利。如果他们有资格获得收益，并且规定了合理的月度最低额，他们获得的回报将远超其有限的纳税额所能“购买”的部分。1935年社会保障体系的创始人们承认了这一点，但辩称基于心理和管理因素，规定合理的月度最低收益是必要的。发放极小额度的支票毫无意义。 埃德温·维特在筹款委员会为每月10或15美元的最低额度辩护时如下陈述： 这个（月薪）40美元的人在缴费5年后将获得每月约20美分的养老金，这个数额太小了，肯定不会令人满意。……在这名男子缴费5年后，虽然精算师计算出他的缴费只能购买每月20美分的年金，但他可能认为自己至少赚到了10或15美元的养老金。这是你必须考虑的心理因素。对于那些进入体系时间较短的人来说，如此小额的养老金永远无法令其满意。他们会觉得自己被骗了。28
+
+国会在1935年将最低额定为每月10美元，虽然这不算大钱，但它创造了与许多工人所“赚得”的部分完全不成比例的收益。政策制定者对于承认不成熟体系的第二种偏差则没那么积极，也许是因为这种偏差本可以更容易地避免。因为社会保险体系从小规模起步，随着老年人通过缴费获得资格并退休，覆盖面缓慢扩大，成本也逐渐增加。由于不成熟体系的特征是活跃纳税工人与退休受益人的比例很高，因此可以向纳税成员收取人为的低费率（即低于其自身收益成本的水平）并维持体系。这种偏差本可以通过收取“平准保费”（Level-premium）税率来完全避免——对此存在强大的经济和政治反对理由——或者通过收取鲍尔在1949-50年定义的“精算费率”来在很大程度上避免——该费率足以资助一代工人成员的平均收益。根据执行官员的精算费率计划，薪工税最终将由一般税收补充，但早期和晚期加入者的薪工税将几乎相同（见第十一章）。
+
+国会并未选择这个计划。相反，国会在1950年选择了一个渐进的薪工税表，从低税率开始（1951年为1.5%），并在未来年份上升到法律规定但在事实上只能推测的更高水平。因此，支付低税率的早期加入者比支付高得多的税率的晚期加入者拥有显著优势；这一优势通过定期将制度扩展到额外职业类别的法案而不断刷新。随着额外的职业群体被拉入——比如农民，或律师、医生等个体经营专业人士——短期效应是拉入比受益人多得多的纳税人，从而延长了体系的不成熟期，并维持了早期加入者的人为低税率可能性。试图预测个人收益-成本比的经济学家和精算师得出了迥异的结果，这主要取决于他们对利率和雇主税转嫁的假设，但所有这些估算都一致认为，随着体系成熟，此类比率将急剧下降。例如，在60年代中期，社会保障局的首席精算师估计，2010年退休的已婚男性的收益-成本比将是1962年的十分之一，尽管仍处于有利水平。私人估算显示出更不利的结果，但差异仅在于趋势的陡峭程度。29
+
+表 12-1. 1950-70 年特定年份，老年及遗属保险中每位受益人对应的纳税人数 **单位：千人**
+
+| **年份** | **受益人人数** | **纳税人人数** | **每位受益人对应的纳税人数** |
+| ------ | --------- | --------- | ---------------- |
+| 1950   | 3,477     | 48,283    | 13.9             |
+| 1955   | 7,961     | 65,203    | 8.2              |
+| 1960   | 14,157    | 72,530    | 5.1              |
+| 1965   | 19,128    | 80,681    | 4.2              |
+| 1970   | 23,564    | 92,700    | 3.9              |
+
+**Source:** Robert J. Myers, Social Security (McCahan Foundation, 1975), tables 10.26 and 10.27, pp* 386-87.
+
+表 12-2. 1937-72 年按时期或年份划分的纳税工资基数、税率及最高员工年度税额 **金额以美元为单位**
+
+| **时期或年份** | **纳税工资基数** | **税率 (OASDI$^a$)** | **税率 (健康保险)** | **税率 (总计)** | **最高员工年度税额** |
+| --------- | ---------- | ------------------ | ------------- | ----------- | ------------ |
+| 1937–49   | 3,000      | 2.00%              | ...           | 2.00%       | 30.00        |
+| 1950      | 3,000      | 3.00%              | ...           | 3.00%       | 45.00        |
+| 1951–53   | 3,600      | 3.00%              | ...           | 3.00%       | 54.00        |
+| 1954      | 3,600      | 4.00%              | ...           | 4.00%       | 72.00        |
+| 1955–56   | 4,200      | 4.00%              | ...           | 4.00%       | 84.00        |
+| 1957–58   | 4,200      | 4.50%              | ...           | 4.50%       | 94.50        |
+| 1959      | 4,800      | 5.00%              | ...           | 5.00%       | 120.00       |
+| 1960–61   | 4,800      | 6.00%              | ...           | 6.00%       | 144.00       |
+| 1962      | 4,800      | 6.25%              | ...           | 6.25%       | 150.00       |
+| 1963–65   | 4,800      | 7.25%              | ...           | 7.25%       | 174.00       |
+| 1966      | 6,600      | 7.70%              | 0.7%          | 8.40%       | 277.20       |
+| 1967      | 6,600      | 7.80%              | 1.0%          | 8.80%       | 290.40       |
+| 1968      | 7,800      | 7.60%              | 1.2%          | 8.80%       | 343.20       |
+| 1969      | 7,800      | 8.40%              | 1.2%          | 9.60%       | 374.40       |
+| 1970      | 7,800      | 8.40%              | 1.2%          | 9.60%       | 374.40       |
+| 1971      | 7,800      | 9.20%              | 1.2%          | 10.40%      | 405.60       |
+| 1972      | 9,000      | 9.20%              | 1.2%          | 10.40%      | 468.00       |
+**Source:** Myers, Social Security, table 3.5, p. 120; table 7.1, p. 270. 
+a. Old age, survivors, and dependents insurance.
+
+一种更简单、更少投机性的展示不成熟计划偏差的方法，是如表12-1所示，展示纳税人与受益人的比例。在一个成熟且全民覆盖的计划中，这一比例本质上是人口因素的函数——即不同年龄组的人数。在一个不成熟的计划中，由于惠及受益人存在滞后，这一比例被人为扩大了。在1950年到1970年的二十年间，每位受益人对应的纳税人人数从13.9人下降到3.9人。
+
+另一种描绘早期参与者负担较轻的方式是展示纳税义务。表12-2展示了从计划开始到1972年工资基准、税率和个人最高纳税额的增加。直到收益支付开始二十年后，最高年度税额才达到100美元。迟至1964年医疗保险前夕，该数额仍低于200美元。从政治角度看，这种有利于早期加入者的偏差是体系中最重要的偏差。它未引发任何冲突。早期加入者支付低税，并获得了极好的回报，而作为这一偏差受害者的晚期加入者，在计划创立初期不可能对此有任何意识。此外，体系内在的动态性以及收益-成本计算的棘手和高度技术特征，使得即使是专家分析师也无法在获益的早期加入者与相对受损的晚期加入者之间划出一条清晰的分界线。 30
+
+对于普通个人来说，体系内的经济前景是未知的，而且几乎是不可知的，因为进入计算的要素非常深奥且多变，计算本身在技术上极其复杂，只有受过高等培训的人才能完成。前景随着法律以及经济和人口环境的变化而改变。此外，如果很难知道自己在体系中的位置（即关于投资回报的前景），那么知道自己相对于他人的位置就更难了。体系的动态性以及个人生活经历的动态性决定了个人并没有一个固定的“站位”；个人在不断变化的社会经济环境中穿梭于一个不断变化的体系，先是纳税人，后是受益人。
+
+年龄组之间的关系确实存在某种稳定性——即各代人在穿梭于体系时的相对优势或劣势——但只有专家才能察觉，且年龄组是统计类别，而非发展共同利益感及政治组织的基础。即使撇开体系的动态性和技术奥秘，个人能够察觉到其在其中的“位置”，该位置在个人的经历中可能也不足以重要到去激励他与位置相似的人联合起来追求共同利益。
+
+即使是那些在体系中拥有巨大且显而易见利益的老年退休人员，当他们确实组织起来时，也无法仅仅基于“社会保障受益人”这一共享身份来维持组织。这仅仅是联结全国资深公民委员会或美国退休人员协会（成立于50年代末）成员的数个利益之一。为更大的社会保障收益游说虽然非常重要，但也仅仅是此类组织为其成员提供的众多服务之一。
+
+本章分析了社会保障成本和收益在各类人口中的分布，以解释为何分配问题没有激发更激烈的冲突。答案因类别而异，但最具有分析意义的一点是，体系中最显著的偏差——即赋予早期加入者比晚期加入者高得多的收益-成本比——不可避免地有助于确保该体系在其早年获得接受。如果早期的税率和收益-成本比更加现实，并代表了该计划的长期而非短期成本，大众的接受度推测将会困难得多。
+
+引用
+1 "The 40th Year of Social Security in America," Congressional Record (September 17, 1975), p. 29063.
+2 Congressional Record ( August 13, 1954 ), p. 14429.
+3 This was true initially because, among other reasons, early participants paid taxes for only a fraction of their working lifetimes; received benefits related to aver-age monthly wages rather than to cumulative wages in covered employment; and received periodic benefit increases from Congress to compensate for increases in the cost of living independent of their tax payments. The economist Paul A. Samuelson has argued that social security will always pay everyone more than the tax he has put in. In academic form, his argument appears in "An Exact Consumption-Loan Model of Interest with or without the Social Contrivance of Money," Journal of Political Economy, vol. 66 (December 1958), pp. 467-82. In popular form, it was rendered as follows in a column in Newsweek.
+The beauty about social insurance is that it is actuarially unsound. Everyone who reaches retirement age is given benefit privileges that far exceed anything he has paid in. And exceed his payments by more than ten times as much (or five times, counting in employer payments )!
+How is this possible? It stems from the fact that the national product is grow-ing at compound interest and can be expected to do so for as far ahead as the eye cannot see. Always there are more youths than old folks in a growing population. More important, with real incomes growing at some 3 percent per year, the tax-able base upon which benefits rest in any period are [sic] much greater than the taxes paid historically by the generation now retired. And social security, unlike actuarially funded insurance, is untouched by inflation. . .
+Social security is squarely based on what has been called the eighth wonder of the world--compound interest. A growing nation is the greatest Ponzi game ever contrived. And that is a fact, not a paradox. (Newsweek, February 13, 1967,. 88)
+4 The phrase cited is from the opening sentences of Message of the President Recommending Legislation on Economic Security, H. Doc. 81, 74 Cong. 1 sess.(GPO, 1935), p. v. See also Report to the President of the Committee on Economic Security(GPO, 1935).
+5 Transcript of meeting appears in Analysis of the Social Security System, Hearings before a Subcommittee of the House Committee on Ways and Means, 83 Cong 1 sess. (GPO, 1954), app. 2, p. 1407.
+6 This has been achieved by the use of a benefit formula that divides average monthly earnings into steps or brackets and reduces the proportionate social security benefit with each additional step. For example, the formula of 1939 promised benefits amounting to 40 percent of the first $50 of average monthly earnings (AME) plus 10 percent of the next $200 (53 Stat. 1376). By 1976 this relatively simple, two-step formula had grown far more complicated, and consisted of eight brackets: 137.77 percent of the first $110 of AME; plus 50.11 percent of the next $290; plus 46.83 percent of the next $150; plus 55.04 percent of the next $100; plus 3o.61 per-cent of the next $100; plus 25.51 percent of the next $250; plus 22.98 percent of the next $175; plus 21.28 percent of the next $100.
+7 Social Security Act Amendments of 1949, Hearings before the House Committee on Ways and Means, 81 Cong. 1 sess. (GPO, 1949), pt. 2, p. 1635. Bronson had argued that the whole tendency of the system was to obscure costs and to build up "the benefit largesse in contrast to the facts of normal pay levels, of actual recent coverage and of actual wages on which tax was paid." He interpreted the administration's request for a much-increased wage base as a highly expansive and redistributive measure. High-income people were not asking for bigger benefits, he said. The sponsors of legislation wanted to cover the higher incomes in order to get the tax proceeds (pp. 1625-32).
+8 President's Proposals for Revision in the Social Security System, Hearings before the House Committee on Ways and Means, 90 Cong. 1 sess. (GPO, 1967), pt. 1, p. 314.
+9 Social Security Amendments of 1961, Executive Hearings before the House Committee on Ways and Means, 87 Cong. 1 sess. (GPO, 1961 ), p. 88.
+10 Milton Friedman and Wilbur J. Cohen, Social Security: Universal or Selective? (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1972), p. 12.
+11 Ibid., p. 54.
+12 "In short," they wrote, "the degree of net progressivity of OASI, as measured by its effects on the lifetime distribution of individual or group income, is uncertain." Joseph A. Pechman, Henry J. Aaron, and Michael K. Taussig, Social Security: Perspectives for Reform (Brookings Institution, 1968), pp. 246-47.
+13 J. Douglas Brown, An American Philosophy of Social Security: Evolution and Issues (Princeton University Press, 1972), p. 86. See also Wilbur J. Cohen, "Memorandum of Comment, Reservation, or Dissent," in Richard A. Musgrave, ed., Broad-Based Taxes: New Options and Sources (Johns Hopkins University Press, 1973), pp. 286-88, which is a succinct statement of the political and psychological functions of the payroll tax within the system and of the organic unity of the system, in response to a fiscal economist's critique of the payroll tax.
+14 Brown, An American Philosophy of Social Security, p. 83
+15 Social Security Act Amendments of 1939, H. Rept. 728, p. 7. 
+16 Pechman and others, Social Security, pp. 84-86.
+17 Congressional Record (September 17, 1975), p. 29064.
+18 Ella J. Polinsky, "The Position of Women in the Social Security System, Social Security Bulletin, vol. 32 (July 1969), pp. 3-19; Dalmer Hoskins and Lenore E. Bixby, Women and Social Security: Law and Policy in Five Countries, Social Security Administration, Office of Research and Statistics, Research Report No. 42, DHEW Publication No. (SSA) 73-118oo; Robert J. Myers, "Social Security and Sex Discrimination," Challenge, vol. 18 (July-August 1975), pp. 54-57; Social Security Inequities against Women, Hearings before the Subcommittee on Retirement Income and Employment of the House Select Committee on Aging, 94 Cong. 1 sess. (GPO, 1975); Women and Social Security: Adapting to a New Era, prepared by the Task Force on Women and Social Security for the Senate Special Committee on Aging, 94 Cong. 1 sess. (GPO, 1975); Future Directions in Social Security, Hearings before the Senate Special Committee on Aging, pts. 18 and 19, Women and Social Security, 94 Cong. 1 sess. (GPO, 1975); Rita Ricardo Campbell, "The Problems of Fairness," in Michael J. Boskin, ed., The Crisis in Social Security (San Francisco: Institute for Contemporary Studies, 1977), pp. 125-45; Marilyn R. Flowers, Women and Social Security: An Institutional Dilemma (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1977)
+19 Economic Problems of Women, Hearings before the Joint Economic Committee, 93 Cong. 1 sess. (GPO, 1973), pt. 1, p. 331.
+20 Congressional Record (September 17, 1975), pp. 29o63-66. Ball later re-vised this proposal to call for a 12.5 percent increase for workers.
+21 Edwin E. Witte, Development of the Social Security Act (University of Wisconsin Press, 1963), pp. 152-57.
+22 Arthur J. Altmeyer, Formative Years of Social Security (University of Wisconsin Press, 1966), p. 103.
+23 Ibid., pp. 245-48.
+24 Interview with Arthur J. Altmeyer, Oral History. Collection, Columbia University (1967), p. 210.
+25 Robert J. Myers, Social Security (McCahan Foundation, 1975), p. 580.
+26 Background Material on Social Security Coverage of Governmental Employees and Employees of Nonprofit Organizations, prepared by the staff of the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 2 sess. (GPO, 1976), pp. 13-14.
+27 The various studies and proposals are summarized in ibid., pp. 14-20, and in "Relating Social Security Protection to the Federal Civil Service," A Report to the House Committee on Ways and Means and the Senate Committee on Finance by the Social Security Administration, January 1969.
+28 Economic Security Act, Hearings before the House Committee on Ways and Means, 74 Cong. 1 sess. (GPO, 1935), p. 102.
+29 Colin D. Campbell and Rosemary G. Campbell, "Cost-Benefit Ratios under the Federal Old-Age Insurance Program," in Old Age Income Assurance, A Compendium of Papers on Problems and Policy Issues in the Public and Private Pension System Submitted to the Subcommittee on Fiscal Policy of the Joint Economic Committee, pt. 3, Public Programs, 90 Cong. 1 sess. (GPO, 1967), pp. 72-84.
+30 Whether later entrants would be absolutely disadvantaged by participation in social security--that is, whether their benefit-cost ratios would fall below one-began to be at issue in the late 196os. The projections of expert analysts disagreed. See John A. Brittain, "The Real Rate of Interest on Lifetime Contributions toward Retirement under Social Security," in ibid., pp. 109-32.
+
+## **第十三章 给付水平**
+
+社会保障（Social security）旨在替代工人因退休、残疾或死亡而丧失的收入。显而易见，该项目面临的核心政策选择之一便是其应提供多少收入。应当以何种标准来衡量给付（benefits）的充足性？是工人此前的个人收入？社会的现行工资水平？一种理想的生活标准？抑或是维持生存所需的最低标准？尽管这些问题触及了社会保险之社会功能的核心，但决策者的公开讨论并未对其进行充分的阐释。
+
+多年来，对于此类问题，简短、标准且官方的回答是，社会保障旨在提供一条“保护底线”（floor of protection），但这根本算不上什么回答。它既没有说明这条底线应定在何处，也没有说明——借用威尔伯·J·科恩（Wilbur J. Cohen）的比喻——这层底板上是否应铺设优质地毯。这一标准措辞非但没有解决任何问题，反而极其模棱两可。科恩曾评论道：“毫无疑问，它巨大的吸引力与实用性就在于，它对不同的人意味着不同的事物。它的价值在于其所掩盖的，而非其所揭示的。”
+
+“底线”的概念暗示了一种统一的给付标准，然而该项目却始终将给付与收入水平相挂钩。事实上，“工资关联性”（Wage relatedness）是决定给付水平的一项固定且明确的原则——它备受决策者青睐，原因在于它似乎与基于工作激励的经济体系相契合；它有助于该项目适应各地区在收入和生活成本上的差异；同时，它也有望赢得较富裕阶层的政治支持。但即使将其视为既定教条，在承认给付将与工资挂钩的前提下，仍需决定给付的水平究竟应有多高。
+
+面对这一根本问题，决策者采取了实用主义的回应方式，他们像往常一样，着眼于项目维系（program maintenance）的需要。他们最终达成了两项指导原则：社会保险给付应设定得足够高，以使该项目（而非公共援助）成为赡养老人的主要公共手段；此外，给付水平的增长应至少跟上生活成本的上涨。但是，尽管他们很容易就“在收入阶层的底端，社会保险应优于公共援助”达成共识，但却发现在收入阶层的顶端，很难就在社会保险与私营养老金及年金供给之间如何划定界限达成一致。关于给付水平的决策不可避免地引发了这一问题，而这也被证明是针对退休老人的现金给付基本项目中，最具争议性的政策选择。
+
+### **公共援助的比较**
+
+1934-35年老年保险的设计者们在后来的岁月中，并未掩饰他们当初对给付结构未曾投入过多关注的事实。他们首要关心的是确立原则，特别是确立该项目的合宪性——在罗斯福新政（New Deal）的早期，这一点备受质疑。此外，给付的支付要到1942年才计划开始，这就为重新审视留出了时间。
+
+当1937-39年的咨询委员会进行重新审视时，确保该项目牢固确立仍是行政规划者们的首要任务，而实现这一目标的方法之一便是加速给付的支付。担任委员会主席的J. 道格拉斯·布朗（J. Douglas Brown）回忆道，社会保障局（Social Security Board）员工的想法是同时做两三件事：“第一，我们将使用平均[月工资]来更快地提高给付水平，而不管缴费时间有多长；第二，我们将通过发放给付来压低储备金；第三，我们将使该体系在政治上切实可行。换言之，我们要让保险给付比老年援助（old age assistance）发放得更快、更好。”3
+
+十年之后，在制定1950年修正案时，确立社会保障的地位依然是项目执行官们的首要目标，该修正案构成了该项目第三次也是最后一次法定的“奠基”。当时看来，基于经济状况调查的（means-tested）公共援助（而非社会保险）似乎仍有可能成为公共层面赡养老人的主要手段。1950年6月，领取老年援助（OAA）的老年人数量超过了领取保险金的人数（280万对210万）。老年援助的名单稳步增长，且速度之快足以保持在保险项目之前。1949年的平均老年援助支付额比平均基本保险给付（primary insurance benefit）高出70%。社会保障署在1949年的年度报告中宣称：“只要缴费型保险项目的给付水平依然处于完全不足的状态，而非缴费型援助支付却在稳步增长，缴费型项目就会受到威胁。”4 社会保障署建议采取广泛的立法措施以确立保险的主导地位，其中包括大幅提高给付水平。
+
+众议院筹款委员会（House Committee on Ways and Means）和参议院财政委员会（Senate Committee on Finance）都接受了政府关于“保险必须占据主导”的论点，尽管双方的推理依据大相径庭。1949年众议院委员会的立法报告呼应了行政部门对保险制度的连篇颂词：它将维护自力更生和进取心，奖励个人的抱负与努力，维护工人的尊严和独立，鼓励私人储蓄的积累，并通过将给付建立在缴费的基础上以实现财政纪律。5 参议院委员会则较少强调保险的优点，而更多地强调公共援助成本的负担，这也许是因为参议院对州政府的利益更为敏感（州政府承担了近一半的援助成本）。参议院的报告指出：“贵委员会对美国因依赖（救济）而导致一般财政收入负担不断加重感到极为不安。”“贵委员会的当务之急……是采取立即、有效的措施，以削减进一步扩大公共援助（特别是老年援助）的需求。”6 与众议院委员会相比，参议院委员会建议更大幅度地放宽社会保险的资格要求。参议院在放宽资格方面的偏好占据了上风，加上给付水平的大幅提高，这一改变使得社会保险在不到半年的时间里成为了占据主导地位的项目。
+
+这一变化涉及联邦体系中不同层级之间以及不同公共项目之间的功能转移——这是公共部门内部的调整，并未遭到反对。值得注意的是，由各州公共援助管理者组成的美国公共福利协会（American Public Welfare Association）从未反对过社会保障的发展。然而，保守派批评者在观察了他们所认为的保险与援助之间的竞争过程后得出结论：如果只存在一个联邦项目，成本将更容易控制。因此，在四十年代末和五十年代初，商会（Chamber of Commerce）产生了极大的兴趣，试图将所有老年人都纳入社会保险的覆盖范围，并终止联邦向各州提供的老年援助补助。
+
+1950年修正案通过后，社会保险给付的季度申领量翻了一番。1951年2月，参保老年人的数量超过了领取老年援助的人数。保险给付支出在1950年至1951年间翻了一番（从7.27亿美元增至14.98亿美元），而联邦和州政府的老年援助合计支出则略有下降（从15.59亿美元降至15.49亿美元）。在实现了将老年援助降级为剩余项目（residual program）的基本目标后，项目执行官们得以开始考虑设定给付水平的其他标准。工资和物价的趋势成为了调整的基准，而1950年的水平则作为基数。
+
+### **生活成本标准**
+
+在1952年至1971年间，国会先后七次颁布法令提高社会保障给付，且均适用于当前和未来的退休人员。这是通过修改给付公式，以及修改用于将更改后的公式应用于当前受益人的法定“转换表”（conversion tables）来实现的。举例说明，1950年至1965年间该公式的演变如下：7
+
+| **修改生效年份** | **福利占平均月工资的百分比**                                            |
+| ---------- | ----------------------------------------------------------- |
+| **1950**   | 前 100 美元的 50% 加上接下来的 200 美元的 15%                            |
+| **1952**   | 前 100 美元的 55% 加上接下来的 200 美元的 15%                            |
+| **1954**   | 前 110 美元的 55% 加上接下来的 240 美元的 20%                            |
+| **1958**   | 前 110 美元的 58.85% 加上接下来的 290 美元的 21.40%                      |
+| **1965**   | 前 110 美元的 62.97% 加上接下来的 290 美元的 22.90%，再加之后的 150 美元的 21.40% |
+
+总体而言，这些调整被证明是对工资和物价上涨的必要回应。筹款委员会报告中的以下声明阐述了其背后的合理性：
+
+>过去几年中工资和物价的快速上涨，使得立即调整给付变得势在必行。——1952。8
+>
+>[提议的]给付水平……将代表一个符合当前物价和工资水平的、切合实际的保护底线。——1954。9
+>
+>在贵委员会看来，如果仅考虑此类保护的需求，给付理应达到一个更高的水平，但我们未能建议将其提高至该水平。该法案所提供的约7%的增长，实际上略低于1954年以来生活成本的涨幅。然而我们认为，必须将我们所建议的系统新增缴费的很大一部分用于加强该系统的融资，而非改善给付保护。——1958。10
+>
+>贵委员会认为，目前提高给付是理所当然的。上一次全面提高给付是在1958年颁布的，自1959年1月起生效并开始支付给付。自那时起，工资、物价以及经济的其他方面都发生了变化。——1965。11
+
+说给付随着工资和物价的变化而增加并不是很令人信服，因为工资和物价通常以不同的速度上涨，前者快于后者。除了1958年和1965年的微小例外，国会颁布的增加额至少等于物价的上涨额，并且有时（如1954年）甚至大幅超过物价涨幅。而关于工资的增长，则无法辨别出清晰的模式。如表13-1所示，有时给付的增幅大于工资的增幅，而有时则小于工资增幅。
+
+表 13-1 OASI 福利、价格和工资的增长百分比（按 OASI 变更生效日期，1950–71）
+
+| **变更日期<sup>a</sup> ** | **OASI 福利增长：每次修正案<sup>b</sup> (%)** | **OASI 福利增长：自 1940 年 1 月 (%)** | **消费者物价指数增长：每次修正案 (%)** | **消费者物价指数增长：自 1940 年 1 月 (%)** | **平均工资增长：每次修正案 (%)** |
+| --------------------- | ----------------------------------- | ------------------------------ | ----------------------- | ------------------------------ | -------------------- |
+| **1950 年 9 月**        | 81.3^c                              | 81.3                           | 75.5<sup>c</sup>        | 75.5                           | 148.8<sup>c</sup>    |
+| **1952 年 9 月**        | 14.1                                | 106.9                          | 9.3                     | 91.8                           | 12.5                 |
+| **1954 年 9 月**        | 13.3                                | 134.3                          | 0.5                     | 92.8                           | 7.7                  |
+| **1959 年 1 月 (1958)** | 7.7                                 | 152.4                          | 7.9                     | 108.0                          | 19.4                 |
+| **1965 年 1 月**        | 7.7                                 | 171.9                          | 7.9                     | 124.5                          | 22.3                 |
+| **1968 年 2 月 (1967)** | 14.2                                | 210.5                          | 9.3                     | 145.4                          | 18.0                 |
+| **1970 年 1 月 (1969)** | 15.6                                | 258.9                          | 10.8                    | 171.8                          | 12.2                 |
+| **1971 年 1 月**        | 10.4                                | 296.2                          | 5.2                     | 185.9                          | 5.3                  |
+
+资料来源：《社会保障的未来方向》（_Future Directions in Social Security_），参议院老龄问题特别委员会听证会（Hearings before the Senate Special Committee on Aging），第93届国会第1次会议（美国政府出版局，1973年），第1部分，第84页。关于工资增长的数据由罗伯特·J·迈尔斯（Robert J. Myers）提供给作者。
+a. 颁布年份（若与变更生效年份不同）标注在括号内。
+b. 当前受益人（即已在名册上的人员）的平均增幅。同时，通过法定公式向在职工人承诺了大致相等的增幅。
+c. 自1940年1月首次支付OASI（老年和遗属保险）给付以来的百分比增幅。
+
+累计来看，1950年至1971年间社会保障给付的增长远超物价的上涨，但却落后于工资的增长。其结果是，退休工人的给付购买力随着时间的推移得到了大幅提高，但并未与生活水平的整体提高成正比。此外，由于给付的增加是间歇性和临时性的（ad hoc），物价上涨与随后的给付调整之间通常存在滞后。12
+
+退休人员给付增长率落后于工资涨幅，不应被理解为社会保障给付在绝对数额上进一步落后于绝对工资水平。主要由于受保工人工资的增长和给付公式的改变，平均月给付在1950年至1971年间增加了两倍多，稳步缩小了老年给付与当前受雇劳动者工资之间的差距。如表13-2所示，1971年，平均月给付首次超过了私营企业受雇工人的平均周收入。
+
+表 13-2. 平均工资与平均养老金福利的关系，选定年份，1950–71 **单位：美元**
+
+| **年份**   | **平均月度养老金福利** | **私营部门雇员的平均周薪** |
+| -------- | ------------- | --------------- |
+| **1950** | 43.86         | 53.13           |
+| **1955** | 61.90         | 67.72           |
+| **1960** | 74.04         | 80.67           |
+| **1965** | 83.92         | 95.06           |
+| **1966** | 84.35         | 98.82           |
+| **1967** | 85.37         | 101.84          |
+| **1968** | 98.86         | 107.73          |
+| **1969** | 100.40        | 114.61          |
+| **1970** | 118.10        | 119.46          |
+| **1971** | 132.16        | 126.91          |
+资料来源：罗伯特·J·迈尔斯，《社会保障》（麦卡汉基金会，1975年），第387页；《每月劳动评论》（_Monthly Labor Review_），第95卷（1972年8月），第98页。
+
+社会保障署的精算程序旨在促成给付的定期增长。正如鲍尔（Ball）专员所解释的那样，“在新的评估下，我们几乎总是能够发现一些长期的[财务]盈余……从某种意义上说，我所要表达的是，目前评估该项目的方法将临时性的给付增加考虑在内了。我们假设国会将时不时地提高给付，至少以跟上生活成本的步伐。”他说，为了考虑到这一点，社会保障署将其财务预测建立在收入不会增长的假设之上。13“平准收入假设”（level earnings assumption）是一项具有重要政治影响的技术手段。
+
+要理解这一假设的重要性，就必须理解精算估计在社会保障决策中的重要性。国会从不曾在没有精算师关于收支的长期估计的情况下采取行动。国会的政策是，该系统应自给自足（self-supporting）（即工资税和信托基金的利息收入应满足成本要求），并应保持“精算平衡”（actuarial balance）（收入应在当前以及精算师目所能及的未来满足支出要求）。国会制定了足以支付预计支出的税率表；在决定何种税率足够时，它接受了精算师的估计。这些估计所依据的假设——关于死亡率、出生率、移民、就业、收入、退休决定、利率和给付规模等方面的假设——在很大程度上界定了摆在国会面前的选择。这并不是说项目变更的提案源自精算师，而是所有此类提案都要根据其对收支的估计进行权衡。此外，他还定期评估整个项目的财务状况。他的长期预测，以及对系统出现盈余还是赤字的最新判断，经常在一系列精算研究中发表。
+
+只要精算师基于“收入不会增长”的假设进行预测（直到1972年前该假设一直用于长期预测），对该项目财务状况的这些定期更新通常会显示出盈余。当然，这一假设是武断且不切实际的。决策者知道这一点——他们知道收入会上升——但他们依然发现这一假设很有用。正如鲍尔专员所解释的那样，它实际上保证了（技术上未预见的）财务盈余的产生，而决策者可以利用这些盈余进行定期的给付增长。但这并非使用它的唯一原因。它还满足了精算师对财政审慎的偏好。他曾向财政委员会解释说，这是一种只有在精算收益“已然实现后”才加以利用的程序。当收入实际上升时，精算计算被修改以显示系统存在盈余——但在此之前不会。精算师指出，试图预测增加的收入，等同于“指望未来很长一段时期内未来经济变化所产生的利润，而这些变化尚未发生。”14
+
+平准收入假设满足了决策者避免政治冲突的偏好。在20世纪50年代和60年代的美国经济背景下，这是一个具有自由化（扩张）后果的保守假设，而且由于它在实践中模棱两可，因此成为了妥协的便利工具，进而也是决策的便利工具。说它保守，是因为它限制了给付增长的幅度。如果精算师假设工资会上升，他就会预测工资税的收益会增加，而这些更高的预期收益本可以用来证明更高的给付是合理的。该方法在以下意义上也是保守的：它为错误留出了审慎的余地；如果精算计算的其他要素出现偏差，（技术上）未预见到的工资上涨带来的收益可以用来弥补。但是，在一个不断增长的经济体中——而且在一个工资增长几乎总是快于物价增长的经济体中——它使得国会至少能够使给付与生活成本的增加保持同步，有时（正如在1954年那样）甚至做得更多，这令希望扩大项目保护范围的自由派利益集团感到满意。
+
+除了包含妥协的成分外，平准收入假设还是一个驾驭经济增长之政治优势的极佳策略。经济增长总体上有助于缓解美国政治中的冲突；相比于停滞和匮乏的背景，政府必须做出的分配性决策在增长和充裕的环境中更容易做出。通过平准收入假设这一技术手段，社会保障中项目的增长被直接依附于经济增长之上。在经济扩张使提高给付成为可能的程度内，它们作为精算上的意外之财（actuarial windfalls）降临到决策者手中，可以无需增加税收即可分配给民众。这是与经济增长相关的有益政治经济学的一个范例。15
+
+社会保障给付的增加成为了政治家满足选民并寻求获得其选票的一种手段。在20世纪50年代，给付的增加总是极有规律地在选举年颁布。（在1956年，虽然给付没有增加，但该项目在其他方面得到了放宽。）大多数时候处于少数派的国会共和党议员有时会尖锐地评论国会行为的政治动机，但他们与民主党人一道支持了这些增加。
+
+### **公私争议**
+
+在最低收入水平上，社会保障政策面临的问题是如何与另一项公共项目——公共援助——划分责任。政府有责任支持极度贫困者的收入，这并无争议；问题在于，不同类型的公共项目以及联邦体制内不同层级的政府应该分别承担多少责任。在较高的收入水平上，政策问题则更多地涉及公共与私营组织之间的责任划分。社会保障是否应该覆盖所有人，甚至包括那些被假定有足够收入保护自己免受社会保障旨在涵盖的风险的人？在一个极端，社会保障可能完全不覆盖较富裕的阶层。在另一个极端，它可以对所有的已挣得收入征税，并在他们退休时予以替代。（从未有人建议社会保障应替代未挣得收入——如来自储蓄或投资收入的损失。）或者，在这两个极端之间，它可以提供自愿的、部分的或附带条件的覆盖——也就是说，以缺乏私人保障安排为条件。公私责任划分被证明具有异常的争议性。这一争议将自由派与保守派、劳工与商业、民主党人与共和党人分离开来，这是早期任何其他政策选择都未曾做到的，但即使在这里，1935年之后的分歧也通常局限在社会保障决策这个狭窄、专业和超脱的世界之内。
+
+1935年最棘手的问题——棘手在于它们导致了国会内部分裂或国会与行政部门的分裂——都带有公私维度的色彩。有三个主要问题：是否还要颁布一项老年保险计划；这样一个计划是否应规定由政府出售自愿年金（voluntary annuities）；以及拥有自身员工养老金计划的工业雇主是否应被豁免。16
+
+国会中的共和党反对强制性老年保险计划，理由是这是对私人领域的非法入侵。筹款委员会中的共和党少数派指控该法案将摧毁私营工业的退休计划，建立一个与私营保险业竞争的公共保险官僚机构，并违反宪法。尽管财政委员会中的共和党人没有提交单独的报告，但该党的大多数参议员在表决时投票否决了老年保险条款。尽管对老年保险缺乏一些热情，但国会中的民主党多数派在这个基本问题上支持了民主党政府。
+
+然而，如果政府不愿意牺牲一项关于销售自愿年金的条款，老年保险条款就不可能获得通过。该条款旨在帮助法案未覆盖的人群（如自雇人士），并为那些希望获得比强制计划所承诺的更多给付的人提供补充保护。由于这是对私营保险的直接威胁，它最初被筹款委员会取消；在经过激烈的争论后，被财政委员会以微弱的票数优势恢复；而在参议院全院表决时，在一位来自康涅狄格州（该州是许多保险业的大本营）民主党参议员的动议下，该条款最终被取消。
+
+第三个问题——是否豁免拥有政府批准的养老金计划的工业雇主缴纳工资税（payroll taxes）——是最难解决的。它在众议院和参议院之间造成了僵局，将《社会保障法》的通过推迟了1935年夏季的几个星期。豁免提案来自一家专门从事团体年金合同的费城保险经纪公司的一名官员。筹款委员会拒绝了该提案，财政委员会也以微弱差距拒绝了它，但当密苏里州参议员本尼特·钱普·克拉克（Bennett Champ Clark）在全院会议上将其作为修正案提出时，参议院以51票对35票支持了他，民主党人存在分歧，而共和党人则坚决支持。随着反对势力各自集结盟友，辩论稳步升级。最后，只有推迟这一具体问题，法案才得以通过。两院协商委员会（conference committee）报告的法案没有包含克拉克修正案，但达成了一项谅解，即筹款委员会和财政委员会的主席将任命一个特别联合委员会来研究这个问题并向下一届国会报告。奇怪的是，考虑到这个问题当初被争论得如此激烈，它并没有再次出现。该特别委员会召开了两次会议，接受了大约三十页的证词，然后没有提交报告就解散了。最初的提案者停止了他的游说，这促使社会保障的支持者猜测，当他发现法案的通过并没有损害他的经纪业务时，他就失去了兴趣。可能从豁免中受益的工业雇主显然对此感受复杂。他们认识到这会给他们带来政府监管的负担。18
+
+奇怪的是，在1935年，对于最终成为焦点问题的工资基数（wage base）的规模并没有发生冲突。工资基数这一概念本身——即需要缴纳老年给付税的收入额度——似乎是随意确定的。经济安全委员会（Committee on Economic Security）最初提议，年收入超过3000美元的领薪雇员可免于缴纳老年保险，但这被放弃了。相反，法律规定只有前3000美元的年收入才会被征税并计入给付的计算中。该计划将简单地忽略超过该数额的收入。
+
+回想起来，这是一个重大的变化，对社会保障的规模、社会功能、阶级以及分配特征产生了深远的影响，然而当时它却很少受到关注。它没有出现在辩论中，在回忆录和历史文献中要么敷衍了事地提及，要么根本没有提及。J·道格拉斯·布朗（J. Douglas Brown）在被采访者问及为何发生这一变化时，给出了一个彻底实用主义的解释。他说，为了简化行政管理，并确保收入波动剧烈的人群也能获得保险覆盖，这是必要的。“让我这样对你说，”布朗回答道，“如果你设定一个例如3000美元的绝对切断点（break point），人们就会在这个数字上下进出。有一年他们的收入可能超过3000美元，从而失去保险资格。下一年他们又可能会降至3000美元以下。这会给普遍覆盖带来极大的行政困难。雇主如何追踪？特别是对于靠佣金或加班费工作的员工？你会面临各种行政问题。其次，有些员工的收入原本远超3000美元，而在经济萧条时期又会跌破3000美元。” 布朗补充说，在像我们这样的国家里，不考虑收入水平的普遍覆盖将“更加民主”——这其中暗示了（但也仅仅是暗示）一个更广泛的动机。19
+
+1935年的结果是一个妥协。将建立一个老年保险计划，它将是强制性的，对于那些为员工制定了私人养老金计划的少数雇主不予豁免。这在很大程度上是公共计划支持者的胜利。另一方面，联邦政府不会涉足销售年金的业务，这是私人保险捍卫者的胜利。它保护了社会保障政策制定者后来所谓的“第三层”（third tier）——即自愿的私营保护领域，它建立在所有工人的第二层老年保险之上，而第二层又建立在为极度贫困人群提供的第一层公共援助的基础之上。因此，早期决策的总和是：公共和私营保险将共存，但它们之间的边界并不清晰。这一边界将由偶然事件、公共部门和私营部门各自深思熟虑的选择以及两者之间未来的冲突共同决定。
+
+### **设定工资基数**
+
+在制定老年保险政策的公共部门内部，工资基数开始被视为决定公私边界的关键因素。工资基数越低，工人可自由支配的收入就越多，他将其投资于私营部门的可能性就越大（假设他希望保护自己免受社会保障旨在应对的风险）。“使这个基数与时俱进，”鲍尔专员在1966年观察到，“是决定提供退休保障的工作有多少将由社会保障来完成，又有多少将被留下不做或由私人养老金计划部分完成的因素。”20 当然，税率和给付公式也是相关因素，但在较高收入水平上，工资基数是根本性的。因此，毫不奇怪，工资基数成为了争论的焦点。
+
+项目执行官们出于多种原因希望保持较高的工资基数。出于政治原因，他们不希望社会保障仅仅是针对穷人的计划（“针对穷人的计划往往是劣质的项目”）。如果对较富裕阶层的覆盖不应仅仅是微不足道或象征性的，那么工资基数就必须相当高。此外，高工资基数维持了“工资关联性”，而执行官们认为这至关重要。如果基数被允许稳定在一个较低的水平上，大多数工资收入者迟早都会达到该水平，从而有资格获得相同的给付。提高工资基数在其他方面也有助于维持该体系。通过产生更高的税收，它直接做出了贡献。尽管提高基数增加了给付义务，因此绝不是纯收益，但由于累进的给付公式，它增加的收入超过了其增加的义务。
+
+作为额外收入的来源，提高工资基数对项目执行官的吸引力要大于提高税率：提高税率将影响所有人，而提高基数则只影响那些处于系统高收入边缘的人。这是一种更为累进的增加收入的方式。如果该项目要具备累进性，高工资基数实际上是必不可少的，这也是项目执行官关注它的最终原因。像往常一样，他们得到了有组织的劳工的支持，而遭到了所有保守利益集团的反对——当然包括保险业以及商业联合会。
+
+这些对立力量的严重冲突发生在与1950年修正案相关的时候，其结果为未来几年开创了先例。工资基数自1935年以来一直保持在3000美元。项目执行官在1939年没有寻求改变。然而，十年之后，经历了第二次世界大战，工资已经飙升，项目执行官向国会提议，让工资基数也随之飙升——达到4800美元。
+
+社会保障署（SSA）的领导人认为，该基数应满足最初设定的标准：当时在受保的就业当中，有92%的收入需纳税，且有97.1%的受保工人的所有工资都在保险覆盖范围内。在经常就业的男性中，93.9%的人所有工资都受到覆盖。然而，很难论证那个标准的神圣性，因为在1935年，人们既没有深思熟虑也没有为之争论过。J·道格拉斯·布朗随后将3000美元的选择归因于“美学逻辑”（aesthetic logic），这是他与威尔伯·科恩（Wilbur Cohen）喜欢用来解释社会保障系统中那些理据不甚严密的要素的词语。“三千美元看起来很不错，”布朗在接受采访时说道，“也就是每个月250美元。在当时，它似乎是一个合理的上限。”21 布朗和其他规划者并不知道他们覆盖了多大比例的工资或工人，也没有停下来询问这是否是正确的比例，或者正确的比例应该是什么。在后来的岁月里，他完全不倾向于为“这个未经测试的计划的规划者们先验设定的上限”进行合理性辩护。22
+
+项目执行官关于4800美元工资基数的提议使1947-48年的咨询委员会和国会各委员会产生了分歧。咨询委员会分为三派，多数派支持4200美元，而单独的少数派则分别青睐3000美元和4800美元。筹款委员会按照党派路线产生分歧，民主党人支持3600美元，共和党人支持3000美元。财政委员会建议维持3000美元，其中两名民主党人提出异议并支持更高的金额（他们没有具体说明高多少），但在参议院全院辩论时将其建议更改为3600美元，并被参议院采纳。自由派民主党人为获得对4800美元的支持所做的尝试以失败告终。
+
+1950年的结果是通过相互冲突的利益和意见之间的妥协而达成的。压力遭遇反压力，派别相互博弈，其结果是一个3600美元的数字。除了认为应恢复原始标准的项目执行官们（然而他们并没有解释最初它为何合适）之外，人们并没有对标准进行太多讨论，也很少有人承认这个明显具有分裂性的问题究竟意味什么。
+
+筹款委员会中共和党少数派的报告显得不同寻常，因为它愿意直截了当地触及问题的核心：“提高工资基数……将强制性社会保险体系宗旨构想中的一个基本冲突尖锐地暴露出来。这一冲突在于，该体系应当是在适当的基本水平上为那些最无力为自身安全提供保障的人提供经济保护，还是应当扩展为一个提供高给付的全国性退休系统，作为一种相对完整的、无需个人进行任何补充的提供退休和遗属给付的手段。”23
+
+总而言之，国会的决定是保守派的胜利。当国会取4800美元和3000美元两者的折中点得出3600美元的结论时，它为“第三层”（即私人阶层）留出了巨大的空间。基于新的基数，在1951年，81%的受保收入需要缴税，大约75%的受保工人以及64%的常规就业男性其全部工资都在覆盖范围内。尽管这些百分比与最初的比例一样缺乏严谨论证，但它们获得了政治上的合法性，并在接下来的二十年里被视为基准。国会随后定期提高了工资基数——1955年提高到4200美元，1959年提高到4800美元，1966年提高到6600美元——在这个过程中维持了1950年的比例。通过这种遵循先例的做法，决策者避免了重新开启这一争端。关于如何划定公私边界——这原本是潜藏最具分裂性的政策问题——被简化为了“工资基数设定在何处”这单一问题，而这个看似狭窄、近乎纯技术性的问题却被当成早在1950年便已定案那般处理。
+
+项目执行官们对于国会在1950年终究提高了工资基数感到欣慰。这一开创先例的行动承诺将保留工资关联项目的原则。然而，如此微小的增幅限制了该项目的绝对规模和相对意义。1961年，当威尔伯·米尔斯（Wilbur Mills）短暂地设想通过将工资基数提高至5400美元来为一系列项目扩充提供融资时，执行官们感到既惊讶又高兴。国会提出这样的变更是极不寻常的。然而，米尔斯的共和党同僚约翰·伯恩斯（John Byrnes）提醒委员会，提高基数是一件冒险的事情。“基数的变更总是会引发很多问题和争议，”伯恩斯评论道，米尔斯也让步承认了这一点：“毫无疑问，提高基数比提高税率更具争议性。”由于不愿卷入争议，委员会决定转而提高税率。24
+
+有关工资基数的政治角力一直处于潜伏状态，直到20世纪60年代末期。随后，在成功完成了残疾保险覆盖和医疗保险这两项运动之后，项目执行官们开始推动一项大幅扩展的现金给付计划。
+
+对给付水平的处理是利益得到巧妙平衡并成功避免潜在冲突的又一例证。保持工资基数（占总薪酬支出的比例）不激增的做法向保守派利益集团保证，该项目的扩张方式不会威胁到私营部门。这种做法维持了社会保障只提供“保护底线”的理念。与此同时，该底线的稳步提升（相对于消费者价格而言）又满足了自由派利益集团想要使给付更加慷慨的愿望。反过来，在任何特定时期内该底线被提升的程度，均取决于精算估计中对“平准收入假设”的使用；这项技术在理论上是保守的，但在实践中，它通过利用经济扩张中不断上涨的工资所产生的“精算意外之财”（actuarial windfalls）进行无痛融资成为可能，从而促进了福利政策的放宽。
+
+引用
+1 "Proceedings of the Social Security Conference," Labor and Industrial Relations Center, Michigan State University, and Institute of Labor and Industrial Relations, University of Michigan and Wayne State University (East Lansing, Mich.: 1958), p. 10.
+2 J. Douglas Brown, The Genesis of Social Security in America (Princeton University, Industrial Relations Section, 1969).
+3 Interview with J. Douglas Brown, Oral History Collection, Columbia University (1965), p. 48.(Hereafter Brown, OHC.)
+4 Annual Report of the Federal Security Agency, 1949 (GPO, 1950),p. 80.
+5 Social Security Act Amendments of 1949, H. Rept. 1300, 81 Cong. 1 sess.(GPO, 1949), pp. 23.
+6 Social Security Act Amendments of 1950, S. Rept. 1669, 81 Cong. 2 sess.(GPO, 1950), pp. 1-2.
+7 64 Stat. 506; 66 Stat. 768; 68 Stat. 1062; 72 Stat. 1013; 79 Stat. 361.
+8 Social Security Act Amendments of 1952, H. Rept. 1944, 82 Cong. 2 sess.(GPO, 1952), p. 2.
+9 Social Security Act Amendments of 1954, H. Rept. 1698, 83 Cong. 2 sess.(GPO, 1954), p. 15.
+10 Social Security Amendments of 1958, H. Rept. 2288, 85 Cong. 2 sess. (GPO, 1958), p. 2.
+11 Social Security Amendments of 1965, H. Rept. 213, 89 Cong. 1 sess. (GPO, 1965), p. 84.
+12 There are few analyses of the relation between benefit increases and wage increases, but see Daniel N. Price, "OASDHI Benefits, Prices, and Wages: Effect of 1967 Benefit Increase," Social Security Bulletin, vol. 31 (December 1968), pp. 28-35
+13 Social Security and Welfare Proposals, Hearings before the House Committee on Ways and Means, 91 Cong. 1 sess. (GPO, 1970), pt. 1, p. 172.
+14 Social Security Amendments of 1971, Hearings before the Senate Committee on Finance, 92 Cong. 1 and 2 sess. (GPO, 1972), pt. 2, p. 863. Although technically unrealistic, the estimates incorporating the level earnings assumption yielded good predictions of the system's financial performance as long as that performance was expressed as a percentage of taxable payroll (that proportion of all wages and salaries subject to taxation for social security). This was sure to be so because the actuarial surpluses produced by increases in earnings levels (and hence in the size of the tax-able payroll) strongly influenced the bounds of benefit increases voted by Congress. In his defense of the level earnings assumption, the actuary had conceded that "the dollar figures of [the] estimates might not be realistic in the face of dynamic economic conditions," but argued that "the resulting benefit costs expressed as percentages of taxable payroll would very likely be good indications of what the actual costs in the future under dynamic conditions and resultant possible congressional action would likely be." Robert J. Myers, "Study of Actuarial Assumptions as to Social Security Tax Rate Schedules," appendix I to F. J. Crowley, "Financing the Social Security Program--Then and Now," in Studies in Public Welfare, Paper No. 18: Issues in Financing Retirement Income, prepared for the Subcommittee on Fiscal Policy of the Joint Economic Committee, 93 Cong. 2 sess. (GPO, 1974 ), p. 95.
+15 The actuary's office consistently estimated that half of the increased revenue yield from increased earnings must be used to pay the higher benefits that inevitably resulted from higher earnings in a wage-related program, but the other half could be used to finance immediate benefit increases or other liberalizations. This half was the windfall. It was not usually sufficient to pay the whole of the cost of benefit in-creases or other liberalizations. To finance liberalization between 195o and 1971, Congress used some combination of three techniques: capturing new revenues through extension of coverage to additional population groups; increasing taxes(through an increase in the rate, the wage base, or both); and the use of actuarial gains that followed from using the level wage assumption. Two benefit increases, those of 1952 and 1969, were financed wholly with the actuarial windfall, as was a package of miscellaneous liberalizations in 1960.
+16 The plan for financing, which was difficult conceptually, divided the Treasury Department from the Committee on Economic Security staff, but this particular issue was resolved within the executive branch. See chapter 11.
+17 Edwin E. Witte, Development of the Social Security Act (University of Wisconsin Press, 1963 ), pp. 93-94, 102, 105.
+18 Ibid., pp. 102-08, 16o62; Merrill G. Murray, "Social Insurance Perspectives: Background Philosophy and Early Program Developments," Journal of Insurance, vol. 30 (June 1963), pp. 183-96.
+19 Brown, OHC, pp. 62, 66--67.
+20 Robert M. Ball, "Policy Issues in Social Security," Social Security Bulletin, vol. 29 (June 1966), p. 7.
+21 Brown, OHC, p. 61.
+22 J. Douglas Brown, An American Philosophy of Social Security: Evolution and Issues (Princeton University Press, 1972), p. 70.
+23 Social Security Act Amendments of 1949, H. Rept. 1300, p. 159.
+24 Social Security Amendments of 1961, Hearings before the House Committee on Ways and Means, 87 Cong. 1 sess. (GPO, 1961), pp. 110-11.
+
+## 第十四章 项目的特性：总结性分析
+
+社会保险有许多特性，使其对公众、两大党派的在职官员以及通常意见相左的利益集团（企业和劳工）极具吸引力，或者至少比任何可能的替代方案更容易被接受。 其中三个特性与政治尤为相关。 首先，该项目本质上是渐进的，这意味着成本一开始会很低，然后逐渐增长。 其次，它承诺纳税人可以通过纳税获得特定的福利，这既提高了他们纳税的意愿，也减轻了获得福利所带来的任何污名感。 第三，它包含了许多妥协和模糊之处，使得不同的利益群体能够联合起来支持它。
+
+社会保障在至少两个意义上起步规模很小。 与纳税人相比，受益人很少，而且只有部分劳动力被覆盖。 通过长期保持人为的低成本，这两个因素都有助于人们接受该项目。 早期较高的纳税人与受益人比例意味着该项目可以通过较低的个人税率来维持，而最初有限的劳动力覆盖范围意味着每次将额外的工人群体纳入时，都会有新鲜收入的注入。 每一次这种覆盖范围的扩大都延长了系统的不成熟期和人为的低税收期。
+
+除了导致短期成本人为压低之外，该项目本质上的渐进性也意味着任何增加福利的短期成本也被人为压低了，这种情况极大地影响了该项目的政治走向。 在一个难以预见后果的世界里，决策者喜欢采取一两小步，然后评估他们所做事情的影响。 但在社会保险领域，这并不像看起来那样是一种安全可靠的方法，因为许多起决定作用的经验只能在长期内获得。 由于该项目本身是渐进的，渐进式增加（以更慷慨的福利形式）的全部后果，只有在该项目成熟且潜在的受益人群体被完全覆盖时才能被评估。 直接从经验中获得的保证是不可靠的，但由于它令人安心，因此可以相对轻松地进行进一步的福利放宽。
+
+社会保险起步缓慢意味着公众可以逐渐适应它，这反过来又使其对决策者极具吸引力。 并不是说社会保险增长缓慢的特点是他们选择它的主要原因：行政官员支持缴费型养老保险，主要是因为它确立了这样一个原则，即老年人有权获得福利而无需考虑他们的需求，以此作为纳税的回报，而国会最初根本不喜欢养老保险。 如果不是罗斯福总统坚持将养老保险保留在他的社会保障法案中，国会肯定会将其删除，而不是接受一个在1937年征税但要到1942年（或如后来发生的那样，在1940年）才开始支付福利的项目。 另一方面，随着养老保险初具规模，行政和立法决策者似乎都不太担心其全部影响（当然包括福利和成本）会被长期推迟。 无论如何，他们并没有那么担心，以至于他们会接受来自保守派和激进派的论点，即为了公平起见，老年收入支持项目应该立即覆盖所有老年人。 他们不愿意接受向所有老年人提供统一补助金的做法（这本来可以回应这种批评），而且公平地说，他们抵制这种替代方案的一个原因是其成本会立即显现出来。
+
+社会保障向公众展示的是一个工人为自己的未来做打算的项目，他至少能收回他所支付的钱，并且有权将其作为一项权利收回。 因为在职官员期望公众在此基础上接受它，并且因为纳税人从未表现出任何抵制的迹象，所以有理由推断这种宣传是非常有效的。 虽然纳税人总体上不太可能知道他们的付款到底能买到多大的福利，因此总体上也不知道他们得到的远远多于他们所购买的，但在该项目早期，参与者获得的巨大意外之财只会有助于提高公众的接受度。 这是一个旨在从经济、个人主义立场吸引公民的项目，如果公民以同样的精神做出回应，他们肯定会批准早期的项目，因为它对他们太有利了。
+
+也许是对税收回报的期望解释了甚至在最初几年该项目就被接受的原因，当时纳税人多而受益人少——这种情况原本可能对该项目的政治地位不利——尽管我认为更有说服力的解释是，公众出于冷漠或顺从默许了当时较低的税收。 正如专业精英之间的相互顺从有助于遏制政治冲突一样，大众对权威的顺从也是如此。 如果政府对他们的工资征收1%的税，1937年到1949年之间的工人很可能会认为政府这样做一定有充分的理由，而当时他们并没有太多意识到自己最终能期望得到什么回报。1
+
+政治领导人并没有怎么鼓励纳税人去思考社会保险的社会目的——即赡养那些不再靠自己的收入养活自己的老年人——但就纳税人将其视为该项目的目的而言，他们并不反对。 公众对支持退休老人的做法并不反感。 民意调查显示，早在20世纪40年代，对此就有压倒性的支持。 不过，同样地，早期项目相对较低的成本大概也缓解了公众赞同的阻力。 假设公众重视老年人的经济保障，那么仍然有必要问一问他们愿意为此支付多少钱。 早期的社会保障项目并没有要求他们支付太多。
+
+除了该项目运行的经济现实（它培养了大众的接受度，并通过掩盖其长期后果促进了渐进式扩张）之外，该项目中包含的许多妥协也有助于解释政治争议水平为何如此之低。 福利与工资挂钩，并在最高和最低福利之间保持了实质性差异，这吸引了较富裕的人群；但累进的福利公式仍然意味着，与富人相比，低收入人群相对于他们的工资和纳税获得了高得多的福利。 累进福利公式反过来又与累退税相平衡。 福利的稳步扩张是通过将福利与不断上涨的工资联系起来的精算技术在不断增长的经济中实现的，它与由其占总工资比例衡量的工资基数的稳定性相平衡。 这里有很多内容可以满足人口中较富裕的阶层和有组织的保守派利益集团。 也有很多内容可以满足不太富裕的人群和有组织的自由派利益集团。
+
+妥协因模糊性而变得更加复杂。 项目管理人员可以相当有说服力地争辩说，由于福利是由工人赚取的并且与工资相关，因此该项目充分保留了工作动机。 批评者也可以相当有说服力地争辩说，通过保证几乎每个人在老年时都能获得每月福利（不仅是工人，还包括他们的配偶），通过保证在工人死亡时提供遗属福利，并且通过使福利和纳税之间的关系变得非常微弱，该项目破坏了自力更生并阻碍了私人储蓄。 人们可以非常有说服力地争辩说，专项税收促进了该项目的扩张（因为它使该项目免受预算审查，并且由于与此类税收相关的宣传促进了大众的接受），或者限制了扩张（因为它保证了成本的可见性）。 同样非常有说服力的是，人们也可以认为该项目中使用的精算技术是保守的（因为它们通过假设未来收入停滞来限制福利的增加），或者是自由的（因为在实践中，这一假设反复使得通过精算意外之财而不是增税来为福利增加提供资金成为可能，并且不仅弥补了生活成本的增加）。
+
+总而言之，这是一个在政治上很难分类，也很难理解的项目。 结合其极端的技术性，妥协和模糊性导致除了决策核心的极少数高度专业的少数人之外，所有人对该项目都难以理解，这也帮助这极少数人在他们之间达成妥协，并以有助于大众接受的方式操纵该项目的公众展示。
+
+作为实现福利目标的工具，项目管理人员更喜欢这个项目而不是任何替代方案，部分原因是它提供了达成共识的机会。 此外，他们希望将已颁布的福利从合法辩论的领域中移除，并且能够通过保险项目推进这样一种原则，即承诺的福利是一项不可违反的义务，是政府与纳税个人之间的契约。 无论纳税额多小，或者实际纳税额与法定福利之间的最终联系多微弱，这一原则都适用。 在项目管理人员能够使这一理念获得认可的程度上，他们已经成功地控制了社会保障的政治，并创建了一个真正无法控制的项目。
+
+和第一部分一样，第二部分必须以模棱两可的方式结束。 第一部分论证了决策系统在决定社会保障政治特征方面的重要性，特别是项目管理人员的影响力作用，但也提出了项目特征的潜在重要性。 第二部分论证了项目特征的重要性，但在结尾提出，这些特征在一定程度上是项目管理人员出于政治目的构思和推进的。 第三部分涵盖了另外三个政策选择案例，旨在通过分析决策系统对三个备受争议的问题（授权残疾人享受保险福利、授权需要医疗照顾的老年人享受福利、以及大幅提高基本项目的福利水平）的反应来权衡这两组因素。
+
+引用
+1 Poll data, it will be recalled, showed substantial ignorance of the benefits to be gained from paying taxes. See chapter 8.
+
+# 第三部分 扩张的政治
+
+## 第十五章 残疾保障范围
+
+养老保险项目扩张的定义比人们想象的要困难得多。 首先，需要将其与所谓的“自然增长”区分开来。 随着时间的推移，符合领取福利资格的老年人口比例不断上升，且老年人口本身的实际数量及其在总人口中的比例也在增加。 其次，需要将其与某种经济基准联系起来。 按照大多数分析师的标准，仅仅与物价水平上涨保持同步的福利增加并不属于扩张。 按照一种合理的定义，扩张是指扩大项目范围或功能（相对于其社会或经济基础而言）的立法变更。 如此定义之下，扩张采取了多种形式：将最初被排除在外的职业类别劳动者纳入保障范围，如农民、家庭佣工和自雇专业人士； 放宽受保工人领取福利的资格，例如，通过降低资格年龄或减少“受保身份”要求； 界定额外类别的符合条件的受抚养人，增加他们的权利，或放宽他们的资格条件； 涵盖新的风险类型（残疾、医疗费用）；或者以不成比例地超过物价上涨幅度的方式提高福利水平。1
+
+这种扩张伴随着每一项新的社会保障立法而发生。 我不打算尝试描述所有这些扩张，而是将在本章及随后两章中集中探讨三个最重要的实例：残疾保障、医疗保健保障以及福利水平的量子级（大幅）增长。 在1950年基本项目确立完成之后，项目高管们开始认真转向这些重大扩张，并实现了所有目标。 残疾保障是在经历了大量冲突、拖延以及对保守派反对势力做出诸多让步之后才得以立法的，但是，一旦立法完成，它就不再具有如此大的争议性，并开启了渐进扩张的进程。
+
+### **早期举措**
+
+尽管经济安全委员会（Committee on Economic Security, CES）在1935年并未向罗斯福总统推荐残疾项目，但该委员会确实建议对此问题进行深入研究。 在签署《社会保障法》后，总统任命了一个委员会来研究残疾和医疗保健问题。 该小组——即协调健康与福利活动的跨部门委员会（Interdepartmental Committee to Co-ordinate Health and Welfare Activities）——在1935年之后的几年里，继续推进经济安全委员会已着手进行的社会政策规划。 新小组的大多数成员和工作人员在1934年至1935年间都曾与经济安全委员会有关联。 其医疗保健技术委员会提出了关于残疾和健康保险的最早提案，这些提案包含在一份提交给罗斯福总统的报告中，并在1938年由该跨部门委员会召开的全国健康会议上被公之于众。2
+
+在随后的几年里，阿瑟·奥特迈耶（Arthur Altmeyer）为自己未能在1939年敦促国会通过残疾保险而自责。3 当时美国医学会（American Medical Association, AMA）尚未动员起来表示反对。 其代表大会实际上在1938年支持了残疾保险，回顾过去，奥特迈耶似乎觉得错失了一个在毫无反对声中推进此事的绝佳机会。 然而，这种失败是可以理解的。1939年时养老保险金的支付甚至还未开始，社会保障局（Social Security Board, SSB）急于在向外拓展之前先确保基本项目的稳定。 通过平息党派对巨额储备基金的批评并加速福利支付，1939年的修正案服务于该目标；尽管该修正案增加了遗属保障，但这一特定的扩张并没有带来任何试图涵盖残疾所固有的定义和行政管理问题。 即使假设美国医学会保持善意的中立，1939年的政治局势也不会那么简单。 1937年至1939年的咨询委员会虽然同意为永久性完全残疾人士提供福利是“社会所期望的”，但却未能就推荐这些福利达成一致。4 咨询委员会中的保守派成员认为，成本和行政管理方面的困难需要进一步的研究。
+
+研究在社会保障局内部继续进行，该局在20世纪40年代初开始建议进行残疾立法。 当然，其提议是建立一个保险项目，而非社会救助； 福利将作为一种权利被支付，而不适用经济状况调查（means test）。 为了涵盖暂时性残疾，社会保障局提议向州政府提供联邦激励措施，其方式与失业补偿项目非常相似。 与永久性残疾的福利不同，暂时性残疾的福利不会被附加到养老与遗属保险（Old Age and Survivors Insurance, OASI）项目中。 从1939年开始，残疾提案赢得了蒙大拿州自由派参议员詹姆斯·默里（James Murray）和纽约州参议员罗伯特·F·瓦格纳（Robert F. Wagner）——他们是项目高管在立法机构的主要合作者——的支持和发起，但这些提案在各立法委员会中并未取得太大进展。 罗斯福总统在1942年的预算咨文中支持了残疾立法，但并未进一步推进。 直到第二次世界大战结束且哈里·杜鲁门（Harry Truman）继任罗斯福之后，社会保障局的计划才获得了总统的坚定支持。 随着社会保障局战后立法准备工作的开始，对残疾保险的规划力度也随之加强。 在立法草案中，残疾保险与备受争议的健康保险被分离开来，并附加到政治前景好得多的养老与遗属保险的渐进式修订之中。 社会保障署（Social Security Administration, SSA）官员向1947-48年的咨询委员会提交了残疾保险而非健康保险的方案，并敦促国会在1949-50年采取行动。
+
+### **较量**
+
+在审议1950年修正案时，情况变得很明显：残疾保险将成为一个引发分歧的议题。 咨询委员会对其进行了长时间的辩论，并对保守派持异议者做出了许多让步，结果最终还是失去了他们的选票。 在闭门会议中，众议院筹款委员会（Ways and Means Committee）以最微弱的多数票优势通过了该法案，而在该委员会发布的报告中，共和党人表达了异议。 参议院财政委员会（Finance Committee）出现了分裂，一方是反对残疾保险的两党保守派多数，另一方是支持该保险的两名自由派民主党人。
+
+“我们得到了一个残疾提案，然后我们在上面妥协了又妥协，”劳工组织代表尼尔森·克鲁克香克（Nelson Cruikshank）在回忆1947-48年咨询委员会时说。5 怀着赢得两位商界异议人士——伊士曼柯达公司（Eastman Kodak）的马里恩·福尔索姆（Marion Folsom）和费城普罗维登特互助人寿保险公司的M·阿尔伯特·林顿（M. Albert Linton）——支持的虚妄希望，咨询委员会不断收紧其提案的措辞。 该委员会建议对残疾做出严格的定义；规定六个月的福利等待期；不为受抚养人提供福利；对从其他政府渠道获得残疾救助的人削减福利（这项规定被称为“抵消条款”）；以及要求对劳动力表现出“近期的、实质性的依附关系”。 咨询委员会根本没有提议涵盖暂时性残疾。 副主席萨姆纳·H·斯利希特（Sumner H. Slichter）向国会提交了这项残疾计划，称其为一项经过精心计算以防止滥用的措施。6
+
+对这份报告感到失望的社会保障署提出了一项更为自由化的措施。 其工作经历要求本将不那么严格。 将会为受抚养人提供福利，并且针对其他政府残疾支付只会有很小程度的抵消。 一改其先前的计划，社会保障署现在还提议在保险项目中涵盖暂时性残疾，这项措施存在如此多的问题，以至于显然甚至在社会保障署内部都未能达成共识。 养老与遗属保险局局长奥斯卡·波吉（Oscar Pogge）拒绝就其行政管理上的可行性作证，他说，如果筹款委员会想了解社会保障署计划中该部分的信息，应该去咨询研究与统计主管I·S·福尔克（I. S. Falk）。7
+
+尽管社会保障署占据了咨询委员会左翼的立场。 但保险业和商会则坚定地站在了其右翼。 他们完全反对残疾保险，并提议代之以一项向州政府提供财政专款（grants-in-aid）的计划，以支持那些同时陷入贫困的残疾人。 这将问题上升到了原则层面。 一种以经济状况调查为基础的方法，尽管承认了采取全国性行动的必要性，但对于社会保障署的领导人及其在有组织劳工作中的合作者而言，除了作为对保险的残余补充外，这当然是极其令人反感的。
+
+正如林顿在对咨询委员会报告一份措辞直率的异议书中所阐述的那样，保守派的论点是：身体丧失工作能力的情况很难客观地加以确定； 在高失业率时期，许多资格存疑的人会试图去符合条件； 在一个将福利作为权利提供的项目中，申请人会觉得他们有权获得这种支持； 并且，在一个以高度行政自由裁量权为特征的项目中，行政人员将面临着做出有利于索赔人的边缘性裁决的压力，特别是当资金来自华盛顿几十亿美元的“储备基金”时。 成本将变得无法预测或控制，工作动力将被严重削弱，从而可能对经济和社会造成严重的后果。 作为一名保险业高管，林顿对该行业在大萧条时期处理残疾索赔的不利经验十分敏感，当时损失了数亿美元。 作为一名活跃的共和党人，他似乎也担心民主党会通过利用社会保险来扩大和巩固其在全国的追随者。 他得出的结论是，由于残疾行政管理具有高度的自由裁量特征，“处理完全残疾案件特属于各个州的领域，而不属于联邦官僚机构的领域。将这一个人护理领域移交给联邦政府，将意味着华盛顿对州权力的进一步侵蚀，进一步建立联邦庞大的投票群体，以及在处理福利支付方面施加全国性政治影响的潜在机会。” 他总结道，最初法律中狭隘的措辞无法防范这些危险。 自由化的变革很快就会接踵而至，尤其是如果经济繁荣，且在项目运行的最初几年索赔数量很少的话。8
+
+1950年，国会颁布了保守派的替代方案。 筹款委员会批准了残疾保险和残疾救助补助金，而更为保守的财政委员会则两者都没有批准，两院协商委员会作为妥协批准了救助补助金。 然而，保守派的这次胜利只是暂时的。 保守派的意图是让救助成为保险的替代品。 项目高管们根本不接受这种观点。 他们将其视为残疾保险的补充，就像养老救助（OAA）是养老保险（OAI）的补充一样，并加紧了他们自己的游说活动。 尽管项目高管在1949-50年曾为残疾保险据理力争，但这并不是他们首要的立法优先事项。 1949年，当一位充满同情心的筹款委员会成员问及在提交给国会的庞大法案包中他最看重什么时，奥特迈耶毫不犹豫地回答说，最重要的是扩大基本项目中的职业覆盖面并提高福利。9 在1950年修正案通过后——该修正案将另外1000万工人纳入养老与遗属保险的保障范围，并将福利提高了81%——残疾保障上升到了项目高管议程的首位。
+
+### **第一步：残疾冻结**
+
+首先，项目高管们降低了他们的目标。 1952年，他们没有立即重新提出其关于向残疾人支付现金的失败请求，而是决定以渐进的方式间接实现这一目标，即要求国会保留残疾工人的养老与遗属保险（OASI）福利权利。 由于此类福利是基于平均月收入的，而且需要有一定时间的受保就业经历才能符合领取资格，因此残疾工人面临着因残疾而失去福利或福利被削减的风险。 项目高管提议通过一项“残疾冻结”（disability freeze）措施来规避这些风险，即在计算工人的OASI资格和福利时，将残疾的年份排除在外。 1952年，新泽西州一位友善的共和党人罗伯特·W·基恩（Robert W. Kean）在筹款委员会内部发起了这项条款，作为针对《社会保障法》的一揽子相对温和的修正案之一。它进展顺利，直到被提交至众议院全院进行表决，随后美国医学会成员的抗议突然导致其演变成为一个极具象征意义的议题。 筹款委员会的高级共和党人丹尼尔·A·里德（Daniel A. Reed）在议会发表讲话，谴责这是一种“偷袭”，是一块“敲门砖”，是“这个国家社会化医疗的第一个主要基石”。10
+
+尽管看似一小步，但冻结条款不可避免地引发了残疾福利项目所固有的一些棘手问题。 对于冻结条款而言，其制定残疾定义以及规定针对个案的行政裁定方法的必要性，丝毫不亚于福利支付。 确定残疾需要进行医疗检查，而正是在这一点上，美国医学会以“社会化医疗”的指控介入了这场较量。 该法案本将授权在“联邦政府现有设施”内由受雇于公共部门的医生进行检查，或由联邦安全署署长（federal security administrator）指定的私人机构或内科医生进行检查。 此类检查的费用将由私人提供者与署长或其代理人之间的协议加以规定。 如果社会化医疗在此前没有成为一个重大议题，这些规定可能几乎不会被注意到，但是，由于已经被全面动员起来反对健康保险（一场独立的运动），美国医学会准备将其战斗扩大到其他战线。
+
+当美国医学会与保险业和商会结成同盟时，这场关于残疾的斗争变得更加激烈。 “我们觉得我们正在经历一场真正白热化的争议，”社会保障署的阿瑟·赫斯（Arthur Hess）在几年后回忆道。 “事实上确实如此。人们在众议院和参议院围绕着残疾保险条款……进行了拼死的斗争。”11 后来参与医疗保健（medicare）斗争的赫斯认为，商业团体——即保险业和商会——在残疾问题上表现得更为活跃和群情激奋。 他说，残疾政治是压力集团政治。 有组织的竞争者直接向国会各委员会施加压力，与后来医疗保健的案例相比，公众的参与度要低得多。在1952年，残疾冻结条款在众议院获得通过，但在参议院遭到否决，重演了1949-50年的模式。
+
+随后，两院协商委员会以一种极其奇特的方式决定了这个问题。 1952年的修正案中包含了残疾冻结条款，但规定其失效日期为1953年6月30日。当该条款与另一项规定——在1953年7月1日之前不得接收任何残疾工人的申请——结合在一起时，其结果就是使得表面上似乎已获批准的内容化为乌有。 这种结果使得政治决策显得荒谬透顶。 如果不是利益和意识形态的利害关系显得如此之大，可能已经达成了一种更为理性的妥协，但个性因素也在其中发挥了作用。 这一结果在一定程度上归因于即将退休的筹款委员会主席的固执己见，他被称为“骡子”（Muley）可不是没有原因的。
+
+赫斯回忆说： 当他们最终进入协商委员会时，在国会任职了大约四十年，并且在其中很多年里一直担任筹款委员会主席的老“骡子”道顿（Doughton）正春风得意。 这是他在国会的最后一届任期，（审理的）最后一项法案，如果不算是他参与的最后一个协商委员会，那也几乎算是了。 他下定决心一定要在那项法案中包含一些关于残疾的内容，这并不是因为他个人接受了残疾保险或残疾冻结条款，而是我认为对他而言，这是一件关乎威望的事情——既然该条款已经在众议院通过了，他不想对参议院做出完全退让。 而参议院的协商委员们也同样坚定地认为，残疾保险绝不会被列入其中。 所以他们最终得出了这个不可思议的妥协方案。12
+
+隐藏在这个离奇结果背后的，是朝着达成一致迈出的坚实步伐。 在寻求妥协的过程中，协商委员会想到了由州级机构来做出个体残疾裁定的主意。 通过保护医生免于直接涉入与联邦政府的关系，这可以使法案更容易被美国医学会接受。 随之而来的是对保守派反对势力的另一项让步，规定联邦安全署署长可以推翻州级机构做出的肯定性残疾裁定，但不能推翻否定性裁定。 赫斯后来将这一有关使用州级中介机构的“天才灵光”归功于来自科罗拉多州的民主党参议员埃德温·C·约翰逊（Edwin C. Johnson），但他猜测这实际上可能出自威尔伯·科恩（Wilbur Cohen）之手，在社会保障政策上那些巧妙的妥协方案通常都被归功于他。13
+
+这便是当共和党政府在社会保险项目历史上首次执政时，事态的发展状况。 关于残疾冻结的议题已经过了一番争斗，但尚未得到解决。 1952年的协商委员会报告使得国会承诺在1953年重新讨论这一议题。 在如此动荡不定且势均力敌的较量中，政府的立场可能会产生巨大的影响。
+
+奇怪的是，考虑到该议题的及时性和象征意义，主要政党的党纲在1952年均未对此表明立场。他们对残疾保障只字未提——这既标志着各政党参与社会保障政策制定的偶然性特征，也反映出公众对该议题的认知有限。 关于残疾保险的较量虽然激烈，但范围狭窄。 它仅涉及各组织：一方是社会保障署和有组织劳工的联盟，反对另一方的美国医学会、保险业和商会。 在拥有极大自由来决定自身立场——而且似乎很多事情都取决于其选择——的情况下，艾森豪威尔政府加入了这场较量，站在了社会保障署的一边。
+
+罗斯韦尔·B·帕金斯（Roswell B. Perkins）作为卫生、教育及福利部（HEW）的助理部长，在很大程度上对政府的立场负责，他后来这样解释道： 威尔伯·科恩等人使我们接受了这项规定，在当时我们起草1954年修正案的时候，确保你的社会保障福利不会因为完全残疾导致的非盈利期而下降，这似乎是极其公平的。 它显得很人道。它花费不多。 它与私人健康保险中的一项常见条款相类似。 作为一项保障措施，帕金斯坚持残疾裁定应由州级职业康复机构做出：在他看来，这些人是“对残疾采取建设性和积极态度的人”，而不是“那些仅仅对在社会保障福利工资单上增加更多领取者感兴趣的人”。14
+
+当帕金斯阐述政府立场时，筹款委员会中的共和党人，特别是约翰·伯恩斯（John Byrnes），与他进行了激烈的争论。 “在为残疾冻结条款辩护时，我的日子非常难熬，”帕金斯回忆道，“因为共和党人不断地对我说，帕金斯，难道你没有意识到这只不过是新政支持者为残疾福利铺路的一个阴谋吗？ ”帕金斯坚持认为情况不会是那样的——所有的重点都将放在康复上。 “我们正在强化职业康复办公室，”他告诉他们，“我们将引导所有这些人通过康复流程。 它将成为一个用于康复的、庞大而卓越的招募系统。 我们将强调积极的一面。”15
+
+国会共和党人仍然深表怀疑，但最终并没有公开反对这不可预知地成为其党派行政领导层的立场。这就解决了这个问题。残疾冻结条款于1954年获得通过，随后该项目的领导者开始专注于下一步——现金福利。
+
+**第二步：现金福利**
+
+艾森豪威尔政府支持了残疾冻结条款，但这并不意味着它也会支持为残疾人提供现金福利。 情况恰恰相反。 因为帕金斯由衷地致力于康复路径（正如他所认为的那样），并且因为他在与国会共和党人的会谈中做出了承诺，他决心让这种方法得到公平的试验。 仅仅两年后，当这项试验才刚刚开始时，他毫不犹豫地反对了现金福利。 马里恩·福尔索姆（Marion Folsom）在1955年接替霍比女士（Mrs. Hobby）成为卫生、教育及福利部（HEW）部长，鉴于他长期以来与社会保险发展的渊源及对其抱有的同情，他在此事上显得犹豫得多。 罗伯特·鲍尔（Robert Ball）认为，福尔索姆私下里倾向于在残疾保障方面开启有限的尝试，他只是在白宫的指示下才表示反对。 但是，福尔索姆在1947-48年咨询委员会中表达的异议也表明，他同样对涵盖残疾保障的合意性心存疑虑。 政府的反对赋予了随后这场较量以特殊意义，因为这是项目领导人首次违背行政分支政治领导层的明确意愿来寻求扩张。 民主党总统可能会因为未能给予正式背书而让他们感到失望，就像富兰克林·罗斯福（Franklin Roosevelt）曾不止一次做过的那样。 出于战略层面的考量，罗斯福一直不愿对他们最具雄心且最具争议的目标做出承诺，但他们仍然可以确信，他并非真正反对他们所希望做的事情。 而共和党政府，即使考虑到马里恩·福尔索姆的矛盾心理，在1955-56年也确确实实是不赞成颁布残疾保险的。
+
+如果没有在1954年选出一届由民主党控制的国会，该项目的领导人们可能不得不暂停他们对残疾立法的追求。 “分立政府”（Divided government）是共和党掌控卫生、教育及福利部的这些年里实现重大扩张的条件之一。 另一个条件是威尔伯·科恩（Wilbur Cohen）的离职。 “我能看到风起云涌，”他在接受采访时说。16 由于不想留在一个反对残疾保险的政府中任职，他于1956年1月辞职，前往安娜堡（Ann Arbor）的密歇根大学（University of Michigan）担任教授，从而使自己摆脱了作为公务员的束缚。 第三个条件是与有组织劳工的持续联盟，后者进行了必要的游说。 高潮式的较量发生在1956年夏天，随着总统选举的临近，在参议院——在此之前残疾措施总是在那里夭折——展开。 在1955年，众议院再次投票通过了残疾福利，并将其与项目高管们长期追求的另一项措施结合在一起——即降低基本项目中女性的资格年龄（从六十五岁降至六十二岁）。 残疾福利将被限制在五十岁或以上的人群中，这种限制往往掩盖了该变革所具有的门槛性质。 支持者将这项措施呈现为一种对女性和残疾人资格年龄的降低，而不是将其作为一项援助残疾人的重大新项目。 财政委员会在1956年初就这一揽子计划举行了听证会，在听证会上，福尔索姆部长反对了这两项改变。 政府当时正在为基本项目中的全民覆盖而奔走（此时它尤其希望将联邦公务员纳入其中），但并不支持扩大福利。17
+
+在参议院，残疾保险支持者面临的战术挑战是团结民主党。 在过去，这是不可能的；财政委员会对残疾保障的反对是跨党派的。 但到1956年，政治局势已经发生了变化。当时出现了分立政府，这使得国会中的民主党有动力去与现任政府争夺立法领导权。 参议院出现了一位新的且非常强势的政党领袖——林登·B·约翰逊（Lyndon B. Johnson），他认为自己的工作正是如此。 最后，财政委员会出现了一位新任但并不十分强势的主席——弗吉尼亚州的哈里·F·伯德（Harry F. Byrd），参议院并没有像对其前任、佐治亚州的沃尔特·F·乔治（Walter F. George）那样对他言听计从。 乔治仍然留在该委员会中，但他为了担任外交关系委员会（Foreign Relations Committee）主席而放弃了这一主席职位。 政治力量和政党领导层的这种变化，为社会保险项目的支持者提供了宝贵的战术优势。 乔治在1956年成为参议院中残疾保险的发起人，而约翰逊作为民主党多数党领袖，则负责组建一个能够获胜的联盟。
+
+乔治的支持既不可思议又极其宝贵。仅仅两年前，他还在参议院会场上猛烈抨击“社会保障机构中的改革者”，并恳求上帝拯救世界免受改革者的毒害，并使国家摆脱债务——这是他试图使农民免受社会保障覆盖运动的一部分。18 如今，伴随着南方口音的演讲依然回荡，他抛弃了对债务和潜行社会主义的担忧，加入了“社会保障机构”的阵营。 当时七十八岁的他正面临着民主党初选中的一场艰难竞争，也许他把对残疾立法的兴趣作为一种加强自身支持率的方式。 5月，他宣布将不再竞选连任，残疾措施便成为了他留给国家的饱含深情的离别礼物。 一年之后，他便与世长辞。
+
+无论乔治的动机是什么，他都是所有可能发起人中最好的一位。当这位权势显赫的老将发言时，每个人都在倾听，这是出于对这位处于职业生涯末期的南方政治家的崇敬。 如果没有这样一位德高望重的发起人，可能就无法推翻再次建议反对残疾保险的委员会的决定。 乔治发表演讲后，结果在全体会议上敲定。47票对45票的微弱优势成为该议题极具争议性的最终标志。 尽管面临来自艾森豪威尔政府的强大压力，但仍有六名共和党人加入了四十一名的民主党人的阵营，投票支持乔治修正案；与此同时，七名南方民主党人倒戈，与三十八名共和党人一起表示反对。 立法行动于7月——即第八十四届国会第二次会议的最后一天——完成，8月份的民主党党纲自豪地宣称，他们在共和党人的反对下改善了社会保险。 经过漫长的斗争，项目的拥趸们得到了他们的法律，而民主党则获得了一个竞选议题。
+
+随着政府走向分立以及总统大选的迫近，政党在社会保障政策制定中发挥了比往常更大的作用。 参议院的民主党领导人——约翰逊，与财政委员会的乔治和罗伯特·S·克尔（Robert S. Kerr）合作，而后者又得到了威尔伯·科恩和罗伯特·鲍尔的协助——起草了一项他们党内几乎所有人都能支持的法案。 除了关于残疾的乔治修正案外，它还包括授权女性在六十二岁时领取福利，但采用了经精算后降低的比率，这大幅削减了最初众议院一揽子计划的成本，从而提高了其在参议院民主党人中的可接受度。 私人利益集团在双方都进行了艰苦的游说。 尤其是美国医学会反对残疾保险，而有组织劳工作则予以支持。
+
+尼尔森·克鲁克香克（Nelson Cruikshank）的回忆重现了这场运动的最后时刻，并说明了劳工与民主党立法领导人之间的关系：
+
+在最后阶段，我们以为已经把他们集结完毕了。 我们走进了林登·约翰逊的办公室去清点人数。 辩论正在进行，我看到约翰逊站在会场上，环顾着旁听席。 我想他可能在找我，于是我在旁听席上站了起来，这是违反规则的，但我一站起来，他就引起了我的注意，并示意我下楼，我知道他指的是去他那个私人小办公室。 我走了下去，他说，“你觉得你获得了多少张选票？” 我告诉他我认为我们大约有50张。 他说，“你有个屁。 你现在还差大约三票。” 他说，“我会告诉沃尔特·乔治继续讲一个小时，在这一个小时里你必须把那三票搞定。 这是我能做的最好的了，但我认为也许你们能拿到它们”，然后他建议了几个让我们去见的名字。 我走到了走廊上。 那里有八个或十个劳工兄弟，铁路兄弟以及其他人，我和他们所有人都谈了。 我们做了一些分工。 我们开始找这些人谈话。 其中一位来自（北）达科他州，名叫扬（Young）。 他当时反对我们，因为正值点名表决，而他的名字以“Y”开头，所以在点名进行时我们还在和他交谈，结果铁路兄弟们说服了他，让他应该支持残疾立法。 当时的一个论点是你无法对其进行行政管理。我知道这是扬的论点，于是我告诉铁路兄弟们，我说：“看在老天的份上，告诉他，你们铁路系统里就有残疾保障，而且已经实行好几年了；它一直被管理得很好。 就向他施压，告诉他这只是一种理论上的借口。” 他们这么做了，然后他走进去……投了“赞成”票，这给了我们所需的那一票。19
+
+就在约翰逊和劳工游说者们到处寻找能够制胜的选票时，威尔伯·科恩正待在华盛顿的一间办公室里接听电话，提供信息和建议。 克鲁克香克将他视为定海神针。 他从未脱节，即使身在安娜堡，当参议院辩论临近时，他也会来到华盛顿，并提供他一贯的技术专长与战术谋略的结合，而此时至关重要的补充在于，他已不再受官方立场的束缚。
+
+### **立法之后：不可见且渐进的变革**
+
+1956年的法律承载了其漫长而充满激烈政治斗争的通过过程的许多印记。 为了适应保守派的反对，项目高管们一路都在妥协。 残疾被定义为：由于医学上可确定的、预期会导致死亡或将长期持续且期限不定的身体或精神损伤，而无法从事任何实质性的有报酬活动。 因此，即使是完全丧失工作能力，但已知是暂时性的残疾也被排除在外。 在福利开始发放之前有六个月的等待期。 必须证明与劳动力市场存在近期且实质性的依附关系（这体现在过去的十三个日历季度中有六个季度被雇用）。 福利被限制在五十岁及以上的残疾人士范围内，并且需要扣除从诸如工人补偿（workmen's compensation）等其他来源获得的政府残疾福利金额。 法律未授权为受抚养人提供福利。 关于残疾的裁定由州级机构做出，只有当裁定结果为肯定时，社会保障署（SSA）才有权推翻。 最后，为了提高可见度并改善控制前景，残疾支出应在一个独立的信托基金中进行核算，这是在1956年夏天参议院审议期间引入的一项技术设计。
+
+社会保障署的官员估计，该项目可以通过对雇主和雇员各征收0.25%的额外税款来提供资金，这被纳入了1956年的修正案中。 这一成本水平似乎是1955年国会民主党人开始组装一揽子立法计划时专门设定的目标。 该一揽子计划中的另一项内容——降低女性退休年龄——成本相当高昂，为了将预期的成本增加限制在应税工资总额的1%以内，残疾提案被削减以适应这一目标。 正是在那时，引入了五十岁的年龄限制。20 （当该一揽子计划送达参议院时，其余部分也被削减了，从而以一种不增加成本的方式实现了降低女性退休年龄的目标。）
+
+保守派反对者一再抗议说，所有的削减都只是一种战术，并且在该项目最初的扩张实现之后，将会出现恢复并进一步的扩张。 他们是对的；1956年所包含的妥协在1958年开始被消除。 令人惊讶的是，考虑到其如此动荡的历史，这些妥协的消除几乎没有引发任何争议。 曾因一项充满分歧的议题的冲击而扩张的政策制定系统再次收缩，并且进一步的变革在少数占主导地位的、以项目为导向的决策者之间，几乎没有经过任何辩论或分歧便发生了。 1965年，通过取消“长期持续且期限不定”的预后要求，并代之以十二个月持续时间的要求，残疾的定义被放宽，从而为涵盖暂时性残疾开辟了道路。 要求在过去十三个日历季度中有六个季度受雇的规定于1958年被取消，并且在1960年、1965年、1967年和1972年颁布了其他放宽资格的规定。 关于发放福利的五十岁年龄限制于1960年被取消，对其他政府项目的抵消条款则于1958年被取消（但后来部分恢复）。 1958年增加了对受抚养人的福利。 六个月的等待期在1972年被缩短至五个月。
+
+这种放宽也是通过行政裁量权实现的，社会保障署的高管们从不吝于使用这种权力，并且在残疾项目中他们也无法避免使用它。 在确定残疾时，高度的行政裁量权是固有的。 这正是保守派反对该项目的原因之一，也是他们坚持让各州发挥主要行政作用的一个原因。 他们不信任社会保障署。 作为对这种保守派敌意和普遍充满争议的氛围的回应，项目高管最初相当谨慎。 但是，随着项目的确立，争议的平息，以及国会议员们为了其选民的利益而寻求对法律进行自由化（放宽）管理，他们很快就变得不那么犹豫了。
+
+尽管规定由州级机构进行残疾裁定，但养老与遗属保险局（BOASI）主导了行政管理。 其中心办公室制定了指导州级机构的标准。 其地区办公室接收索赔人的申请，并帮助他们准备索赔。 在州级机构审查索赔并做出残疾裁定后，各州的决定由位于巴尔的摩（Baltimore）的BOASI中心办公室进行复审。 如果该局不同意某个州的决定，它会通知该州，给出不同意的理由并要求重新考虑。 除了极少数案例外，州级机构都遵从了联邦的请求。
+
+该局使用这些行政权力时表现出典型的自由化、服务客户的作风。 “我可以向你们保证，地区办公室人员的普遍态度是希望支付索赔，”罗伯特·鲍尔（Robert Ball）在向国会委员会作证时说。 “如果看起来在重新考虑后……该个人有可能获得批准，他就会得到一切鼓励去让他的案件得到重新考虑。”21 该局残疾业务部门（Division of Disability Operations）的负责人在1957年福利支付开始时警告其员工不要因为害怕保守派的批评而畏首畏尾，从而定下了行政管理的基调。 “我不想否认对不当批准的关注，”他告诉他们。 “但是，坦率地说，此刻我更被对不当拒付的恐惧所萦绕。……在模棱两可的案例中，只要存在合理的疑问，就应该将疑点利益归于残疾人。”22
+
+该局的指南规定，在残疾裁定中，应首先考虑如医学证据所示的损伤严重程度，但个人未能达到规定的严重程度标准并不一定具有结论性意义。 还应考虑到非医学因素，如个人的智力、心理适应能力、年龄、教育程度、工作经验和技能以及动机。 这种愿意对非医学因素赋予权重的做法，对法律看似严格要求残疾必须基于“医学上可确定的”损伤这一条款进行了一定程度的自由化解释，并且随着时间的推移，管理者变得更愿意行使自由裁量权。 1962年的一项研究表明，在一个样本库中，有40%的残疾案例是基于非医学因素对残疾起到了决定性作用的认定而获批的，而在1959年，这一比例仅为10%。23
+
+社会保障署（SSA）的行政行为也几乎使法律中赋予其仅能推翻各州做出肯定性残疾裁定权力的条款形同虚设。 所谓的“写回（write-backs）”或“局里退回（bureau bounces）”经常发生以作为对各州做出否定性裁定的回应，其结果通常是州级机构同意联邦的建议。 一个由乔治华盛顿大学（George Washington University）法学教授组成的团队在20世纪60年代初研究了残疾福利的行政管理，他们在小心翼翼不去质疑社会保障署动机的同时，对其这种做法的适当性提出了质疑。 他们的报告得出结论认为，这种程序源于“纯粹出于对正当行政管理的深切责任感”，特别是为了在残疾标准的应用上实现全国范围内的一致性。24
+
+1956年之后法律放宽的引人注目之处在于，它所遇到的阻力是如此之小。 一个曾在近十年时间里引发激烈冲突的议题突然似乎失去了其政治上的显著性（political salience）。 那些曾经费尽心力去撰写适当限制性措辞的国会委员会，已经想不起他们曾写过这些措辞，或者为什么要这么写，取而代之的是，他们开始质问管理人员，为什么裁定残疾索赔需要这么长时间，以及为什么那些看起来残疾的索赔人有时会被拒赔。
+
+这一重要变化首先源于敌对压力集团行为模式的改变。 在关于残疾的法律颁布之后，商业团体发现很难继续保持反对立场。 也许这是因为一项原则上的反对——正如他们对残疾保险的反对那样——在原则已经做出妥协之后，就很难再坚持下去了。 然而，商会明确拒绝在1956年之后在原则问题上让步。其1957年的政策声明称：“志愿机构和州及地方的公共救助系统，连同各州的康复机构，才是为需要帮助的残疾人提供援助的适当手段。最近颁布的联邦残疾福利系统……并未改变这一基本概念。” 商会呼吁对“残疾索赔进行严格筛选”，并采取其他行政措施来控制成本，鼓励个人康复。25 从这份声明来看，商会并非对斗争的立法和行政后果漠不关心。
+
+或许对于商业团体未能维持其激烈反对立场的更好解释是，政策议程的拥挤迫使他们不得不忽略许多本希望关注的问题。 除了属于渐进式变化之外，1956年之后通过的关于残疾保障的零星立法也并非孤立的。 它们无一例外地都是一项庞大而复杂的社会保障一揽子立法计划的一部分，而该计划本身又仅仅是一长串国内立法议程中的一部分。 资源有限的压力集团必须从一个庞大的目标库中选择自己的重点。 包括保险业在内的商业团体将注意力集中在社会保障中涉及原则的新议题（如健康保险），或其利益直接卷入的持续性议题（如工资基数水平），而不是像残疾保障这样与其直接利益联系有限的渐进式变革。
+
+与其他反对者相比，美国医学会较少关注残疾保险的原则，而更多地关注迫在眉睫的监管威胁。 美国医学会担心，残疾项目将成为联邦政府控制医疗实践的第一步。 事实上，该项目几乎没有对全美的医生造成任何干扰，美国医学会也随之平静下来，并且由于该组织早期高呼“社会化医疗”而被赋予了强烈象征意义的该议题也失去了其原有的色彩。
+
+残疾项目在设计上就是为了不干扰医生。在立法阶段，政治运作起到了保护他们的作用。当他们对法律提出异议时，支持者修改了法律以满足他们的要求。法律明确禁止联邦政府干预医疗实践或医患关系，并且更有效地通过将残疾裁定权分配给州级机构来保护医生免受这种干预。因为被期望承担这项责任的州职业康复机构已经与医生建立了工作关系，这种安排将创新的负担降到了最低。BOASI的领导者也没有因为他们的行政行为而招致冲突。项目高管们表现得极其务实、包容且具有妥协精神。通过决心将重点放在行政管理任务上，他们帮助将注意力从象征性的冲突中转移开。
+
+尽管遭到了他们自己下属员工的异议——这些员工不信任各州，并因为不得不与各州打交道而感到不便——他们仍然决定发展政府间的伙伴关系（认识到这是与医疗界达成和解的首要条件）；并且他们聘请了一个由医生组成的咨询委员会来协助制定残疾标准。
+
+回顾这段经历，阿瑟·赫斯认为，除了使残疾项目更容易被接受之外，它还在很大程度上为医疗保健（medicare）铺平了道路：
+
+我已经说过很多次了——例如，我们管理残疾保险的方式，通过我们与有组织的医疗界围绕残疾这一医学主题建立的磋商和良好关系，是后来医疗保健项目的一个重要先例。 随着时间的推移，建立沟通渠道并与有组织的医疗界进行专业交往（这些交往现在已经在医疗保健项目中获得了回报）的几乎唯一基础，正是因为我们有一个可以围坐在桌前共同讨论的具体残疾行政程序。 ……我们必须证明，医生们有可能与社会保障部门的人员进行交谈，在回家后依然不会觉得他们已经被社会化或被严格管控了。 我认为残疾项目做到了这一点。26
+
+随着医生和商业团体反对残疾保险的压力逐渐消退，国会开始面临来自一个新群体（尽管是无组织的）的压力，该群体由该项目的受益人和潜在受益人组成。 国会议员们听到了许多个人的抱怨，他们的索赔处理缓慢，或者因为似乎不够充分的理由而被拒绝，于是他们开始质问为什么这个项目如此严格。 这种抱怨如此之多，以至于促使筹款委员会在1959年对残疾保险的行政管理进行了调查。几年前还不得不应对保守派对其提案提出异议的项目高管们，现在却不得不回应有关行政管理过于严格的投诉。27
+
+回顾过去，很明显，该法律的通过深刻改变了国会审议的政治环境，而随着政治环境的变化，国会的角色及其对该项目的定位也随之改变。 最初，它反映了压力集团之间的冲突——并通过内部程序的运作解决了这种冲突。 随后，它通过放宽法律和使放宽该法的行政管理合法化，以及处理个人的投诉案件，来提供选民服务。 这种变化可能发生得很迅速，因为国会对直接和近期的压力高度敏感——这想必是一个其成员要面临近乎持续的民意测试的机构的特征。
+
+由于国会通常不会长远地展望未来，所以它通常也不会记得多少过去的事情。 在1959年调查残疾行政管理的筹款小组委员会，不得不让人向他们解释1952-1956年的政治局势。 大多数成员在四年前并未在该委员会任职。 赫斯带着些许被逗乐的心情，回忆起了委员会对待取消现金福利领取年龄五十岁限制时的态度：
+
+很长一段时间以来发生的最有趣的事情之一是——我猜那是在1960年左右，也就是对现金支付的五十岁年龄限制被废除的时候——筹款委员会的成员们互相看着对方说，“嗯，五十岁这个界定根本没有逻辑可言。到底是什么让人觉得这有任何意义的？” 当我们回想起来，仅仅在几年前，正是这其中的一些议员，还在接受着人们提供给他们的非常符合逻辑的合理化解释，说明为什么人在五十岁之后康复的可能性要小得多，以及如果你不打算承担走完全程的成本，至少走到这一步是一种更符合逻辑的方法。28
+
+总而言之，残疾项目政治环境发生改变的原因在于国会定位的改变，而这反过来又是由项目确立后施加在国会身上的压力发生的根本性变化所解释的。除了这种制度层面的解释之外，还必须补充一点，无论在何种制度环境下，渐进式的变革与涉及原则创新的变革相比，产生冲突的可能性更小。 这也就是为什么项目高管即使在进行原则创新时，也会试图对其进行修剪和包装，使其看起来仅仅像是一种渐进式的改变。
+
+### **结果**
+
+尽管残疾救助项目最先确立，旨在回应保守派希望其成为实现此目的的主要政府项目的期盼，但它很快就被保险项目超越了。在1958财年，也就是残疾保险全面运营的第一个整年，福利支付额就超过了联邦向各州提供的残疾拨款达4500万美元。在受助人数方面，在受抚养人福利获得授权后不久，保险项目于1959年超过了救助项目。
+
+最初对雇主工资总额和雇员工资分别征收0.25%的残疾税率被认为是无限期充足的，这当然是假设之后不会进行任何放宽。 在社会保障项目的这一部分中，与养老与遗属保险（OASI）不同，从理论上讲，该税率是一种“均衡保费”（level premium）。 也就是说，该税率在1956年被设定在一个预期足以永久支撑该项目的水平，而不是像基本项目中那样实行阶梯式递增。 人们明白，残疾保险信托基金早期会产生盈余，而保守派担心——后来发生的事实证明他们的担忧是正确的——这将为放宽规定（自由化）提供便利。最初的税率在近十年的时间里被证明是充足的。1966年，该税率被提高到0.35%。随后在1968年再次提高至0.475%，并在1970年第三次提高至0.55%。随着该项目的持续扩张，进一步的税率上调也在预料之中。根据筹款委员会工作人员于1974年发布的一份报告，资金短缺在残疾保险项目中已成为一种长期的顽疾。29
+
+引用
+
+1 Defining the expansion of the program by the growth in benefits is particularly problematic. There has been no accepted criterion for measurement. It might be argued that any increase not "earned" by beneficiaries through payment of taxes is an expansion, even if it is sufficient only to compensate for increases in the cost of living. Or it may be argued that expansion occurs when increases exceed increases in the cost of living. Some might argue that even increases in proportion to wage in-creases (which historically have exceeded price increases) do not constitute expansion of the program as long as the proportion of total earnings subject to social security taxation remains stable. "Replacement rates," which are probably the best single indicator of benefit levels, did not have wide currency as such until the 197os! Such rates express the relation between the preretirement wage and postretirement pension. See chapter 17 for further discussion.
+2 Wilbur J. Cohen, Retirement Policies under Social Security (University of California Press, 1957), p. 44. Chapter 4 of this book summarizes the early history of disability insurance legislation.
+3 Arthur J. Altmeyer, The Formative Years of Social Security (University of Wisconsin Press, 1966), p. 26o.
+4 Advisory Council on Social Security: Final Report, December 10, 1938, S. Doc. 4, 76 Cong. 1 sess. (GPO, 1939), pp. 19-21.
+5 Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University(1967), p. 58.(Hereafter Cruikshank, OHC.)
+6 Recommendations for Social Security Legislation, the Report of the Advisory Council on Social Security to the Senate Committee on Finance, S. Doc. 2o8, 8o Cong. 2 sess. (GPO, 1949), pp. 69-93; Social Security Act Amendments of 1949, Hearings before the House Committee on Ways and Means, 81 Cong. 1 sess. (GPO, 1949), pt. 2, pp. 1555-56.
+7 Social Security Act Amendments of 1949, pp. 2200, 2219.
+8 Recommendations for Social Security Legislation, S. Doc. 208, pp. 85-92, quotation from p. 91.
+9 Social Security Act Amendments of 1949, Hearings, p. 1243.
+10 Congressional Record (May 19, 1952), pp. 5471-72.
+11 Interview with Arthur E. Hess, Oral History Collection, Columbia University(1966), p. 36.(Hereafter Hess, OHC.)
+12 Ibid, pp. 37-38. 
+13 Ibid., pp. 84-85.
+14 Interview with Roswell B. Perkins, Oral History Collection, Columbia University (1968), pp. 25-26. 
+15 Ibid., p. 26.
+16 Interview with Wilbur J. Cohen by David G. McComb for the Lyndon B. Johnson Library (1968); copy in John F. Kennedy Library, Waltham, Mass.
+17 Social Security Amendments of 1955, Hearings before the Senate Committee on Finance, 84 Cong. 2 sess. (GPO, 1956), pt. 3, pp. 1225--51.
+18 Congressional Record (August 20, 1954), pp. 15409-12.
+19 Cruikshank, OHC, pp. 44-45.
+20 Cohen, Retirement Policies under Social Security, p. 59.
+21 Administration of Social Security Disability Insurance Program, Hearings before the Subcommittee on Administration of Social Security Laws of the House
+Committee on Ways and Means, 86 Cong. 1 sess. (GPO, 1960), p. 38. 
+22 Ibid., p. 85.
+23 George Goldsborough, Jr., William G. Tinsley, and Arnold C. Sternberg. "The Social Security Administration: An Inter-Disciplinary Study of Disability Evaluation," pt. 1, "The Administrative Determination of Permanent and Total Disability," section 1, "The Social Security Disability System" (George Washington University, 1963), pp. 98-100.
+24 Ibid., p. 224.
+25 U.S. Chamber of Commerce, Policy Declarations (Washington, D.C.: the Chamber, 1957 ), p. 38.
+26 Hess, OHC, p. 44.
+27 Besides the hearings cited in note 21, see Disability Insurance Fact Book prepared by the staff of the Subcommittee on Administration of Social Security Laws of the House Ways and Means Committee, 86 Cong. 1 sess. (GPO, 1959), and Administration of Social Security Disability Insurance Program, Preliminary Report to the House Committee on Ways and Means (GPO, 1960).
+28 Hess, OHC, pp. 41-42.
+29 Committee Staff Report on the Disability Insurance Program, prepared by the staff of the House Committee on Ways and Means (GPO, 1974), p. 1.
+
+## 第十六章 联邦医疗保险 (Medicare)
+
+从1934年至1935年经济保障委员会（Committee on Economic Security）的讨论，直到三十年后由一个分裂的国会通过联邦医疗保险法案，联邦医疗保险计划这一议题始终极具争议。出于对专业实践和特权受到官方监管的恐惧，美国医学会（American Medical Association, AMA）对所有相关提案均持强烈的反对态度，并屡次发起针对这些提案的宣传战。这加剧了医疗保险支持者的意识形态与情感博弈，这些支持者除了社会保障署（Social Security Administration）的官员外，还包括杜鲁门、肯尼迪和约翰逊三任民主党总统的政府班底、国会中最倾向自由派的议员、有组织的劳工团体，以及各类相关的私人和半官方机构。双方都纠集了保守派与自由派联盟，并斥资数百万美元开展大众宣传。由于医疗保险极具争议性，以项目为导向的政策制定者发现其极其难以管理。广泛的参与性使讨价还价与联盟构建的工作变得复杂化，并导致以项目为导向的医疗保险支持者与其更具党派色彩及意识形态倾向的盟友之间产生关系紧张。甚至在项目导向的群体内部，压倒性的意识形态分歧也阻碍了共识的达成，这使得医疗保险在学理与决策程序上，都被证明难以与现金福利这一基本项目相调和。众议院筹款委员会（Ways and Means Committee）主席威尔伯·米尔斯（Wilbur Mills）的持续反对，显然很大程度上源于米尔斯对社会保障项目强烈的“所有权”责任感，以及他担忧引入医疗保健将大幅增加项目成本并改变其性质。
+
+### 早期运动 (The Early Campaigns)
+
+将残疾保险与医疗保险进行比较是大有裨益的。两者都在1934年被经济保障委员会的幕僚人员纳入考量，但既未列入该委员会向总统提交的建议中，也未列入总统向国会提交的建议中。随后，这两项议题均被总统在签署法案后任命的协调健康与福利事务部际委员会（Interdepartmental Committee to Coordinate Health and Welfare Activities），以及社会保障局（Social Security Board, SSB）研究与统计办公室提上日程。当富兰克林·罗斯福总统出于战略考量而拒绝作为提案人时，由这些机构起草的法案由持有同情态度的自由派议员——参议员罗伯特·F·瓦格纳（Robert F. Wagner）、参议员詹姆斯·默里（James Murray）和众议员约翰·丁格尔（John Dingell）——引入国会。1 然而，医疗保险更大的争议性很早就使其变得更难被管控。社会保障局的官员向1937-1939年度以及1947-1948年度的咨询委员会提交了残疾保险提案，但未提交医疗保险提案。他们也没有将医疗保险提案提交给国会中对社会保险拥有管辖权的委员会——众议院筹款委员会和参议院财政委员会（Finance in the Senate）。早期的医疗保险法案省略了财政收入条款或对此表述模糊，以便这些法案能够被转交至对公共福利有管辖权的委员会。 这些委员会举行了听证会，但从未发布过有利的报告。
+
+这种毫无希望的政治局面——既没有总统的积极支持，也几乎没有任何来自国会的支持——并没有吓退支持者们。社会保障项目执行者们的进取心，在这些早期推动国家医疗保险的运动中体现得最为淋漓尽致。回顾起来，这些近乎堂吉诃德式的努力之所以得以维持，是因为战时抱有一种期望，即在战后时期可能成就伟大事业；是因为产生了《贝弗里奇报告》（Beveridge plan）的英国所带来的鼓舞人心的榜样力量； 也是因为社会保障局内部主要推动者的本土热情——威尔伯·科恩（Wilbur Cohen）与研究和统计办公室主任 I. S. 法尔克（I. S. Falk），在阿尔特迈耶（Altmeyer）的支持下，起草了法案并安排瓦格纳、默里和丁格尔将它们引入国会。 阿尔特迈耶后来在接受采访时将瓦格纳和默里描述为“实用主义者和自由主义者”，他们对哲学或技术细节不怎么感兴趣，只要顾问告诉他们这是一项好法案，他们就会将其引入。2
+
+罗斯福逝世后，支持者们在杜鲁门总统和杜鲁门的联邦安全局局长奥斯卡·尤因（Oscar Ewing）那里找到了非常重要的盟友，这两人都毅然决然地抓住了这一议题。杜鲁门在1948年的竞选活动中利用了这一议题，而阿尔特迈耶推测，他认为有政治抱负的尤因也希望利用该议题作为自己晋升更高职位的阶梯。 在杜鲁门1948年意外获胜后，曾有过一段充满极高期望的时期。
+
+然而这一时刻转瞬即逝。国会并不比以往更愿意采取行动。将该议题升级为总统竞选的高级政治，不仅未能为其动员到党派多数的支持，反而激起了有组织的医疗行业的全新抵制，其在全国范围内发起了一场针对“社会化医疗”（socialized medicine）的大规模草根宣传战。在1950年的选举中，几位自由派国会议员的落选——这些人都曾遭到美国医学会的积极反对——被广泛解读为民众对国家医疗保险的决定性拒绝。3 民主党领导层暂时受到威慑，社会保障项目的执行者们也受到了惩戒。尽管1950年的选举可能并不比1936年的选举更像一场关于社会保险的“全民公决”，但它却是项目执行者们曾经“输掉”的唯一一场此类“公决”。他们并未放弃，而是彻底改变了策略。渐进式的方法取代了全面式的方案。在1943年、1945年和1947年的《瓦格纳-默里-丁格尔法案》中，医疗保险涵盖了几乎所有劳动人口及其家属的各类医疗服务；在没有与社会保险项目的其他重大变更实质性地合并为一部综合立法的那些时候，它是与其他重大变更同步推进的。1950年之后，医疗保险提案被削减，并被安排在残疾保险之后等待处理。
+
+### 作为联邦医疗保险前奏的残疾保险
+关于残疾保险的角力，在很大程度上预示了后来围绕联邦医疗保险的斗争，并帮助项目执行者们为此做好了准备。出现了相同的削减与调整过程，以期平息反对意见，并使这一改变看起来像是旧养老保险的一个适度补充，而非一个巨大的新转变。出现了对将在行政管理中发挥作用的中介组织相同的、回应式的、实用主义的妥协——在残疾保险中是州职业康复机构，而在后来的联邦医疗保险中则是医院和保险公司。 国会做出了相同的决定，即首先颁布公共援助替代方案——1950年针对残疾人的分类联邦补助金计划，以及1960年针对老年人的医疗援助计划。
+
+残疾保险的通过不仅是联邦医疗保险的一场政治预演，更是一个必要的前奏。只有在残疾保险被稳妥地解决之后，推动医疗保险的运动才会被重启；而一旦其被解决，项目执行者们一刻也没有耽搁。“大概是在1956年秋天，”一位主要的联邦医疗保险规划者在接受采访时回忆道，“（那时）我们和鲍勃·鲍尔（Bob Ball）开了一个工作计划会议，他当时说我们在社会保障领域要处理的下一个大项目将是这场医疗保险的战斗。”5 鲍尔本人。当被要求解释为什么这项工作在1957年启动时，他说他想不出任何解释，“除了一种可能性，即56年见证了一项良好的残疾保险项目的通过；我认为，那些有志于扩大社会保障的人相当合乎逻辑地将目光转向了‘下一步是什么’。”6 现任共和党政府的反对是一个劣势，但并非威慑力量。残疾保险的经验表明，由于民主党控制的国会、与有组织的劳工阵线的联盟，以及威尔伯·科恩游刃有余的倡导，即使在共和党总统执政期间，也能实现重大的项目扩张。
+
+### 亲联邦医疗保险联盟
+
+在艾森豪威尔政府还剩三年任期之际，社会保障项目执行者开始认真准备一份可以通过的医疗保险立法草案。社会保障署不止一个办公室参与了这项工作：旧养老与遗属保险局（Bureau of Old Age and Survivors Insurance）的研究与统计处和项目分析处为了这一战利品展开了竞争。1957年，他们制定了不止一项法案，但作为联邦医疗保险的前身而载入史册的是福兰德法案（Forand bill），该法案因其提案人、罗得岛州众议员艾米·J·福兰德（Aime J. Forand）而得名。该法案将为旧养老与遗属保险的受益人提供外科手术费用以及医院和疗养院的护理服务。 因此，它与既有项目紧密相连。
+
+根据关于联邦医疗保险通过的最佳当代记述，福兰德法案是由尼尔森·克鲁克香克（Nelson Cruikshank）、罗伯特·鲍尔。威尔伯·科恩和 I. S. 法尔克在几个月的时间里准备的，期间他们主要通过信件和电话进行沟通。7 只有作为社会保障署官员的鲍尔和作为劳联-产联（AFL-CIO）社会保障主任的克鲁克香克常驻华盛顿。科恩虽然经常去华盛顿，但住在安娜堡；而法尔克在被艾森豪威尔政府免去研究和统计主任职务后，已搬到纽黑文担任耶鲁大学教员。说他们四人撰写了这项法案无疑是一种过度简化，而且很可能夸大了法尔克（离职后参与度降低）的作用。以及受到职务限制的鲍尔的作用。社会保障署（SSA）的员工也参与了其中，并且在1957年之后制定细节和准备后续版本时，SSA 的员工与克鲁克香克的员工之间进行了大量的来回磋商。无论最初起草小组的确切构成如何，真实情况是，在这一早期阶段，工作是由项目所有者的核心圈子——现任或前任的 SSA 官员及其在有组织劳工中的亲密盟友——完成的，他们始终是支持扩张的主要推动力。法案一经准备好，就被提供给筹款委员会中的高级民主党人寻求发起，但排名在福兰德之上的人都拒绝了。
+
+克鲁克香克后来在接受采访时回忆了福兰德发起提案的经过： 我们自然试图争取当时的委员会主席杰雷·库珀（Jere Cooper），但他不想这么做，因为这是一个敏感的问题；他来自田纳西州；当时临近会议结束，他不想卷入其中。其实，他是一个相当开明的人。杰雷·库珀推行过许多自由派立法，并在其选区获得了铁路工会的强烈支持，但他只是不想在那个时候再提出一项主席法案。那么接下来顺位的当然是威尔伯·米尔斯，而威尔伯·米尔斯不想碰它，这在我们的意料之中。……杰雷·库珀身体不好，当时人们普遍认为米尔斯很快就会成为委员会主席，而且他已经是委员会里的实权人物。所以下一位顺位就是艾米·福兰德。法案一草拟好，我们立刻就去找了他三四次，他说他会看一看再决定怎么做。最后，当我们催促他时，会议已接近尾声，他说，“嗯，你们伙计能向我保证这份草案是稳妥起草的吗？”我们说“是的”。他说：“好吧，我只是没时间看它了，但我会把它交上去，而且我会念这篇演讲稿。”
+
+这就是福兰德法案的由来。尽管是一位自由派，福兰德并没有对社会保险项目有特别的认同感。他对公共援助表现出了更多的兴趣。他在委员会内也没有什么影响力，但无论如何在筹款委员会中获得发起支持，对支持者来说都是一项资产——这是十年前他们所缺乏的，这使得举行听证会成为可能。然而，他们远未获得委员会多数人的支持，也没有得到其最有权势的成员米尔斯的支持，米尔斯很快将开始其长达十七年的主席生涯。米尔斯的反对是他们取得成功最大的单一障碍，接下来的八年里，他们将不断与之抗争。
+
+在随后的运动中，项目执行者一如既往地担任主要推动者，但他们不得不与广泛联盟中的许多其他人士分享权力和行动。
+
+在其旨在仅惠及老年人的删减版本中，医疗保险被证明比十年前对政治家更具吸引力。担任国家公职的自由派政治家比1949年更多，人口中老年人的数量也更多，而且老年人构成了一个具有吸引力的群体，是公众同情的自然对象。随着1960年选举的临近，这些因素结合在一起，使得老年人医疗保健突然成为一个主要的国家级议题，在总统竞选中占据显要位置，并促使医疗保险联盟迅速发展成为一股多元而强大的政治力量。
+
+密歇根州参议员帕特·麦克纳马拉（Pat McNamara）敏锐地察觉到了这一议题的潜力，他在1959年被任命为一个新成立的探讨老龄化及老年人问题的参议院小组委员会的主席。10 麦克纳马拉将在1960年竞选连任，并试图提高自己的知名度。参议院领导层任命他担任这一新职位，而非约翰·F·肯尼迪（John F. Kennedy），因为肯尼迪对此职位的请求比麦克纳马拉晚了几天，而且无论如何，肯尼迪直到1964年才需要捍卫他的参议院席位。（当然，肯尼迪另有打算。）在一个进取的幕僚团队的协助下，该委员会举行了全国范围的听证会，年长的公民在会上就其困境作证。这些听证会获得了极大的宣传，有助于将医疗保健转变为全国性议题，并在1960年初以建议扩大社会保障项目以涵盖医疗福利而告终。
+
+有组织的劳工也助力将该议题推向全国舞台的显著位置。劳工作为医疗保险运动的老牌参与者，曾支持《瓦格纳-默里-丁格尔法案》，但其领导层和普通成员在20世纪40年代并未被充分动员起来。其他关乎劳工组织生死存亡的核心议题分散了他们的注意力。到了1960年，劳工组织更有安全感，也更深入地参与到总体的社会政策议题中。许多动力来自美国汽车工人联合会（United Auto Workers, UAW），这是主要全国性工会中政治上最激进的一个。1960年3月，UAW 在底特律的州展览馆主办了一场争取医疗保险的集会，民主党总统候选人提名角逐者们出席了该集会。肯尼迪率先发表了慷慨激昂的演讲，赞扬了《福兰德法案》并谴责了共和党的反对。演讲引起了极好的反响，已经对该议题表现出浓厚兴趣的肯尼迪此后便致力于此。
+
+肯尼迪赢得大选后，医疗保险联盟自动扩大，囊括了新政府的领导人——白宫中的党派人物以及卫生、教育及福利部（HEW）的高级任命职位官员。其中一位是科恩，他长期担任肯尼迪在社会福利事务上的顾问，曾领导一个选后为肯尼迪设立的关于健康与社会保障的特别工作组，并在1961年被任命为负责立法事务的卫生、教育、及福利部助理部长，这结束了他在安娜堡（Ann Arbor）那段其实并非十分受限的“流放”生活。医疗保险如今高居政府官方议程的优先位置，而社会保障的主要立法战略家如今也身居关键行政要职。
+
+这一切创造了与20世纪50年代末截然不同的局面，当时《福兰德法案》在悄无声息中接受了筹款委员会的听证，并收到了共和党政府的不利报告。拥有所有这些干劲十足、渴望立法胜利的新参与者，不可估量地增强了医疗保险运动的力量，但也给项目执行者——特别是科恩——增加了管理一个动机和导向错综复杂的联盟的负担。联盟核心中以项目为导向的成员现在必须将他们的目标和策略与其他成员相协调，后者包括选区导向型（致力于最优先为老年人服务）、党派导向型（致力于为总统建立大众选举追随者）或意识形态导向型（致力于赢得一场反对私营部门营利性对手的原则性较量）的成员。
+
+紧张局势在许多方面爆发。麦克纳马拉委员会的幕僚长感觉到，项目所有者对该委员会心存疑虑。 他在接受采访时表示： ……多年来参与社会保障领域的人士（包括社会保障署的人员以及……像有组织劳工中的尼尔森·克鲁克香克这样的人）非常担心这个新委员会进入医疗保险领域，并可能会扰乱在筹款委员会和财政委员会中建立起来的敏感关系。因此，我们必须应对这些傲慢的新人，他们想进来彻底改变宣传局面，并颠覆许多现有的工作关系。11
+
+这种不安是相互的。科恩的实用主义使他受到联盟中一些更具意识形态色彩的成员的怀疑。有人影射他在1960年“出卖”了原则，因为他与米尔斯众议员和罗伯特·科尔（Robert Kerr）参议员合作，为无力承担医疗费用的老年人准备了一项公共援助立法。麦克纳马拉参议员等人将其视为背叛。由于与科恩长期共事，克鲁克香克同样受到有组织劳工中一些更激进分子的怀疑。意识形态上的自由派在社会保险原则上比项目执行者更为纯粹，后者从经验中得出结论，类别性的公共援助项目不会长久阻碍社会保险的进程。 它在养老或残疾保险方面并未构成阻碍。
+
+在策略上也存在分歧。本质上倾向于通融的项目执行者赞成与利益集团和立法机构中的权力持有者——即米尔斯——进行谈判，这种方法将维护项目网络的工作关系和凝聚力。那些具有党派或意识形态导向、对维护这种凝聚力毫无兴趣的人，希望唤起公众的情绪，并让他们的立法对手遭受选举失败或压力，让反对派压力集团蒙羞。后一个群体（其核心人物是 HEW 副部长伊万·内斯廷根（Ivan Nestingen））对科恩怀有相当大的敌意，科恩后来在接受采访时表示，对他来说，进行谈判几乎是不可能的，“因为我不得不花大量时间不断地回头看，以防有人在我没注意时背后捅刀子。”12
+
+两种策略都是必要的，而且都见效缓慢。1960年的选举缩小了筹款委员会中反医疗保险的多数优势，1962年的选举也是如此；1962年委员会出现了两个民主党空缺席位，总统与众议院党内领导人合作，用医疗保险的支持者填补了这两个席位。与此同时，科恩、鲍尔以及他们在社会保障署的规划人员不断地测试新的提案和折中方案，以争取各个医疗利益集团，特别是美国医院协会（American Hospital Association）；应对美国医学会（AMA）的论点，即使无法与这个教条的反对者直接谈判；并争取能够起决定性作用的自由派共和党人或保守派民主党人的选票。他们试图在不疏远有组织劳工的情况下做到这一切，而劳工抵制诸如自愿选择权、在福利表中引入高额免赔额、或赋予私营组织（特别是营利性组织）重要行政角色等措施。13 在1960年至1964年间取得了很大进展，但不足以赢得国会多数席位，或者说，至关重要的是未能争取到米尔斯。
+
+### 反对派
+
+有两个因素使得对医疗保险的反对异常强大：美国医学会（AMA）的坚持与狂热，它将其能动员的所有可观资源投入到宣传战中；以及国会中两党保守派联盟相对的凝聚力。美国医学会是社会保险扩张的头号反对者。其活跃度和坚定性是以往任何时候的保险业都无法比拟的。虽然保险业似乎对政府行动对其利益的影响感到不确定，但有组织的医疗行业却认为自己受到了根本性的威胁。且理由充分。1943年提交国会的第一份《瓦格纳-默里-丁格尔法案》将从根本上限制医生的自由并降低他们的收入。尽管它允许医生留在项目之外，但它要求患者从参与项目的医生中进行选择，并赋予卫生局局长（Surgeon General）广泛的权力来设定费用标准并限制每位医生的患者数量。14 随后的法案不断被修改以降低这种威胁，直到最后，在20世纪60年代初的法案中，完全省略了医生服务，社会保障署的提案仅限于医院和疗养院护理，但医生们并未因妥协而被安抚。由于对医疗实践已被社会化的英国范例感到警觉，对部门官员充满不信任，以及担心任何联邦行动（无论初始条款多么有限）的长期后果，美国医学会保持着僵化且强烈的反对态度。
+
+在医疗保险的斗争中，南方和边境州的民主党人总体上站在了共和党反对派一边。在政治上，这是残疾保险与医疗保险之间的巨大差异。参众两院中医疗保险的主要反对者，米尔斯和科尔，曾经是残疾保险的主要支持者，无论他们站在哪一边，都会极大增强该方的力量。当科尔在1963年去世时，参议院的反对力量被严重削弱，次年，一项医疗保险法案作为来自众议院的社会保障法案的修正案获得通过。 此时，米尔斯的抵制变得比以往任何时候都更加重要。
+
+支持者们试图了解米尔斯的动机，并试图找到某种方案、某种让步来争取他，但未获成功。一些支持者认为他受到了自己选区内医生的影响，但罗伯特·鲍尔（Robert Ball）——作为关于米尔斯动机方面，除了米尔斯本人之外，经验最丰富、最精明、最可信的见证人——对米尔斯的立场给出了一个远非如此简单的解释。鲍尔认为，这部分是出于战术考虑。他在接受采访时表示，米尔斯“通常不是那种，特别是作为那个委员会的主席，会在具有如此多背离传统的要素和复杂性的全新发展中带头的人。我想人们多半会期望当有显著共识时，他才会顺势而为。”但鲍尔也承认，米尔斯担心该提案的实质内容及其对社会保障的影响。 “他是一个走中间路线的人，非常尽责，非常关心该计划的总体稳定性和融资问题，而对这[提案]存在着足以令人感到不安的怀疑。15 米尔斯担心医疗保险的成本，以及不可预见的成本对基本项目的影响。此外，他不愿将与个人工资或纳税额没有必然联系的服务支付，嫁接到一个福利支付系统地与个人工资挂钩的项目上。16 察觉到米尔斯担心医疗保险在根本上与旧的养老保险基本原则不相容，项目执行者尽其所能地辩称这是合乎逻辑且必要的延伸。他们表示，如果没有它，太多的老年人将被迫因医疗费用而求助于公共援助，这违背了1935年和1950年做出的基本政策选择。政府表示，为了保护国家老年人的尊严，避免将他们的医疗费用转嫁给普通纳税人，“我们必须再次将主要重点放在社会保险上。”17 这里是一个耳熟能详但可疑的论点，即从工资税中筹集的资金就是节省下来的资金。
+
+米尔斯和联邦医疗保险的行政支持者此时都诉诸于项目学说（programmatic doctrine），这证明了该学说的力量；而他们可以从竞争的对立双方各自诉诸于此，则证明了该学说的不一致性和模糊性。双方都保持了项目视角，但行政官员的福利目标意味着扩张，而米尔斯对财政责任的偏好以及在将福利与工资挂钩方面保持一致性的偏好，则仅意味着维持现状。作为该项目的主要立法所有者，米尔斯希望保留自己的选择余地，并保护一套（他认为）已成功在公众对福利的胃口与财政纪律需求之间取得平衡的制度安排。医疗保险及其高度不可预测的成本，可能会打破这种平衡。不久之后，它可能会迫使引入一般性税收（general revenues），米尔斯担心这将消除所有的财政约束；需要频繁提高工资基数，这总是充满争议的；危及每两年增加一次的现金福利，国会议员已经习惯将此作为选举年献给选民的礼物；并破坏那个政治上有用（因为受欢迎）的理念，即福利是基于工资和纳税情况的。项目执行者轻视甚至欢迎这些风险（他们会非常乐意提高工资基数，并且不会对使用一般性税收感到太困扰），而米尔斯却感到不安。
+
+医疗保险的立法反对者采取了两种策略：拖延和先发制人。米尔斯就医疗保险法案举行了听证会，但没有将其提交到全院进行表决。他还设计了替代措施，希望借此使医疗保险变得没有必要或不可行。第一项此类措施是1960年通过的《科尔-米尔斯法案》（Kerr-Mills Act），当时在总统竞选的白热化阶段，要求采取行动的压力突然增加。该法案向各州提供联邦分类补助金（categorical grant-in-aid），用于名为“老年医疗援助”的新一类公共援助。像一般性的公共援助项目一样，它只向证明有经济需求的人提供福利，且各州对该法案的利用情况差异很大。1960年以后，关于医疗保险的许多争论都围绕着科尔-米尔斯模式是否奏效展开。该法案的支持者表示，应该给它更多的时间，并暗示社会保障署正在暗中破坏它。为此目的通过麦克纳马拉委员会发声的医疗保险支持者则表示，该法案正在失败，因为许多州没有参与，而那些参与的州提供的保障往往不足。18 无论《科尔-米尔斯法案》运作得多么好，它都不会满足保险项目的支持者。
+
+对他们来说，这是一个原则问题。“更好”的科尔-米尔斯法案意味着援助的接受者越多，他们也就越坚持必须颁布保险计划来取代它。 像科恩和鲍尔这样的项目执行者只能接受援助作为一种残余项目，而不太讲求实用主义的医疗保险支持者则完全无法接受它。
+
+另一次先发制人的尝试发生在1964年，当时健康保险的反对者试图大幅提高现金福利，其数额之大将耗尽健康保险规划者所依赖的所有预估税收收入。尽管健康保险可能不会因此夭折，但其支持者将不得不承担起为比当时被认为可行或可取的更高税率进行辩护的重任。这一策略失败了，令人惊讶的是，在1964年这个选举年，国会宁愿不增加社会保障福利，也不愿接受一项会危及健康保险的大幅福利增长。决定性的投票出现在参议院（反对力量因科尔(Kerr)的离世而被削弱）以及参众两院协商会议上（参议院协商代表在约翰逊政府的压力下坚持了参议院的立场）。19 1964年结束时，健康保险尚未获得通过，但通过该法案的选择依然敞开。 先发制人的策略失败了。
+
+### **立法 (Enactment)** 
+
+米尔斯 (Mills) 一直心知肚明，他必须就某项法案与政府进行谈判的时刻终会到来。 随着国会对立法的支持日益增加，他在委员会听证会上扮演了更为重要的角色，而在1964年民主党以压倒性优势获胜并解决该问题后，他迅速掌控了局面。
+
+辩论随后平息，决策结构也恢复到了人们熟悉的、受限的形式。筹款委员会进入了闭门会议（executive session），并仅邀请证人讨论技术性问题。当美国医学会（AMA）坚称该法案的缺陷不仅仅是技术性的并持续表示反对时，民主党委员会成员被激怒了。即使是与专有核心圈（proprietary core）关系密切的工会组织，也发现自己被排斥在谈判之外。谈判由米尔斯和威尔伯·科恩（Wilbur Cohen）主导，此时科恩已牢牢掌控了行政部门的事务。 一位美国劳工联合会-产业工会联合会（AFL-CIO）的职员回忆了当时的情况： 
+
+>在许多方面，我们对待威尔伯·科恩的处境，与某些委员会成员对待威尔伯·米尔斯的处境如出一辙。我们非常依赖他的判断，他确实是这里的核心人物……他的权力来源于其极其丰富的技术专长。他确实精通业务，并且他与威尔伯·米尔斯有着密切的关系，这是一个绝对关键的因素。……如果我们能参与威尔伯·米尔斯和威尔伯·科恩之间的所有会议，那么我们就很容易说：“可是，天哪，威尔伯·科恩，米尔斯似乎对这个问题没有那么强烈的执念，我认为你可以让他在那方面有所妥协。”我们从未掌握过此类信息。因此，当威尔伯说：“听着，这就是米尔斯能接受的底线”时，我们只能相信他。我认为威尔伯从未对我们撒谎。我想，有些时候他只是希望这个或那个问题能够尘埃落定，以至于他在自己的脑海中可能夸大了“无法再让威尔伯·米尔斯让步”的这种确信。20 
+
+通过在众议院为医疗保险（medicare）创造多数席位，1964年的选举确保了自由派在基本问题上的胜利；但通过将米尔斯引入对谈判的积极指挥并将其限制在一个狭窄的、以项目为导向的竞技场中，它自相矛盾地削弱了自由派、支持医疗保险联盟的直接影响力，除了 处于核心地位的项目主管们，他们现在与米尔斯及其委员会坐下来共同决定法案中应包含的内容。
+
+在实质内容上，米尔斯最关心的是融资问题。一旦立法变得不可避免，他的困境就在于如何调和即将到来的扩张与财政稳健的规范。21 老年保险建立在这样一个前提之上：成本可以通过使用专款专用的工薪税（earmarked payroll tax）和提供安全裕度的精算技术来进行准确预测和控制。然而，甚至在健康保险颁布之前，情况就已经变得明朗：成本将非常难以预测。住院费用的上涨速度快于生活成本的上涨速度，随着法案的陆续提交，社会保障署（SSA）发现有必要对其估算进行大幅修改。这让米尔斯感到非常不安，同时他也意识到，精算估算中具有历史意义的安全机制——平准工资假设（level wage assumption）——在健康保险中无法发挥相同的作用。在现金福利项目中，假设工资不上涨，通常会在工资实际上涨时产生“意料之外”的税收盈余。相比之下，在医院保险项目中，如果工资出乎意料地上涨，支出也会随之上升，因为支出直接取决于医疗服务的成本。为了使估算显得适度保守，米尔斯敦促SSA精算师罗伯特·迈尔斯（Robert Myers）设计其他安全系数。22 另一方面，迈尔斯并不介意承受这种压力。SSA的其他官员怀疑，来自米尔斯的一些批评实际上是迈尔斯暗中安排的，因为迈尔斯对自己的估算不满意，但在没有外部压力的情况下又很难修改它们。）23
+
+鉴于米尔斯对财政保守主义的首要关注及其对立法局势的掌控，健康保险的自由派支持者在1964年大选获胜后未能扩大其提案规模并不令人意外。对他们来说，这项被长期拖延的立法终于曙光初现，便已足够。 令人惊讶的是，政府法案的扩大竟然发生在筹款委员会内部。出于直到那一刻仍反对扩大社会保险以提供医疗保健的委员们（米尔斯本人和约翰·W·伯恩斯 (John W. Byrnes)）的倡议。
+
+接连的妥协已将政府的法案变成了一个相对温和的提案，尽管其在原则上仍然颇具争议。它不涵盖医生费用，而是仅限于住院费用、用于康复的专业疗养院护理、住院后的家庭健康服务以及门诊诊断服务。福兰德法案（Forand bill）的覆盖面曾更为广泛，但也并未达到包罗万象的程度。它曾涵盖外科医生费用，但为了削弱美国医学会（AMA）的反对，这一条款在20世纪60年代初被取消。如果不涵盖医生服务，AMA就很难高呼“社会化医疗（socialized medicine）”，或者即使他们这样喊也很难让人相信。（此外，该法案的一些支持者担心支付外科医生费用会助长不必要的手术。）健康保险法案的保守派反对者经常攻击该法案存在不足，而他们真正的反对意见却在于该原则本身；在战术上，他们认为最好不要采取彻底否定的立场。大概正是本着这种精神，筹款委员会中的共和党首席委员伯恩斯在1965年提出了一项比政府法案更为全面的替代方案。仿照联邦政府雇员健康福利项目，伯恩斯的法案将支付住院和疗养院护理费用，以及其他医疗费用的80%，包括医生费用和假体装置。与政府的做法相反，参与将是自愿的，资金将来自联邦政府的一般性税收以及老年参与者每月支付的“保费”。伯恩斯半开玩笑地将这个共和党替代方案称为“更佳护理（better-care）”。 
+
+没有人期望伯恩斯的法案能够通过。 在SSA内部，没有人认为伯恩斯或众议院的其他共和党领导人真的希望它通过。当米尔斯在闭门会议中提议将伯恩斯支付医生费用的计划与政府的住院保险计划结合起来时，SSA的官员们震惊了。他们猜测米尔斯是在识破伯恩斯的虚张声势，而伯恩斯可能会决定退缩。当他没有退缩时，米尔斯吩咐他们准备一份整合了这两种方法的新草案。政府的提案成为了医疗保险的A部分（老年人医院保险福利），而伯恩斯的提案（去除了住院部分）则成为了B部分（老年人补充医疗保险福利）。24
+
+米尔斯的举动符合其共识型的领导风格。 通常，他会试图通过向共和党的观点妥协，来为委员会法案建立跨党派的支持。令人感到反常且费解的是，从伯恩斯和米尔斯近期的行为来看，向伯恩斯做出的让步带来了一种两人都“并非真正”想要的扩张。但这是一种米尔斯深知迟早会到来的扩张：如果颁布的健康保险不涵盖医生费用，那么来自老年人、工会和SSA的压力使得采取行动成为必然，这只是时间问题（而且很可能是极短的时间）。伯恩斯的提案正是为了抢先阻挡此类压力。在战术上，这具有先发制人的意味，且与在社会保险体系下对医生服务实行强制覆盖相比，这对于保守派利益集团来说更容易接受得多；它在原则上是自愿的，将行政管理的大部分责任交给了“承办机构（carriers）”（即与政府签约的私营组织）而不是SSA，并承诺支付医生的“合理”费用，且对何谓“合理”的测试标准既少又模糊。2 它同时也满足了项目主管和相关利益集团采取政府行动的愿望，但其采取的方式将对现行由私营部门提供医生服务的安排的破坏降至最低。
+
+如此解释下来，米尔斯接受伯恩斯提案的举动，就只在一个重要方面仍然令人费解。多年来，米尔斯坚决反对在社会保险中使用一般性税收，理由是这会打开财政失控的闸门，然而现在他却在医疗保险的一部分中接受了这一点。但如果认为米尔斯将伯恩斯的提案视为抵御社会保险进一步变革的缓冲器，而非其附加物，那么这一点也不足为奇了。作为一种附加物，它是格格不入的。它破坏了通过工薪税实现自给自足（并因此达到“精算稳健性”）的原则。然而，鉴于米尔斯认为整个健康保险计划是对社会保障体系精算稳健性的威胁，接受该提案与最终通过基本系统面对医生费用的支付，在合理性上并无二致。在米尔斯看来，无论哪种方式，该项目都会面临风险。
+
+尽管伯恩斯的扩张性提案令人惊讶，但它与关于社会保障这一主题的保守派共和党思想流派中的某一条脉络是一致的。伯恩斯曾是投票反对1950年修正案的少数共和党人之一，其理由是保险的类比是虚假的，并且可能会破坏财政约束。26 他本打算向所有老年人提供福利，而不考虑其工作经历或是否缴纳工薪税，并从一般预算收入中为其提供资金，这项计划将使得福利水平比在缴费型社会保险体系下受到更多的公开辩论。在1965年，伯恩斯重提了这一旧论调。“在工薪税制度下，”他对众议院说，“向人们灌输了一个错误的概念，即他们已经为自己的福利付了费，他们作为一种权利购买了某种东西，在这种概念下，（系统）没有进行改变的灵活性，因为人们会告诉你：‘我们已经买了这个，除非是为了放宽限制，否则你不能做出任何改变。’”27 
+
+米尔斯起身反驳伯恩斯的观点。“工薪税，”他说道，“将趋向于限制福利的增长，并且相比于将该福利成本置于财政部一般基金中的情况，它将更大程度地发挥这种限制作用。”——对此，伯恩斯非常简单地回答说他不同意。28 这两位专家见多识广，两人加起来在众议院拥有46年的经验，在筹款委员会拥有41年的经验，但他们依然无法就任何一种融资方法的实际后果达成共识。这就是政治的 模糊性在社会保障融资中的内在体现；它甚至令最精明和富有经验的人感到困惑。 
+
+米尔斯将伯恩斯的部分提案纳入法案的决定，并没有赢得共和党对整个法案的支持。筹款委员会中的共和党人继续反对将住院治疗纳入社会保险项目。少数派认为，最核心的事实是，由于这项服务福利的成本是不可预测的。 它们有破坏老年保险“稳健性”的威胁。（为了强调这一点，少数派引用了米尔斯主席在1964年的一次演讲。）29 共和党人提出了伯恩斯的自愿计划，即通过一般预算收入和个人保费相结合的方式为老年人的医疗保健提供资金。当伯恩斯将此作为委员会法案的替代方案提交给众议院时，191名议员投了赞成票，236名议员投了反对票，这是一次出人意料的势均力敌的投票，许多南方民主党人加入了共和党人的阵营，支持伯恩斯的提案。北方民主党人则支持委员会的法案，该法案将住院治疗纳入了社会保险。这一直是自由派自始至终的首要目标，且直到最后都是一个引发分歧的议题。即使在最终的表决阶段。在共和党人试图用伯恩斯提案进行替代的努力失败后，众参两院仍有多数共和党人投了反对票。在与社会保障相关的议题中，他们持续展现出一种非同寻常的党派对立程度。
+
+在最后一刻部分采纳了有悖于保险模式的共和党替代方案，这引出了一个有趣的问题：如果这样的替代方案能在更早的时候被提出，它是否会被认真考虑？先前从未有人提出过能与伯恩斯全面法案相媲美的替代方案。在采取行动的支持者中，项目主管们垄断了主动权。近十年来，他们及其盟友持续发起了一场旨在扩大保险项目的运动。他们能够维持这一运动，直到凭借选举的转机取得胜利。然而，直到1964年的大选确保了他们的胜利，国会中的共和党人才停止在公私边界上进行抵抗。直到确定边界将被大规模突破，以及一项由联邦政府资助的面向所有老年人的医疗保健计划将被颁布时，共和党人才提出了一种独特的实施方式，这种方式在原则上不同于社会保险。30
+
+### **余波 (The Aftermath)** 
+
+政府提出的住院保险提案的反对者曾辩称，这仅仅是一个开始。 “它会成长；它会扩张；它会增加，”罗伯特·科尔（Robert Kerr）用参议员特有的冗长重复语调说道。“我们注视的并不是一个穿着和服、戴着睡帽躺在床上的慈祥老太太，”路易斯安那州的拉塞尔·朗（Russell Long）说。“我们正看着吃掉小红帽外婆的那只大灰狼的眼睛。”老年人将获得越来越广泛的覆盖范围，直到联邦政府开始为眼镜和假牙买单。在老年人之外，覆盖范围将扩大到残疾人，然后是其他群体，最终涵盖所有人。朗预测，普通工薪阶层很快会在社会保障税上支付比所得税更多的钱。31 
+
+考虑到社会保险项目其他部分所呈现出的扩张模式以及医疗保健明显的潜在增长力，这是一种有理有据的担忧。 在1965年，似乎没有什么比该法案颁布后会重演渐进式扩张模式更让人觉得在意料之中了。然而，这种模式在医疗保险中远不如在保险项目的其他部分那样明显。
+
+在医生护理覆盖范围方面，伯恩斯的提案成功地抢先截断了项目主管们的下一个合理行动。尽管残疾保险的政治运作致力于为下一步行动奠定逻辑基础，但医疗保险的政治运作却起到了阻碍作用。在残疾政策领域，妥协采取了对项目要素进行边际削减的形式，而当斗争结束后，被削减的部分便迅速开始恢复。在健康保险的政治斗争中，妥协采取的确是颁布社会保险的替代方案的形式。至少在短期内，这种先发制人的举动是有效的。项目主管们面临的不再是一个吸引进一步行动的真空地带，而是一个其项目中显得反常的附属品。他们的最初反应是将其整合，而非任其扩张。通过1969-1971年咨询委员会这一媒介，他们建议将医疗保险的B部分（伯恩斯的那个不协调的贡献）与A部分（住院保险）合并，并且整个部分将通过雇主工薪税、雇员工薪税相结合的方式进行融资。以及一般预算收入。而B部分受益人支付保费的规定将被取消。32 
+
+关于A部分，项目主管确实制定了一项实质性的扩张议程，其中包括覆盖残疾人以及覆盖在医院外开具的处方药费用的提案。 国会在拖延数年后批准了第一项提案，并对第二项提案表现出兴趣但未能采取行动。它还对该项目两部分的覆盖范围颁布了一些相对次要的放宽措施，例如小幅增加了住院保险承保的住院天数，并在B部分中增加了物理治疗和言语病理学服务，但它审议的此类放宽措施远多于其真正批准的。它也并未采取行动去合并A部分和B部分。33 
+
+与扩张措施一道，在20世纪70年代初期的医疗保险决策议程中也出现了几项收缩措施。 通过提高免赔额（deductibles）和共付额（coinsurance），尼克松政府在1973年提议将更多医疗保险成本转移给受益人，而福特政府在两年后也提出了类似的建议。尽管此类措施未得到国会的任何支持，但它们在官方背书下的出现本身，便代表着对根深蒂固的自动、渐进式扩张模式的重大偏离。
+
+这种渐进模式重演力度相对较弱的原因在于，最初立法的实施成本被证明远远超出了任何人的预期。米尔斯曾担忧成本难以预测，在这一点上他是对的；但他误以为自己和迈尔斯已经设计了足够的误差裕度，这却是错的。医院入院率比预期的要高得多，住院成本的上升速度也快得多，其结果是迈尔斯不得不持续修正他的估算，而国会也不得不持续提高税率，仅仅是为了维持最初的住院保险项目。1965年的法律对雇主和雇员都征收了0.35%的适度初始税，并规定在1967年增至0.5%，1973年增至0.55%，1976年增至0.6%，1980年增至0.7%，以及在1987年增至0.8%。在现实中，该税率在1973年就达到了1%。与此同时，B部分参与者缴纳的每月保费从3.00美元升至5.80美元。国会并未敦促SSA为了受委屈的选民的利益去扩大覆盖面，反而批评其未能控制成本。参议院财政委员会工作人员在1970年的一份报告中指责SSA“在医疗保险下对医生费用采取了代价高昂的放任自由（laissez-faire）政策”。34 
+
+国会的这种立场有些令人震惊且违背常理。 要求更严格监管的呼声，正来自那个多年来因美国医学会的抗议而陷于瘫痪的国会。长期以来将医疗行业及其商界盟友与SSA及其劳工盟友对立起来的边界政治模式（boundary politics），已迅速瓦解。美国医学会不再如此强烈或成功地抵制扩张和干预措施。“气氛已经完全不同了，”罗伯特·鲍尔（Robert Ball）在1973年评论道。他察觉到了利用社会保障项目来改变医疗保健系统的机会，而在仅仅七年前，似乎还有必要使医疗保险去适应现有的系统。35 
+
+在颁布前与颁布后政治之间这种急剧的不连续性中，存在着某种与残疾政策案例相似的平行关系。 在医疗保健领域，与残疾政策一样，一旦跨越了创新的门槛，政治中的意识形态强度似乎就消退了。取代边界问题（那些曾激起激情并大规模动员利益集团的原则性问题）的是关于成本控制和技术细节的问题，这些问题使人困惑，却难以激起情感上的波澜。医疗行业在遭遇挫败后的士气低落或许可以解释这一点，或者反过来看，是他们欣喜地发现福利国家未必对医生不利。1966年和1967年，即医疗保险颁布后的两年间，医生费用的上涨速度远远超过了非医疗服务成本的上涨速度。36 然而，这种变化不能简单地归因于私人利益集团政治行为的改变。它同样源于政府承担起提供医疗保健的主要责任后，政治官员角色的转变。在颁布医疗保险之前，政治官员在立法斗争中一直是各方施压的对象；颁布之后，他们不可避免地成为了政府医疗业务的管理者，而这是一项迫切需要管理层关注的业务。社会保险项目中这一不可预测的预算项目，对同一项目中的其他部分构成了威胁（现金福利的增加可能不得不被放弃）；同时也威胁到了美国卫生、教育及福利部（HEW）预算的其他部分（包括像生物医学研究这种在国会极受欢迎的项目）；并且在更深远的影响上，甚至波及了整个联邦预算的其他部分。抛开党派或意识形态不谈，国会和行政部门都在四处寻找控制的手段。
+
+由于医疗保险产生的意外成本产生了远超项目本身的影响，因此对控制成本的关注也远远超出了通常主导社会保障决策、以项目为导向的官员圈子。在即将颁布之际，健康保险曾难以契合原有的项目模式，而在颁布之后，它继续表现出这种水土不服。
+
+引用
+
+1 On the early history of health insurance, see Daniel S. Hirshfield, The Lost Reform: The Campaign for Compulsory Health Insurance in the United States from 1932 to 1943 (Harvard University Press, 1970), and Peter A. Corning, The Evolution of Medicare: From Idea to Law, Department of Health, Education, and Welfare. Office of Research and Statistics, Research Report No. 29 (GPO, 1969). The oral history project on social security at Columbia University contains a wealth of material.
+2 Interview with Arthur J. Altmeyer, Oral History Collection, Columbia University (1967), p. 165. Similarly, Wilbur Cohen recalled that "Senator Wagner heard us out and, after five minutes' discussion, gave us his O.K.," according to Richard Harris's account of medicare politics. ("Annals of Legislation," New Yorker, July 2, 1966, p. 40.) Harris's study, which focuses heavily on the lobbying of the AMA, appeared initially in four issues of New Yorker (July 2, 9, 16, and 23, 1966) and later as a book, The Sacred Trust (New American Library, 1966).
+3 The AMA's campaign activity is described in Stanley Kelley, Jr., Professional Public Relations and Political Power (Johns Hopkins Press, 1956), chap. 3.
+4 Theodore R. Marmor, The Politics of Medicare (Chicago: Aldine Publishing Company, 1973), chap. 1.
+5 Interview with Irwin Wolkstein, Oral History Collection, Columbia University(1966), p. 2.(Hereafter Wolkstein, OHC.)
+6 Interview with Robert M. Ball, Oral History Collection, Columbia University(1967-68), p. 14.(Hereafter Ball, OHC.)
+7 Harris, New Yorker, July 9, 1966, p. 35.
+8 Interview with Nelson H. Cruikshank, Oral History Collection, Columbia University (1967), pp. 425-26.
+9 For a detailed account of the burgeoning of the issue, see James L. Sundquist. Politics and Policy: The Eisenhower, Kennedy, and Johnson Years (Brookings Institution, 1968), pp. 296-308.
+10 Without setting up a specialized subcommittee, the Senate Committee on Labor and Public Welfare had begun to get involved in problems of the aging in 1956, when it hired Cohen as a consultant on the subject. Under authority of a Senate resolution, he prepared a ten-volume report. Creation of the subcommittee followed and the subcommittee in turn evolved into the Special Committee on the Aging, authorized by Senate Resolution 33 of the Eighty-seventh Congress (1961). The initial authorizing resolution contempated only a temporary existence for the special committee, but the authorization has been regularly renewed.
+11 Interview with Sidney Spector, Oral History Collection, Columbia University(1966), pp. 18-19.
+12 Interview with Wilbur J. Cohen by David G. McComb for the Lyndon Baines Johnson Library (1968); copy in John F. Kennedy Library, Waltham, Mass.
+13 Ball and Cohen themselves disagreed over voluntary options--Cohen was for and Ball against them, and President Kennedy settled the difference in Cohen's favor. 
+14 "The American Medical Association: Power, Purpose, and Politics in Organized Medicine," Yale Law Journal, vol. 63 (May 1954), p. 1009.
+15 Ball, OHC, pp. 19-20.
+16 Interview with John W. Byrnes, Oral History Collection, Columbia University (1967), p. 3.
+17 Medical Care for the Aged, Hearings before the House Committee on Ways and Means, 88 Cong. 1 and 2 sess. (1963 and 1964), pt. 1, p. 27.
+18 Performance of the States: Eighteen Months of Experience with the Medical Assistance for the Aged (Kerr-Mills) Program, a report to the Senate Special Committee on Aging, Committee Print, 87 Cong. 2 sess. (1962).
+19 In addition to the sources already cited, see Eugene Feingold, Medicare: Policy and Politics (San Francisco: Chandler, 1966), chapter 3 of which is a com-prehensive legislative history of medicare.
+20 Interview with Leonard Lesser and Lisbeth Bamberger Schorr, Oral History Collection, Columbia University (1967), pp. 79-80.
+21 See the speech by Mills, delivered in his district, that is the fullest explanation of his position on medicare in Congressional Record (October 30, 1964), pp. 24014-16. I have also relied on "Memorandum Reporting a Meeting with Representative Wilbur Mills, August 10, 1962," by Gary L. Filerman, a graduate student in political science who interviewed Mills.
+22 U.S. Department of Health, Education, and Welfare, SSA, Office of the Actuary, "History of Cost Estimates for Hospital Insurance," Actuarial Study No. 6(SSA, December 1966), pp. 51-53; Medical Care for the Aged, Hearings, pt. 1, pp. 139-146.
+23 Wolkstein, OHC, p. 67.
+24 79 Stat. 290 and 79 Stat. 301.
+25 Interview with Robert J. Myers, Oral History Collection, Columbia University (1967), p. 19; Ball, OHC, p. 24. 
+26 See pp. 225, 241-42.
+27 Congressional Record (April 7, 1965), p. 7223. 
+28 Ibid
+29 Social Security Amendments of 1965, H. Rept. 213, 89 Cong. 1 sess. (1965), p. 247
+30 Over the years, Republicans had developed a variety of answers to the Democrats’ plan for compulsory health insurance. In the 1940s, Senator Robert A. Taft had submitted bills that would have authorized federal grants to the states for support of the medically indigent. Somewhat later, the Flanders-Ives proposal, sponsored by two liberal Republicans, would have encouraged a voluntary nationwide prepayment program for the whole population, with a federal subsidy where needed. In the mid-1950s, the Eisenhower administration advanced a proposal to permit insurance carriers to pool substandard health risks, and another that would have created a federal reinsurance corporation for health insurance carriers. In the early 1960s, when the issue heated up, both Arthur S. Flemming, as Eisenhower’s secretary of HEW, and Senator Jacob Javits of New York led a liberal Republican search for an alternative that would involve the participation of state governments or make individual participation voluntary. None of these alternatives ever had widespread or wholehearted support from the Republican party or from conservative interest groups, let alone from the Democrats who controlled Congress, if not the administration, most of the time. For a summary of the innumerable array of health care proposals advanced from all sources between 1935 and 1957, see Agnes W. Brewster, Health Insurance and Related Proposals for Financing Personal Health Services (GPO, 1958).
+31 Congressional Record (July 16, 1962), pp. 13631, 13664-66. 
+32 H. Doc. 92-80, pp. 54-55.
+33 For a comprehensive review of legislative developments in medicare, see Robert J. Myers, Social Security (McCahan Foundation, 1975), chap. 7, and Myers, Medicare (Irwin, 1970).
+34 Medicare and Medicaid: Problems, Issues, and Alternatives, Staff Report to the Senate Committee on Finance, Committee Print, 91 Cong. 1 sess. (GPO, 1970) p. 62. See also Medicare and Medicaid, Hearings before the Senate Committee on Finance, 91 Cong. 1 sess. (GPO, 1969), and Medicare and Medicaid, Hearings before the Senate Committee on Finance, 91 Cong. 2 sess. (GPO, 1970), pts. 1 and 2.
+35 Robert M. Ball, "Managing the Social Security Program," a special issue of SSA Vista, vol. 16 (January 29, 1973), pp. 48-50. See also Lawrence D. Brown, "The Formulation of Federal Health Care Policy," in New York Academy of Medicine, Bulletin (December 1977) (Brookings Reprint 334). Judith M. Feder, Medicare: The Politics of Federal Hospital Insurance (Heath, 1977) describes the post-enactment adaptation of the SSA to hospital administration.
+36 Executive Office of the President, Council on Wage and Price Stability, The Complex Puzzle of Rising Health Care Costs: Can the Private Sector Fit It Together?(the Council, December 1976), pp. 71-77.
+
+## 第十七章 更高的现金给付
+
+可以想见，当争取医疗保险（medicare）的运动取得胜利时，扩张的势头本可能会随之消失。争取医疗健康保险的斗争漫长而艰辛，若是换作目标不如社会保障行政领导层那般明确的人，这种斗争可能早已让他们筋疲力尽。但在1967年，他们又投入到一项旨在大幅扩大现金给付项目的运动中。当这场运动在1972年结束时，罗伯特·鲍尔（Robert Ball）可以说：“事实上，我们拥有了一个新的社会保障项目——一个为各个年龄段的劳动者及其家庭提供全新安全保障水平的项目。”1 与以往的其他扩张举措一样，这一举措同样引发了分歧。此处的争议焦点在于，公共项目在提供退休收入方面应发挥多大作用。它与私人养老金及个人储蓄之间应是何种关系？与早先的边界问题（即公私关系问题）一样，这一争议使得商业团体与劳工阶层对立，也使共和党人与民主党人产生分歧。再次，问题的解决在很大程度上取决于关键人物威尔伯·米尔斯（Wilbur Mills），而他最终出人意料地支持了扩张。1972年，米尔斯发起了将给付水平提高20%的法案，将这场扩张运动推向了高潮。尽管这背离了他职业生涯中一直坚持的社会保障决策原则，且破坏了众议院筹款委员会（Ways and Means Committee）共识决策的惯例，他还是这样做了。
+
+### 扩张的目标
+
+1966年春，即医疗保险法案颁布后不久，鲍尔署长（Commissioner Ball）在向美国公共行政学会（American Society for Public Administration）发表的演讲中阐述了社会保障政策的目标。他表示，首要任务是提高给付水平，且这种提高需要覆盖所有收入阶层，而不仅仅是针对穷人。鲍尔承认，除社会保障外，其他途径（如公共救助或负所得税）在扶助极度贫困人群方面可能做得更好，但他反问道：“为什么我们要将经济保障的目标局限于此呢？大约在1910年西德尼与比阿特丽斯·韦伯（Sidney and Beatrice Webb）提出‘所有人享有最低收入’时，这或许是一个激动人心的目标，但在1966年的美国，我们可以做得好得多。”2 长期以来，项目执行高层的核心关注点始终是该项目整体的扩张。为了给更高的给付水平提供资金，鲍尔承认提高工薪税税率（payroll tax rates）是可能的方案之一，但他将更多注意力放在了另外两种方法上。他重新提出了使用一般性财政收入（general revenues）的构想——自1950年以来，项目高层极少在公开场合提及这一点。此外，他似乎极为重视提高计税工资基数（wage base），尽管他也承认，这不足以为普遍给付的大幅增长提供全部资金。他认为，需要更高的工资基数来保持该项目的累进性质，并巩固其融资基础。 “保持这一基数的与时俱进，”鲍尔说，“是决定社会保障在多大程度上承担提供退休安全保障任务的决定性因素，同时它也决定了有多少任务将被搁置，或仅由私人养老金计划部分完成。”3
+
+对给付水平、税收及工资基数的调整，乃是实现一个更为根本目标——更高的“替代率（replacement rates）”——的手段。该术语指代退休金与退休前工资之间的比例关系。它是衡量退休制度规模及其社会功能的一个重要且实用的指标，然而在此前的决策者公开讨论中，该概念却鲜少被提及。经济安全委员会（Committee on Economic Security）的工作人员曾在1934年提出，与公共救助不同，社会保险给付应当“足以维持舒适的生活，并与惯常的工资标准保持一定联系”。该委员会设想最终的替代率应达到50%，但也承认保险项目在启动之初无法达到这一水平。然而，在此之后，决策者们开始习惯使用“保护底线（floor of protection）”这一表述来界定社会保障的功能。这种表述通过对具体金额和替代率保持模糊，并暗示公共项目的作用是受限的，从而将争议降至最低。在鲍尔针对医疗保险颁布后关于现金给付政策的声明中，目标变为建立一个“更充分”的项目，而替代率则成为衡量充分性的标准。他并未设定明确目标，但呼吁提高现有的替代率。他指出，当时获得平均工资的已婚男性的替代率约为收入的50%，而按联邦最低工资水平赚取收入的已婚男性的替代率约为67%。 （在已婚男性的情况中，其配偶可获得相当于其本身给付额一半的福利，这使得其替代率远高于单身男性。）
+
+更根本地说，这些项目特征（给付、税收、工资基数以及替代率）的所有变化，都是为了确保社会保障作为国家提供退休收入之首要制度的地位。鲍尔提出，应当由社会保障为各个收入阶层的劳动者提供退休收入的主要部分，而不应指望私人养老金“扮演越来越重要的角色”。5 社会保障不应演变成为一个专门针对穷人的项目，如果较富裕阶层的私人退休收入来源持续增长，这种演变就有可能发生。然而，除了简要提及这能提供更大的养老金安全并促进劳动力流动之外；鲍尔并未解释为何公共项目应当占据首要地位。鲍尔的陈述使得这些拟议中的变革听起来似乎只不过是维持公私关系现状的手段，或者顶多是扭转一种稍微不利的趋势。相比之下，社会保障署（SSA）精算师罗伯特·J·迈尔斯（Robert J. Myers）自1969年起发表的反对演讲，则以戏剧性的措辞描绘了“扩张主义者”的目标，认为其扩张欲望几乎是无止境的，且对私人养老金和储蓄构成了深远的威胁。他声称，他们的目标是利用公共项目为绝大多数退休人口提供完全的经济安全。 为了号召私人利益群体进行自我防卫，迈尔斯警告说，他们必须“投入更多时间关注总体局势，这或许意味着减少关注其私人业务的时间。否则，从长远来看，他们将不会再拥有任何私人业务。”6 即使在事后看来，由于公共与私人养老金之间高度复杂的相互依存关系，外部观察者也很难精确评估其中的利害关系，但显然，一个重要的问题已经被摆上了台面。7
+
+### 立法议程
+
+约翰逊（Johnson）总统在提高社会保障给付方面，至少与项目领导人一样迫切。据时任卫生、教育及福利部（HEW）副部长的威尔伯·科恩（Wilbur Cohen）回忆，当他带着将给付增加10%的提案向总统汇报时，总统的反应是：“得了吧，威尔伯，你可以做得比这更好”——随后，当科恩不断带着新方案返回时，总统一直敦促他提供更为优厚的方案。在科恩经历过的所有总统中，约翰逊对该项目的反应表现出最为热烈的自发性。他确实关心老年人，其政府在1967年向国会提交的提案也反映了这种关怀8：提案内容包括全面提高15%的给付水平、小幅上调税率（1969年增加0.1%，1973年增加0.15%）、大幅提高工资基数（1968年从6600美元提至7800美元，1971年至9000美元，1974年至10800美元），以及大幅提高最低福利标准（从44美元提至70美元）。9
+
+约翰逊政府的社会保障提案在1966年下半年就已成型。当年7月，总统特别助理小约瑟夫·A·加利法诺（Joseph A. Califano, Jr.）成立了一个跨部门的收入维持特别工作组，“以为全国制定一项综合性的收入维持政策”。10 该工作组由经济顾问委员会（Council of Economic Advisers）主席加德纳·阿克利（Gardner Ackley）担任主席，成员包括预算局、财政部、劳工部、卫生、教育及福利部以及经济机会局（OEO）的代表。同年11月，该工作组建议将社会保障福利提高10%，并对福利计算公式进行调整，以使社会保障更具累进性。当这些建议在白宫进行讨论时，威尔伯·科恩主张实行更大幅度的增长，并反对将增长仅集中在最低收入阶层。总统站到了科恩一边，显然他更倾向于对一个受到普遍欢迎的项目进行全面扩张，而不是在社会阶层之间进行公开的收入再分配。此外，总统也承受着来自有组织的劳工及老年人组织的巨大压力，要求其支持大幅提高社会保障水平。提案中包含异常高幅度的最低福利增长，是为了专门针对穷人采取一些措施，尽管这在实现该目的方面并非有效的工具（因为最低福利的领取者并不必然是最贫困的社会保障受益人）。 据当时负责经济机会局（OEO）研究与规划的罗伯特·A·莱文（Robert A. Levine）所述，除了提高社会保障外，总统及其幕僚从未认真考虑过任何其他的收入维持措施。11
+
+社会保障署官员作证指出，在政府的提案下，到1974年，87%的参保劳工其全部收入都将被纳入保障范围，这一数字远远超过了自1950年以来被广泛接受的75%的稳定水平。根据收入水平的不同，替代率将提高5%到15%不等（见表17-1）。政府并未就使用一般性财政收入提出任何议案，但有组织的劳工向筹款委员会和参议院财政委员会发出通知，表示他们很快就会提出此类要求。
+
+
+表 17-1. 1965 年 65 岁及以上夫妇实际与建议的替代率增加情况对比 $^a$
+
+| **平均月收入 (美元)** | **实际替代率 (%)** | **建议替代率 (%)** |
+| -------------- | ------------- | ------------- |
+| 100            | 94.8          | 109.1         |
+| 200            | 67.5          | 77.6          |
+| 300            | 56.2          | 64.7          |
+| 400            | 51.0          | 58.6          |
+| 500            | 47.1          | 54.1          |
+| 550            | 45.8          | 51.5          |
+| 650            | 38.8          | 47.8          |
+| 750            | 33.6          | 45.1          |
+| 900            | 28.0          | 42.0          |
+表 17-1 资料来源：众议院筹款委员会《关于社会保障制度修订的总统提案》听证会，第90届国会， 第1次会议（GPO，1967年），第1部分，第224页。a. 退休劳动者及其配偶。
+
+国会仅批准了政府提案中的部分要求。国会同意将福利提高13%，并规定小幅上调税率。国会将工资基数提高至7800美元，但并未就进一步的措施作出任何承诺。在这个数字下，1968年的基数覆盖了参保就业收入的81.7%，这与1951年3600美元的基数所达到的水平非常相近。尽管如此，鲍尔署长还是表达了极大的满意。1965年和1967年的两次上调使得工资基数在不到三年的时间里从4800美元增至7800美元。鲍尔在SSA员工会议上表示，在许多方面，这是当时最重要的成就——考虑到同一时期还颁布了医疗保险法案，这有力地证明了项目高层对工资基数的重视程度。12
+
+除了筹款委员会建议处于工资基数顶端的一对夫妇其替代率应保持在50%左右之外，国会对应替代率并未作太多探讨。正是由约翰·伯恩斯（John Byrnes）领导的共和党少数派，敦促在较高收入水平上实行50%的替代率。这是一个相对较高的比例——这意味着该系统累进性较弱——超出了政府提案原有的设想。13 政府的扩张提案导致了财政委员会与筹款委员会之间的分歧，并在财政委员会内部引发了民主党与共和党之间的对立。与20世纪50年代不同，此时自由派民主党人控制了财政委员会，他们本愿满足政府的全部要求，包括15%的福利增长、分三步将工资基数提高至10800美元，以及70美元的最低月支付额。委员会中持反对意见的共和党人则支持筹款委员会的建议，即把福利增长限制在12.5%，工资基数限制在7600美元。14 最终选择13%的增长和7800美元的工资基数是一次两院协调会议（conference）妥协的结果，该结果偏向于筹款委员会的立场。与财政委员会不同，筹款委员会具有很强的凝聚力。它能够在这一极具潜在分歧的问题上达成两党协议，有力地证明了米尔斯领导的有效性，以及该委员会在制定社会保障政策时所形成的共识规范。 一名自由派成员（纽约州的雅各布·H·吉尔伯特 Jacob H. Gilbert）和一名保守派成员（密苏里州的托马斯·B·柯蒂斯 Thomas B. Curtis）提交了补充意见，吉尔伯特主张更大幅度的福利增长，而柯蒂斯则主张退休福利的任何增加都应来自私人资金，但没有任何成员拒绝签署委员会报告。15
+
+总而言之，争取更高现金给付的运动在1967年开局时仅取得了有限的进展，而当共和党候选人在1968年总统选举中获胜时，这场运动似乎极有可能会遭到挫败。
+
+### 尼克松政府的上台
+
+艾森豪威尔（Eisenhower）执政时期已经表明，共和党控制行政部门并不一定会打断扩张的进程。从1969年开始，尼克松政府提供了第二次检验机会。没有理由认为会发生逆转以往成果的情况——甚至比1953年时更没有理由，当时美国商会呼吁对社会保障政策进行严肃的重新审查，而国会中的保守派共和党人也可能乐于参与其中。1968年的共和党纲领承诺实现福利根据生活成本进行自动调整、增加寡妇福利，并放宽退休年龄测试（retirement test）；这些主张不太可能引起该项目支持者的警觉。（而民主党的纲领则呼吁将医疗保险扩展至残疾人，并为老年人支付处方药费用。）16 尽管如此，政治分析家可能仍会预测扩张速度将会放缓，而且肯定鲜少有人能够预见到在1969年至1972年间即将发生的社会保障福利的大爆发。1969年、1971年和1972年均颁布了大幅增长方案，且每次增长的幅度都远远超过了生活成本的涨幅。实际福利水平——即经过通胀调整后的福利——增长了23%。更为重要的是，需缴纳社会保障税的收入比例以及替代率也出现了大幅上升。 无论按照何种定义，一场巨大的扩张都已经发生。
+
+分裂政府治下的党派竞争是导致这一异常升级的原因之一。共和党政府始终提议按照生活成本的增幅来提高福利，而由民主党控制的国会则不断开出更高的筹码，在1969年将共和党提议的10%提高到15%，1971年从6%提高到10%，1972年则从5%大幅提高到20%。17 卫生、教育及福利部部长埃利奥特·理查森（Elliot Richardson）在1972年向国会委员会作证时，为政府的记录辩护称，面对民主党主导的国会，一位共和党总统可以预料到“无论他提出什么方案，都会被对方加码。”18 所有的这些增长法案都被附加在具备“防否决（veto-proof）”属性的立法上——如1969年的税收改革法案，以及1971年和1972年提高国债上限的法案。
+
+第二个原因是尼克松政府自身的矛盾心理和内部分歧，这使其无法对这些福利增长施加持续且强大的反对压力。它不可能对老年人这一政治选民群体漠不关心，也不可能无视社会保障福利增加所固有的邀功（credit claiming）机会。此外，其政府内部也不乏致力于在福利用途上增加支出的坚定倡导者。芬奇（Finch）、理查森（Richardson）和维尼曼（Veneman）作为HEW的最高层领导，以共和党的标准来看非常自由派，阿瑟·弗莱明（Arthur Flemming）也是如此；他曾担任总统的老龄问题顾问、一个活跃的内阁老龄问题小组委员会的主席，随后出任HEW老龄管理局（Administration on Aging）局长。在进入尼克松政府之前，弗莱明曾是1969-1971年社会保障咨询委员会（Social Security Advisory Council）的主席。同样需要注意的是，本届共和党政府并不比20世纪50年代的前任们更有决心或能力去确立党派对社会保障行政机构的控制。首席精算师迈尔斯在离职前不久向一位报社记者评论道，简直就好像威尔伯·科恩仍在掌管HEW一样。19 讽刺的是，共和党人由于不敢替换鲍尔的署长职位，反而接受了迈尔斯的辞呈；只要鲍尔在任，迈尔斯对“扩张主义”政策日益高调的抨击就使得其在SSA的处境无法维持。共和党人的到来不仅未能安插保守派的领导层，反而除去了SSA高层中唯一重要的保守派影响力。
+
+然而，尽管不敢撤换鲍尔，尼克松治下的白宫依然极不信任他。总统幕僚认为他在为国会中的民主党人效力，抑或是国会民主党人在为他效力。HEW高层的共和党人（尤其是理查森）钦佩他的能力并信任他的正直（这恰恰也是他们自身不被白宫信任的原因之一），但他们也知道，他与威尔伯·米尔斯以及国会中的其他民主党人关系密切，且高层们并未自欺欺人地认为，部门里安插了共和党人就会削弱他与民主党人的亲密关系。因此，该系统在这一时期发生扩张的许多解释，可以在共和党政府的性质及其与国会、选民公众和“常任政府（permanent government）”高级官员之间的关系中找到。该政府无法以促进其宣称的目标的方式来管理这些关系，而且对于它所宣称的目标，它也并不总是能做到统一步调、全心全意地致力于此。
+
+但这并不是对这种激增趋势的全部解释。除了考察共和党政府的作用和外部关系外，有必要考量社会保障项目的性质及其相关的决策机制。由于扩张与不断上涨的工资挂钩，因此扩张的趋势已成为系统的内置属性。它源于精算师在进行长期成本估算时基于“收入将保持不变”的平准收益假设（level earnings assumption）的做法。20 当收入出现增长时——且这种增长总是不可避免的——就会“发现”一笔精算盈余（actuarial surplus）。于是，SSA便会提议提高给付或其他扩张方案，如果此时正好选举临近——通常总是如此——国会就会颁布这些法案。因此，该项目与经济及政治体系的嵌套方式保证了其自身的增长，并保证了这种增长至少部分地与工资上涨相联系，而非与涨幅通常更小的物价上涨相联系。
+
+这种机制潜在的任意性在1969年表现得最为明显。当时物价上涨迅速，而工资的上涨甚至更为迅猛。社会保障信托基金状况的年度报告（于该年年初发布，包含了更新后的精算预测）指出，1968年的收入比支出多出20亿美元，并且从长远来看，该项目的资金已大幅超额（overfinanced）。21 面对《商业周刊》（Business Week）所称的“飞涨的盈余”，国会采取了他们一贯的做法。22 政府原本希望将福利增加与生活成本上涨挂钩，而国会则不仅超出了政府的建议幅度，还将盈余全部用于更大幅度地提高福利。1969年的这笔盈余如此之大，以至于国会能够在不增加任何税收的情况下通过一项15%的增长法案，且没有危及基于迈尔斯估算的“项目具有精算稳健性（actuarially sound）”这一长久以来的声明。个人劳动者的替代率上升了4到5个百分点。
+
+甚至在1969年之前，华盛顿执政圈中的一些人就已开始认为，设定社会保障福利或许有更好的途径。1969年以后，寻找替代方案的兴趣愈发浓厚。两种截然不同的观点开始流传，它们出自于极为不同的渊源。在迈尔斯的协助下，共和党公职人员倾向于将社会保障福利自动与生活成本的上涨相挂钩。另一种观点由SSA外部的经济分析师提出并得到鲍尔署长的倡导，即放弃平准工资假设（level wage assumption）。 在1972年，这两种理念均被采纳，进而促成了福利的又一次大幅提升。
+
+### 变革制度
+
+共和党公职人员认为，将社会保障福利指数化（indexing）是一种遏制每两年发生一次的扩张压力的手段，并能够使社会保障去政治化，从而对他们自身有利。他们希望因引入这一自动调节机制而获得政治资本，并借此剥夺民主党多数派在未来采取行动的良机。约翰·伯恩斯推动了这一理念，该理念被纳入1968年的党纲，随后成为尼克松总统向国会提交提案的核心。23 在国会中，它沿着党派路线撕裂了通常具有凝聚力的筹款委员会。米尔斯不愿放弃每两年进行一次的特别（ad hoc）福利增长，因此对此极力反对。那些没有担任公职、从而不参与同民主党进行邀功竞争的财政保守派人士对这一理念感到担忧。全国制造商协会（National Association of Manufacturers）和美国商会对此表示反对，1969-1971年咨询委员会中的四名保守派成员也强烈反对该委员会作出的背书。他们辩称，这项变革会使通货膨胀更难控制；它是非必要的，因为无论如何国会都会使福利水平与生活成本的增长保持一致；而且它也无法阻止那些要求进一步大幅增加福利的政治压力。在尼克松政府内部，一些总统的经济顾问也持有异议，包括阿瑟·伯恩斯（Arthur Burns）和经济顾问委员会主席保罗·麦克拉肯（Paul McCracken）。24 长期以来一直在考虑建立指数化系统的项目主要执行官对共和党的提案持接受态度，只不过他们及其在有组织劳工中的盟友更倾向于将该系统的启动推迟到实现了给付水平的大幅提高之后。
+
+当这一理念在1967年在共和党赞助下被提出时，时任HEW副部长的威尔伯·科恩曾建议约翰逊总统，通过提出指数化公式加上大幅提高福利水平，以在政治筹码上压倒共和党。项目高层同样愿意考虑将福利增长与工资增长（而非物价增长）挂钩的可能性。与工资挂钩将是一种扩张性更强的方法。25 自动调节增长的理念在国会大受欢迎，以至于众议院在1970年不顾米尔斯的反对而通过了它，这是一件极不寻常的事件。参议院也将其作为一项有关福利和社会保障的一揽子法案（omnibus bill）的一部分予以批准，但参众两院未能在那一年完成有关社会保障立法的最终行动。等到参议院于12月29日完成工作时，米尔斯认为举行协调会议为时已晚。因此，在1971年春季社会保障咨询委员会发布报告时，这项被共和党公职人员寄望于遏制未来福利增长的措施尚未成为法律，而这份报告已经成为抨击平准收益假设的载体。
+
+对任何经济学家而言，无论是自由派还是保守派，平准收益假设都是一种极其非理性的公共政策制定工具。就其使得国会能够以一种定期为社会保障系统提供“轻松得来的资金（easy money）”的方法从而毫无痛苦地通过福利增长法案而言，它提供了一种逃避该项目固有核心政策选择的途径——在经济学家看来，这种选择要求在将该项目的诉求与其他竞争性诉求进行权衡时，审慎计算“应当”把多少国家经济产出投入到社会保障中。对于自由派经济学家——即那些主张通过更大规模的公共项目来支持老年人收入的学者——来说，这种假设还额外带有令人反感的保守偏见。由于它低估了系统未来的收入，它也就变相压低了福利水平。
+
+早在1951年，《经济学季刊》（Quarterly Journal of Economics）就发表了一篇批评精算师使用平准收益假设的文章；而在此之前，致力于扩大项目的SSA官员内部就曾提出过异议。26 但是，这些批评最终都平息了。支持扩张的SSA官员发现，平准收益假设在实践中并不是一个严重的制约（甚至恰恰相反），而在整个20世纪50年代，SSA外部的专业经济学家也没有对该项目保持仔细的审查。随后，在20世纪60年代末，情况再次发生了变化。随着项目的迅速扩张，在政府内部或外围担任政策分析师的专业经济学家开始四处寻找使社会保障决策合理化并将其与预算及财政政策相整合的途径。总统行政办公室（Executive Office of the President），包括经济顾问委员会和预算局，是这项努力的核心场所之一。另一个则是布鲁金斯学会（Brookings Institution），该学会于1968年出版了佩奇曼（Pechman）、艾伦（Aaron）和陶西格（Taussig）合著的批判性分析。27 后者认为，保守的偏见在私人保险系统的精算估算中或许是合适的，因为私人系统必须手头拥有足够的资金以应对所有应计负债，但它却不适用于公共项目，因为公共项目可以依靠政府的征税权来摆脱财务困境。那种认为该假设可以保护系统免受意外赤字影响（因为它直到工资上涨带来的回报实际可用时才将其纳入计算）的论断，对他们来说是缺乏说服力的。
+
+与此同时，当抵制提高工薪税的阻力日益增大，且使用一般性财政收入融资尚未被广泛接受时，项目高层正苦于寻找途径为大规模扩张提供资金。基于在采用动态收益假设（dynamic earnings assumptions）方面所拥有的共同利益——此举将是大胆的一击，既能从长远角度使项目决策合理化，又能立即为极高幅度的福利增长提供正当理由——项目高层与专业经济学家共同塑造了1969-1971年咨询委员会的财务建议。咨询委员会建议，社会保障成本的估算应建立在收入将实现增长的假设之上。这是一系列财务建议中的一项——作为该委员会报告的结语部分——由鲍尔署长和负责项目评估与规划的助理署长阿尔文·M·大卫（Alvin M. David）在1971年春季委员会停止召开会议后起草。28 在非正式和保密层面，这项建议得到了预算局工作人员的支持。29 在公开层面，它得到了一个由五名精算师和经济学家组成的专家小组（为委员会小组委员会服务的顾问）出具报告的支持，该报告对以往的做法提出了批评，并必然得出这样的结论：如果采用动态收益假设，那么该系统将严重超额融资。在动态假设下，该小组预测到1985年，信托基金将有2818.99亿美元的余额。30 在这一节点上，很大程度上取决于关键参与者或多或少带有的偶然性站位。
+
+如果罗伯特·迈尔斯没有在1970年5月卸任首席精算师，修改平准收益假设的难度将会大得多，因为迈尔斯坚定固守着这项技术。他离职后不久，咨询委员会就成立了一个小组委员会，以审查精算师办公室（Office of the Actuary）在制定成本估算时所采用的方法论的合理性，并特别针对是否保留平准收益假设提出建议。由鲍尔署长起草、抛给该小组委员会的问题，构成了要求其推荐采用动态假设的最为露骨的邀请。此外，该小组委员会由专业经济学家、布鲁金斯学会主席克米特·戈登（Kermit Gordon）领导，这也是极其重要的。作为经济顾问委员会前成员，以及肯尼迪和约翰逊政府时期的预算主任，戈登与经济分析师们的普遍观点一致，认为应当修改平准收益假设，并且正是他任命了由三名经济学家和两名精算师组成的顾问小组，来为该小组委员会执行技术工作。其中的两名成员，哈佛大学的奥托·埃克斯坦（Otto Eckstein）和布鲁金斯学会的南希·蒂特斯（Nancy Teeters），都是在政府任职期间“发现”了平准收益假设并渴望改变它的自由派经济学家。另一名是精算师穆雷·拉蒂默（Murray Latimer），他曾参与1934年老年保险项目的设计。他的任命是由有组织的劳工所提议的。他同样渴望做出改变。另外两名小组成员——一名在西雅图执业的私人精算师和一名芝加哥大学教职员中的保守派经济学家——均未提出异议。31
+
+关于使用动态收益假设的建议在咨询委员会中鲜受关注，也未引起任何争议。原因之一是技术小组工作仓促，提交报告也较晚；而在收到报告后，咨询委员会仅仅召开了一次会议。更根本的原因在于，在委员会成员的心目中，这个问题从属于是否采用指数化福利公式的问题，而后者曾引发激烈的辩论。在大都会人寿保险公司（Metropolitan Life Insurance Company）的查尔斯·A·西格弗里德（Charles A. Siegfried）的带领下，委员会中的保守派成员对此表示强烈反对；矛盾的是，这与迈尔斯的立场相左。一旦这个问题得到解决，并且委员会决定建议将福利增加与物价上涨挂钩、将工资基数与收入增长挂钩，那么要求改变成本估算方法的建议自然也就顺理成章了。迈尔斯一直坚持认为，他必须使用静态假设，因为他无法合法地假设国会未来会提高福利或猜测其提高的幅度；而如果他不能假设福利会增长，他同样也不能假设收入会增长。如果国会规定福利将按物价的比例上涨，而工资基数按收入的比例上涨，那将不再有必要——确实不再有必要——且维持“福利和收入都不会上涨”这种虚构的假设也将变得荒谬可笑。32 迈尔斯的继任者查尔斯·L·特罗布里奇（Charles L. Trowbridge，他于1971年离开私人保险公司加入SSA），在同意其必须与采用指数化福利相挂钩的条件下，批准了向动态假设的转变。33 西格弗里德，这位至少和迈尔斯一样反对扩张并对指数化的潜在影响深感恐惧的人，尽管如此，还是低估了精算估算技术的意义，并且没有在咨询委员会内部将向动态假设转变的提议变成一个争议性话题。34 
+
+联邦老年遗属保险与残疾保险信托基金（Federal Old Age and Survivors Insurance and Disability Insurance Trust Fund）董事会本可以讨论精算假设的这一变更；该董事会由财政部长、劳工部长以及卫生、教育及福利部部长作为当然委员（ex officio）组成。该董事会负责“持有”信托基金，并向国会提交关于基金状况的年度报告。然而在传统上，这些仅仅是名义上的职能，董事会实际上是一个虚构的实体。它每年举行一次敷衍了事的会议，听取社会保障署署长的报告。随后，它自己的报告则由SSA的精算师负责起草。财政部长和劳工部长以董事会成员的身份工作时，并没有配备独立的工作人员，对社会保障政策也知之甚少，且鲜少表现出关心的迹象。若说财政部曾表现出任何兴趣，那也仅局限于对政府债券的管理；出席这些会议的财政部工作人员通常是专攻投资组合的职业官员。在1971年的会议上，鲍尔署长阐述了咨询委员会的财务建议，包括改用动态收益假设的提议。HEW部长理查森认可了该委员会的建议，而财政部长约翰·B·康纳利（John B. Connally）和劳工部长的代表均未提出疑问或异议。他们的部门当时没有表态，正等待工作人员完成相关案头工作。尽管官方出版物称已批准了新的精算方法论，但没有任何正式记录显示董事会在这次或任何其他会议上予以批准。董事会在1972年春末发布的年度报告包含了多组精算预测，一组基于静态假设，另一组基于动态假设，报告并建议如果采用指数化，就应该使用动态假设。35 极不可能的情况是，“董事会”意识到了摆在他们面前的问题的重大意义。36
+
+或许，如果当时清楚地知道由此产生的精算意外之财（actuarial windfall）将有多么庞大，那么向动态假设的转变就会在政府内外引起更多的关注。直到1972年初，情况才明朗起来——这项变革将使高达20%的福利增长显得合理化。尽管如此，社会保障专家们很清楚，变革带来的大规模意外之财不可避免，而且政治上敏锐的专家们大概也料到，政客们绝不会浪费时间去加以利用。保守派专家没有施加更多的阻力，这可以由两个因素来解释：一方面，即将采用的指数化政策使得精算变更有其内在逻辑性；另一方面则是该项变革本身在政治上具有模糊性。自由派欢迎有望立即出现的可用于提高福利的精算意外之财，而保守派则欢迎一个长期的前景，即该系统将不再在每一个选举年都制造出这样的意外之财。咨询委员会的建议是用“保守”的措辞写成的。报告声称，“缴费型项目所固有的纪律将得到加强（其前提是假定：每当国会批准的福利增长幅度超过补偿生活成本上升所需的幅度时，它将被迫提高税收）”。37
+
+尽管咨询委员会本身并未建议20%的增长，但它却为此铺平了道路。20%的增长不仅在原始百分比上大于1969年或1971年的增幅，在偏离生活成本增幅的程度上也显得更为挥霍，并且在性质上也完全不同。前两次增长均通过传统方式融资：1969年的融资来自1967年至1969年间因收入增加而产生的精算盈余；1971年则来自工资基数的提高、未来税率的上调（于1976年生效）以及因收入上升产生的精算盈余等共同作用。相比之下，1972年的增长主要由精算假设的变更来提供资金，这种变更不仅以传统方式计入了紧邻过去的收入增长，甚至还对未来的增长做出了预测并予以提前变现。工资基数被提高了，但是税率（确切地说，是未来的税率，而不是当前的实际税率）却被下调了。
+
+### 威尔伯·米尔斯的蜕变
+
+在政治上，关于这次非同寻常的福利增长，最引人注目之处在于它是威尔伯·米尔斯（Wilbur Mills）发起的。1972年2月底，他在众议院提出了一项旨在实现此目的的法案。38 按照米尔斯习惯采用的精算标准，只能证明小幅度的福利增长是合理的；传统的精算技术显示只有微薄的精算盈余。对于一个始终坚持“财政稳健（fiscal soundness）”且即使采取行动也极为谨慎的人来说，这突如其来、看似鲁莽的举动令人大感意外。不能说米尔斯没有领会其行为的含义。多年来，米尔斯已经掌握了社会保障的精算原则。当分散在首都各个办公室的财政经济学家们对“平准收益假设（level earnings assumption）”还闻所未闻时，他便已充分理解了其运作机制。1964年，在对阿肯色州选民的一次演讲中，他基于一种颇为专业的理由（即很难使之与平准收益假设相协调）解释了自己对医疗保险（medicare）的反对；对于参加那次基瓦尼斯俱乐部（Kiwanis Club）会议的听众而言，这一点想必令他们一头雾水。39 在米尔斯的坚持下，针对住院保险的精算技术采用了动态收益假设（dynamic earnings），因为在该项目的这一部分中，这将是更为安全、更为保守的方法。1972年众多具有讽刺意味的事件之一便是，米尔斯在1965年对医疗保险采用动态假设的坚持，为日后在现金给付项目中废除平准收益假设铺平了道路。咨询委员会在1971年得以辩称，对医疗保险最好的做法，对现金给付同样是最好的。
+
+对米尔斯行为转变的一个可能解释是其政治抱负发生了变化。1972年初，他宣布将角逐民主党总统候选人提名；对于一个缺乏全国性政治追随者，但作为国会中也许是最重要委员会的资深主席而拥有巨大权力的人来说，这是一个惊人的举动。有人开玩笑地问，他为何要“屈尊”去竞选总统。大多数观察家认为，米尔斯发起社会保障福利增长法案是为了提升其竞选总统的前景。40
+
+另一种并非完全与第一种相悖的解释同样是可能的。他之所以采取主动，可能是因为他相信如果自己不这么做，尼克松总统也会这么做。尽管米尔斯生性谨慎且倾向于保守主义，但他在战术上也十分灵活，正如他在1964年后领导医疗保险立法所展现的那样。作为一名立法领袖，他善于预见压力。也许在1972年，他预见到了白宫里那位政治家将会采取大胆的举措；他极有可能认为，在总统自身职位面临选举考验的这一年，社会保障领域的一笔精算意外之财（actuarial windfall）对其将是不可抗拒的诱惑。然而，总统在行政官员最初表现出一些犹豫之后，仅主张增加5%的现金给付，并在3月底向国会提交的一份关于美国老年人的特别咨文中重申了这一立场。41 除此之外，政府在该咨文中提出的关于社会保障的唯一几项自由化（放宽）措施，作为政府的综合福利与社会保障提案H.R.1法案的一部分，当时已经在国会中处于待决状态。（这些措施包括：将福利与生活成本指数化挂钩，增加对寡妇、鳏夫以及超过法定年龄延迟退休者的福利，放宽收入测试，以及废除要求医疗保险B部分参与者缴纳月度保费的规定——这一举措大致相当于增加了4%的现金给付。）政府对假设变更所带来的精算意外之财的应对措施是，建议降低H.R.1法案中包含的预定未来税率。42 总统坚守仅增加5%现金给付的立场，是政府中财政保守派的一次胜利。在起草关于老年人的特别咨文的内阁老龄问题委员会中，卫生、教育及福利部（HEW）的代表以及阿瑟·弗莱明（Arthur Flemming）曾主张实行更大幅度的自由化，尽管即便是他们也没有提议高达20%的现金给付增长。43 总统的国内事务顾问约翰·D·埃利希曼（John D. Ehrlichman）对记者表示，20%的增长提议是“一种政治策略，不能予以认真考虑”。44
+
+政府本有可能避免这场异乎寻常的、数额达到其自身要求四倍的现金给付增长，只要它能主动提出一项自身的、更为自由化的提案，一项将利用部分新的意外之财来充实H.R.1法案中待决的自由化措施一揽子计划，而不是将其用于降低H.R.1提议的税率的提案。政府的一位成员后来推测，如果政府当时采取了更为自由派的立场，鲍尔（Ball）就会感到有义务在国会民主党人中为接近政府立场的方案寻求支持；在一次采访中，鲍尔同意情况确实如此。这位共和党消息人士和鲍尔都假定，国会民主党人在此事上会听从鲍尔的建议。同样可能的是，无论共和党行政高官在1972年做了什么，都不会对最终结果产生任何影响。一旦20%增长的理念在选举年被抛出，并获得了咨询委员会专家的论证背书，党派之间的政治竞价就必然会开始。有意角逐总统候选人提名的民主党参议员乔治·麦戈文（George McGovern）在米尔斯提出之前十天，便提议了20%的增长。45 而在麦戈文提出该提议的一周前，参议院老龄问题特别委员会主席弗兰克·丘奇（Frank Church）就提出了这一建议；该委员会的工作人员已发展成为国会山内部一个代表老年人利益的极具进取心的游说团体。46 这些工作人员经常与外部的老年公民游说团体合作，随着老年人口的增加及其对政府项目依赖性的增强，这些外部团体自身也变得更具进攻性。它还极大地受益于社会保障署（SSA）文官所提供的“技术援助”，工作人员正是首先从他们那里得知，在新的精算假设下，20%的福利增长结合税率的降低是可以被论证的。到5月份，丘奇及其工作人员已经为这20%的增长法案召集了48名共同提案人，而《老年公民新闻》（Senior Citizen News）正在不遗余力地宣传他们的名字。47
+
+6月下旬，国会仓促地将这20%的增长连同指数化条款一起附加到了一项提高国债上限的法案中。这一举动的提议出自参议院，其开放的程序使得不合常规的行动成为可能。值得注意的是，在参议院内部，它是丘奇而非财政委员会（Finance Committee）提出的；尽管通过丘奇提案的压力与日俱增，财政委员会仍克制自己不去发起增加福利的法案。这项20%的增长法案在参议院以82票对4票、在众议院以302票对35票获得通过；在众议院，米尔斯作为筹款委员会主席，并未对将其附加到债务上限法案中提出异议。48 在议事大厅中，筹款委员会和财政委员会的资深共和党人试图为10%的增长争取支持，但在参议院以66票对20票、在众议院以253票对83票被击败。49 国会共和党人在所有这些投票中分歧严重，在任何情况下都没有多数共和党人投票支持政府的立场。与以往不同的是，筹款委员会内部也产生了分歧。伯恩斯（Byrnes）和筹款委员会的几位其他资深共和党人坚定地反对20%的增长。参众两院的协调会议完全按照党派界线发生了分裂。政府曾认真考虑过行使否决权，但最终决定放弃。尼克松总统指出，该法案将使预算赤字增加37亿美元，未能通过财政责任的检验，并呼吁国会削减其他联邦项目来抵消这一增长。国会并未将现金给付的大幅增长视为对其他自由化措施的替代。在秋季，它颁布了1972年的《社会保障修正案》，其中包含了一系列混合的自由化措施。特别值得注意的是，该法案将医疗保险的保护范围扩展至已领取福利至少两年的残疾受益人；这并不是政府的举措。老年、遗属、残疾和健康保险（OASDHI）的税率，从1971年基于7800美元工资基数的5.2%，跃升至1973年基于10800美元工资基数的5.85%。
+
+### 项目的扩张
+
+尼克松政府期间社会保障的扩张，最好通过工资基数和替代率（replacement rates）的变化来衡量。1974年的工资基数达到13200美元（这是米尔斯和丘奇在1972年发起的修正案以及1973年进一步修正的结果），参保就业收入中须缴纳社会保障税的比例接近86%，较1950年修正案以来一直维持的水平上升了约5个百分点。尽管这没有达到扩张倡导者所期望的那样高，但这仍是一个相当可观的上调幅度。1975年，赚取平均工资的已婚男性的替代率约为67%，而赚取联邦最低工资的已婚男性的替代率则为92%——这分别高于十年前推动扩张前夕时的50%和67%。这一增幅的一半甚至更多发生在1972年至1973年之间。
+
+与前两次一样，这第三次扩大社会保障的重大运动取得了成功，但它并未引发伴随前两次扩张的激烈压力集团竞争，也未出现与医疗保险相关的广泛民意动员。与早期的扩张相比，它发生在一瞬间。关键的20%福利增长如同1972年大选年夏季的一道闪电。社会保障决策过程中两个挥之不去的特征——渐进主义（incrementalism）和技术性（technicality）——掩盖了其中的利害关系，阻碍了辩论的展开。为了评估增加现金给付的意义，有必要知道增量达到何种程度才算发生了质变。公共部门和私营部门之间的临界阈值将在何处被跨越？没有人能自信地给出答案。没有人会知道，直到立法跨越发生数年之后；即便在那时，原因和结果极有可能依然模糊不清。与此同时，替代率或工资基数所代表的参保收入比例仅仅几个百分点的变化，并不是那种能够维持激烈竞争的议题——那种源自原则性问题或对大型企业或职业利益构成致命威胁的议题。如果这里存在原则性问题，它也因为被转化为狭隘的技术性术语并被降级为程度问题，而丧失了大部分的政治效力。
+
+但是，技术性方法的最终胜利在于精算预测的变更应用。这20%的增长纯粹是依靠技术上的障眼法来加以论证的。众议员伯恩斯表示：“美国人民是不会被愚弄的。如果我们将多支付20%的福利资金，那么必然有人将得多支付20%的税款。就这么简单。”50 但在米尔斯向国会保证这20%的增长在“精算上是稳健的”（因为它是源于一个杰出的咨询委员会及其经济学家和精算师专家小组的建议）之后，国会在没有任何对成本、收益或长期后果进行权衡的情况下，便匆忙采取了行动。筹款委员会的保守派共和党人、众议员巴伯·科纳布尔（Barber Conable）严厉批评了国会对专业知识盲目的顺从。对于米尔斯反复保证因为专家宣布其稳健所以该异常福利增长是稳健的说法，科纳布尔给出了尖刻的回应：“实际上，主席在基于新的动态精算假设推荐这一增长时是在说，‘所有专家都同意’。我不会纠缠于专家们……是否值得我们信任的问题。我只想说，如果我们国会任由自己被恐吓/驱赶着投下这一票，我们就配不上美国人民对我们的信任。”51
+
+尽管社会保障具有很强的技术性，但如果当时的行政部门和立法机构的决策者没有如此全神贯注于截然不同但又相互关联的福利改革问题，社会保障本可能会获得更多的关注和辩论。项目执行高层争取更高福利水平的运动，恰逢国民政府对贫困问题的关注度提升，这一巧合产生了重要的后果。约翰逊执政时期对反贫困立法的兴趣，在尼克松政府期间延续到争取家庭援助计划（FAP）的运动中，通过两种方式促进了社会保障项目的扩张。它为一般的福利立法提供了动力，而且由于社会保障是此类立法中最受欢迎、最可行的一种形式，当更具争议的福利形式受阻时，它便赢得了支持。在埃利奥特·理查森领导的卫生、教育及福利部中，存在着支持大幅增加社会保障的倾向（正如林登·约翰逊时期的白宫也存在这种倾向一样），因为这是唯一一个可以轻易实现社会福利支出大幅增长的领域，从而也是将大量人口移出官方贫困线以上的唯一途径。与此同时，约翰逊政府期间聚焦于反贫困政治的激烈讨论，以及尼克松政府期间聚焦于家庭援助计划的激烈讨论——仅仅因为它们是“新”的，这些都是诱人的话题——往往转移了决策者对社会保障这一彻底熟悉且表面上平凡琐碎之话题的时间和注意力。成熟项目中的渐进式变化并不会引人注意。无论是新闻界还是压力集团，都不像对待诸如被视为FAP那样的“改革”和“创新”措施（或者在此之前的向贫困宣战中的社区行动项目）那样被它们所吸引。由于很少有人关注渐进式的变化，这使得它们的颁布变得相对容易，结果是（至少从长远来看），它们变得比那些在特定时期在公共议程上盖过它们风头的所谓“改革”重要得多。
+
+### 决策体制的瓦解
+
+许多社会保障决策的特征在1972年的事件中表现得淋漓尽致，尤其是操纵技术手段以避免政治沦为冲突，并促进政治转化为拉票的工具。然而在某些方面，该事件是一种反常现象——背离了既定的决策规范——因此对一些主要参与者来说，它令人深感不安。约翰·伯恩斯（他后来在接受作者采访时表示，他对这种异常的事态发展感到“沮丧”）在当时向众议院发表了一篇非同寻常的演讲作为回应：“议长先生，作为筹款委员会的一员站在这里，在委员会成员、众议院议员或国会议员掌握如此少信息的情况下，来讨论如此重要的一件事情，是我以为在众议院任职期间永远不会经历的。这绝不是对待至关重要之立法应有的方式。有些人可能会把我们今天在这里做的事称为讨巧的政治（cute politics）。我称之为不负责任。……筹款委员会在任何时候都没有对这种产生‘意外之财’且现在将用于20%福利增长的新的融资方式进行过研究。无论是在公开会议还是在执行会议（executive session）上，都没有收到过只言片语的关于这个话题的证词。这种改变了衡量社会保障信托基金稳健性长达三分之一个世纪之标准的根本性变化，就这样被国会随意采纳，甚至没有经过粗略的审查。……今天我们想知道为什么我们听到对美国国会感到失望的表达。当我们坐在这里以这种方式处理我们的事务时，我认为我们不必再感到奇怪了。当我们以如此草率的方式处理如此严重的问题时，怎么能不导致对我们行为的不尊重呢？就这一制度及涉及其中的许多人而言，我们正在考虑采取可能会导致非常严重问题的步骤。”52
+
+虽然社会保障政策作为一个整体在国会从未得到过充分的辩论或理解，更不用说在更广泛的公众中了，但至少自1950年以来，它一直在该项目的官方和半官方的内部小圈子里得到了仔细的审议。他们之间并不总是一致。项目的扩张（尤其是医疗保险）在党派和意识形态界线上分裂了他们，他们只有经过长时间的拖延、讨价还价和对外部压力的测试之后，才能弥合分歧。在这种情况下，他们既参与“外部”的联盟建设（outside coalition building），也参与“内部”的谈判（inside negotiation）。这个过程丝毫不存在仓促可言。无论按照何种标准，是否颁布住院保险的问题都花费了很长的时间来解决。特别是，筹款委员会以一种审慎的、旨在最大限度地达成共识的方式采取了行动。在医疗保险问题上，米尔斯似乎想没完没了地举行听证会。在筹款委员会中，对于该项目的受托责任感（sense of trusteeship）非常强烈，一种谨慎审议和共识决策的传统已十分成熟。1967年当约翰逊政府提议大幅增加福利时，委员会保持了凝聚力，这就是这种传统的标志之一。另一个或许更具说服力的标志是该委员会在1969年继续保持凝聚力，当时尼克松政府要求的增长幅度小于精算估计所允许的幅度。伯恩斯和筹款委员会中的其他共和党人与政府决裂，并站在委员会多数派一边支持15%的增长。对于筹款委员会的共和党人来说，委员会规范和项目规范证明比党派规范更具力量。（相比之下，财政委员会的共和党成员则支持了政府。）
+
+1972年，当米尔斯在没有与委员会协商的情况下提出20%的增长法案时，这确实是一次极其激进的背离。他没有假装已经协商过，而是援引个人权威来证明这一非同寻常的增长是合理的。“坦白地说，如果让这个项目陷入精算上不稳健的境地，我将是最后一个愿意这么做的人，”他在众议院发表演讲时如此说道，重重地利用了他长期建立的财政谨慎的声誉。53 标志着米尔斯14年领导生涯的那种谨慎的、建立共识的风格突然被抛诸脑后。除此之外，在最后时刻，他同意了参议院将20%的增长附加到提高债务上限法案中的决定，这种程序上的违规行为通常是他不会容忍的。回想起来，米尔斯作为委员会主席的行为转变是社会保障决策全面动荡的一部分，并在一定程度上成为了其原因，但若认为是由于其立法领袖突然萌生了竞选总统的野心就导致了成熟的决策系统开始崩溃，这种说法显得难以置信。
+
+决策系统瓦解的症状太多了。其中一些在立法机构中显而易见，米尔斯在1970年关于福利指数化的议事大厅表决中遭遇了异常的失败。一些在行政机构中显而易见，迈尔斯持久、熟悉的专业知识突然被附属于公民顾问委员会的一群外部专家所取代。一些显现于一种新颖观点的流传中——即福利水平根据生活成本指数的变化进行自动调整。这种变化在逻辑上暗示着对精算假设的重新审查，继而又引出了米尔斯的行动。所发生的不仅仅是在熟悉的决策系统内部发生的人员及个人行为（迈尔斯的离职、米尔斯的转变）的令人不安的变化。更确切地说，它是系统对不断变化的环境所作出的调整。该项目变得如此庞大（在1972财年联邦2319亿美元的支出中占394亿美元）且扩张如此迅速，以至于“局外人”（如预算局和布鲁金斯学会的经济分析师）正在更加努力地寻找影响它的方法，而保守派“局内人”（如伯恩斯和迈尔斯）则在寻找政治上可接受的方法以遏制并规范扩张的速度。与此同时，自由派“局内人”（如鲍尔和大卫）非常愿意接受改革，只要这些改革能够服务于扩大福利水平的目标。指数化以及向动态假设的转变共同构成了这类改革。
+
+1972年的扩张是一个复杂的事件。一种解释认为，它代表了“旧的”决策系统被推向了扭曲的、病态的极端。一项重大的政策变动、给付水平的一场量子级别的跃升，仅仅在少数专家的权威背书下（即它是“稳健”的举措）就被颁布了。这种情况之所以能轻易发生，是因为国会从未养成对社会保障进行辩论的习惯。它通常信任专家并回避那些棘手的问题，而在这里，其对问题回避的态度达到了荒谬的极端。但1972年的立法也可被视为一个至少具潜力的过渡性事件，它标志着由一小撮项目专家主导的旧系统的崩溃，以及一个新系统的建立——新系统对非专家群体而言将更具开放性和可理解性，并能以一种能引发辩论的方式更好地呈现政策选择。当国会颁布了20%的福利增长时，它也颁布了管理未来福利和工资基数增长的自动程序。福利将随物价上涨，而工资基数将随收入增长；通过这种方式，该项目公开而直接地与经济运行挂钩。经济分析师在1972年设想，如果国会今后想要偏离指数化公式并赋予比自动产生的增幅更大的福利增长，它将被迫提高税收。在这个意义上，政治将被注入到该项目中——即制定公共政策时那些艰难的且在理想情况下是理性的选择所构成的政治。
+
+引用
+
+1 Future Directions in Social Security, Hearings before the Senate Special Committee on Aging, 93 Cong. 1 sess. (GPO, 1973), pt. 1, p. 2.
+2 Robert M. Ball, "Policy Issues in Social Security," Social Security Bulletin, vol. 29 (June 1966), p. 5. 
+3 Ibid., p. 7.
+4 Social Security in America: The Factual Background of the Social Security Act as Summarized from Staff Reports to the Committee on Economic Security (GPO) 1937), pp. 190, 202-03.
+5 "Policy Issues in Social Security," p. 5.
+6 "Where Will the Pending Social Security Amendments Take the Program?" CLU Journal, September 1971; reprinted in Social Security Amendments of 1971, Hearings before the Senate Committee on Finance, 92 Cong. 1 and 2 sess. (GPO, 1972), pt. 2, p. 887.
+7 Ball commented as follows: "I've never argued for taking over virtually all economic security provisions for the entire population and thus eliminating private efforts in this area. My views are . . . that there needs to be a social security program that in itself is adequate for average and below-average earners, but that for above-average earners, it is necessary to have a combination of social security and a private pension plan to give a reasonable replacement rate. I've never thought that social security should or would do anything like the whole job. : : . The problem was that social security wasn't growing sufficiently to keep its relative position stable." (From tape-recorded comments addressed by Robert M. Ball to the author, May 6, 1978.)
+On the general subject of the relation between public and private pensions, see Merton C. Bernstein, The Future of Private Pensions (Free Press of Glencoe, 1964); Peter F. Drucker, The Unseen Revolution: How Pension Fund Socialism Came to America (Harper and Row, 1976); President's Committee on Corporate Pension Funds and Other Private Retirement and Welfare Programs, Public Policy and Private Pension Programs: A Report to the President on Private Employee Retirement Plans (GPO, 1965); Norman B. Ture, with Barbara A. Fields, The Future of Private Pension Plans (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1976).
+8 Interview with Wilbur J. Cohen, December 29, 1977.
+9 Social Security Amendments of 1967, Hearings before the Senate Committee on Finance, 90 Cong. 1 sess. (GPO, 1967), pt. 1, pp. 417 ff.; and President's Proposals for Revision in the Social Security System, Hearings before the House Committee on Ways and Means, 90 Cong. 1 sess. (GPO, 1967), pt. 1, p. 220.
+10 Memo, Joseph A. Califano to Gardner Ackley, "To Establish a Task Force on Income Maintenance," July 11, 1966 (Box 1, Legislative Background, Social Security Increases of 1967, Lyndon Baines Johnson Library, Austin, Texas )
+11 For a summary of these events, see Memo, James C. Gaither for the files "Social Security Increases of 1967," November 15, 1968 (ibid., LBJ Library). The administration's proposal appears in President's Proposals for Revision in the Social Security System, Hearings, pt. 1. Robert A. Levine's observation is from his essay. “How and Why the Experiment Came About," in Joseph A. Pechman and P. Michael Timpane, eds., Work Incentives and Income Guarantees: The New Jersey Negative Income Tax Experiment (Brookings Institution, 1975 ), p. 17.
+12 Robert M. Ball, "Remarks," SSA Vista, vol. 11 (January 12, 1968). Vista was an internal publication of SSA "to share management and program matters with supervisory and administrative staff."
+13 Social Security Amendments of 1967, H. Rept. 544, 90 Cong. 1 sess. (GPO, 1967), p. 23; Wilbur J. Cohen and Milton Friedman, Social Security: Universal or Selective? (Washington, D.C.: American Enterprise Institute for Public Policy Re-search, 1972), p. 86.
+14 Social Security Amendments of 1967, S. Rept. 744, 90 Cong. 1 sess. (GPO, 1967), pp. 7-8, 340.
+15 Social Security Amendments of 1967, H. Rept. 544, 90 Cong. 1 sess. (GPO, 1967), pp. 197-201.
+16 Kirk H. Porter and Donald B. Johnson, comps., National Party Platforms. 1840-1968 (University of Illinois Press, 1970), pp. 736-37, 754. 
+17 83 Stat. 737, 84 Stat. 407, and 86 Stat. 406.
+18 Older Americans Act Amendments of 1972, Hearings before the Subcommittee on Aging of the Senate Committee on Labor and Public Welfare, 92 Cong. 2 sess. (GPO, 1972), p. 235.
+19 Congressional Record (March 12, 1970), p. 7168.
+20 See chapter 13.
+21 The 1969 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Disability Insurance Trust Funds, H. Doc. 91-46, 91 Cong. 1 sess.(GPO, 1969).
+22 Business Week (October 18, 1969),pp.41-42.
+23 Byrnes's interest in this idea was at least ten years old. In debate on Social Security Act amendments in 1958, he told the House: "I am not so sure but what the committee and the Congress should give consideration to the advisability of a provision which would automatically make the basic benefit payments consistent with changes in cost of living or in general economic conditions; a provision in the nature of an escalator clause to be financed by a change in the wage base. Average wages constantly change as your general economy goes on an upward trend. In this way we might possibly avoid the problem which has presented itself during the last 3 election years; the idea that no Congress can adjourn before an election without at least making some changes in the Social Security Act. In my book, if we want to ruin the Social Security Act, [we can] start making it a political football to be used to try to garner votes in an election year." Congressional Record (July 31, 1958), p. 15746.
+24 Reports of the 1971 Advisory Council on Social Security, H. Doc. 92-80, 92 Cong. 1 sess. (GPO, 1971), pp. 79-80; Memo, Richard P. Nathan to Director, "Social Security Cost of Living Escalator," March 17, 1970 (File BRD/FAB [FY 1970-1971] Income Security: Social Security System, Office of Management and Budget, Washington, D.C.). According to this memorandum, those presidential advisers who supported indexing did so "essentially on political grounds in light of Congressman Johnny Byrnes' strong interest in this principle."
+Lyndon Johnson's economic advisers had also recommended against indexing when Republican members of Congress had proposed it during his administration. Johnson's CEA judged it to be bad economics, and his budget director, Charles L. Schultze, feared that Congress would continue to pile ad hoc increases on top of the automatic ones, with the result that much too large a share of the country's resources would be committed to the elderly. Memo, Joseph A. Califano to the Presi-dent, July 18, 1967 (Box 164, Executive, Legislation/Welfare 6, White House Central File, Lyndon Baines Johnson Library, Austin, Texas )
+25 Memo, Wilbur J. Cohen to Marvin Watson, July 18, 1968, in ibid.; Ball, “Policy Issues in Social Security,” pp. 6-7; and testimony of the AFL-CIO in Social Security and Welfare Proposals, Hearings before the House Committee on Ways and Means, 91 Cong. 1 sess. (GPO, 1969), pt. 4, p. 1179.
+26 Charles C. Killingsworth and Gertrude Schroeder, "Long-Range Cost Esti mates for Old-Age Insurance," Quarterly Journal of Economics, vol. 65 (May 1951) pp. 199-213.
+27 Joseph A. Pechman, Henry J. Aaron, and Michael K. Taussig, Social Security: Perspectives for Reform (Brookings Institution, 1968), pp. 153-61. See also Nancy H. Teeters, "The Payroll Tax and Social-Security Finance," in Richard A. Musgrave, ed., Broad-Based Taxes: New Options and Sources (Johns Hopkins University Press, 1973), pp. 87-112.
+28 The council's last meeting was in January 1971. David sent a draft of the recommendations to Kermit Gordon, who was chairman of the council's subcommittee on cost estimates, in March. He wrote:
+Here is the financing section of the report of the Advisory Council on Social Security. Bob [Ball] and I hope that you can give us your reactions before we send the draft to the rest of the Council.
+We have rewritten the section a number of times . : . we think it's time that you had a chance to comment, and we would much appreciate whatever reactions you can give us.
+Bob is anxious to get the report out--partly because people like Wilbur Mills will be asking where it is, and partly because the Council's recommendations on financing would have great interest for the Ways and Means Committee, and should by all means be in the public domain before the Committee goes ahead with its work on social security legislation.
+We'll be happy to hear from you--or perhaps I should say we'll be happy to hear from you if your comments are not too devastating. (Alvin M. David to Kermit Gordon, March 14, 1971 [Kermit Gordon papers, folder "Advisory Council on Social Security, May 1969-1971," Box 21, John F. Kennedy Library Waltham, Mass.]; I am grateful to Molly Gordon for granting permission to use her late husband's papers. )
+Upon reading this, Ball commented: "The policy decisions had been made before and what was at issue was how to write up in actual report form something that had been agreed upon. There's nothing unusual about the staff taking on such a task and clearing it with the chairman of the subcommittee before final submission to all the council members. It was not necessary that they meet again, but it was approved by them." Ball transcript.
+29 The Budget Bureau's position is detailed in File BRD/FAB (FY 1970-1971) Income Security: Social Security System, Office of Management and Budget, Washington, D.C.
+30 Reports of the 1971 Advisory Council on Social Security, H. Doc. 92-80, pp. 0-103.
+31 Interview with Nancy H. Teeters, May 20, 1977. Documents in the Gordon papers illustrate Ball’s active role in managing and staffing the advisory council’s work. In mid-March 1970, he wrote to Gordon asking him to serve as chairman of the financial subcommittee, telling him that a formal request from Council Chairman Flemming would follow soon and proposing to meet with Gordon to discuss a charge to the subcommittee “after I have had a chance to work something up.” Ten days later, Ball sent a draft and proposed that he and Gordon review it before Ball suggested to Chairman Flemming that it be sent to subcommittee members along with a letter asking them to serve. ( Kermit Gordon Papers, Folder, “Social Security Sub committee on Cost Estimates and Financial Policy,” Box 23, John F. Kennedy Library, Waltham, Mass. 
+32 In presenting the Nixon administration’s indexing proposal to Congress in 1969, Myers took the position that the automatically rising benefits could be financed with an automatically rising wage base. As long as taxable earnings increased at least as fast as consumer prices, the new automatic features would be “self-financing.” Other proposed changes he continued to evaluate with the use of the level earnings assumption. This meant that some features of the program would be estimated using dynamic assumptions and others using static assumptions. It was an awkward, untenable position. Neither Byrnes nor Myers foresaw that their initiative in support of indexing would culminate in a revision of the level earnings assumption and as a corollary, an extraordinary benefit increase. Neither, of course, foresaw that Myers would leave office in 1970. Eventually Myers would concede that static assumptions were inconsistent with an indexed formula, but if he had remained in office as chief actuary and accepted the use of the dynamic earnings assumption, he might have mitigated its effects with conservative "corrections" at other points. See Myers's article in the Wall Street Journal, July 28, 1972, in which he argued that social security policymakers seemed oblivious to the "hidden hazard" of declining birthrates. If Myers had been making the actuarial assumptions in 1972, it is unlikely that they would have justified a 20 percent benefit increase.
+33 Trowbridge concluded that the advisory council wished to switch to dynamic assumptions even if indexing were not adopted, and he objected strongly to that. For his interpretation of the change in assumptions, see Trowbridge, "Social Security Amendments---1969-72," Transactions of the Society of Actuaries, vol. 25 (March 1974), pp. 642-45.
+34 In a brief exchange with Myers before the Society of Actuaries in the fall of 1971, Siegfried suggested that Myers erred in attaching so much significance to the level earnings assumption. "I believe the key decisions have not been and will not be affected in any vital degree by variations in actuarial methods," he said. (Letter. Charles A. Siegfried to author, May 11, 1978, and enclosure.) Siegfried may have been right in discounting the importance of the level earnings assumption. It is not unreasonable to suppose that the system would have been no different had dynamic assumptions always been used, and that Myers exaggerated the utility of static assumptions as a device of fiscal restraint. However, in retrospect there is no way to deny that the change to dynamic assumptions in 1971-72 made possible an exceptionally large benefit increase that otherwise could not have been defended technicaly.
+35 “Minutes of the Meeting of the Boards of Trustees” (Washington, D.C.: December 15, 1971 ); and 1972 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Disability Insurance Trust Funds, H. Doc. 92-307, 92 Cong. 2 sess. (GPO, 1972). 
+36 Despite the easy acquiescence of the board at this meeting, officials of the SSA recall that there was opposition inside the administration to the changed financial assumptions of 1972 and that it delayed publication of the trustees’ report by two months. The objections came from OMB Director George P. Shultz. They appear not to have been directed against the conversion to dynamic assumptions, which the OMB analysts of social security strongly favored, but rather against another financial change pending at this time —adoption of a policy of “current-cost financing” under which annual revenues would be planned to match annual expenditures while for contingency purposes the trust fund balance would be maintained at a level approximately equal to one year’s expenditures. This, too, had formed part of the advisory council recommendations. According to an analysis prepared at the time within HEW, the opposition actually originated with one of Shultz’s colleagues, Arthur B. Laffer, who had made two arguments: that current-cost financing would restrict OMB’s ability to use trust fund surpluses and deficits as a fiscal policy weapon, and that the trust fund should accumulate large surpluses in order to reduce the volume of public debt instruments in private hands, with the object of stimulating private saving. For Laffer’s views on social security, see Arthur B. Laffer and R. David Ranson, “Some Economic Consequences of the U.S. Social Security System,” in National Tax Association —Tax Institute of America, 1973 Proceedings of the Sixty-sixth Annual Conference on Taxation (Columbus, Ohio: NTA-TIA, 1974), pp. 211-31. The work of Martin Feldstein also argues for a large trust fund accumulation so as to increase private savings. See, among others, "Toward a Reform of Social Security," The Public Interest, vol. 10 (Summer 1975), pp. 75-95; "Facing the Social Security Crisis," The Public Interest, vol. 12 (Spring 1977), pp. 88-100;"The Social Security Fund and National Capital Accumulation," in Funding Pensions: Issues and Implications for Financial Markets (Federal Reserve Bank of Bos-ton, 1976), pp. 32-64.
+37 Report of the 1971 Advisory Council on Social Security, H. Doc. 92-80, p. 66.
+38 Congressional Record (February 23, 1972), pp. 5269-72.
+39 "Remarks of Wilbur D. Mills before the Model Luncheon Meeting of Arkan-sas-Missouri District Kiwanis Convention," Little Rock, Ark., September 28, 1964, in Congressional Record (October 3, 1964), pp. 24014-16.
+40 Whereas at the time it seemed that a desire for the presidency had changed Mills's behavior, later it seemed possible that the man himself had changed. Mills resigned his chairmanship in 1974 and confessed to having become an alcoholic. He left Congress in 1976. Later, in an interview with a Washington Post reporter(January 4, 1978), he said that his heavy drinking began in 1969 and had increased by 1973, and was accompanied by the use of pills to alleviate the pain of a ruptured spina! disc. It is, of course, impossible to know whether or in what way alcohol and painkillers affected Mills's political behavior.
+41 "Special Message to the Congress on Older Americans," March 23, 1972, in Public Papers of the Presidents of the United States: Richard Nixon, 1972 (GPO) 1974), pp. 461-84. The administration's earlier indecision was manifest in hearings before the Finance Committee in late February. Chairman Russell B. Long pressed administration witnesses for assurance that the President was not planning to sponsor an extraordinary increase himself. Senate Democrats obviously suspected him of it. Neither HEW Secretary Elliot Richardson, Budget Director George Shultz, nor Secretary of the Treasury John B. Connally could provide any such assurance. Genuinely undecided as to its own proposal, the Nixon administration appeared to be keeping its options open. Long evoked the politics of the situation:
+If not only my party but the Republican Party as well is going to leave me be. tween now and November, I would like to know about it. . .
+I am being told from all sources and that is why I want to get it from as near the horse's mouth as I can that one reason Chairman Mills came out and advocated this is that the President is likely to advocate it any day. If there is going to be a parade, I think I would rather be at the front of the parade rather than the tail end. ($450 Billion Debt Limit, Hearing before the Senate Committee on Finance, 92 Cong. 2 sess. (GPO, 1972], pp. 61-62.)
+42 Under existing law in the spring of 1972, the OASDHI tax rate was 5.2 per-cent each for employer and employee and was scheduled to rise in steps to a maxi-mum of 6.o5 percent in 1g87. Under H.R.1 as approved by the Ways and Means Committee, it would have risen in larger steps and reached a maximum of 7.4 per-cent in 1987. Under the administration proposal that followed from the changed financial assumptions, the scheduled step increases in H.R.1 were scaled down so that the rate for 1987 would have been 6.4 percent, which was still higher than in existing law even if lower than in H.R.1. Note that the Nixon administration pro-posed only future reductions in tax rates, not current ones. The administration proposals were contained in letters to the chairmen of the Ways and Means and Finance committees on May 23, 1972.
+43 I have been unable to establish what HEW’s precise position was or whether it had one. It is clear that there was considerable sympathy for the 20 percent in crease among Secretary Richardson’s immediate staff. Early in March, the assistant secretary for planning and evaluation, Laurence E. Lynn, Jr., sent Richardson a memorandum that virtually endorsed Mills’s proposal. It cited a substantial increase in social security benefit levels as one of the goals that the department should pursue after welfare reform, embodied in H.R.1, had passed, and strongly implied that it might be a good idea to accept it right away. None of the several sources I inter viewed, including Richardson himself, could recall what position the department took, but I infer that it did not argue inside the administration for the 20 percent cash benefit increase if only because the President’s immediate advisers in the White House and OMB obviously would accept no such thing. After Congress passed the 20 percent increase, Richardson recommended to the President that he sign it. So, with some reservations, did the OMB. 
+44 Natalie Davis Spingarn, “Congress Debates Application of Billions in Social Security Funds,” National Journal, vol. 4 (April 29, 1972), p. 733.
+45 New York Times, February 10, 1972.
+46 Congressional Record (February 7, 1972), pp. 2785-91. 
+47 Ibid. (May 10, 1972), pp. 16573-74.
+48 Ibid. (June 30, 1972), pp. 23512, 23738-39. According to a congressional source, Mills did raise an objection in private conversation with Church but when Church replied that if he did not attach the 20 percent increase to the debt ceiling bill some other member of the Senate would, Mills relented.
+49 Ibid., pp. 23511, 23738.
+50 Congressional Record (June 30, 1972), p. 23733.
+51 Ibid, p. 23734
+52 Ibid., pp. 23732-33
+53 Ibid., p. 23731.
+
+## 第十八章 争议的条件：总结性分析
+
+对美国政府中政治与政策制定（policymaking）的一种解释将其描绘为一场激烈的较量 。某个或某些行为体试图达成某种目的，其利益受到威胁的各方则动员起来予以反对，并且双方都在四处招募盟友 。斗争随之爆发；政治是令人兴奋的、易于参与的，并且充满竞争性 。几乎任何行为体做出的任何重大举措，都可以预见会刺激各种其他行为体参与其中 。
+
+然而，政治分析文献中也包含了截然不同的图景 。另一种被广泛接受的解释描绘了小型的“子系统（subsystems）”或“铁三角（iron triangles）”，在这些系统中，专门化官僚机构的领导人、专门化的国会委员会以及客户群体相互协作，为他们拥有共同利益的某个政府活动领域制定政策 。当外部人员——即通才或属于其他专门化子系统的成员——试图介入“他们”的事务时，这些子系统的成员便会与之发生冲突 。第一部分描绘了这样一个针对社会保障（social security）的子系统，它由社会保障署（Social Security Administration）的领导层、众议院筹款委员会（Ways and Means Committee）以及（在较小程度上）参议院财务委员会（Finance Committee）的领导层、有组织劳工中的社会保障专家，以及咨询委员会（advisory councils）的主要成员构成——这虽然算不上一个规整的三角形，但依然是一个极度受限且稳定的行为体集合，拥有高度的自主性以及发展成熟的用于指导其决策的学说 。
+
+第二部分通过描述该子系统（为简便起见，此处我称之为“系统”）未能以此种方式运作的政策制定案例，使这一图景变得复杂化 。第一部分指出，项目的高层管理人员通常通过试图避免冲突并最小化行动成本来践行政治，而且这种模式与将“对专家的遵从（deference to specialists）”视为规范的制度环境完全契合 。然而，即使在这样一个系统中，政治企业家（political entrepreneurs）也总是冒着挑起事端的风险 。他们可能会误判他人的反应，因为很难知晓每个潜在政治行为体的无差异阈值（threshold of indifference）在哪里，并且在不同的时间，该阈值可能处于不同位置 。或者，这些行为体可能极其致力于实现他们的目标，以至于他们愿意接受冲突 。他们明知会激起强烈的反弹而依然着手行动，并已准备好为实现其所求而付出代价 。
+
+作为对第三部分所描述的所有三个议题的回应，国会的某个或两个委员会内部出现了尖锐的裂痕 ；在工商界与劳工界的组织代表之间也出现了裂痕；在两个主要政党之间同样如此，尽管这种分歧从未完全按照党派界线划分 。这些裂痕一直持续到国会进行最终投票时：参议院勉强通过了残疾保险（disability insurance）法案 ；众议院仅以四十五票的微弱优势否决了伯恩斯（Byrnes）针对医疗保险（medicare）提出的替代方案 ；许多国会共和党人（尽管不是多数）追随政府，倾向于只批准1972年颁布的福利增幅的一半 。即使在项目所有者（program proprietors）的核心圈内部，分歧也取代了共识，而且在每一个议题上，他们都不得不与“外部人员”（即那些被卷入争斗但不以该项目为导向的人员）进行讨价还价 。这种内部迟裂与外部扩张的复合过程，在议题持续期间增加了政策制定的复杂性 。
+
+本章余下部分将探讨冲突发展的原因，并对冲突的应对方式进行分析 。本书开篇时曾提出这样一个问题：为什么围绕社会保障项目会如此缺乏争议？但事后看来，这个问题需要进一步细化，我们需要探究争议的激烈程度是如何变化以及为何变化的 。当把第三部分讨论的案例与第二部分描述的事件——即1935年围绕养老保险立法的冲突、围绕政府提议出售个人年金的冲突、围绕试图豁免拥有自身养老金计划的企业雇主的克拉克修正案（Clark amendment）的冲突，以及随后关于工资基数规模的争议——进行对比时，一个清晰的模式便显现出来了 。边界议题（boundary issues）涉及扩大公共部门的范围，它所引发的冲突远远多于涉及公共活动成本与收益分配的分配议题（distributive issues） 。或许美国政治文化或意识形态中的某种特质可以解释这一点 。
+
+人们会为了他们认为重要的事情而斗争，而就整体而言，对于美国人来说，如何划分公共领域与私人领域似乎比如何分配公共事务的成本与收益更为重要 。社会阶级作为分配的首要范畴，在美国政治中的相关性低于大多数其他西方国家 。在关于社会保障的讨论中，政治领导人一直避免完全触及这个话题 。也许政治家们是真的没有意识到阶级分化，因此也没有构建出一套用于讨论它的词汇 。但更有可能的是，他们倾向于将该话题视为禁忌，担心谈论这些问题会加剧社会中潜在的分化，破坏社会保障项目在民众心目中的神话，从而增加他们自身制定政策的难度 。然而，尽管政治修辞淡化了社会保障中的分配议题，它却夸大了公私边界议题 。哪怕是对私人医疗行业利益最轻微的威胁，也会唤起“社会化医疗（socialized medicine）”的幽灵 。
+
+另一种可能性是，边界议题之所以更具分裂性，是因为它们以分配议题所没有的方式卷入了有组织的利益群体 。受社会保障分配影响的群体是如此庞大且边界模糊，以至于他们缺乏自我意识并且难以被轻易组织起来 。他们是具有包容性的人口类别——如作为退休工人对立面的在职工人、作为低收入纳税人对立面的高收入纳税人、作为系统参与者的对立面的非参与者 。换种说法，由于社会保障的成本和收益极其分散，即使以受影响人数或支出规模来衡量赌注很大，它们也仅仅引发了低水平的冲突 。边界议题使大型正式组织相互对立——一方是与有组织劳工结盟的社会保障署，另一方是碰巧对此毫无斗志的商业联合会和保险公司，以及对此斗志昂扬的美国医学会（AMA） 。正式组织拥有目标感并能调配资源，它们为政治角逐注入了活力和烈度，进而很可能会动员起更庞大的全国性受众 。组织政治可以刺激党派与选举政治，这在医疗保险议题上已经发生，而在残疾保险议题上则在小得多的范围内发生过 。
+
+对于边界政治相对激烈的第三种解释是，公共部门的扩张通常意味着增税，而增税会自动引发抵制 。国会不喜欢增税，如果想要批准新的公共活动并颁布相应的税收来支付费用，就必须对国会施加压力 。这种压力引发了来自反对利益团体的反向压力，政治较量便由此展开 。与税收负担发生（而非增加）相关的分配性措施，并不具备同样触发自动回应的能力 。最后，纯粹从战术角度来看，边界议题比分配议题更难掩饰 。无论它们是否被认为更重要，它们通常更为可见，这使得它们更具争议性 。该项目的分配属性被宣传手段、隐性的政治妥协以及令人费解的专业技术细节彻底遮蔽了，以至于实际上几乎免受挑战或争议 。相比之下，对该项目的重大扩张则难以掩饰得多 。总是存在某些不愿跨过创新门槛的利益和舆论部门，必须对他们进行劝诱或强制，才能完成跨越 。
+
+在对社会保障政策制定的分析中，追问为什么边界问题相对更具分裂性，其重要性不如追问这些分歧对政策制定的方式产生了何种后果 。在残疾和健康保险（医疗保险）案例中，冲突导致了旷日持久的鼓动和辩论、对项目高管所青睐方案之外的其他替代方案的考量、公共援助项目的初步采用、项目高管及其利益集团和党派盟友为扩张保险项目而进行的持续鼓动、为减少反对而对项目高管提案的反复妥协，并最终导致了一项妥协颇多的法案获得通过——该法案保障了保险项目的扩张，但要么以削减和限制（残疾案例）的形式向反对者做出让步，要么包含了一个与保险原则不一致的重大特征 （医疗保险的B部分）。项目主导者的核心圈保留了解决冲突并起草令人满意法案的责任 。
+
+然而，第三个扩张案例——其中20%的福利增长是核心事件——与前两个案例截然不同 。在这里，没有出现鼓动和辩论，实际上根本没有对其他替代方案（最明显的替代方案将是自由化措施的混合组合，或者自由化与减税相结合）进行公众考量，也没有寻求妥协 。参与范围极其狭窄。筹款委员会作为一个整体，没有采取任何行动 。其主席带头行动，表现出不同寻常的对委员会内部共识的漠视 。在参议院，采取行动的不是财务委员会，而是老龄问题特别委员会（Special Committee on Aging）的主席 。在这个案例中，系统并没有成功适应冲突；它彻底瓦解了 。
+
+政府对私人部门的入侵是否会引起强烈反应，在很大程度上取决于边界的防御者是谁；也就是说，取决于私人行为体是否感到受到入侵的威胁，以及他们是否有意愿或能力来捍卫自身 。当高度政治化的医疗行业作为防御者时，正如在残疾和健康保险案例中那样，边界跨越遭遇了激烈的抵抗，但是医生们对1972年的大幅福利增加毫无兴趣，而如果保险公司或其他私人投资管理者在其中有利益攸关之处，他们也未能察觉并动员起来做出回应 。当然，私人行为体的认知至关重要，而在1972年，这种认知可能被即将发生之变革的性质所蒙蔽 。这项变革在咨询委员会报告发布后匆忙展开，当时是否真的正在跨越一条“边界”本身就是一个有争议的问题 。在福利水平的变动完成之后，罗伯特·鲍尔（Robert Ball）将把它以及随之而来的指数化福利转变视为一个全新的社会保障项目，但在其尚未落地之时，它并没有被描绘成这样 。证明重大的公私边界越界正在发生的举证责任落在了反对派身上，但因为大幅的福利增加并没有增加一种全新的覆盖类型，而事实上只是在一个已经确立完善的项目基础上的增量，所以证明这一点非常困难 。只有在事后看来，这个增量才大到在程度上等同于性质改变的地步 。相比之下，残疾和健康保险的门槛特征是不言自明的 。尽管项目高管削减了他们的提案，并用旨在将其创新性质最小化的名称来称呼它们，但反对者从未低估这些赌注，也从未在辩论中忽略强调这一点 。1972年潜在反对者所面临的举证负担大大增加了——实际上变得不可能——因为这次增长是在没有提高税率的异常情况下实现的 。这种荒谬的零成本特征，为该议题未能引发更大争议提供了最终也是最根本的解释 。
+
+1969年极其巨大的增幅之所以不费分文，是因为（先前）使用固定工资假设（level earnings assumption），结合繁荣的经济，产生了一笔巨大的精算红利（actuarial windfall），而1972年更大、更为异常的增长之所以可能，是因为放弃固定工资假设又创造了一笔甚至更大的意外之财 。尽管残疾和健康保险最终都远比最初估算的昂贵得多，但两者都无法被包装成零成本的方案 。理论上，残疾保险只需额外征收0.5%的税，而医疗保险在理论上最初需征收0.35%的税，最终也仅需征收0.8%的税，但即使在这样温和的税率下，抵抗依然强烈，争论依然激烈，投票结果依然非常接近 。只有当政策制定者能够通过技术手段假装该项目可以在不增加成本的情况下进行扩张时，才能成功避免一场旷日持久的争斗 。
+
+鉴于参与范围极度狭窄且未能考虑除项目扩张之外的其他替代方案，人们很容易将1972年20%的福利增长解释为具有内生惰性扩张（inertial expansion）倾向的受限型、基于所有者的政策制定的极端操作案例，但事实是，一些主要所有者在事件的浪潮中被推开了，这其中包括众议院筹款委员会的大部分成员和整个参议院财务委员会 。在残疾和健康保险的案例中，受限的、以项目为导向的政策制定系统表现出了持久性和适应性，接纳了新的参与者并考量了非正统的（即非保险性质的）替代方案，最终在漫长的辩论、讨价还价和联盟建立（其中以项目为导向的行为体起带头作用）之后达成了妥协 。但在1972年并没有发生这种功能性适应，当时的政策制定变得草率而混乱 。考虑到长期以来对专家的依赖，社会保障对这类事件高度脆弱 。社会保障那晦涩难懂的技术性，给了普通人悬置常识的借口 。然而，将这种失误完全归咎于“系统”将忽略一个事实，即该系统正是在这个具有特殊分裂性的议题的冲击下瓦解的 。
+
+在一条边界被打破之后，政治争斗有望平息 。国家可能会在门槛处停顿很长时间 。它在医疗保险的门槛处徘徊了十到二十年 。正是在这个阶段，政治动员发生了，但一旦跨过门槛，该议题就失去了其大部分动员力量 。反对声浪消退；这也许是因为，如果是受意识形态驱动的反对者，他们在挫败后感到泄气，进而要么减少政治活动，要么去寻找其他尚未被打破的边界进行防御 。或者，如果是受利益驱动，那可能是因为在政治较量过程中，他们赢得了保护性的让步 。至少在短期内，残疾保险和医疗保险都没有损害医疗行业的利益 。（政府）为了保护他们做出了广泛的让步；最后，这可能是因为美国政治文化中的实用主义精神鼓励各方愿意接受既成事实，并努力使其“行之有效” 。这种精神在社会保障署的领导层中表现得淋漓尽致，他们在取得胜利后，急忙让战败的敌方代表加入咨询委员会，并让他们参与行政规则的制定 。
+
+无论原因是什么，受限的社会保障政策制定模式有重新占据主导的强烈趋势 。冲突平息，参与面收缩，随着一小群官方和半官方的项目所有者重新控制局面，项目的渐进式扩张重新开始 。这在残疾保险中明确地表现为这种模式，而在医疗保险中则不那么明显 。两者之间的差异似乎主要可以由成本方面的不同经历来解释 。在残疾保险中，成本长期处于低位，其扩张可以在最初制定的税率内实现，或只需小幅增税 。而在医疗保险中，成本立即超过了预定税率，这提高了法案颁发后政治斗争的烈度，扩大了其范围，并对惰性扩张踩下了刹车 。在1972年大幅度增加福利的案例中，直到变更颁布并暴露出高昂成本之后，这种变更的门槛特征才充分显现出来 。在这个案例中，争议更多是在事后产生，而不是在跨越门槛的过程中产生 。当代社会保障的政治就蕴藏在那次变革的余波之中 。
+
+为了理解政策制定的政治并评估政治系统变革的能力，必须对随时间推移发生的变化保持警觉 。仅仅关注那些引发争议的、创新性的行为——分析家们往往倾向于这样做，因为这些事件最引人注目——会有低估政策制定活力的风险 。像跨越公私边界这样的重大创新，在美国政治中是很难实现的 。它的到来伴随着漫长的等待，并且充斥着众多妥协 。关注这类现象的分析家们看到的是经典的压力集团政治（pressure group politics）：有组织的势力被动员起来对抗有组织的反作用力，并且最终各方都能得到某种程度的满足 。因此，这些分析家普遍得出的结论是，“渐进式的（incremental）”（即微小的）改变是其必然结果 。
+
+但如果在一段长时期内研究整个过程，就会发现另一种类型的事件：少数专门的专家在他人听从的情况下达成协议，从而采取的一小步一小步的措施；单就这些举措本身而言，不足以让潜在的反对方去冒政治行动的代价和麻烦 ；毕竟，并不是每个人都能为了所有可能的议题一直保持动员状态 。这些步骤只是对已经达成共识的法定基础的单纯增量，这种共识很可能是在参与者消耗了大量精力和政治资源进行激烈冲突之后才达成的 。然而，将它们汇总起来，它们就构成了重要的内容；如果分析家们去审视微小增量背后的政治，他们就会在这些增量的积聚中看到重大的变革——甚至是根本性的变革，即便这不一定体现在社会群体间利益分配的层面，至少也体现在公共部门与私人部门之间的活动界分层面 。
+
+如果这种对政策制定的描绘是正确的，那么舆论浪潮或政党命运的起伏就不像有时被渲染的那样重要了 。在社会保障的政策制定中，扩张政治并没有随着党派政权的更迭或大众情绪的变动而起落 。在与有组织劳工和自由派民主党人直接或间接合作的该项目行政领导层的倡议下，一项重大的扩张议题总是被列在议程上，并正在（尽管可能是缓慢地）走向立法 。但是，政策制定的政治不仅限于解决这些在项目发展前沿的“主导性（leading）”问题 。即使新的突破即将发生，此前的突破也正在以协商一致的方式得到巩固和扩大 。并且，每当新的突破最终实现时，它便扩大了建立未来增量的基础 。
+
+这最后一点非常重要，因为它重申了渐进式变革所具有的激进潜力 。政治体系之所以表现出改变能力十分有限的原因之一，在于其管理冲突的能力有限 。正是基于对这一事实的认识，项目高管极为谨慎地调控创新的议程 。他们从经验中吸取教训，避免让多项重大创新同时处于悬而未决的状态 。然而，一旦跨越了创新的门槛，并就新的政府活动原则达成一致，反复进行小幅度扩张的可能性几乎是无穷无尽的 。渐进政治的潜力随着政府的增长而增强；与始终充满艰难险阻的创新政治相比，微小的渐进扩张最终会变得广泛而常态化 。
+
+创新伴随多少冲突，以及通过渐进性举措能够实现多大程度的改变，很大程度上取决于为其制定政策的特定项目的属性；残疾保险、健康保险以及1972年的大幅福利增加都相对较容易地获得通过，因为它们被包装成对一个极其受欢迎项目的附加部分而被推进 。在社会保障领域，创新政治与渐进主义政治难以区分地交融在一起，且两者都深受该项目根本上的受欢迎程度以及政策制定系统通常受限且以项目为导向的特性所影响 。很难从第三部分的复杂案例中得出确切的结论，究竟是政策制定体系还是该项目的本质对政治面貌产生了更为深远的影响 。两者都很重要，并且相互作用，彼此影响，同时也影响着对特定问题的考量 。它们也在发生变化；项目的增加改变了其性质并增加了其成本，而这些变化反过来又影响了政策制定系统 。医疗保险提供了最好的例证；成本极度的不可预测性和波动性具有破坏性，因为之前的政策制定建立在成本能够被准确预测且增长缓慢的假设之上 。固定工资假设的不适用同样具有破坏性，并导致了1972年的严重混乱 。
+
+第四部分将转向讨论社会保障项目的当代政治，并探讨其新出现的高昂且急剧上升的成本可能如何影响政治与政策制定。
+
+引用
+1 Both of these interpretations may be regarded as "pluralistic" in that they depict a dispersion of power. Elitist interpretations of American politics and policy-making, which argue that the power of a few persons is pervasively dominant, have been rare.
+2 I would also classify the intense dispute in the late 193os over the plan of  finance as primarily a boundary issue. The essence of the Republican attack was that the accumulation of a large reserve entailed an unwarranted expansion of the public sector. The incidence of taxation was not the issue (see chapter ii). It may be argued that boundary issues if analyzed in depth would turn out to consist largely of distributive elements. The conservative objection to extension of the public sector may plausibly be presumed to arise out of fear that public action will result in re-distribution of wealth. I am, however, content at this point to deal only with what is manifest, and the manifest politics of boundary issues is much more intense than the manifest politics of distributive issues.
+
+# **第四部分：日益加剧的冲突**
+
+## **第十九章：赤字**
+
+1972年之后，社会保障的核心议题发生了变化。在议题转变的冲击下，政策制定将在多大程度上随之发生改变，仍是一个悬而未决的问题。
+
+多年来，针对老年人的基本现金福利项目一直未受争议。关于成本与福利分配的基本选择被视为一劳永逸、不可动摇的定局。在这一固定框架内，临时性的福利增加法案得以例行公事般地通过。该系统的政治博弈源于重大扩张提案——先是残疾保险，随后是医疗保险（Medicare）。最终，在医疗保险法案通过后，基础项目的进一步大规模扩张拉开了帷幕。一直以来，重大扩张项目始终主导着决策者的议程，而这些项目通常是由项目执行官主动提出的。
+
+1972年以后，社会保障政策的首要议题变成了如何为不断增长的赤字融资。从1973年起，关于该系统财务状况的官方年度报告预测其将出现长期（七十五年）赤字；并且随着20世纪70年代的推移，这些长期预测变得愈发悲观。1973年，赤字被估计为应税工资总额（taxable payroll）的0.32%，即系统长期成本的3%；而到了1977年，这一估计值飙升至应税工资总额的8.2%。[1]根据这些估计，21世纪的税率将不能维持在原定的11%至12%，而是必须达到20%或更高。
+
+从1975年开始，这些报告同样预测了短期赤字的出现。在1973年接替罗伯特·鲍尔（Robert Ball）出任社会保障署（SSA）署长的詹姆斯·B·卡德韦尔（James B. Cardwell）——当时尼克松总统决定在其第二任期内清洗那些他不信任的高级官员——作证称，预计未来每一年的支出都将超过收入；如果不提供额外收入，信托基金（trust funds）将在20世纪80年代初耗尽。[2]事态发展迅速印证了这些预测。1975年支出超过收入15亿美元，1976年则超过32亿美元。随着新闻报道的激增，对该系统面临“破产”威胁的焦虑情绪开始蔓延。该项目的前任领导人们——以威尔伯·科恩（Wilbur Cohen）和鲍尔为首的离任卫生、教育及福利部（HEW）部长和社会保障署署长——试图通过保证社会保障体系的稳健性与持久性来平息恐慌，但不可回避的事实是，系统确实需要进一步的融资。[3]
+
+无论这种恐慌是否合理，赤字是真实存在的，也是出乎意料的。1972年，当威尔伯·米尔斯（Wilbur Mills）在众议院为增加20%的福利进行辩护时，他曾说道：“我想明确指出，这项立法的融资是建立在保守基础上的。”“如果我们颁布20%的增长，并辅以我法案中的税收调整……我可以向本院议员保证，我们（在未来七十五年内）每年的收入将超过支出。”[4] 1973年离任前夕，鲍尔署长还向参议院某委员会保证，税率在进入下个世纪的很长一段时间内都将是充足的。“对此我很有信心，”他说道，并补充称精算估计中存在相当大的安全边际，如果官方预测有误差的话，那也是偏向保守的误差。[5]四年后，国会颁布了增税法案，预计将在未来十年内额外筹集2270亿美元。
+
+该系统的财务困境暴露了决策者视野的局限性。长期以来，社会保障政策的制定仿佛建立在决策者能够预知未来的假设之上。赤字的出现之所以令人不安，不仅是因为它需要采取痛苦的应对措施，更因为它迫使人们哪怕只是微弱地认识到一个同样痛苦的事实：政策制定中高度的不确定性是不可避免的。[6]
+
+### **意外的根源** 
+
+三个因素——迅速上升的残疾索赔、不断下降的生育率以及经济的不利变化——导致了该项目突然、意外地出现赤字。高于预期的残疾发生率并非新现象。正如众议院筹款委员会（Ways and Means Committee）1974年的一份工作人员报告所指出的，在过去十年中，该项目的残疾保险部分已经出现了长期赤字。五年内，残疾保险成本的估计值几乎翻了一番。社会保障署一直在研究其原因，但未能得出结论。面对持续恶化的实际情况，精算师们不断修正他们的估计。这一因素比其他任何单一因素都更能解释1973年报告的长期赤字，同时也促成了后来更大规模赤字的出现。
+
+1972年，即罗伯特·迈尔斯（Robert Myers）卸任首席精算师两年后，他在一篇报纸文章中对出生率下降发出了警告。[7]下个世纪工作者与退休人员的比例将低于预期。迈尔斯认为，在颁布20%的福利增长法案之前，本应将这一“隐藏风险”（hidden hazard）考虑在内。他指出，官方未能采用当前的生育率数据，导致该系统的长期成本显得被人为压低了。两年后，精算师办公室利用1970年人口普查新公布的数据，最终修正了其人口学假设，结果预测该系统将出现极其庞大的长期赤字。然而，出生率下降在短期内并未产生影响。
+
+导致赤字的第三个原因——经济状况的变化——兼具短期和长期影响。1974年，国家经历了异常且出乎意料的通货膨胀飙升，并伴随着高失业率（即滞胀现象）。应对通胀导致社会保障支出上升，而失业则使得税收收入低于预期。这种对系统的冲击是直接的，且绝不仅是暂时的。意外产生的福利支付义务必须在未来很长一段时间内履行；而意外流失的收入则永远无法挽回。部分是为了应对这一前所未有的新情况，社会保障署官员修正了其财务预测所依据的经济假设。1972年，他们假设平均收入每年将增长5%，消费者物价指数（CPI）每年将上涨2.75%；而到了1976年，他们的假设变为平均收入增长5.75%，CPI上涨4%。[8]因此，他们目前假设实际收入年增长率仅为1.75%，而1972年的假设为2.25%。
+
+当然，长期赤字的严重程度仍存变数。过去的预测曾出现过误差；它们可能再次出错。意外下降的生育率可能会意外反弹。通货膨胀可能会平息，生产率也可能提高。但至少在纸面上，长期赤字已高得令人心惊，而当前的赤字已成为无可否认的事实。 决策者必须决定采取何种措施。
+
+### **应对措施的制约因素** 
+
+在20世纪70年代，应对该项目意外出现的赤字，要比十年前或二十年前困难得多。
+
+自动增长机制（Automatic increases）。原因之一是新的福利公式从1975年起将福利增长与生活成本自动挂钩。如果保留过去不定期、临时性调整的传统做法，国会原本会有更大的运作空间。具有讽刺意味的是，恰恰在经济变得动荡不定之时，国会却让该系统直接依附于经济的表现。
+
+缺乏安全边际（No safety margins）。系统缺乏适应性的第二个原因是，系统内置的容错边际在20世纪70年代初期现金福利大规模扩张的过程中已经被消耗殆尽。同样讽刺的是，抵御误差的防线恰好在发生重大误差之时被放弃了。长期工资水平稳定假设（level wage assumption）曾是防线之一。在过去，工资上涨带来的（技术上未预期的）回报可用于对系统进行调整，且调整幅度是根据收入实际收益及系统其他变化的规模量身定制的。 当采用动态假设后，这种可能性便不复存在了。
+
+另一重保护机制是使用狭窄的“可容许赤字边际”（allowable margin of deficiency）。该边际概念是在1958年该项目首次出现当期赤字时引入的。筹款委员会曾迅速提高税收，并宣布“应改善该系统的精算状况……从而将精算不足降低到实际上消除的程度，即低于工资总额的0.25%。”[9] 这一边际，加上为项目残疾保险部分额外设定的0.05%，成为了财政稳健的基准。1965年，当长期估计期从永久改为七十五年时，根据精算师的建议，可容许的边际被降低到了0.1%。十年来，筹款委员会忠实地遵守了这些规范，而参议院财政委员会（Finance Committee）也仅违反过一次；但在1970年，筹款委员会首次妥协，在委员会中共和党少数派的强烈反对下，批准了一项会使系统留下0.12%赤字的福利增长法案。[10]同年晚些时候，财政委员会认可了一次更大的突破；而在1973年秋季，两院委员会接受了超过工资总额0.5%的赤字，这是迄今为止被认为可接受水平的五倍。[11]
+
+最后，1972年采取的现收现付制（current-cost financing）彻底牺牲了容错空间。自20世纪50年代中期以来，国会的惯常做法是设定税率以产生社会保障信托基金每年小幅度的增长，并使其保持在显著超过年度支出的水平。在该项目实施的头几年，资金结余非常庞大，在50年代和60年代初有所减少，并随着60年代末的经济繁荣而再次回升。1971年的咨询委员会曾建议放弃工资水平稳定假设，同时也建议该项目的融资只需满足当前的成本，并将信托基金维持在大约等于一年支出的水平。这一变动有助于为1972年20%的福利增加提供资金，但在关键时刻进一步削弱了应对误差的缓冲能力。为了弥补这些损失，精算师于1972年在长期预测中引入了一个工资总额0.375%（3/8 of 1%）的明确安全边际，但这很快被随后的几年里激增的赤字吞噬了。[12]
+
+走向成熟的项目（A mature program）。回旋余地缩小的第三个原因是该系统正日益成熟。在过去，通过将覆盖范围扩大到此前未被覆盖的工人群体（如农民或自雇专业人士），捕获新的财政收入相对容易。而到了20世纪70年代，除联邦政府雇员和相当一部分（约30%）的州及地方政府雇员外，已不存在未被覆盖的主要职业群体；联邦雇员几十年来已经证明了他们有能力抵制被纳入该系统。
+
+提高税率是其中一种可能性。这在过去经常被采用，但也经常被有意回避，而且实施起来绝非易事。政治家们似乎认为，随着税率的提高，增税的难度也随之增加；1973年，雇主和雇员各5.85%的税率无疑已经非常显眼，且对许多纳税人而言构成了沉重的负担。此外，过去的增税通常会辅以同步的福利增加以作“甜头”，但当增税的主要目的是为了弥补赤字时，能够提供的“甜头”就相对微小了。另一方面，从决策者过去的实践来看，降低福利几乎是不可想象的；如果说在一个部分建立的项目中这几乎不可想象，那么在一个已有超过3000万人受益、且其余数千万人也期待最终受益的近乎成熟的项目中，这简直是天方夜谭。
+
+在这种形势下，通过本书之前的分析进行推断，可以预测决策者可能会做出两种不同的反应。一种观点认为，显性成本会加速政治冲突的爆发。由此可以预测，赤字、更广泛的政治参与以及对超出常规行动方案的审视，将导致冲突发生率大幅上升。另一种观点认为，政策制定的基本模式是该项目的渐进式扩张。由此可以预测，意外出现的赤字将仅仅成为进一步扩张的又一个契机。削减福利的做法将被自然排斥，而新的融资方案将被即兴拼凑出来，从而使系统过去的扩张得以巩固，或推进新的扩张。这两种反应类型都清晰可辨，但总的来说，第二种反应压倒了第一种。
+
+### **政治反应：不断扩大的辩论** 
+
+社会保障系统的财务困境激发了私营部门和公共机构内政策分析师们的活力。各方开始纷纷构建模型并对假设进行测试。布鲁金斯学会（Brookings Institution）、美国企业公共政策研究所（AEI）、胡佛战争、革命与和平研究所（Hoover Institution）、当代研究所、新成立的国会预算办公室（CBO）以及卫生教育及福利部（HEW）规划与评估助理部长办公室等，相继编制了著作、小册子和技术报告。[13]“有时候真的很难跟上所有人的步伐，”社会保障署的一位高级官员感叹道。“简直就像经济学家们发现了新大陆（发现了钱）一样。”[14] 一系列国会委员会也被调动了起来。除了众议院筹款委员会举办的听证会之外，联合经济委员会、众议院新成立的衰老问题特别委员会以及参议院衰老问题特别委员会均举行了相关的听证会。[15]应一名国会议员的要求，美国审计总署（General Accounting Office）就该系统的财务困境发布了一份报告。[16]
+
+然而，更重要的是，在该项目中拥有直接利害关系的官方行为体展现出了新的活跃度以及全新的批评态度。将近三十年来一直无视社会保障政策的财政部突然觉醒。1973年秋，在官方首次宣布出现长期赤字后，该部门委托了两名私营顾问对该系统进行独立的精算审计。他们被要求审查社会保障署精算师所使用的假设，构建一个能使财政部对系统成本进行独立估计的计算机程序，并对系统的经济效应发表意见。该报告发布于1974年，严厉批评了社会保障署精算师办公室未能使用当前的人口预测，质疑了其经济假设的现实性，并敦促开展有关社会保障系统对私人储蓄影响的研究。[17]在福特政府卸任前夕发表的一篇报纸文章中，其财政部部长威廉·E·西蒙（William E. Simon）写道，他在发现该系统的财务状况时感到“震惊”，并呼吁降低福利增长的速度。否则，他警告说，政府将无法信守其承诺。[18]
+
+也许更具意义的是，国会的官方主导者中间出现了一种具有批判性和独立性的精神。预测将出现巨额长期赤字的1974年受托人报告出炉后不久，参议院财政委员会便成立了一个由私营部门精算师和经济学家组成的专家小组，以进行独立分析。该报告于1975年初发布，发现该系统的财务状况确实非常严重（并且可能比受托人报告所述的更为糟糕），最近颁布的决定福利的公式对通货膨胀率的变化反应极不合理，而且官方用于预测成本的方法学不足以应对该系统的规模和复杂性。报告建议“采取强有力的措施来恢复OASDI（老年、遗属和残疾保险）项目的财务健康”，使福利公式合理化，并“采用改进的程序来揭示该项目的成本、影响及可控性”。[19] 对于一个由官方赞助的信息源而言，这一切的措辞尤为强硬，而且后续还会愈演愈烈。
+
+经过略微重组后，同一专家小组很快受雇于国会研究处（Congressional Research Service），专门研究修订福利结构的途径。正如国会愿意提出这一问题的态度引人注目一样，该专家小组给出的回答也同样发人深省。所谓的《萧氏报告》（Hsiao report，以该小组主任、哈佛大学公共卫生学院经济学家兼精算师萧庆伦/William C. L. Hsiao 的名字命名）于1976年夏季出炉。它建议修订福利公式，以消除对通胀率的非理性反应，并根除系统中的长期赤字。该报告意图通过一种将福利增长与生活成本上升严格挂钩的指数化方案来实现这一目标。1972年颁布的自动公式虽然也将福利与生活成本上升挂钩，但在通胀率快速攀升的情况下，其运作方式会导致过度补偿。《萧氏公式》纠正了这种异常现象。它还旨在建立一个具有稳定长期税率的系统，萧氏专家小组认为这是一项重大优势。“专家小组认为，不应提前让未来的工薪阶层受制于实质性不断攀升的税率，”报告称。国会与公众在未来对该项目规模的选择权应当予以保留。
+
+在该方案下福利是否会下降，取决于衡量的标准。若以购买力（即福利与消费者物价的关系）来衡量，福利将被稳定下来；但替代率（福利与退休前工资的比例）则可能会下降。当然，国会随时可以在其需要时颁布临时性的增加法案。萧氏小组的目标是避免让国会提前承诺除维持与物价上涨同步所需之外的任何幅度增加。“本小组提案的核心在于国会的控制权，”报告指出。[20]
+
+财政部的强势作风，连同参议院财政委员会及其专家小组的冒险精神，共同对社会保障政策制定中正统的参与模式和思想构成了重大挑战。多年来，官方的主导地位还从未遭受过来自官方信源如此严厉的批评和挑战。如咨询委员会等名义上独立的调查通常极易被同化招安，但萧氏小组的独立性却印刻在其报告的字里行间。在论证未来世代应当能够自行决定是否愿意为社会保障福利的增加买单时，该小组抨击了该项目的一项基本前提：即未来世代已经、并且理应不可逆转地承担起当前世代可能载入法律的任何承诺。
+
+无怪乎罗伯特·鲍尔将萧氏方案称为一项“极其危险的提议”。[21] 在某种程度上，这种新的强势与独立性可能是对官方主导者集团内部人事变动的一种回应。长期占据统治地位的核心人物相继离去。由于迈尔斯于1970年卸任首席精算师，鲍尔于1973年卸任署长，米尔斯于1975年卸任筹款委员会主席，拜尔恩斯（Byrnes）也于1973年辞去了共和党首席议员的职务，使得各种主张其专业知识的声音得以更加轻易地表达出来。行政和立法部门在结构与程序上的变动，同样鼓励了更为广泛的参与。自1965年以来，行政部门内部将通才纳入政策制定的机制得到了显著发展，这主要通过卫生教育及福利部的规划与评估办公室以及总统行政办公室来实现；在总统行政办公室内，行政管理和预算局（OMB）及白宫幕僚机构的不同组成部分（在历届政府中组织形式各异）都在竞相争取对相关事务的参与份额。
+
+在国会，委员会和会议环节已向公众开放；而且在众议院民主党人的指示下，筹款委员会设立了小组委员会（subcommittees）制度，而这一做法在米尔斯担任主席期间几乎被废弃。此外，该委员会的规模也得到了扩充。并且，筹款委员会与财政委员会均增添了专职负责社会保障事务的工作人员。所有这些变化，使得长期处于封闭主导状态的社会保障决策大门被正式打开。但倘若不是赤字的出现，能够站出来要求参与决策的主体恐怕会少得多。现在的疑问在于，这种新的发展究竟对政策走向产生了何种影响。
+
+我在下文指出，其影响微乎其微甚至完全没有。归根结底，关于《萧氏报告》的核心事实是：它遭到了决策者的彻底抛弃。政策继续沿袭过去四十年的扩张模式演进。
+
+### **政策回应：持续扩张** 
+
+1977年底，国会通过增税及修订福利公式的方式对赤字作出了回应。增税措施同时适用于税率和计税工资基数，而在后者方面的增幅尤为庞大。通过决定自1981年起将计税基数提高至29,700美元，国会实际上决定对受保工人预计约91%的收入征税；按这一基本指标衡量，公共项目得到了持续扩张。达到91%的覆盖率后，该项目将逼近1935年的标准，且远远超过了自1950年修正案后盛行了二十年之久的81%的标准。这一改变标志着项目执行官的目标又一次得到了实现。他们长期以来一直希望汲取更多的应税工资总额；当财务赤字出现时，罗伯特·鲍尔提出的首要建议正是如此。[22]
+
+在福利方面，国会采纳了一项类似于1972年公式的计算方案，将退休人员的福利自动与物价上涨挂钩，但同时将在职工人未来的预期福利自动与工资上涨挂钩。这究竟代表着项目的扩张、收缩，还是仅仅如制定新公式的人所断言的那样是对技术缺陷的纠正，这是一个极其复杂的问题。至少它巩固了1972年的扩张；当年国会在仓促行事之际对此知之甚少，且在其留下的少得可怜的立法历史记录中几乎未作任何合理的论证。
+
+#### **福利公式：工资指数化与价格指数化之争**
+
+在1974年至1977年的政策审议中，首要解决的问题——可以说比融资问题更为根本——是如何设计福利公式。 承诺的福利规模决定了所需的税收数额，尽管在社会保障体系中，这种关系显然是相互的，因为福利与工资挂钩，而计税工资基数（wage base）的提高也会导致系统福利支付义务的增加。[23] 决策者为何在1977年竟然选择修订福利公式，这需要加以解释。 赤字本可以通过增加更多财政收入来弥补。 为何要对一个刚刚生效的福利公式进行修补？ 答案在于，1972年颁布并于1975年开始实施的指数化公式（indexed formula），在20世纪70年代中期的通货膨胀环境下无法正常运行。 罗伯特·迈尔斯（Robert Myers）曾在1969年向国会提出该公式，他完全清楚该公式不适用于通货膨胀经济，但他低估了这一风险。 他曾对筹款委员会（Ways and Means Committee）表示，通过规定计税工资基数随收入增长而自动调整，该公式“将极其保守地为福利的自动增加提供资金，除非我们进入一个恶性通货膨胀的时期。” 毫无解释地，他补充道“这种可能性可以忽略不计”。[24] 因此，这一缺陷与其说是由于缺乏专业知识，不如归咎于过度乐观，这是专家特有的自信，他们坚信自己能够预见甚至实际上操纵未来的事件走向。 米尔斯似乎也抱有这种自信。尽管对指数化持谨慎态度且不愿向众议院推荐，但米尔斯似乎同意通货膨胀将得到控制的观点。 “哦，不。我们不会让生活成本继续上涨，”他对迈尔斯说。 “总有一天我们会把它停在这里……我们已经对此做出了承诺。”[25] 当年的通货膨胀率为6.1%。 历史数据表明，通胀率平均每年在2%左右，这也是米尔斯期望其保持的水平。 1974年的通货膨胀率飙升至12.2%，是1969年的两倍，而且物价涨幅超过了工资涨幅，这违背了所有近期的经验，令所有人感到意外。 没有哪位经济专家预测到了此类事件的发生，但这种突如其来的意外，在社会保障政策制定的世界里显得尤为不合时宜且不受欢迎，因为该领域一直本着（或似乎本着）不会发生任何意外的信念在运作，并且在过去既未受过不利经验的磨砺，也未遭遇过竞争对手专家的挑战。
+
+1972年公式的缺陷在于将在职工人（active workers）的福利调整与退休工人（retired workers）的福利调整“挂钩”（coupling），这可能导致对在职工人因通胀影响而产生过度补偿。 当退休工人的福利按生活成本的涨幅同步提高时，决定在职工人预期福利的公式也会做出同等幅度的调整。 但与此同时，这些在职工人还在通过另一种方式获益。他们的实际工资正在上涨，这至少部分是对生活成本变化的回应。 他们未来的社会保障福利（与工资挂钩）不仅随着工资的上涨而增加，还会随着消费者物价指数每上涨3%而承诺增加的福利进行额外叠加。 其结果是，在严重通货膨胀的条件下，在职工人从长远来看可能会获得高得荒谬的福利支付。 将在职工人与退休工人的生活成本调整挂钩的做法并非新创。 在20世纪50年代和60年代临时增加福利时也遵循了同样的惯例，这也解释了迈尔斯为何将其纳入指数化公式。 他当时是在尽己所能地复刻过去的惯例。 只要工资增长快于物价增长，且两者的增长率都保持相对较低，同时两者之间的关系保持相当稳定，这种安排就一直运作得很好——实际上，它倾向于为系统产生盈余，而非赤字； 但是，当变化的速度加快，且工资与物价上涨之间的关系变得不稳定时，该公式就被证明是极其不稳定的。 随着物价和工资增长率的变化，替代率（replacement rates）最终可能出现急剧的上升或下降。[26]
+
+甚至在1975年新公式开始适用之前，社会保障领域的专家们就已经清楚修订是势在必行的。 在精算师于70年代中期开始采用的修正版经济假设下，除了导致替代率表现出不稳定性外，该公式还促成了系统中突然出现的巨额长期赤字。 它放大了正在发生的经济变化所带来的不利影响。 因此，在1974-75年咨询委员会最早的几次会议上，社会保障署的工作人员传阅了一份修订提案。 国会最终颁布的公式便发端于此。
+
+提交给咨询委员会的提案由查尔斯·L·特罗布里奇（Charles L. Trowbridge）起草，他接替迈尔斯担任社会保障署首席精算师，但仅上任两年半后便在1973年辞职。1974年，他担任咨询委员会的顾问。[27]
+
+特罗布里奇还在任时就开始构思该提案，其提案建立在这样一个假设之上，即修订的首要目标应是稳定替代率。[28] 这是一个存在争议的问题。《萧氏报告》（Hsiao panel）的成员后来提出，替代率不应被视为检验福利结构合理性的唯一标准。 另一个可能的检验标准是购买力的维持，还有一个可能是福利价值与个人及其雇主所缴税款价值之间的关系。[29] 但在社会保障署、咨询委员会以及卫生、教育及福利部的高层内部，替代率在讨论初期就被确立为试金石，这为1977年的最终结果奠定了概念基础。尽管决策者最近才开始使用这个术语，且它尚未成为公众讨论的主流词汇，但替代率突然间变得至关重要。[30]
+
+为了稳定替代率，特罗布里奇及咨询委员会的其他精算与经济顾问设计了一个新的福利公式，将在职工人与退休工人的福利增长“脱钩”（decoupled），并将职工人福利与工资的变动而非物价的变动进行指数化挂钩。 特罗布里奇的主要合作者之一是迈尔斯。尽管他已离职，且他曾倾注心血建立的系统出现了明显失误，但他的专业知识并未因此黯然失色，随着决策者开始考虑如何应对困境，对他的专业需求反而日益增加。 迈尔斯最初对于修订在职工人福利公式提出了另一种方案。 他主张将福利增长限制在消费者物价指数百分比增幅或平均收入百分比增幅的一半以内（取两者中较小者），这种方法对替代率的关注较少；但当他看到工资指数化方法正逐渐形成共识，并审视了其一些技术特性后，他默许了这种方法。
+
+随着咨询委员会附属专家之间达成一致，利益集团之间也开始形成共识。 这正是咨询委员会的性质与功能所在：将不同的利益群体汇聚一堂。 在社会保障领域，获得有组织劳工（organized labor）的支持尤为关键，因为他们继续在项目的所有权结构中担任主要的私人利益攸关方。 劳工代表在咨询委员会起初并不情愿支持新公式，他们倾向于将其解读为一种福利紧缩（deliberalization）。 只有当他们确信挂钩公式并非必然导致福利扩张，且最重要的是它具有不可预测的不稳定性，而替代方案将防止替代率下降（及上升）时，他们才默许了修订，但即便如此，他们的态度依然十分勉强。[31]
+
+渴望促成脱钩公式尽快通过的卡德韦尔（Cardwell）署长呼吁获得他们的支持。 罗伯特·鲍尔（Robert Ball）亦是如此，他在幕后积极游走，为工资指数化、脱钩的公式招揽支持者，他本人对该公式深表赞同。 （鲍尔其实一直偏好工资指数化而非价格指数化，但在1969年至1972年期间无法获得支持，当时指数化本身还是个新概念。）因此，当社会保障署的脱钩提案于1975年秋季提交给福特（Ford）总统时，它已经带着咨询委员会和有组织劳工的支持。 尽社会保障项目领导层（既包括在任的官方领导人卡德韦尔，也包括名义上退休但仍极具影响力的鲍尔）所能，脱钩政策的政治博弈已然尘埃落定。 这场博弈通过“预期”被化解，这正是社会保障领域多年来的运作模式。
+
+事情并没有就此平息，福特总统收到了一份与社会保障署提案截然不同的替代方案，这表明在1972年之后出现了一种“新的”、更为激烈的社会保障政治。这就是官僚政治（bureaucratic politics）。 随着财政部开始施压要求修正精算估计中其认为存在的“乐观偏差”（optimistic bias），行政部门内部的冲突正在酝酿。 1975年秋，财政部联合经济顾问委员会（Council of Economic Advisers）提出，当社会保障福利公式脱钩时，未来退休人员的福利水平应与物价增长挂钩，而非与工资增长挂钩。 这种扩张性较弱的方法预计能够消除系统中的长期赤字，而与工资挂钩预计最多只能将赤字减半。 1975年下半年的几个月里，一个跨部门工作组对这一问题以及与社会保障融资相关的其他问题进行了审议。 系统面临的“破产”威胁如今已成为公众关注的焦点，在为1976年初提交预算案做准备时，福特政府正在考虑向国会提出哪些建议（如果有的话）。
+
+1975年底，关于如何将社会保障福利指数化的问题被提交至总统。[32] 负责为该议题配置人员并协调行政部门讨论的国内委员会（domestic council），准备了一份长篇备选方案文件，请求总统就该问题以及社会保障融资的短期问题做出决定。 在这份文件中（他可能读过也可能没读过，极有可能是仅仅依赖口头汇报），总统被告知他可以推迟对脱钩采取行动，或者选择以一种维持社会保障当前职能的方式进行脱钩（即社会保障署的提案，此时已获得卫生、教育及福利部官员的背书），抑或选择以一种缩减社会保障未来职能的方式进行脱钩（即财政部-经济顾问委员会的提案）。 缩减的程度可以有所不同。文件中简要概述了每种选择的利弊。 关于卫生、教育及福利部的提案（文件中将其称为“中立”脱钩），总统被告知，这将证明是各选民群体以及国会中最不容易引起争议的选择。 劳联-产联（AFL-CIO）和老年人组织已经同意了该提案。 它将确保未来退休人员的福利与国家的生活水平保持同步。 “您现在可以提议以这种方式‘脱钩’，”总统被告知，“等经过进一步分析并达成共识后，再带着一项关于从长远改变社会保障结构与职能的更广泛提案回来。” 反对这种选择的理由是，它只能消除一半的赤字；而且如果总统后来决定确实要重新审视社会保障的职能，这会丧失一些谈判筹码。 为了支持价格指数化提案，文件指出它将消除全部长期赤字，允许未来的减税，并使人们能够更多地投资于私人养老金，从而刺激资本形成。 然而，文件也指出，对系统进行如此深远的改变，在政治上将被证明是极具争议的。[33]
+
+向总统提交的这份报告，其整体主旨在于：卫生、教育及福利部的提案根本不代表任何政策的改变，而仅仅是对社会保障现状的认可。 与该部一样，国内委员会工作人员将替代率作为试金石。 总统被告知，卫生、教育及福利部部长建议迅速批准一项中立的脱钩提案。 强烈赞同该部立场的国内委员会，同意了这一建议（实际上这是委员会工作人员的立场，因为由内阁级官员组成的委员会当时已名存实亡）。 经济顾问委员会主席艾伦·格林斯潘（Alan Greenspan）认为，要求总统“在备忘录中提出的几个极端选项中做出选择还为时过早，因为这些选项尚未在所有衍生方面得到充分论证。”[34] 在政府内部，几乎没有对社会保障署提案的任何替代方案进行过技术性研究，因为在社会保障署之外，没有人具备时间、数据或技术能力来准备一份详细的替代方案。
+
+总统白宫幕僚中各类杂项事务顾问要么赞成不采取任何行动，要么支持财政部-经济顾问委员会的替代方案。 许多了解此议题的行政人员预期总统会推迟采取行动。 他本可以将建议局限于短期融资，然后等待下一次选举过去，并让行政部门对这一重要议题进行更仔细的研究，同时保留他的选择余地——这通常被认为是政治家们偏爱的策略。 但福特总统显然认为，不迅速采取行动是不负责任的，因为系统的赤字正在引起公众的焦虑，而作为赤字成因之一的1972年公式，已经在对系统产生不利的意外影响。 随着挂钩公式对通胀经济做出反应，替代率和福利支付义务正在悄然攀升。 而且，如果总统要挑选任何一种脱钩公式，很难看出他除了选择卫生、教育及福利部提议的方案外还能作何选择，该方案向他被描述为“中立”和“无争议”，并享有国会和相关利益集团的支持。 很难想象在一个总统大选年的开端，面对一个据称会“维持”社会保障职能的选项，他会如何去偏好一个被告知将“削减”该职能的选项。
+
+反映出这一观点的——当然，这也是那些以政策分析为主要职能的人员所特有的典型观点——是国内委员会提交给总统的备选方案文件，该文件同时建议对社会保障体系进行一次全面的研究。 在那些提案被否决的人看来，他们觉得自己像往常一样，在一场与项目专家的极不平等的较量中败下阵来。 “当你面对社会保障署的反对时，基本上是没希望的，”财政部的一名工作人员后来这样说道。[36] “社会保障署总是领先一步，”经济顾问委员会的一位经济学家观察到，“没有其他人是全职做这个的，当你既没有装备又没有时间的时候，很难与之竞争。”[37] 只有项目领导人有理由感到满意，因为他们已将总统拉入了支持脱钩、工资指数化公式的日益壮大的联盟中。 总统在1月份的预算报告中宣布，政府将提议一个新的福利公式，以稳定替代率并将长期赤字减少一半。
+
+然而，行政部门内部的不满情绪是如此之强，以至于重新开启这一议题成为可能，这实在是一件非同寻常的事情。 总统的决定，尤其是那些已经公开宣布的决定，通常是被视为神圣不可侵犯的。 在这个案例中，重新审议的倡议来自行政管理和预算局（OMB）负责经济政策的助理局长鲁道夫·G·彭纳（Rudolph G. Penner），而重新审议的契机则是《萧氏小组建议》（Hsiao panel recommendations）的出炉，该建议于1976年2月在向筹款委员会提供的口头证词中被提出（正式的出版报告直到六个月后才出现）。 在承诺进行脱钩立法的预算报告发布后，社会保障署起草了一份以此为目的的法案，在行政管理和预算局内部，负责社会保障的职能专家将该法案送交彭纳审核。 “那是纯粹的工资指数化，”他后来回忆道，“当我看到这项立法，看到萧庆伦的报告，并看到巨大的成本差异时，我回过头去研究了那份备选方案文件。我明白了他们（工资指数化的支持者）在追求什么，我觉得他们一点都不明智。”[38] 彭纳与曾参与总统决策的行政管理和预算局副局长及局长讨论了此事，他们一致认为，总统可能并未意识到该决策的深远影响。 随后举行了更多的跨部门会议，准备了另一份与第一份差别不大的备选方案文件，总统被更充分地告知了其选择的影响，而他重新确认了早前的决定。 全世界都已经知道总统选择了工资指数化，因为总统在预算报告中已经这样说了，如果在此时退缩会引起巨大的骚动，并牺牲已经达成的支持脱钩的共识。 总统的决定再次成为了预料之中的结论。
+
+在春季，局势中唯一的新元素是《萧氏建议》的出现，它为价格指数化方案提供了具体且在技术上站得住脚的形式。萧氏小组的建议由于是受国会委托，且出自胜任且经验丰富的技术专家之手（萧庆伦实际上曾任职于社会保障署精算师办公室），这使得该建议有一定的理由获得认真对待，但它们仍然缺乏政治基础。 随后提交给总统的备选方案文件并未掩盖这一事实。 在国会，萧氏提案曾一度产生了一些吸引力。“你可以看到他们眼睛一亮，尤其是在共和党那边，”一位工作人员后来回忆道。 萧氏计划的优点在于它能根除长期赤字并稳定社会保障福利的购买力，但稍加思考便能确认，它在政治上是站不住脚的。 因为它会允许替代率下降，这会被解读为削减福利。 来自有组织劳工、老年人（尽管当前这一代老年人不会受到不利影响）以及广泛的自由主义者的反对将是如此激烈和广泛，以至于只有极少数保守派国会议员敢于冒着风险为其投赞成票。 “削减社会保障”根本是不可能的。国会中唯一公开表现出兴趣的是筹款委员会的一名资深职位较低的民主党人，来自俄克拉荷马州的詹姆斯·琼斯（James Jones），他是一位职业经济学家，曾在约翰逊政府期间任职于经济顾问委员会，他引入了一项包含萧氏计划内容的法案。
+
+只有琼斯一人愿意支持价格指数化的福利公式，这表明了该议题特殊的政治属性，即它使政治职位的持有者与经济分析师产生了分歧。 无论是在政府内部还是外部，经济分析师都青睐萧氏计划，将其视为保留未来选择权的一种方式。 他们的支持跨越了意识形态的界限。同样，对工资指数化的支持也跨越了意识形态的界限。 国会中的保守派共和党人、商业联合会以及保险业都没有支持萧氏计划。 关于国会应当保留对福利的裁量权的论点对他们没有吸引力，因为他们假设这种裁量权将总是被用于高度扩张的目的。 毕竟，正是保守派共和党人对裁量权的不信任，才在几年前为指数化提供了政治赞助。 在保守派看来，一个不诱发扩张的指数化公式（因为它起步就很慷慨），可能比一个通过允许替代率下降而诱发行动的指数化公式更可取。 因此，保守派政治家和利益集团加入了自由主义者的阵营，支持工资指数化原则，与后者的区别仅在于他们主张将替代率回滚到早先流行的水平，甚至可能回滚到1972年福利增加20%之前的水平。在采取这一立场时，他们高度依赖罗伯特·迈尔斯的建议，迈尔斯主张工资指数化公式，但将“回滚”视为遏制扩张的一种方式。
+
+由于萧氏计划与政治上的可接受性相距甚远，如果说它产生了什么影响的话，那就是它通过将工资指数化提案变成一种温和的折中方案，从而促进了后者的采纳。 扩张性的极端（假设官方的精算假设和预测是正确的）本应是保留挂钩公式，在此公式下，替代率预计会上升。 紧缩性的极端是萧氏提案，在该提案下，替代率预计会下降。 而工资指数化提案——在此方案下替代率预计将趋于稳定——便成为了一个折中方案。 此外，工资指数化公式还具有模糊性这一巨大优势。 它既是一种收缩（因为它将长期赤字削减了一半），又是一种扩张（因为通过将在职工人的福利与工资而非物价挂钩，它扩大了尼克松政府在1969-72年指数化提案中所宣布的内容）。[39] 没有人比罗伯特·鲍尔更能领会这一新提案的模糊性之美，他在对国会委员会发表评论时指出：“你拥有这种绝佳的组合，既能真正改进系统，同时又能使成本较目前的估计有所降低……在我看来，这是一件非常值得去做、而且要快点去做的事情。”[40] 这有点像1972年的情形重演。 那时，国会颁布了一项重大的自由化举措，同时降低了长期税率。 五年之后，国会可以通过颁布一项可以说更为慷慨的福利公式，来修正大约一半的预计长期赤字。 社会保障决策的高度技术化和面向未来的特性，使得一些奇怪的事情成为可能，因为当前的行动是根据其假设的未来效果来评估的。
+
+回顾过去，决策者在脱钩公式中选择工资指数化而非价格指数化似乎显得如此“自然”，以至于无需过多解释。 它代表着稳定化，而萧氏计划（Hsiao plan）则代表着紧缩（retrenchment）；在社会保障领域，紧缩在政治上是不可想象的，而稳定化本质上是毫无争议的。 以前能够达成一致的，现在同样能够再次达成一致。 基于这种解释，1975年至1977年间对工资指数化公式的选择表明，政策制定中存在一种继续沿袭既往做法的倾向，但这种倾向并不必然意味着要在更大规模上重复这些做法。 然而，仅仅将工资指数化视为对现状的认可或过往实践的翻版，不仅未能把握其充分的政治意义，也忽视了公职部门中的项目专家在这场博弈中所享有的操纵性优势。 他们及其在行政部门内部支持工资指数化的同盟者选择将其描述为“中立的”，这并不能使其真正中立；同样，他们强调其稳定特征，也不意味着它能够实现全面的稳定。 他们对符号的运用掩盖了官方提案的政治实质。 在某种程度上，萧氏提案在政治上的劣势并非其内在固有的，而是由占据主导地位的决策者在描述和解释其自身行为时所使用的象征性术语所赋予的。 一个天真的局外人——比如传说中来自另一星球的访客——如果被问及哪种脱钩提案能在未来维持社会保障的职能，在缺乏线索或明确标准的情况下，将很难作答。 在工资指数化下，平均替代率将保持稳定，但社会保障税收和支出占国民生产总值（GNP）的比例将会上升。 在价格指数化下，税收和支出占GNP的比例将保持稳定，但平均替代率将会下降。[41] 在某种意义上，社会保障的职能在两种情况下都将得到稳定。
+
+那么，如何看待其与过往实践或决策者在1972年之意图的一致性呢？ 在这个问题上，工资指数化支持者在术语选择上同样将改变的举证责任推给了其竞争对手，后者的提案被描绘成“改革”、“大修”，以及一种试图“改变该系统及其结构”的尝试。[42] 事实上，两种提案都可以声称具有传统渊源，但两者的声称都不完美。 在过去，稳定替代率从未成为明确的政策目标，但在实践中，其波动被限制在一个相对狭窄的范围内——高收入者为25%至33%，低收入者为47%至55%。[43] 萧氏计划在假定国会未来会（在指数化变化之上）进行临时性调整时，是在向指数化之前的历史回归，而非进行革命性的大修；并且，在提议将自动增长与生活成本挂钩时，它提议要做的，正是大多数国会议员在1972年公式颁布时极可能认为自己正在做的事情。 国会在1972年并不知道它正在设定怎样的“替代率”，而如今断言这些比率应当被稳定化，绝不仅仅是一个技术问题。 在最深刻的意义上，这是一项政治决定。它塑造了该系统，正如任何竞争提案也可以明确地被认为在塑造系统一样。 而且，它是朝着扩张的方向塑造该系统。通过确认承诺给在职工人的福利此后将随工资水平的提高而增加，它确立了一项扩张的原则——简而言之，一项政策——这项原则此前从未得到过确认，仅仅在20世纪50年代和60年代临时拼凑的实践中得到了近似的应用，而从未被完全实现过。[44]
+
+工资指数化的支持者之所以能够轻而易举地为其提案赢得赞同，不能仅仅归结于这样一个事实：他们的提案满足了所有决策者舒适地贴近先例的典型偏好，同时也满足了政治家避免削减选民福利的典型偏好。 同样，这也无法单纯归因于社会保障署提案那种精妙的模糊性，因为萧氏计划具有同样精妙的模糊性。 毕竟，在萧氏计划下，福利金额注定会上涨； 福利的购买力注定会保持稳定； 并且系统中几乎全部的财务赤字都会被消除。 这是一个非常具有吸引力的组合；或者说，如果替代率没有突然成为评判福利的标准，它本可能具有很强的吸引力。 单凭这一标准，萧氏计划就会降低福利，而这就足以剥夺它被认真考虑的资格。 因此，该项目领导层的成功，在很大程度上必须归功于他们界定辩论话语体系的能力。 他们提供的不仅仅是一项行动提案；他们还提供了一种塑造认知的语言。 凭借对替代率的强调，他们确立了衡量政策方向变化的基准点；在一个倒退是不可想象的、且政策制定的倾向要么是维持现状（惯性）、要么是在现状基础上的轻微扩展（渐进变迁）的系统中，界定起点所在的能力至关重要。 当项目执行官们这样做时，他们凭借着权威与专业知识的巨大优势发声。 作为该项目中体现的特性和意图的解释者，他们几乎免受任何挑战。 此外，尽管其他参与者不断激增，他们仍继续垄断着主导权。 即使现在的行动领域比过去更为拥挤，他们依然是首批进入该领域的参与者。 并且，哪怕仅仅是因为抢占了先机，他们在界定讨论的起点方面也拥有着巨大的影响力。 即便在赤字出现后形成了一个竞争更为激烈的环境，项目执行官们依然保持着巨大的优势；这一时期的历史表明，这些优势将被始终如一地用于支持扩张主义措施。
+
+发现相反的情况才会令人惊讶，但这一点值得注意，因为这一时期为此提供了一次检验。 1973年之后的新任署长虽然是一位职业公务员，但并非职业的项目执行官。 他最近的一份职务是担任卫生、教育及福利部的审计长。他的专长在于控制支出，这使得尼克松政府极为赏识他，并任命其为政府最庞大的“不可控”项目的负责人。 在社会保障署内部，当一个局外人、一个搞预算的人取代了鲍尔时，士气跌落了。 卡德韦尔并不具备该项目奠基人身上那种异常显著的传教士精神——即不可动摇地相信该项目是一件伟大的事物，任何使其变得更庞大、更优越的举措也同样伟大。 国会议员们也注意到了这种差异，与其前任相比，卡德韦尔显得如此被动和沉默寡言。 他们往往不确定他究竟想要什么。然而，卡德韦尔所主张的福利公式，与鲍尔处在其位置上可能会主张的方案毫无二致。 （事实上，这正是鲍尔在1975年至1977年间作为频繁的国会作证者所主张的，也是他在福特政府辩论对策时在幕后积极推动的方案。）任何一位社会保障署署长都不可能提出低于此标准的方案：内部的组织承诺与外部的政治制约都排除了这种可能性；而且，署长的立场无论如何都不是一个理性且负责任的人在评估其优劣时会觉得难以辩护的立场。 工资指数化在其他一些国家也曾被采用过，这与美国过去的做法并无太大不同；此外，未来的退休人员应当分享生活水平普遍提高带来的红利，并从政府那里可靠地获知其社会保障福利与其退休前工资之间的关系，这无疑是说得通的。
+
+稳定替代率有非常充分的理由。价格指数化方法的倡导者并不否认这一点。 就实质而言，双方都有许多合理的论据。 既然如此，值得注意的是，行政部门内部的审议并没有为总统的考量提供这两种路线之间的一系列折中或组合方案。 这并非因为专家们无力构想出任何折中方案。在技术上，指数化是一个极其复杂的课题。 公式的不同要素可以采用不同的方式进行指数化，从而可能产生多种排列组合和结果。 然而，正是这一议题的重要性，反而倾向于促成一种粗略的、高度简化的表达方式，并使行政部门的参与者发生两极分化。 倘若该议题不重要且无分歧，它就不会被提交给总统；而当它被呈交至总统以供决策时，选择被构建得极为简化，备选方案之间的对比被刻画得异常鲜明。 行政部门的内部角力未能有效拓宽选择面的原因之一在于，行政决策过程的设计是为了服务于一位事务繁杂的通才——即总统，不能指望他会在技术上的细微差别上停留太久，哪怕真正现实的选择可能正隐藏在这些技术细微差别之中。 此外，财政部-经济顾问委员会替代方案的出现——其他大多数参与者难以置信地将其视为一种激进的缩减措施——反而起到了团结这些其他参与者的作用，并消弭了他们之间存在的任何潜在的、边缘性的分歧。[45]
+
+最后，还有另一个原因可以解释为何20世纪70年代中期更为激烈的竞争与冲突并未对政策制定的扩张性偏误产生明显影响。 潜在的扩张反对者已经如此习惯于面临失败，以至于他们预见到了扩张，并且在预见的过程中对其作出了让步。 亲商业的利益集团和国会中的保守派共和党人便是如此，他们之所以支持工资指数化，部分原因在于他们认为，不能指望一种不那么宽松的指数化形式去约束国会未来的行为。 类似的盘算可能也影响了卡德韦尔。因为脱钩可以被解读为一种福利削减，卡德韦尔认为有组织的劳工可能会对其行使否决权；这表明了惯性偏误是何等根深蒂固，或者至少在认知上是何等根深蒂固。 在1972年之后形成的通胀环境下，没有任何一个负责任的人会为挂钩公式辩护。 专家们的意见是一致的，即必须对其进行修订，因为其潜在的未来影响是如此不可预测。 然而，作为负责社会保障项目的执行官，卡德韦尔无法确信如果“修订意味着去自由化”的观念蔓延开来，国会是否仍会对其进行修订。 因此，他变得极度渴望设计出一个能够赢得有组织劳工支持，并能在最少的辩论和延迟下被国会通过的脱钩公式。
+
+最终，国会在1977年末颁布了新的脱钩公式，并出台了新的增收措施。 在此期间，吉米·卡特政府已经上台，但它并未对福特政府关于脱钩程序的建议做出任何实质性改变。 在竞选期间曾接受罗伯特·鲍尔关于社会保障建议的卡特，已承诺不会降低替代率。 然而，为了向保守派的压力妥协，国会在法案中包含了将挂钩公式下所达到的替代率回调5到10个百分点的条款。 从长远来看，低收入群体65岁退休时的替代率将稳定在54%左右； 平均收入工人的替代率将稳定在42%左右；而高收入群体的替代率将稳定在26%左右。 这些大致正是20世纪70年代中期，即1972年修正案颁布后不久所达到的水平。[46]
+
+##### **融资**
+
+剩下要解决的就是增税问题了。福特政府曾于1976年提议提高工薪税税率，但国会并未采取行动。 卡特政府在1977年提交给国会的提案则更为新颖。 该提案将对雇主支付的所有工资和薪金征税，就雇主所承担的税收份额而言，取消了应税工资的上限；而对于雇员，则仅轻微提高了上限。 如此一来，雇员和雇主将不再平等地缴纳税款。 系统的财政收入将得到极大增加，而不会出现与之相伴随的福利义务的同等增长。 其次，卡特政府提议，只要失业率超过6%，就引入一般性财政收入。 财政部将从普通基金中划拨一笔资金，数额等同于失业率为6%时应收的工薪税收入与实际收取的工薪税收入之间的差额。 该措施追溯至1975年实施，预计到1982年将为该项目带来约140亿美元的收入。表面上看，这将是一项临时性措施，但没有人会自欺欺人地认为它不可能演变成为永久性措施。 在1985年之前，没有提出任何新的提高工薪税税率的建议。
+
+福特政府与卡特政府在税收提案上的分歧，说明了政党轮替对行政部门社会保障政策可能产生的影响。 卡特在竞选中曾承诺不会提高工薪税，自由主义者长期以来一直批评该税种具有累退性，而且随着税率的提高，它无疑正变得越来越不受欢迎。 他的承诺意味着，新一届民主党政府必须通过扩大计税工资基数或动用一般性财政收入来弥补赤字。 政府决定不提高雇员的工资基数，因为这将增加相对富裕人群的老年福利。 相反，它选择了扩大雇主的工资基数，并结合使用一般性财政收入，这与福特的提案形成了鲜明的对比。 尽管存在实质性分歧，卡特政府内部的政策审议却与其共和党前任存在相似之处：卫生、教育及福利部的提案在与相互竞争的建议进行了一场不平等的较量之后，同样赢得了总统的批准。[47]
+
+卫生、教育及福利部的提案是由规划与评估助理部长办公室以及社会保障署起草的。 在政府内部，反对意见来自商务部长朱厄妮塔·M·克雷普斯，她认为除了背离了长期被接受的雇主与雇员同等纳税责任原则之外，对雇员工资单施加的沉重额外税负还将加剧通货膨胀和失业。 经济顾问委员会主席查尔斯·L·舒尔茨则辩称，雇主增加的大部分人力成本将被转嫁到物价上，当这与其他通胀压力叠加时，将对经济产生严重的负面影响。 克雷普斯和舒尔茨均主张大幅提高对一般性财政收入的依赖度，舒尔茨主张通过医疗保险项目引入这部分资金，而克雷普斯则主张在基本现金福利项目中直接、明确地引入一般性财政收入，直至其能够资助三分之一的成本。 这些论点直到总统做出决定前夕才浮出水面。
+
+与福特政府时期相比，为总统决策所作的跨部门准备工作要少得多，而且准备过程也更加混乱。 卡特面临着不少于五份备忘录——分别来自卫生、教育及福利部、他的经济政策小组、他的国内委员会、罗伯特·鲍尔以及行政管理和预算局。 （第六份来自经济顾问委员会的备忘录在他做出选择后才送到。这一过程中极为引人注目的一点是，鲍尔的意见被征求，仿佛他本身就是行政部门的一个机构。）与卫生、教育及福利部建议相抗衡的替代方案发展得如此迅速，且得到的职员研究工作如此之少，以至于它们从未真正具备竞争力。 总统的幕僚们认为，真正的选择在于批准卫生、教育及福利部的提案或是推迟行动，这类似于呈交给福特总统的选择。 卡特和福特一样，得出结论认为采取行动势在必行（除非采取行动的压力极为巨大，否则相关议题根本不可能递交给总统），并且，也如同福特一样，他选择了由其国内委员会工作人员背书的卫生、教育及福利部提案。 在根据简报文件做出决定后，他与相关官员以及鲍尔举行了一次会议对其进行了重新审查，所有参会者都有机会为自己的立场进行辩护。 最终卡特再次确认了他最初的选择。
+
+国会对卡特的提案持怀疑态度，并对其进行了苛刻的处置。 它同时提高了雇主和雇员的工资基数，维持了两者之间的平等；提高了工薪税率； 并且拒绝使用任何一般性财政收入。国会偏爱习惯与熟悉的事物。 它倾向于对现有的税收要素，特别是计税工资基数进行渐进式增加，而不是打破先例去寻求新的财政收入来源。
+
+政策的发展一如既往地具有惯性，但在应对赤字的政治博弈中，其显著特征在于深刻的内部分歧。 众议院的共和党人提出了他们自己的提案，该提案将在1982年开始提高工薪税率； 从医疗保险基金中转移财政收入，从而增加了在项目的这一部分引入一般性财政收入的可能性； 从1990年起提高社会保障受益人的资格年龄；从1982年起取消收入审查； 将联邦政府雇员纳入保障范围；并将替代率降低到1972年的水平。伴随着巨额的增税，民主党的法案在激烈的辩论后获得通过。 参议院的投票结果为56票对21票，众议院为189票对163票。 在众议院，一项使法案得以审议的程序性规则仅以3票的微弱优势通过。
+
+### **社会保障取得胜利**
+
+卡特总统在十二月下旬签署了该法案。 同一天，其政府宣布了大幅削减个人所得税和企业利润税的计划，以刺激经济并帮助对抗通货膨胀。 采取这一行动的部分原因是为了抵消社会保障增税所带来的不利影响。 当这两项行动并列实施时，其效果相当于将资金从其他公共项目转移至社会保障，或增加了国家债务。 在社会保障与其他政府项目就瓜分公共资源而展开的隐性竞争中，社会保障取得了胜利。
+
+并且，在项目内部，对于福利的需求与对征税的抵制之间的紧张关系得到了化解，其结果是倾向于征收更多的税。 然而，这对国会来说是一个痛苦的选择。“以后在社会保障问题上，再也不会有轻松的投票了，”筹款委员会主席阿尔·乌尔曼在最后辩论开始时对众议院说道。[48] 这是一个坦率却又有些隐晦的承认，即一个不成熟项目所享有的有利政治条件已经结束，并且再也没有任何技术的“戏法”可以用来掩盖这一事实——正是这类戏法使得1972年20%的福利增加成为可能。
+
+引用
+[1] See 1973 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Disability Insurance Trust Funds, H. Doc. 93-130, 93 Cong. 1 sess. (GPO, 1973), p. 31; and 1977 Annual Report . . . , H. Doc. 95-150, 95 Cong. 1 sess. (GPO, 1977), p. 2.
+[2] Financing the Social Security System, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 1 sess. (GPO, 1976), pp. 3-38.
+[3] Edwin L. Dale, Jr., "Ex-Officials Back Pension System," New York Times, February 11, 1975.
+[4] Congressional Record (March 6, 1972), p. 6987, and ibid. (June 30, 1972), p. 23731.
+[5] Future Directions in Social Security, Hearings before the Senate Special Committee on Aging, 93 Cong. 1 sess. (GPO, 1973), pt. 1, p. 34.
+[6] Congressmen, who had to enact the tax increases, suffered more of this pain than the program executives. Senator Russell B. Long, the Finance Committee chairman, publicly complained that the executive's faulty actuarial estimates in 1972 had proved "disastrous to the actuarial soundness of the Social Security System." (Adam Clymer, "Carter Welfare Bid Is Criticized by Long," New York Times, September 16, 1977.) Robert Ball, on the other hand, when asked by a House committee for an explanation of why things had gone so wrong, found the answer solely in the perverse performance of the economy and the decline of the birthrate. He could recall no major mistakes on the part of policymakers in 1972 or at any other time. Social Security, Hearings before the Subcommittee on Retirement Income and Employment of the House Select Committee on Aging, 94 Cong. 1 sess. (GPO, 1975), pp. 130-31.
+[7] "Social Security's Hidden Hazards," Wall Street Journal, July 28, 1972.
+[8] 1976 Annual Report . . . , H. Doc. 94-505, 94 Cong. 2 sess. (GPO, 1976), p. 46.
+[9] Social Security Amendments of 1958, H. Rept. 2288, 85 Cong. 2 sess. (GPO, 1958), pp. 27-28.
+[10] Social Security Act Amendments of 1970, H. Rept. 91-1096, 91 Cong. 2 sess.(GPO, 1970), p. 78; Republican dissent appears on pp. 142-43.
+[11] Staff Data and Materials Relating to Social Security Financing, prepared by the staff for the Senate Committee on Finance, 95 Cong. 1 sess. (GPO, 1977), p. 45.
+[12] Except for the social security actuary, who conceived the 3/8 percent cushion, no one inside the government argued in 1971-72 for preserving a substantial margin for error. Indeed, economists in HEW's Office of the Assistant Secretary for Planning and Evaluation argued that the 3/8 percent factor should be eliminated. Economic analysts in general were preoccupied at this time with what they saw as the contrived overfinancing of the social security program. As they interpreted it, the level earnings assumption and other such devices were not so much a prudent provision for error as they were devices calculated by program executives to produce automatic surpluses and thereby assure the unchecked future expansion of the program. Almost without exception, economic analysts inside and outside the government keenly favored the switch to dynamic assumptions and current-cost financing, independent of ideology or organizational location. Interview with Charles L. Trowbridge, November 15, 1977; Memo, Assistant Secretary for Planning and Evaluation (Laurence E. Lynn, Jr.) to Chief Actuary, SSA, "Comments on Draft of OASDI Trustees Report," March 23, 1972.
+[13] The following list of titles is not exhaustive: Alicia H. Munnell, The Future of Social Security (Brookings Institution, 1977); J. W. Van Gorkom, Social Security--The Long-Term Deficit (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1976); Robert S. Kaplan, Financial Crisis in the Social Security System (American Enterprise Institute for Public Policy Research, 1976); Rita Ricardo Campbell, Social Security: Promise and Reality (Stanford, Calif.: Hoover Institution Press, 1977); Michael J. Boskin, ed., The Crisis in Social Security: Problems and Prospects (San Francisco: Institute for Contemporary Studies, 1977) Congressional Budget Office, Financing Social Security: Issues for the Short and Long Term (CBO, July 1977); Lawrence H. Thompson, "An Analysis of the Factors Currently Determining Benefit-Level Adjustments in the Social Security Retirement Program," Technical Analysis Paper (Office of the Assistant Secretary for Planning and Evaluation, Office of Income Security Policy, September 1974).
+[14] Interview with John Snee, September 26, 1977.
+[15] Future Directions in Social Security, Hearings before the Senate Special Committee on Aging, 94 Cong. 1 sess. (GPO, 1975), pts. 9-11; Social Security, Hearings before the Subcommittee on Retirement Income and Employment of the House Select Committee on Aging, 94 Cong. 1 sess. (GPO, 1975); Financing the Social Security System, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 1 sess. (GPO, 1975); President's Social Security Proposals, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 2 sess. (GPO, 1976); The Social Security System, Hearings before the Joint Economic Committee, 94 Cong. 2 sess. (GPO, 1976).
+[16] Comptroller General of the United States, Financial Problems Confront the Federal Old-Age and Survivors Insurance and Disability Insurance (General Accounting Office, 1975).
+[17] Robert S. Kaplan and Roman L. Weil, "An Actuarial Audit of the Social Security System" (U.S. Treasury, Office of the Secretary, September 1974).
+[18] William E. Simon, "How to Rescue Social Security," Wall Street Journal, November 3, 1976.
+[19] Report of the Panel on Social Security Financing to the Committee on Finance, Committee Print, 94 Cong. 1 sess. (GPO, 1975), p. 4.
+[20] Report of the Consultant Panel on Social Security to the Congressional Research Service, prepared for the use of the Senate Committee on Finance and the House Committee on Ways and Means, 94 Cong. 2 sess. (GPO, 1976), pp. 2, 5.
+[21] The Social Security System, Hearings, p. 33.
+[22] Ball, though no longer in office, was no more retired from proprietorship of the program than Wilbur Cohen had been in 1956. He remained in Washington working on a book on social security and was very much on hand to give advice to Democratic officeholders and candidates, who were as much as ever inclined to ask him for it.
+[23] The Ford administration acknowledged the centrality of benefits by its initial reaction to the deficit, which was to propose that in 1975 the automatic benefit increase be limited to 5 percent without regard to the actual increase in the consumer price index, which was certain to be higher. ("Income Security," Congressional Quarterly Weekly Report, vol. 34 [January 24, 1976], p. 134.) For this quixotic proposal the administration did not find a single congressional sponsor. It then turned to consideration of both benefit and tax revisions.
+[24] Social Security and Welfare Proposals, Hearings before the House Committee on Ways and Means, 91 Cong. 1 sess. (GPO, 1970), pt. 1, p. 204.
+[25] Ibid., p. 203.
+[26] In addition to sources already cited, see Reports of the Quadrennial Advisory Council on Social Security, H. Doc. 94-75, 94 Cong. 1 sess. (GPO, 1975), chaps. 3 and 7, and app. A; Colin D. Campbell, Over-Indexed Benefits: The Decoupling Proposals for Social Security (Washington, D.C.: American Enterprise Institute for Public Policy Research, 1976); Ernest J. Moorhead and Charles L. Trowbridge, "The Unresolved Decoupling Issue," Transactions of the Society of Actuaries, vol. 29(1977); Lawrence H. Thompson, "Toward the Rational Adjustment of Social Security Benefit Levels," Policy Analysis, vol. 3 (Fall 1977), pp. 485-508; Decoupling the Social Security Benefit Structure, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 2 sess. (GPO 1971).
+[27] An employee of the Bankers Life Company of Des Moines since 1938, Trowbridge in 1970 had sought the job as chief actuary in the expectation that a decade of public service would constitute a satisfying end to his career. Instead he found that he could not tolerate the chaos of Washington, where he was bombarded with demands that he had to meet no matter how arbitrary they seemed or what the motives behind them might be. The "whole atmosphere" drove him "up the wall," he later explained, and he soon went back to the orderly, stable, and comprehensible routines of Bankers Life (interview, November 15, 1977). Trowbridge was a psychological dissident, unlike Myers, who in 1970 had been a political dissident. It took the SSA more than a year to replace Trowbridge, and his successor, A. Haeworth Robertson, likewise distinguished within the profession, appeared to have no more taste for the Washington life than Trowbridge and left office himself in 1978. During congressional consideration of legislation in 1977 he was nowhere in sight, and the congressional committees turned once again to Myers for actuarial advice. After seven years he was filling the vacuum on Capitol Hill that his own departure from office had created. In retrospect, Myers appears as a truly singular figure. No other chief actuary approached him in combining technical talent with a taste for the political milieu.
+[28] Moorhead and Trowbridge, "The Unresolved Decoupling Issue," pp. 72-74.
+[29] President's Social Security Proposals, Hearings, pp. 392--94.
+[30] The concept might have achieved more currency if it had been more useful politically. An economist who worked in HEW in the early 1970s complained of social security program executives that "privately they talked replacement rates but publicly they talked poverty." Lifting the poor "out of poverty" had more appeal than raising anybody's replacement rate. In connection with revising the benefit formula, however, the political utility of replacement rates increased and the concept instantly gained currency.
+[31] Moorhead and Trowbridge, "The Unresolved Decoupling Issue," p. 76; Reports of the Quadrennial Advisory Council on Social Security, H. Doc. 94-75, p. 70.
+[32] My account of the Ford administration's internal deliberations is drawn from an excellent article by James W. Singer, "Social Security Fund's Problems Take on New Urgency," National Journal, vol. 8 (February 14, 1976), pp. 198-204, as well as interviews with several of the participants.
+[33] Memorandum for the President from Jim Cannon, "Social Security Financing," December 17, 1975.
+[34] Quoted in ibid., p. 15.
+[35] Interview with Pat Gwaltney, October 17, 1977.
+[36] Telephone interview with R. David Ranson, December 16, 1977.
+[37] Telephone interview with June O'Neill, October 4, 1977.
+[38] Interview with Rudolph G. Penner, October 5, 1977.
+[39] Political leaders did not perceive the implications of the coupled formula, and the program specialists, who did understand them, took no pains to point them out. Reports of the 1971 Advisory Council on Social Security, H. Doc. 92-80, 92 Cong. 1 sess. (GPO, 1971) is the best source of the policymakers' stated intentions in 1972, given the thinness of legislative history. This report put no emphasis on replacement rates, nor did it mention the hypersensitivity of the indexed formula to wage and price changes over the long run. In 1970, after the indexed formula had been presented to Congress, social security analysts in the Budget Bureau perceived the hazard in it and unsuccessfully sought prompt revision. Not that the bureau staff foresaw the extraordinary inflation of 1974, but it did comprehend that the "coupled" formula could have unintended, irrational effects. A bureau staff paper on this subject concluded in 1970 that it was probably too late to revise the administration's proposal to Congress in view of the gathering momentum for enactment, but that corrective legislation should be prepared promptly. In the event, the faulty formula was not enacted until 1972, and planning for revision was delayed until 1973-74. ("Staff Paper on the Implications of Future Changes in Benefit Levels of Social Security," attachment to memo, William H. Robinson to Mr. Schlesinger, April 29, 1970, in OMB File BRD/FAB [FY 1970-1971] Income Security: Social Security System; interview with William H. Robinson, December 1, 1977.) It remains puzzling that policymakers proceeded to adopt a benefit formula recognized in advance to be faulty. The explanation appears to lie in their habitual pragmatism as well as their habitual optimism. They assumed mistakenly that the economy would continue to perform as well as it had in the past, and they also assumed that if trouble did occur, they could fix it. Believing that they were faithfully repeating familiar practice with the formula, they had no incentive to devise new techniques until events forced them to. Finally, the advocates of an automatic formula were not likely to call attention to the technical problems in it if they really wanted to get it enacted, and both Ball and Myers, the arch experts on whom everyone else relied, did want to get it enacted, as did Republican political leaders.
+[40] Future Directions in Social Security, Hearings, pt. 11, p. 947.
+[41] For individuals with the same real income over time, the Hsiao plan would have produced a stable replacement rate and the wage-indexing approach a rising rate. The Hsiao plan meant a decline in replacement rates, and wage indexing meant stabilization of such rates only in regard to average earnings, or the whole distribution of earnings.
+[42] For example, see the testimony of HEW Secretary David Mathews and of Commissioner Cardwell in Decoupling the Social Security Benefit Structure, Hearings, pp. 35, 40, 43.
+[43] Robert J. Myers, "Summary of the Provisions of the Old-Age, Survivors, and Disability Insurance System, the Hospital Insurance System, and the Supplementary Medical Insurance System" (Temple University, January 1978), p. 24.
+[44] Whether wage indexing was expansive in relation to the coupled formula then in use is impossible to say, given the erratic properties of that formula. The decoupled, wage-indexed formula was reliably expansive, whereas the coupled formula was unreliably so.
+[45] Some of the participants outside of HEW thought they detected signs of disagreement between SSA and HEW's Office of the Assistant Secretary for Planning and Evaluation in the early stages of deliberation. The latter seemed willing to consider a wider range of alternatives, including possible variants of price indexing, but if there was a difference between them it quickly disappeared when HEW confronted the Treasury Department.
+[46] When decoupling was enacted, recipients of old age insurance were protected against a sudden reduction in promised benefits. The benefit levels effective in 1979 will continue to apply in a five-year period (1979-83) during which the transition to a decoupled system will occur. (Summary of the Conference Agreement on H.R. 9346: The Social Security Amendments of 1977, House Committee on Ways and Means, Committee Print 95-61 [GPO, 1977], p. 3.) However, the transitional guarantees were not applied to recipients of disability or survivors insurance, with the result that persons newly disabled after December 31, 1978, or newly entitled to survivors benefits as the result of a worker's death, will get benefits very much lower than comparable persons who became eligible late in 1978. For example, the replacement rate for a worker of average income newly disabled in 1978 was approximately 59 percent, whereas for the same worker in 1979 it would be 42 percent. (Robert J. Myers, "Summary of the Provisions of the Old-Age, Survivors, and Disability Insurance System," p. 27.) This was a rare instance of benefit reduction. It was politically possible both because the highly technical nature of social security legislation obscured the meaning of change and because the victims of the reduction--the soon-to-be-disabled or soon-to-die and their immediate survivors--were unorganized, far fewer than prospective retirees, and far less certain of the likelihood of becoming eligible since disability and death are much less predictable than retirement.
+[47] For the account of deliberations inside the Carter administration, I have relied on James W. Singer, "Carter Is Trying to Make Social Security More Secure," National Journal, vol. 9 (June 11, 1977), pp. 893-95, but supplemented this excellent report from confidential sources.
+[48] Congressional Record, daily ed., December 15, 1977, p. H12973.
+
+## **第二十章 保持社会的选择开放**
+
+关于社会保障的政策选择（Policy choices）可以概括为两句格言：多一点总归是件好事；少一点则不可想象。政策总是沿着一条熟悉的、甚至可以说是注定的路径向前推进。有时会出现延宕，例如残疾与健康保险的立法过程便是如此。有时也会出现暂时的偏离，例如为贫困的残疾人和患者制定公共援助项目的过程。然而，社会保险项目最终都会向前推进，并取代任何其他替代方案。支出和税率稳步上升，且根据相关法规，预计未来还将进一步增长。这种渐进的、惯性过程的产物是一个规模庞大的项目，其年支出额接近1000亿美元；尽管它越来越难以抵挡批评，但显然任何微小的削减对它都无济于事。许多个步骤（每一个步骤本身虽小，但在实践中却是不可逆转的）累积的结果，便是资源向公共部门的大规模转移。或许可以争辩说，美国人之所以拥有这个项目，是因为它反映了多数人的意愿。在民主政体中，人们倾向于对任何现行政策抱有某种推定支持：即假设该政策是经过公开辩论后，通过合法的多数决程序（majoritarian processes）达成的。然而，这种假设未免过于盲目轻信。我们必须审视民主不可避免地极其复杂的现实，而不是盲目相信其理论。近年来，当社会保障领域的学者们审视这些现实情况时，常常会感到不安。
+
+众议院筹款委员会（Ways and Means Committee）众议员威廉·A·斯泰格（William A. Steiger）在1975年指出1：“我必须承认，我完全没有意识到这样一个事实，即大体上国会——而且据我判断，也包括任何政党执政的政府——并没有仔细审视过这个体系，尽管它对美国的政治、社会和经济特征有着巨大的影响。”同样地，1974-1975年咨询委员会（advisory council）的一位成员向筹款委员会坦言，委员会的新成员对他们所了解到的社会保障状况感到惊讶，并“对公众受到如此严重的误导这一事实感到震惊”。2
+
+在缺乏更多数据的情况下，很难判断公众理解的质量与程度，但我认为上述批评者感到不安是合情合理的。该项目在短期内的性质掩盖了其真实的成本、成本与收益之间的真实关系，以及分配收益和成本的真实原则。政策制定的性质不仅没有纠正，反而强化了对该项目那种沾沾自喜且缺乏了解的接受态度——参与范围被极其狭隘地限制；专家的、所有权式的支配地位如此彻底；辩论如此有限；技术性如此令人望而生畏；而宣传又如此具有吸引力；并且向前迈出的每一步似乎都如此微小。除非即将明确越过重要的公私边界，否则冲突都会被压制并被严格限制在小范围内。除了正统的、渐进的扩张措施之外，其他行动方案几乎没有受到关注。在这方面，近期决策的质量几乎不比早期决策更令人安心。到了20世纪70年代，该项目已经发展得如此庞大，以至于其社会和经济风险显而易见，批判性的专业知识也开始在社会保障署（SSA）之外发展并制度化；但在该项目的整个历史中，很难找到一项重要决策比1972年将大幅提高福利与有缺陷的福利公式相结合的决定更为仓促、且更缺乏仔细的立法考量。当福特（Ford）总统在1975-1976年不得不面对这一后果时，一个理论上旨在扩大其选择范围的幕僚系统，实际上却几乎没有给他提供任何选项，除了对一个已经陷入困境的系统无所作为，或者批准社会保障署提出的建议。现在再去问如何扩大选项可能为时已晚。
+
+确实晚了。一个庞大的项目已经就位，福利已经实现指数化（indexed），从而使其自动取决于未来经济的表现；同时，已经向未来的受助人做出了数万亿美元的承诺，以作为他们现在自愿纳税来供养当今退休人员的奖赏。另一方面，该系统也不会是静态的。将会产生消除已感知到的或现实存在的不公平现象的压力，例如永远不受欢迎的退休审查（retirement test）以及对职场已婚女性的歧视性待遇。关于该项目如何融资的问题将继续存在，因为不断上升的工资基数和税率必然会引起不满。显然已经成为立法机关目标的全民覆盖（Universal coverage），也将无法轻易实现。因此，可以预见，对该系统源源不断的诉求将使其必然需要就其特征不断做出选择。社会和经济的广泛变化也可能意味着该系统需要进行适应性调整。人口学预测（Demographic projections）表明，随着战后生育高峰期出生的婴儿步入老年，退休人员与劳动者的比例将在下个世纪第一季度末急剧上升。对于21世纪中叶的劳动世代而言，社会保障的经济负担将比当代人沉重得多。该系统将如何适应？能否指望它去适应，抑或它已经变成了一辆彻底失控的势不可挡的巨轮（juggernaut）？专栏作家乔治·威尔（George Will）曾写道，社会保障“已经如此深地融入了国家的结构之中，以至于它的困境几乎会危及除了它自身以外的一切事物……毫无疑问，社会保障的基本承诺将会兑现。问题在于这会对支撑社会保障乃至一切事物的经济产生何种影响。”3假设未来的世代不愿承担前辈世代强加给他们的社会保障负担。福利会被削减吗？如果削减，其社会、经济和政治后果将是什么？还是说不削减？
+
+这些都是有关未来社会保障政策制定的重要问题，目前尚无明确答案；但它们的重要性表明，我们需要考虑如何、是否以及在何种程度上可以保持社会对社会保障选项的开放性。诚然，这里所呈现的历史和分析必须被理解为是对威尔观点的支持。更为关键的是，政治家们的行为和认知同样支持这一点，他们在坦诚之时会承认，被载入法律的社会保障福利是神圣不可侵犯的。无论采用何种融资方式，也无论可能产生何种通胀效应，削减福利根本是不可想象的：1976年，一位打破陈规但精明敏锐的参议员在关于社会保障的听证会上指出，“根据宪法，我们有能力，国会有能力铸造货币，并调节其价值。因此我们有权力提供这笔钱。而且我们一定会这么做。当受助人拿到这笔钱时，它可能已经一文不值，但他一定会得到他应得的福利支付。”社会保障专员对此表示赞同。在探讨是否或如何保留选择权的问题之前，有必要更仔细地思考为什么保留选择权至关重要。
+
+### **选择的必要性** 
+
+政治理论家会将其视为不言自明的公理：在某种意义上，选择对于维持民主政体（democratic regime）至关重要。在民主政体中，强制力只有在基于同意的情况下才是合法的，而为了使这种同意具有实质意义，必须提出选项并进行公开审查；经济分析师则会争辩说，对替代方案的比较是理性行动的本质。如果社会希望以理性理想为指引，就必须努力以系统的方式进行选择。社会分析师可能会说，为了根据各种标准维持自身生存并良好运转，一个社会必须能够变革，而变革则需要具有选择的能力。那么，选择就是一种重要的工具性价值，是在处理公共事务中自由与理性的重要组成部分，也是一种社会适应手段。很少有人会反驳这类简短而抽象的断言。但同样很少有人会否认，作为一种抽象价值，保留选择权会与其他价值发生冲突，而且在实践中，它不可避免地受到无数种方式的限制。如果“选择”意味着大众选择的最大化，那么很明显，美国的民主根本没有建立在这一原则之上。大众选择通常仅限于对执政官员的选择，而这些官员才有权对政策做出决策。国家由其民选代表治理，并且有许多种制度约束被施加在他们的选择及其决策权上。为了达成选择，必须存在替代方案；因此，选择的最大化可能意味着需要制度性安排以系统化地表述具有冲突性的替代方案。但作为实际情况，政治制度并未被设计为旨在最大化冲突与辩论；如果真是那样，美国人可能就无法自治了。在国会中，权力倾向于集中在那些已经完善了共识决策机制的委员会手中，以及那些擅长构建联盟而非党派辩论的领导人手中。政府行动的广阔领域——包括外交政策的实施、货币政策的管理，以及属于独立监管委员会管辖的领域——都被与党派政治隔绝开来，这就暗含着将其与随之而来的公开冲突隔离开来的意味。这样做是因为不受约束的辩论被认为是有害的，但是对辩论的限制也同时限制了选择。决定如何将选择的过程制度化，而不是仅仅在抽象层面断言选择自由的重要性，这引发了诸多困难。必须提出何种选择，频率如何，向谁提出，以及以何种形式提出，这些都是亟待讨论的问题；并且，从一个政府活动领域到另一个领域，答案可能会有所不同。
+
+社会保障的行政领导层一直认为他们的项目是一个特例，理应不受党派政治和标准预算编制程序的影响，而后者正是选择的核心机制。在关于领导层对社会保障与政治系统之间态度的一份典型声明中，罗伯特·鲍尔（Robert Ball）写道：“保护社会保障项目的长期承诺免受政治和政策波动的影响，几乎关系到每个美国人的重大利益。由独立的政府公司或机构管理社会保障，并将社会保障的金融交易与其他政府收支分开，将增强公众对该项目长期承诺的安全性以及行政运作免受短期政治影响的自由度的信心。它将强调这样一个事实，即在这个项目中，政府充当着那些在该体系下积累了权利的人的受托人（trustee）。”5 这种将政府仅仅视为一个被公众自愿提供的资金的便利且本质上消极的监督者（“受托人”）的观点，已经成为该项目行政领导层及其在有组织劳工中的私人盟友之间普遍的正统观念。s 行政领导层试图通过将未来世代不可撤销地绑定到一个承诺按权利提供福利以及已被纳入不断扩张的法律中的特定福利的项目中，从而剥夺未来世代的选择权。从这个意义上说，他们将社会保障设计得无法控制。
+
+在经验层面上，不可能接受这样一种主张，即政府在社会保障方面仅仅是一个受托人，一个公众借以实现自助的超然代理人。领导该项目的政府官员们一直孜孜不倦；他们是其扩张的巧妙倡导者，不断致力于影响公共政策。如果不是他们自己深深卷入无疑是政治性的过程（在这个意义上，政策选择固有的相互冲突的价值受到了威胁），我们就会更容易相信他们公开宣称的观点——社会保障的管理应当是非政治化的。如果政府官员不是该项目增长的主要推动者，我们就会更容易相信这不是一个政府项目的说法。这种要求自治的主张所引发的规范性问题，不在于社会保障是否应当是“政治性”的。作为政府最大的国内项目，它不可避免地带有政治色彩。为社会保障做出的政策选择，也是社会的重要选择。做出这些选择就意味着行使权力并分配有价值的事物——而这就是政治。问题不在于这个过程中是否存在政治，而在于它将是何种政治。它应当是一种由项目专家主导、以项目的渐进式扩张为特征的政治；还是应当是一种更加开放的政治——尽管这种政治面临着比通常情况更高水平的冲突风险，并且会导致难以预测的政策结果？更加开放的政治不一定会对扩张踩下刹车。在过去，国会中社会保障的掌控者（proprietors），特别是筹款委员会的领导层，曾担心开放的政治会产生无法控制的增加福利的压力。封闭规则和财政稳健的规范，作为以项目为导向的政策制定的程序性表达，曾是抵御政治煽动（demagoguery）的堡垒。在减少冲突和限制参与的同时，它们也阻挠了民选政治家为追求短期选举利益而不负责任地行事的冲动。立法机构中的民选政治家们非常关注于将政策选择的风险降至最低，因此他们赞成了一个逐步增长的项目，并在法律中规定了长期内急剧上升的税率，而不是向当前纳税人揭示类似真实成本的东西。
+
+呼吁一种对利益和意见分歧更敏感、更能通过辩论获取信息的社会保障政治，并不是在为任何特定的结果辩护。这一论点基于这样一种信念：民主政治无论如何构建，都不仅仅是一种做出选择的方式；理想情况下，它也是一种保持选择开放的方式。从这个角度来看，存在“足够的”政治是至关重要的，而在一个极其重要的公共项目中，受到限制的参与和有限的冲突反而成为了令人担忧的原因。在缺乏充满活力的竞争性政治的情况下，无法保证广泛的替代方案已得到考虑，人们也有理由去质疑公众对于政府正在做的事情的普遍同意的质量。我的结论是，在社会保障领域并未存在“足够的”政治。多少冲突和鼓动是可取的，对相互冲突的提案的审议应当持续多久，在很大程度上取决于政府活动对个人、社会、经济、社会阶级之间关系等方面产生的后果。核心政府项目的总体特征和相对负担应当开放辩论，并因此容易受到政治和政策波动的影响，这对于任何现实主义的民主理论而言，似乎都是不可或缺的。任何公共项目都不应绝对且无条件地要求占用特定比例或数量的公共资源，而且当经济和社会条件可能产生变革需求时，没有任何项目拥有、或应当拥有对变革的绝对豁免权。政治应当开启并不断重申变革的可能性，而不是排除它们。
+
+那么，应如何安排社会保障的政治，以突显出各种选择？假设保留选择权是有价值的，这对于当前的行动意味着什么？我认为，这意味着通过继续依赖专项税（earmarked tax）和坚持自给自足（self-support）的政策来保持成本的可见性：该系统的收入应与支出保持平衡，且应使公众意识到税收负担有多重。如此一来，政策制定者——尤其是国会中的民选政治家——就被迫在增加福利的诉求与对更高税收的抵制之间进行权衡。系统的这种结构旨在将这些相互竞争的压力集中在他们身上，迫使他们做出选择。随着成本上升，这种安排可能会对他们构成约束，然而值得牢记的是，这种安排已经实施了四十年，并且已被证明与稳定、渐进的增长完全兼容。官方声称这种特定的融资技术施加了限制，这一主张一直令人怀疑，因为不成熟的项目包含着人为压低的税率。即便是现在，税率也受到了人为压低，尽管按照过去的标准来看已属偏高。如果预测是正确的，它们在未来将会高得多。关键不在于可见性会抑制税率的上升，而仅在于它倾向于使政策制定者通过产生相互冲突的压力并被迫进行调和，从而直面关于项目规模的艰难抉择。在掌权者们多年来一直宣称通过专项税实现自给自足是财政纪律的核心之后，如今当项目走向成熟且税率开始变得严重沉重时，如果他们放弃这一安排，那将是极度的虚伪。
+
+也许有人会争辩说，存在迫使人们做出选择的更好方法。我们不仅可以将社会保障成本与其福利置于一个财务自主的系统中进行对比，还可以推动将社会保障更多地整合到预算中去，从而至少在理论上将其纳入联邦政府各种活动支出相互竞争的对比过程中。如果社会保障从一开始就是以这种方式构建并由一般性财政收入（general revenues）提供资金的，那么此前的历史将会截然不同。肯定会存在更高程度的冲突；极有可能产生一种截然不同的项目——更快地为更多老年人提供福利；以及一种比在逐渐成熟的项目中可能实现的更为现实的成本与收益的并列对比。谁也无从知晓这是否会产生一个更大或更小的项目。引入一般性财政收入并将社会保障更深入、更直接地纳入预算程序，似乎是当今产生冲突并迫使人们做出选择的合乎逻辑的方法。然而，在项目演变的现阶段，社会保障与其他项目之间的直接竞争注定是极不平等的，因为其主张在学理和政治上都极具说服力。如果引入一般性财政收入，它们很可能会作为总支出中某个固定比例（大概是三分之一）而自动且不可控地投入该项目，根本不会有机会去争论应当支出多少资金。我的猜测是——这只是一种猜测，就像所有关于政府政策或组织的处方一样——在社会保障系统内部并列成本与收益，将比在一个综合、全面的预算中将社会保障与其他项目并列，能更有效地凸显选择。在考虑应如何为社会保障融资时，当然还存在着其他价值和目标，而不仅限于培育明确的选择（这是我在此的核心关切）。
+
+那些主张使用一般性财政收入的人通常基于这样的理由：要么认为所得税和利润税的通胀效应低于工薪税（payroll taxation）（因为它们不太可能被企业转嫁到产品价格中）；要么认为它更公平，因为它更具累进性。与我的论点相反，一些分析人士还认为，一般性财政收入将培育出政府支出中相互竞争的主张之间的辩论。我关于税收应当具有高度可见性（即专项专用）且足以支持该项目的论点，并不一定意味着要依赖工薪税；个人或企业所得税及利润税的一部分同样可以很容易地专项指定给社会保障。尽管在现实中，支持一项专项税和自给自足的项目，等同于支持延续传统的工薪税融资方法。关于该税种优缺点的辩论，读者只能去查阅有关社会保障的经济学文献。在此只需说明一点，即我确信在一个将福利与工资挂钩的系统中，工薪税是具有辩护余地的，而且我基于另一理由——它将产生选择的压力——而主张继续使用它的论点，不应被认为工薪税是不公正的论断所削弱。
+
+**竞争与通才监督**
+
+尽管上文主张社会保障应继续保持财务自主性，但我总体上并不排斥这样一种普遍假设：任何政府项目在通才监督（generalist supervision）下，通过与其他项目的直接竞争，其控制都会得到改善。在组织而非融资方面，应继续寻求社会保障与政府其他职能的进一步整合，加强总统幕僚的通才监督；即使过去十年间增加通才参与并提供行政分支内部“超然的”专业知识（"semi-detached" expertise）的努力似乎并未显著改变政策制定，也应提升潜在的官僚竞争对手（尤其是财政部）提出替代社会保障署（SSA）方案的能力。社会保障署之外已有更多的行政官员参与进来，但由于介入阶段过晚且资源极其有限，收效甚微。然而，这一发展的潜在重要性可以从该体系的支持者们试图通过重建社会保障体系最初的组织自主性来扭转这一趋势的事实中推断出来。1974年，老龄问题特别委员会（Special Committee on Aging）主席、参议员弗兰克·丘奇（Frank Church）提出了一项法案，拟将社会保障署从卫生、教育及福利部（HEW）中分离出来，并设立一个由总统任命的三人管理委员会来对其进行行政管理。该法案还拟将社会保障信托基金的金融交易与统一预算（unified budget）的运作分离开来，并禁止在寄送社会保障支票时附带任何提及政府官员的公告——此举旨在防止总统们将增加福利揽为党派功劳。12
+
+虽然我认为这项法案不应通过，并且在行政分支内为社会保障署引入更多组织竞争，以及在超然的专业知识支撑下加强通才监督是可取的，但人们很容易高估组织变革的影响。旨在改善政策制定的处方很可能集中于组织和程序，因为这些相对容易被操纵。人们倾向于忽视那些或多或少独立于组织结构之外运作的力量，包括思想的力量。恢复社会保障署最初自主性的提议之所以重要，不在于它将带来的组织和程序变革（反正它也不太可能通过），而在于它所依据的哲学前提：社会保障不是一个理应受到其他政府项目竞争的政府项目，而是一个不可侵犯的信托（inviolable trust）；如果不违背其作为受托人的义务，政府就不能削减其法定条款。
+
+**面向未来的政策制定**
+
+社会保障领域更为开放的政治，带来了劳动者与非劳动者之间紧张关系加剧的前景，以及那些在历史上受到社会保障封闭所有权（closed proprietorship）约束的民选政治家采取权宜之计的可能性。它同时也带来了未来在福利水平和福利分配上展开辩论的可能性。那么，这是否可能导致福利被削减？如果确实如此，这是否会违背代际之间的“社会契约（social compact）”或政府的庄严义务？在社会保障分析中，时间是一个极其重要的维度。该项目依赖于每一个处于工作阶段的世代支持同代非劳动者的意愿。该项目并不假定这种意愿是利他主义的，而是含蓄地体现了这样一种承诺：当今的劳动者在退休时将获得赡养，作为其在工作期间纳税的回报。但是，如果明天的劳动者认为单独的社会保障负担，或与政府其他项目叠加的负担是无法承受的，将会发生什么？他们能否通过削减社会保障来减轻负担？很难争辩说他们没有权利这样做——当然，他们需要自行承担风险。即使当今的公民有道德权利为未来世代的纳税人做出决定（这是一个极具争议的假设），他们也缺乏判断自己在明天变化了的条件下会作何反应所需的对经济和社会状况的先见之明。在理论上，社会保障中包含的承诺并非不可撤销。国会明确保留了修正或更改法律任何部分之权利。
+
+事实上，削减福利面临着巨大的障碍。面对既定公共机构的惯性以及否决集团（veto groups，在此案例中为退休人员和有组织劳工）的力量，削减福利的尝试几乎注定会失败。1977年众议院筹款委员会共和党人提出的在遥远的未来逐步提高申领年龄的提议的命运便是一个很好的例证。表面上看，这个想法值得认真考虑。它本可以降低未来项目预计的高昂成本；它在很长一段时间内不会对任何人造成不利影响，而且只有在充分预警后才会实施；此外，它与一种日益普及的观点相一致，即晚年工作和提高生产力对老年人以及社会都有益处（因此国会最近对禁止在70岁前强制从私营部门退休的法案产生了兴趣）。然而，它在共和党内外都没有获得任何支持；该党的一位参议员迅速将其斥为“愚蠢透顶（harebrained）”；它还遭到了罗伯特·鲍尔（Robert Ball）的强烈反对，鲍尔认为私营雇主必须适应社会对老年人更高生产力的需求，但不愿承认社会保障体系若要在任何方面降低福利慷慨度（deliberalizing）也同样需要进行适应性调整。13 乍看之下，当今的政治家们立法削减遥远未来的福利似乎是毫无成本的，就像他们立法增加遥远未来的税收毫无成本一样；但社会保障的政治运作并非如此，其原因显而易见。未来遥远的福利削减落在当前的纳税人身上，而要维持当前系统，最需要的就是这个群体的默许。那些感到受到威胁的当前受益人也同样坚决地反对（尽管这或许有些不理智）。
+
+削减的障碍还源于社会保障政策制定的学说与实践，项目高管们已尽其所能地将其设计为确立福利承诺的神圣性、保护社会保障免受其他项目的竞争，并在竞争发生时赋予其特殊的优先地位。将福利视为通过工作和纳税挣得的一项权利的学说，当然是这种保护机制之一。14 其他保护机制则体现为该项目长期的财务自主性、试图维持组织自主性的努力、最近颁布的将福利与价格及工资变动指数化挂钩的做法，以及立法决策面向遥远未来的导向。政策制定面向未来的导向体现在长期的精算预测（actuarial projections）、法律规定的不断上升的税率表，以及随之而来的长期精算平衡（actuarial balance）的主张中。政策制定者通过假定能够预见未来，为自己为未来开出处方的权利进行了辩护。通过表现得仿佛要约束未来的世代，他们实际上可能已经促成了这种约束。15
+
+如果既定机构的惯性和否决集团的力量本身尚未使削减福利变得极其不可能，我将不愿敦促对政策制定学说和程序进行旨在使其更有可能发生的修改。但我认为，将社会保障视为与其他政府项目无异的政府项目，理应受到它们的竞争，这种做法几乎不会带来社会危害的风险；我也看不出有什么理由不把削减社会保障福利从不可想象的禁区中移除，并将其纳入合法的政治辩论领域——在那里，它将被归入那个非常庞大的类别，即：谈论它是合理的，但执行起来可能并不可行。无论政治分析家可能开出什么处方，或者该项目的行政领导人努力争取什么，关于社会保障的更多冲突正在逼近——事实上，已经到来。
+
+造成这种情况的一个原因是该项目正在发生变化。它变得更加昂贵，无论是从绝对税率还是从个人参与者成本与收益的比例来看都是如此。一个在1937年进入该系统并在随后的30年里缴纳最高税额的劳动者，如果他在1967年底退休，他总共只需缴纳2673.60美元。他只为自己福利的极小一部分买了单。但是，如果预定的税率和工资基数增长不改变，一个在1968年进入系统并按最高税率缴税的劳动者，在短短20年后就将缴纳27511.24美元。早期参与者获得的巨额意外红利（windfalls）将宣告结束，一些高收入劳动者可能要支付超过其自身福利成本的金额。如今的国会致力于向占人口很大且不断上升比例的人群支付社会保障福利，其数额取决于它无法直接控制的经济事件（价格和工资的变动）。它必须通过对不断萎缩的劳动人口比例提高税收来为这些福利买单，且不再存在获得意外红利的前景。除增加税收外的其他收入来源要么已经枯竭，要么被故意放弃。工薪税率（截至1979年，雇员和雇主各承担6.13%）已达到相对成熟项目的水平，并且即使没有进一步的福利增加立法，该税率仍计划走高（将逐步达到7.65%）。
+
+本章的结论基于一套截然不同的前提：社会保障是一个政府项目，正如其强制性特征（coercive character）所证明的那样；为了使其中包含的强制力具备合法性，必须提供同意以及更新同意的机制；并且与政府其他项目的竞争是取得同意不可或缺的条件。假设政府在这个项目中是“受托人（trustee）”，而在其他项目中扮演其他角色（政治决策者？），这种观点忽略了社会保障政策制定的现实。它也忽略了该项目的现实。如果社会保障仅仅是一个让人们“拿回他们所支付的东西”的项目，那么将政府视为一个被动工具、信托资金持有者的观点将更具可信度。但社会保障远非如此。它是在重新分配收入。现役劳动者有义务纳税，以提供法律规定的用于退休和残疾劳动者及其家属以及已故劳动者遗属的收入水平。社会这样做是因为，通过政府这一媒介，社会已经决定这是一件具有社会可取性（socially desirable）的事情。并且，在决定将其推进到何种程度时，社会需要权衡社会保障与其他具有社会可取性的事物。
+
+也许有人会争辩说，社会保障的目的赋予了它要求特殊地位的权利，而且在某个特定水平上支持社会保障受益人比政府其他项目的目的更为重要。毫无疑问，社会保障以及使成熟项目免受政治和政策波动影响的做法，服务于极其重要的价值。公共养老金系统应当是可预测且可靠的。人们需要知道由公共财政支持的老年福利的数量级；他们的私人投资决策以及心理健康状态都在一定程度上取决于这种认知。也没有人会否认，如果国会每年都要根据当年联邦预算是否碰巧平衡，来重新决定明年哪些年龄段的人有资格申领或支付他们多少金额，那将是极不可取的。正如这个国家的养老支持项目的名称所暗示的那样，为老年人提供安全感是一项非常重要的价值。但这并非绝对价值；在像美国这样的民主政体中，判断其重要性的唯一方法是通过政治过程使其与其他价值进行竞争。
+
+冲突加剧的第二个原因是，政策制定的经济和社会背景正在发生变化。可用以为政府活动扩张提供资金的经济增长已经放缓，而公众对政府扩张的抵制似乎正在上升。卡特（Carter）政府响应这些情况和令人无法接受的高通胀率，其1980财年预算相对紧缩，并包括削减6亿美元的社会保障支出。不出所料，由项目支持者组成的联盟回应称削减是不合法的；正如纳尔逊·克鲁克香克（Nelson Cruikshank）指责的那样，卡特政府未能理解社会保障的“本质特征（very nature）”。1 立法机关领导人立即驳回了大部分被认为不切实际的削减计划，不过筹款委员会转而就削减残疾保险成本的方法举行了听证会，这部分项目在政治上似乎比老年保险更为脆弱。
+
+在这些不确定的情况下，通过自动福利公式这一技术手段将渐进模式制度化显得尤为重要。人们应该记得，政府公职中的财政保守派曾敦促采用这样一种公式，希望它能约束扩张。他们假设，国会基于对当前政治成本与收益的计算而采取的临时特别行动（ad hoc congressional action），将继续助长扩张的势头。探讨情况是否真的会如此，在学理上是有趣的，即使这种推测无济于事。这取决于一个高度不确定的问题：是否存在这样一个税收水平，在这个水平上，反对增加税收的压力将开始超过要求增加福利的压力？该体系在20世纪50年代和60年代的增长至关重要地取决于政治家们的计算，即渐进式增加是有利的，且当时的背景极其有利于扩张。如果临时的、特别（ad hoc）调整的模式被保留下来，政治家们可能会在自20世纪70年代中期以来不断发展的截然不同的背景下改变其行为。临时的渐进式扩张模式可能仍会继续，甚至在自动公式已经就位、对扩张的抵制加剧的情况下依然如此；但如果是这样的话，它很可能会伴随着比过去更高水平的冲突，并伴随着引入一般性财政收入以掩盖成本的举措——尽管国会在1977年拒绝了这一改变，但这种改变始终是可能的。事实却是，一种自动的、技术性的装置——工资指数化——的使用，确保了某种程度的扩张（假设超过生活成本增长的福利增加即是“扩张性的”）会独立于政治计算而发生。
+
+部分是为了回应围绕该项目加剧的争论，同时也因为国会和行政分支在组织、领导层及幕僚配置方面的变化，本书第一部分所描绘的那种高度以项目为导向的政策制定模式已经发生了改变。更多样化的参与者卷入其中，长期确立的学说受到挑战，长期存在的程序被修订。政策制定系统和项目本身都在发生变化，并且像往常一样，它们不仅相互作用，还与社会相互作用，从而共同决定社会保障政治的性质。在社会保障历史的大部分时间里，它们的互动方式抑制了争论。而在20世纪70年代末，它们的互动方式将容纳更多的争论存在；总而言之，我认为这是一件好事。
+
+引用
+1 Financing the Social Security System, Hearings before the Subcommittee on Social Security of the House Committee on Ways and Means, 94 Cong. 1 sess. (GPO, 1975), p. 428.
+2 J. W. Van Gorkom in ibid., p. 109.
+3 Washington Post, May 22, 1977
+4 The Social Security System, Hearings before the Joint Economic Committee, 94 Cong. 2 sess. (GPO, 1977), p. 28.
+5 Congressional Record (March 28, 1974), p. 8866.
+6 See, for example, the remarks of labor's Nelson Cruikshank to the Senate Special Committee on Aging in 1975: People look on this system as if it were essentially a Government program in the same way that the Government is the builder of bridges or the dredger of canals, which are Government programs. Well, in a certain technical and narrow sense it may be, but in the essence of the program it is not. It is a program where people are engaged in a vast self-help program, where they use the mechanics of government to participate in this cooperative self-help undertaking of meeting their need. Social security is just as much that kind of program as, say, the old friendly societies were. (Future Directions in Social Security, Hearing before the Senate Special Committee on Aging, 94 Cong. 1 sess.[GPO, 1975], pt. 11, p. 939.)
+7 It is remarkable that even when faced with a presidential proposal for the use of general revenues, the congressional committees reaffirmed their traditional position in 1977, and did so in response to their leaders' belief that to rely on general revenues would be fiscally irresponsible. The Finance Committee chairman, Russell Long, remarked in hearings that "when you talk about financing social secu-rity out of general revenues, I think that is very misleading. We do not have any general revenues to finance it with. : : . It bothers me with the Federal funds fairly badly in deficit to start financing this program with printing press money as well That is why it seems to me, just by way of responsibility, we should try to muster the courage to vote whatever taxes are needed to fund this program before we offer Senators and House members the easy way out in saying, we will just increase the debt limit, tell the Federal Reserve to print more money down there." Social Security Financing Proposals, Hearings before the Subcommittee on Social Security of the Senate Committee on Finance, 95 Cong. 1 sess. (GPO, 1977), pp. 21, 23.
+8 My supposition is that in the short run there would have been a bigger program and in the long run a smaller one.
+9 The Carter administration's proposal of 1977, which would have tied the introduction of general revenues to the rate of unemployment, called for bypassing the appropriations process. General revenues would have been transferred auto matically to the social security trust fund. Social Security Financing Proposals, Hearings, p. 24.
+10 My argument does not apply, however, to proposals to separate medicare from the rest of the program and finance it wholly with general revenues. The logic of that proposed change is very compelling because of the lack of a direct relation between wages and taxes on the one hand and benefits on the other. See the recom mendation in Reports of the Quadrennial Advisory Council on Social Security. H. Doc. 94-75, 94 Cong. 1 sess. (GPO, 1975), pp. 55-56.
+11 Economists now seem to be uncertain about the inflationary effects of the payroll tax. But that argument against using it is relatively new, an outgrowth of the recent preoccupation with controlling inflation. See George L. Perry, "Stabiliza tion Policy and Inflation," in Henry Owen and Charles L. Schultze, eds., Setting National Priorities: The Next Ten Years (Brookings Institution, 1976), p. 314.
+12 The proximate inspiration for this was President Nixon's attempt to claim credit for the 20 percent increase of 1972 by including a self-serving notice in checks mailed to social security beneficiaries after the increase and before the 1972 election. Robert Ball was so incensed at this that he threatened to resign as social security commissioner, and Republican officials in HEW altered the style and format of the proposed notice so as to make it conform to precedents. Nixon was not the first president to cause such a notice to be sent, but he would have been uniquely flamboyant about it. His White House aides proposed to color the notice red, white, and blue and to decorate it with the President's picture and seal. Also, the fact that he had not supported the 2o percent increase made his effort to claim credit for it seem hypocritical as well as partisan and self-serving. Democrats in Congress pro-tested vehemently, and Church immediately introduced a resolution that would have prohibited any notice of an increase in social security payments from referring to any candidate for elective office. This prohibition was later incorporated in a bill, and still later in the more extensive bill to reestablish the independence of the SSA. See Elliot Richardson, The Creative Balance (Holt, Rinehart, and Winston, 1976), p. 9o.
+13 The angry Republican senator was Bob Packwood of Oregon. (Washington Post, September 11, 1977.) Ball's position is stated in his book on social security, Social Security: Today and Tomorrow (Columbia University Press, 1978), p. 472.
+14 The practical effects of this doctrine are illustrated by the reaction of a House Appropriations Committee member to the Carter administration's proposal in 1977 to limit the size of benefits for college students under the social security program. Representative William H. Natcher protested that change e "seems to run contrary to the whole concept of an earned insuran e benefit." He added that private insurance carriers could not do any such thing and demanded to know why the administration thought it "acceptable for Social Security to change the benefits after the wage earner has paid his premium." Departments of Labor and Health, Education, and Welfare Appropriations for 1978, Hearings before a Subcommittee of the House Committee on Appropriations, 95 Cong. 1 sess. (GPO, 1977), pt. 6, p. 253.
+15 The future orientation has the appearance of fiscal responsibility. It is normally accounted a sign of prudence to take the long run into account. That the future orientation has actually worked to discipline the growth of the system may be doubted, however. While in principle policymakers operated on a long time horizon, in practice they operated on a very short one. They made frequent ad hoc changes in the system in response to immediate pressures and opportunities, on the basis of calculations of the willingness of current taxpayers to pay for current benefits. That they simultaneously announced higher rates for future taxpayers is at best a qualified form of prudence. Furthermore, the future orientation, seemingly so responsible, sometimes had the perverse effect of making possible immediate benefit increases on the basis of hypothetical future increases in revenues or reductions in cost. This was the case in 1972, when hypothesized future increases in earnings were used to finance a 20 percent increase in benefits with no increase in taxes. In a more com-plicated and ambiguous way, it was the case in 1977, when a liberalized benefit formula was justified on the ground that by correcting a technical flaw in the existing formula it would substantially reduce hypothesized long-run deficits in the system. There are no cases, however, in which a hypothesized long-run deficit resulted in a current decrease in benefits.
+16 Spencer Rich, "Carter Aide Hits Proposed Slash in Social Security," Wash-ington Post, February 8, 1979.
