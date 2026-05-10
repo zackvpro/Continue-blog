@@ -1,5 +1,5 @@
 ---
-title: 社会保障的政策制定 (Policymaking for Social Security)
+title: "集体谈判：工会、组织与民主之争 (A Collective Bargain: Unions, Organizing and the Fight for Democracy)"
 tags:
   - 翻译
   - 政治制度
