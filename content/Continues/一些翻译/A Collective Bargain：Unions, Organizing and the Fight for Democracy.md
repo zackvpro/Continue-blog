@@ -1,5 +1,5 @@
 ---
-title: "集体谈判：工会、组织与民主之争 (A Collective Bargain: Unions, Organizing and the Fight for Democracy)"
+title: 集体谈判：工会、组织与民主之争 (A Collective Bargain: Unions, Organizing and the Fight for Democracy)
 tags:
   - 翻译
   - 政治制度
@@ -24,21 +24,6 @@ includeLinks: true # Make headings clickable
 hideWhenEmpty: false # Hide TOC if no headings are found
 debugInConsole: false # Print debug info in Obsidian console
 ```
-
-**目录**
-
-引言：十二年的自由（差不多） 
-第一章：工人依然能够大获全胜
-第二章：谁扼杀了工会？ 
-第三章：关于工会的固有认知（几乎）全是错的 
-第四章：工会是否仍具现实意义？ 
-第五章：工人如何组建工会？ 
-第六章：如何重建工会：洛杉矶教师们的经验 
-第七章：工会之命运，即共和国之命运
-
-致谢
-
----
 
 ### **引言**
 
