@@ -1,5 +1,5 @@
 ---
-title: 集体谈判：工会、组织与民主之争 (A Collective Bargain: Unions, Organizing and the Fight for Democracy)
+title: "集体谈判：工会、组织与民主之争 (A Collective Bargain: Unions, Organizing and the Fight for Democracy)"
 tags:
   - 翻译
   - 政治制度
@@ -7,6 +7,7 @@ tags:
   - 劳工运动
   - 工会
 ---
+
 >[!NOTE] Translated with Gemini 3.1 pro
 >**作者：Jane McAlevey 来源：_Ecco Press_. 2020**
 
